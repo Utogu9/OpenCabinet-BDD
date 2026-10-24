@@ -1,0 +1,5518 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Virtual Boy",
+  "dat": {
+    "file": "13ad4c65c2cebf47b3c271e3b9a89e353c875872063cdd991f71e5388ee7408b.dat",
+    "sha256": "13ad4c65c2cebf47b3c271e3b9a89e353c875872063cdd991f71e5388ee7408b",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Nintendo - Virtual Boy (20260804-192036).dat",
+      "standard_sha256": "bca159efe84e9ed91c95d434f0a7365be0c9ec4f40b68a06d42a55494126c4f3",
+      "db_members": {}
+    },
+    "version": "20260804-192036",
+    "system": "Nintendo - Virtual Boy",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "VGPJ": {
+      "serial": "VGPJ",
+      "entries": [
+        {
+          "redump_id": "0002",
+          "entry_id": "0002",
+          "provider": "no-intro",
+          "name": "Galactic Pinball (Japan, USA) (En)",
+          "serial_raw": "VGPJ",
+          "serials": [
+            "VGPJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e3579f4e37963b4821552d8392fc0dfe895a90380afa3b7a149f2e3285bc25a9",
+          "bytes": 66506,
+          "width": 512,
+          "height": 457,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 335472,
+              "lossy90": 66506
+            }
+          },
+          "kind": "cover_front",
+          "path": "VGPJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Galactic Pinball (Japan, USA) (En).png",
+              "source_sha256": "3235a1991cd1a36a4fa7b508cb2a9b9ad828ab4a5c46bbdd6f1e259ba1c5b25d",
+              "source_bytes": 470153,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 335472,
+                  "lossy90": 66506
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "2e4c50528be17399619ec557fb3de8bbf8ce75a2be137d9bad903acff22ca7c6",
+          "bytes": 56802,
+          "width": 512,
+          "height": 507,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 300120,
+              "lossy90": 56802
+            }
+          },
+          "kind": "cover_front",
+          "path": "VGPJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Galactic Pinball (Japan, USA).png",
+              "source_sha256": "27fd1683489c8d1de823e878dbfb871e7d178741119a4b1f074d3d83c4730af7",
+              "source_bytes": 398095,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 300120,
+                  "lossy90": 56802
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a61097f8f9ae4755c25cd801c3e668ed5a21ac9bde1904fa6548eff336fe4582",
+          "bytes": 17164,
+          "width": 512,
+          "height": 135,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 57590,
+              "lossy90": 17164
+            }
+          },
+          "kind": "logo",
+          "path": "VGPJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Galactic Pinball (Japan, USA) (En).png",
+              "source_sha256": "5a8b954b7210b93db7245e18d0a67cf2ecaa5bb228b641058e18d51a62a8d887",
+              "source_bytes": 79141,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 57590,
+                  "lossy90": 17164
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "a54cda53d1cf752b692830d4c4472ba4a13caab966207ba6687a9e94c0b07f8e",
+          "bytes": 7304,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7304,
+              "lossy90": 23320
+            }
+          },
+          "kind": "screenshot",
+          "path": "VGPJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Galactic Pinball (Japan, USA) (En).png",
+              "source_sha256": "d18b4411a23c82df0afef9ce755dec4ef89f28a5c7a6d0933a042b9c34f27f3a",
+              "source_bytes": 14333,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7304,
+                  "lossy90": 23320
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "bf27fabbede9a8d416e4368667079b19eb964f7e241c3261398ce3e2118f0199",
+          "bytes": 7386,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7386,
+              "lossy90": 19288
+            }
+          },
+          "kind": "screenshot",
+          "path": "VGPJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Galactic Pinball (Japan, USA).png",
+              "source_sha256": "2f6a101b8bce392de15f3539ff28fd2c159dab1ee32e75474ac81907b57ae47a",
+              "source_bytes": 7480,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7386,
+                  "lossy90": 19288
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "fd56a12638d6241b3251902560bdb9e2fb1ab7505d6e9316b2137e658b5a1867",
+          "bytes": 6046,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6046,
+              "lossy90": 19474
+            }
+          },
+          "kind": "title_screen",
+          "path": "VGPJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Galactic Pinball (Japan, USA) (En).png",
+              "source_sha256": "aed282d79d75b65bb4670d9e5b843c637d8c65ada85cee6876d445392f81861a",
+              "source_bytes": 11581,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6046,
+                  "lossy90": 19474
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "442ef60ff6f721da8cc6f9eb95bf887662b21d009d1f6f9a0e7e6e7dcb8d7cf7",
+          "bytes": 6068,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6068,
+              "lossy90": 16742
+            }
+          },
+          "kind": "title_screen",
+          "path": "VGPJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Galactic Pinball (Japan, USA).png",
+              "source_sha256": "2de1e9bb66b039b90d50bc22c8fc0f97bb3e8405e11aa71de5257571f5be1121",
+              "source_bytes": 6461,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6068,
+                  "lossy90": 16742
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Galactic Pinball (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VGPJ"
+      ]
+    },
+    "VH2E": {
+      "serial": "VH2E",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "Panic Bomber (USA)",
+          "serial_raw": "VH2E",
+          "serials": [
+            "VH2E"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2c037b9b8c6af9b73a92ba361b55ce1e35bf491b3616b940e2d40d8c94d585c8",
+          "bytes": 86180,
+          "width": 512,
+          "height": 510,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 422754,
+              "lossy90": 86180
+            }
+          },
+          "kind": "cover_front",
+          "path": "VH2E/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Panic Bomber (USA).png",
+              "source_sha256": "15a76f6cca40de2faa9e41703028ea7b0b11e714c2fbcdf930d4c3eb98f60822",
+              "source_bytes": 496779,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 422754,
+                  "lossy90": 86180
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Panic Bomber (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a793fb4d5f3d44c8cf0149807207bd9033da52905a74bf63cecfea3351e18b56",
+          "bytes": 19244,
+          "width": 512,
+          "height": 148,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 78500,
+              "lossy90": 19244
+            }
+          },
+          "kind": "logo",
+          "path": "VH2E/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Panic Bomber (USA).png",
+              "source_sha256": "8d9d3424b0c82bb2f373776a16167f2930739b2ab6fef868acf610ff7f1de53c",
+              "source_bytes": 108090,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 78500,
+                  "lossy90": 19244
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Panic Bomber (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "0e34f3e2d2b3d0294ae2002ef5e48e87ffa3f031b83a06ec74f289392f7a71cb",
+          "bytes": 4382,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4382,
+              "lossy90": 12358
+            }
+          },
+          "kind": "screenshot",
+          "path": "VH2E/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Panic Bomber (USA).png",
+              "source_sha256": "2651155243bb2e3aa24b39028e176b5cfff5aeb030f6219e62284cee5478e966",
+              "source_bytes": 4728,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4382,
+                  "lossy90": 12358
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Panic Bomber (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "4bb6aba47f4075c40a8bbb3e81e0d8882aa64cef824e019b114f3e2acfa24e46",
+          "bytes": 5706,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5706,
+              "lossy90": 14008
+            }
+          },
+          "kind": "title_screen",
+          "path": "VH2E/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Panic Bomber (USA).png",
+              "source_sha256": "50f3de1f1c6e71c3d01aa80974d4a70348ba32bb5dfbc29eee02e2e9b4ac1340",
+              "source_bytes": 5972,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5706,
+                  "lossy90": 14008
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Panic Bomber (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VH2E"
+      ]
+    },
+    "VH2J": {
+      "serial": "VH2J",
+      "entries": [
+        {
+          "redump_id": "0018",
+          "entry_id": "0018",
+          "provider": "no-intro",
+          "name": "Tobidase! Panibon (Japan)",
+          "serial_raw": "VH2J",
+          "serials": [
+            "VH2J"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8685191c77c88bd4adfaf36f5a25181e20d1bb87e596cf0cd20f44ae619f89df",
+          "bytes": 104374,
+          "width": 512,
+          "height": 510,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 439566,
+              "lossy90": 104374
+            }
+          },
+          "kind": "cover_front",
+          "path": "VH2J/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Tobidase! Panibon (Japan).png",
+              "source_sha256": "3a3863b07d53aa49f53d4eef432b1df229975b16682ff3a03508b6c6b81ae3f4",
+              "source_bytes": 552070,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 439566,
+                  "lossy90": 104374
+                }
+              },
+              "redump_id": "0018",
+              "dat_name": "Tobidase! Panibon (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a793fb4d5f3d44c8cf0149807207bd9033da52905a74bf63cecfea3351e18b56",
+          "bytes": 19244,
+          "width": 512,
+          "height": 148,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 78500,
+              "lossy90": 19244
+            }
+          },
+          "kind": "logo",
+          "path": "VH2J/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Tobidase! Panibon (Japan).png",
+              "source_sha256": "56551d3f9dec939ec263b3f8597aa676367753d84281d8fed3f0f8ce69844221",
+              "source_bytes": 22,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 78500,
+                  "lossy90": 19244
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Tobidase! Panibon (Japan).png",
+                  "target": "Panic Bomber (USA).png",
+                  "type": "text_alias",
+                  "sha256": "56551d3f9dec939ec263b3f8597aa676367753d84281d8fed3f0f8ce69844221",
+                  "bytes": 22
+                }
+              ],
+              "resolved_source": "Named_Logos/Panic Bomber (USA).png",
+              "resolved_source_sha256": "8d9d3424b0c82bb2f373776a16167f2930739b2ab6fef868acf610ff7f1de53c",
+              "resolved_source_bytes": 108090,
+              "redump_id": "0018",
+              "dat_name": "Tobidase! Panibon (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "89ccbbd2af7b1bb5347d56fa2b6022b9f3f972b1da6fd099fbcb749520b9cece",
+          "bytes": 3954,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3954,
+              "lossy90": 11500
+            }
+          },
+          "kind": "screenshot",
+          "path": "VH2J/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Tobidase! Panibon (Japan).png",
+              "source_sha256": "b2f817045cec6c890638b8f2aa1ccb9872d3fc2fc958224d1c0d37947c7200a5",
+              "source_bytes": 4297,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3954,
+                  "lossy90": 11500
+                }
+              },
+              "redump_id": "0018",
+              "dat_name": "Tobidase! Panibon (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8945e4f882521cd3e05cd7bbe5a2dd0d2ee9ef436b0c854085b27d28c2e6b63e",
+          "bytes": 5840,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5840,
+              "lossy90": 13890
+            }
+          },
+          "kind": "title_screen",
+          "path": "VH2J/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Tobidase! Panibon (Japan).png",
+              "source_sha256": "5fc0d2e36fa8211012d036188f531b62f494461946f88f941896ff1f225b4fdc",
+              "source_bytes": 6228,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5840,
+                  "lossy90": 13890
+                }
+              },
+              "redump_id": "0018",
+              "dat_name": "Tobidase! Panibon (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VH2J"
+      ]
+    },
+    "VH3E": {
+      "serial": "VH3E",
+      "entries": [
+        {
+          "redump_id": "0021",
+          "entry_id": "0021",
+          "provider": "no-intro",
+          "name": "Vertical Force (USA)",
+          "serial_raw": "VH3E",
+          "serials": [
+            "VH3E"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8336e423af0c7172676ab5cffe7ff345db5605ea20535d7eb93ed47ce21c40bb",
+          "bytes": 62036,
+          "width": 512,
+          "height": 510,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 349878,
+              "lossy90": 62036
+            }
+          },
+          "kind": "cover_front",
+          "path": "VH3E/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Vertical Force (USA).png",
+              "source_sha256": "9c3beb78bf8779e7f7643209317824e8779465f2a6324e80dda64b63db393eb0",
+              "source_bytes": 420046,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 349878,
+                  "lossy90": 62036
+                }
+              },
+              "redump_id": "0021",
+              "dat_name": "Vertical Force (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "de7c5766a265a9c8313e000ec4aeb387cf52ae4e4af686d8c69ba75d2826e5d6",
+          "bytes": 5538,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5538,
+              "lossy90": 19394
+            }
+          },
+          "kind": "logo",
+          "path": "VH3E/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Vertical Force (USA).png",
+              "source_sha256": "54b8eaeef995c92d264bc2a5164c38006ba9361db87e1dd76862a3b44244a717",
+              "source_bytes": 6380,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5538,
+                  "lossy90": 19394
+                }
+              },
+              "redump_id": "0021",
+              "dat_name": "Vertical Force (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d5c26ba850705d7a46354ac349dd8783acaca316231e6f81895612054927e8fd",
+          "bytes": 924,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 924,
+              "lossy90": 4606
+            }
+          },
+          "kind": "screenshot",
+          "path": "VH3E/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Vertical Force (USA).png",
+              "source_sha256": "35cc05b8ff7dc6c3b9108a5a73b7042a69b0c8f5bedd3be3309e41eb7eba9d90",
+              "source_bytes": 16715,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 924,
+                  "lossy90": 4606
+                }
+              },
+              "redump_id": "0021",
+              "dat_name": "Vertical Force (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ca0009c06f65b81a32aa018635b4abfecd845145e89ed34ba6287a280f222b14",
+          "bytes": 2650,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2650,
+              "lossy90": 8508
+            }
+          },
+          "kind": "title_screen",
+          "path": "VH3E/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Vertical Force (USA).png",
+              "source_sha256": "e907be65134910bc6760066e528f658b59fbe4a7dc34bd32c5efe651c6741dbe",
+              "source_bytes": 3177,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2650,
+                  "lossy90": 8508
+                }
+              },
+              "redump_id": "0021",
+              "dat_name": "Vertical Force (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VH3E"
+      ]
+    },
+    "VH3J": {
+      "serial": "VH3J",
+      "entries": [
+        {
+          "redump_id": "0020",
+          "entry_id": "0020",
+          "provider": "no-intro",
+          "name": "Vertical Force (Japan)",
+          "serial_raw": "VH3J",
+          "serials": [
+            "VH3J"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "db542ae2beab4f674789379c910da266424f32689983017cbda449d7e389450a",
+          "bytes": 55850,
+          "width": 511,
+          "height": 458,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 272830,
+              "lossy90": 55850
+            }
+          },
+          "kind": "cover_front",
+          "path": "VH3J/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Vertical Force (Japan).png",
+              "source_sha256": "15f9385f7cc214b0eaf45c05e6f4deab2f7ec360465c23ace77148b7fdc17426",
+              "source_bytes": 332933,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 272830,
+                  "lossy90": 55850
+                }
+              },
+              "redump_id": "0020",
+              "dat_name": "Vertical Force (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "24b7015535cd7849de07d948a242c8d234124a8701a9d707dec6483c62d1bd99",
+          "bytes": 28544,
+          "width": 512,
+          "height": 256,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 64750,
+              "lossy90": 28544
+            }
+          },
+          "kind": "logo",
+          "path": "VH3J/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Vertical Force (Japan).png",
+              "source_sha256": "1ad7fed9f63e424c8dd24be35ef510bb3f4cf078110b1cad4fd60730c91c9a76",
+              "source_bytes": 106360,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 64750,
+                  "lossy90": 28544
+                }
+              },
+              "redump_id": "0020",
+              "dat_name": "Vertical Force (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d8e808aa345bc45ea52542ad3aff82338cd276a0c108bedfa80087fc80e3322c",
+          "bytes": 1536,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1536,
+              "lossy90": 6118
+            }
+          },
+          "kind": "screenshot",
+          "path": "VH3J/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Vertical Force (Japan).png",
+              "source_sha256": "7655f165dcc96c4dab8b9383afdaca482ec95090b94747c2d9f9179d3ae2e2f2",
+              "source_bytes": 1599,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1536,
+                  "lossy90": 6118
+                }
+              },
+              "redump_id": "0020",
+              "dat_name": "Vertical Force (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6028c35dd47080eacb5ae0eac80c657c6da0711a8750e29d47917a307dbec486",
+          "bytes": 2450,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2450,
+              "lossy90": 7508
+            }
+          },
+          "kind": "title_screen",
+          "path": "VH3J/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Vertical Force (Japan).png",
+              "source_sha256": "429b92fd4999eadfde12dc9e86ba93fc444652234863f930f44c3027c0c64bcf",
+              "source_bytes": 3005,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2450,
+                  "lossy90": 7508
+                }
+              },
+              "redump_id": "0020",
+              "dat_name": "Vertical Force (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VH3J"
+      ]
+    },
+    "VIMJ": {
+      "serial": "VIMJ",
+      "entries": [
+        {
+          "redump_id": "0004",
+          "entry_id": "0004",
+          "provider": "no-intro",
+          "name": "Innsmouth no Yakata (Japan)",
+          "serial_raw": "VIMJ",
+          "serials": [
+            "VIMJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "80355fba8d27974a82b1b60d4ad550c789cad0d2faf8461b09cf5174ca425465",
+          "bytes": 89976,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 428610,
+              "lossy90": 89976
+            }
+          },
+          "kind": "cover_front",
+          "path": "VIMJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Innsmouth no Yakata (Japan).png",
+              "source_sha256": "b1de19fe5f6ed0d233228aaad7baad156ae45eca5dcb081ed96742abdec549a3",
+              "source_bytes": 499805,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 428610,
+                  "lossy90": 89976
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Innsmouth no Yakata (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f33267164fda39a542ab1c9beee4c84f9480bb0cde8b7939d47287e9bffb2f6d",
+          "bytes": 2530,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2530,
+              "lossy90": 14222
+            }
+          },
+          "kind": "screenshot",
+          "path": "VIMJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Innsmouth no Yakata (Japan).png",
+              "source_sha256": "87ec990b3904812c2d23ea37f7bc8cbb2ac9c3952c61ea363491a16e84991d00",
+              "source_bytes": 2712,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2530,
+                  "lossy90": 14222
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Innsmouth no Yakata (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9bb149b1ebad0dde6dd91c5a3da149ba4b60b6fa8754452a56c37427f2bd35a9",
+          "bytes": 9860,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9860,
+              "lossy90": 40260
+            }
+          },
+          "kind": "title_screen",
+          "path": "VIMJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Innsmouth no Yakata (Japan).png",
+              "source_sha256": "3b310c2210277fe2964f72b5a6f27d8595e72dbc40e4f4327d8b40a777c52a07",
+              "source_bytes": 9981,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9860,
+                  "lossy90": 40260
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Innsmouth no Yakata (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VIMJ"
+      ]
+    },
+    "VJBE": {
+      "serial": "VJBE",
+      "entries": [
+        {
+          "redump_id": "0005",
+          "entry_id": "0005",
+          "provider": "no-intro",
+          "name": "Jack Bros. (USA)",
+          "serial_raw": "VJBE",
+          "serials": [
+            "VJBE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e85c8a84cd952e4b672944e96c2924bc2a28355c62f183883f10a41d6b77fbd7",
+          "bytes": 58414,
+          "width": 512,
+          "height": 366,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 251928,
+              "lossy90": 58414
+            }
+          },
+          "kind": "cover_front",
+          "path": "VJBE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Jack Bros. (USA).png",
+              "source_sha256": "a0dc1524f61e3c871ae332155a8f4b94739968f6c287cff30fb46bd48bc50ac1",
+              "source_bytes": 335319,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 251928,
+                  "lossy90": 58414
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Jack Bros. (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "b1bd0ee5dc2162dfa952bc2d26b209c87ae9b045da267b6da423d6cc589feccc",
+          "bytes": 48058,
+          "width": 420,
+          "height": 300,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 178610,
+              "lossy90": 48058
+            }
+          },
+          "kind": "logo",
+          "path": "VJBE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Jack Bros. (USA).png",
+              "source_sha256": "c0850bce345f3423fa436bc655ea5c8d847ee19be78155c8816656c008c23128",
+              "source_bytes": 232806,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 178610,
+                  "lossy90": 48058
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Jack Bros. (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cb49ef0bd3818c7c444275a0be76ac0071374e104568d15ca912879588bca1e5",
+          "bytes": 4460,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4460,
+              "lossy90": 20600
+            }
+          },
+          "kind": "screenshot",
+          "path": "VJBE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Jack Bros. (USA).png",
+              "source_sha256": "5ba384f649541e53451937db56a1ea645de6ef843f368ef3e3a90317d0e88e79",
+              "source_bytes": 4387,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4460,
+                  "lossy90": 20600
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Jack Bros. (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6723403ed3834f8874d837aa7880a2fe2819c9bd2c790b90419150f0c7cb9eec",
+          "bytes": 3112,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3112,
+              "lossy90": 13552
+            }
+          },
+          "kind": "title_screen",
+          "path": "VJBE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Jack Bros. (USA).png",
+              "source_sha256": "3a5c1e904f8c29507d79168a359ce3698567dca3e738c73fb76a08ca39948aad",
+              "source_bytes": 3332,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3112,
+                  "lossy90": 13552
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Jack Bros. (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VJBE"
+      ]
+    },
+    "VJBJ": {
+      "serial": "VJBJ",
+      "entries": [
+        {
+          "redump_id": "0006",
+          "entry_id": "0006",
+          "provider": "no-intro",
+          "name": "Jack Bros. no Meiro de Hiihoo! (Japan)",
+          "serial_raw": "VJBJ",
+          "serials": [
+            "VJBJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "762d01602783fea8144a886501ccc63edb9d13d365773d0835642ac7e5532b7c",
+          "bytes": 71858,
+          "width": 512,
+          "height": 519,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 330554,
+              "lossy90": 71858
+            }
+          },
+          "kind": "cover_front",
+          "path": "VJBJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Jack Bros. no Meiro de Hiihoo! (Japan).png",
+              "source_sha256": "f93991d5d3c3eaa12cf073987108cbb714ff5a5cd1abe55b05d08717f523afad",
+              "source_bytes": 515529,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 330554,
+                  "lossy90": 71858
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Jack Bros. no Meiro de Hiihoo! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "b1bd0ee5dc2162dfa952bc2d26b209c87ae9b045da267b6da423d6cc589feccc",
+          "bytes": 48058,
+          "width": 420,
+          "height": 300,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 178610,
+              "lossy90": 48058
+            }
+          },
+          "kind": "logo",
+          "path": "VJBJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Jack Bros. no Meiro de Hiihoo! (Japan).png",
+              "source_sha256": "e151666191dec5361d5c8cc1fd7024ac09c0fd3c152f1f210019c8d84cea6342",
+              "source_bytes": 20,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 178610,
+                  "lossy90": 48058
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Jack Bros. no Meiro de Hiihoo! (Japan).png",
+                  "target": "Jack Bros. (USA).png",
+                  "type": "text_alias",
+                  "sha256": "e151666191dec5361d5c8cc1fd7024ac09c0fd3c152f1f210019c8d84cea6342",
+                  "bytes": 20
+                }
+              ],
+              "resolved_source": "Named_Logos/Jack Bros. (USA).png",
+              "resolved_source_sha256": "c0850bce345f3423fa436bc655ea5c8d847ee19be78155c8816656c008c23128",
+              "resolved_source_bytes": 232806,
+              "redump_id": "0006",
+              "dat_name": "Jack Bros. no Meiro de Hiihoo! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7b3813288d66d1d95aa9d2efb1f6d66e84f56ed630fb2c8edf6186632e14011b",
+          "bytes": 4374,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4374,
+              "lossy90": 23434
+            }
+          },
+          "kind": "screenshot",
+          "path": "VJBJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Jack Bros. no Meiro de Hiihoo! (Japan).png",
+              "source_sha256": "1a0fbf9ff168db7ed4f999c97a144223d234fee40662aec6d3aa0f39255dafe8",
+              "source_bytes": 4368,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4374,
+                  "lossy90": 23434
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Jack Bros. no Meiro de Hiihoo! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "44862e7bc5202b7c5d344316a57dcae6fb074224be5e517f8a6ddd536dcecc9b",
+          "bytes": 3922,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3922,
+              "lossy90": 15862
+            }
+          },
+          "kind": "title_screen",
+          "path": "VJBJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Jack Bros. no Meiro de Hiihoo! (Japan).png",
+              "source_sha256": "b41e08a27607bbd77a02e89c79d6e7a43c2adf028c7ea6c977418eea1b043f9e",
+              "source_bytes": 4231,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3922,
+                  "lossy90": 15862
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Jack Bros. no Meiro de Hiihoo! (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VJBJ"
+      ]
+    },
+    "VJVJ": {
+      "serial": "VJVJ",
+      "entries": [
+        {
+          "redump_id": "0025",
+          "entry_id": "0025",
+          "provider": "no-intro",
+          "name": "Virtual Lab (Japan)",
+          "serial_raw": "VJVJ",
+          "serials": [
+            "VJVJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "981606d7c717683a9ec1f2e7d708f97ce8feb48540d3ce347ec9d4e53b907c09",
+          "bytes": 86482,
+          "width": 512,
+          "height": 516,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 386612,
+              "lossy90": 86482
+            }
+          },
+          "kind": "cover_front",
+          "path": "VJVJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Lab (Japan).png",
+              "source_sha256": "5836e21495a9af4295c0d6841f9886023f10860f5b86cdd503f9b5556d9a5041",
+              "source_bytes": 474841,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 386612,
+                  "lossy90": 86482
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Virtual Lab (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "9d0c5e0a797978246ece835357157dff68fc1e70d5df59e05b866600842d6c05",
+          "bytes": 7224,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7224,
+              "lossy90": 15134
+            }
+          },
+          "kind": "screenshot",
+          "path": "VJVJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Lab (Japan).png",
+              "source_sha256": "47b739448c40c95e4c9e484f628bdce933eb71f677dc35e1c08e9c2b0bec749f",
+              "source_bytes": 7871,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7224,
+                  "lossy90": 15134
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Virtual Lab (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "69f479162d44559b7ce603b809488a3d0e8162fd4152d2ab5fb69a423675edd2",
+          "bytes": 4042,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4042,
+              "lossy90": 12528
+            }
+          },
+          "kind": "title_screen",
+          "path": "VJVJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Lab (Japan).png",
+              "source_sha256": "af5f9467c1c7ca3346a30fcc664a0bcca1714ed9d244becbb44e272a2680913a",
+              "source_bytes": 4456,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4042,
+                  "lossy90": 12528
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Virtual Lab (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VJVJ"
+      ]
+    },
+    "VMCJ": {
+      "serial": "VMCJ",
+      "entries": [
+        {
+          "redump_id": "0007",
+          "entry_id": "0007",
+          "provider": "no-intro",
+          "name": "Mario Clash (Japan, USA) (En)",
+          "serial_raw": "VMCJ",
+          "serials": [
+            "VMCJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "92e00c3951adc88b0d8d47e0be094f7736ad8c7ad5811168d4a035c0f7f51173",
+          "bytes": 63812,
+          "width": 512,
+          "height": 457,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 325118,
+              "lossy90": 63812
+            }
+          },
+          "kind": "cover_front",
+          "path": "VMCJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Clash (Japan, USA) (En).png",
+              "source_sha256": "18b5899016267cd318d42fcebe882cba70a8a3fb930273bef4eb4babde534570",
+              "source_bytes": 465996,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 325118,
+                  "lossy90": 63812
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "8bba186e15cdfa44ed23b53e618cfc142b1943b2dde42979cf2e3b06e89ba9f7",
+          "bytes": 101952,
+          "width": 512,
+          "height": 506,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 479172,
+              "lossy90": 101952
+            }
+          },
+          "kind": "cover_front",
+          "path": "VMCJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Clash (Japan, USA).png",
+              "source_sha256": "ac7a53040653faa6905eac03b9e1261cf5ddef6b7111f3da7fcfc810328a4e5c",
+              "source_bytes": 534008,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 479172,
+                  "lossy90": 101952
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "d2d660481caa6c4c0e6f433fa185ec95b1dc82b86aa2945a5f856c11c51d7eed",
+          "bytes": 20118,
+          "width": 512,
+          "height": 131,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 52220,
+              "lossy90": 20118
+            }
+          },
+          "kind": "logo",
+          "path": "VMCJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario Clash (Japan, USA) (En).png",
+              "source_sha256": "20713c141087f2578fddbaf526ef6cdad284f3595475549e10d3d569ad205f56",
+              "source_bytes": 70764,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 52220,
+                  "lossy90": 20118
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "5e31e584c58048166fd67b326f7e26ada4ebfa5523dc43b67f6e02db9c575cb0",
+          "bytes": 4790,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4790,
+              "lossy90": 23038
+            }
+          },
+          "kind": "screenshot",
+          "path": "VMCJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Clash (Japan, USA) (En).png",
+              "source_sha256": "a2dbc9533dc405dccbd0e69f4d4e48d08f870bedf7f6927526458861ae3d2c87",
+              "source_bytes": 9420,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4790,
+                  "lossy90": 23038
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "575ab718f2a7b826876317c616c242a6d5c832e342251cb97eb8cf0aee1764e3",
+          "bytes": 5014,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5014,
+              "lossy90": 19646
+            }
+          },
+          "kind": "screenshot",
+          "path": "VMCJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Clash (Japan, USA).png",
+              "source_sha256": "8604aa2909e3ca3cadfedc37b6ef1d9896f20283282f9cd003bbc0d732e74716",
+              "source_bytes": 5185,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5014,
+                  "lossy90": 19646
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "720935f607afa9336efa680f9eb567ed53d00b8083edb208eeb1e5f104d304f2",
+          "bytes": 2206,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2206,
+              "lossy90": 9684
+            }
+          },
+          "kind": "title_screen",
+          "path": "VMCJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Clash (Japan, USA) (En).png",
+              "source_sha256": "2b44526f52da2b5165023d081da8934b09c8cadf4270283980a83257e3b04b27",
+              "source_bytes": 3936,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2206,
+                  "lossy90": 9684
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "2411ae158c68c78aa33ff14aa19563a54f0411d90cdd874162c4ff88e4a44ab6",
+          "bytes": 2206,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2206,
+              "lossy90": 8614
+            }
+          },
+          "kind": "title_screen",
+          "path": "VMCJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Clash (Japan, USA).png",
+              "source_sha256": "7757705896ac11ccf441e3262341722d3e33bacc0dced2cdb9478285817fd45c",
+              "source_bytes": 2299,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2206,
+                  "lossy90": 8614
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Clash (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VMCJ"
+      ]
+    },
+    "VMTJ": {
+      "serial": "VMTJ",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "Mario's Tennis (Japan, USA) (En)",
+          "serial_raw": "VMTJ",
+          "serials": [
+            "VMTJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "0aaad9078103d9881129c6014ee95c9c8fbda2458a53d1968b11f0e2e5be7989",
+          "bytes": 75696,
+          "width": 512,
+          "height": 457,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 377138,
+              "lossy90": 75696
+            }
+          },
+          "kind": "cover_front",
+          "path": "VMTJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario's Tennis (Japan, USA) (En).png",
+              "source_sha256": "c20f050fbc921f3d59f9bb27232ccf82f4668689aa2f3bf60db9baa228fd1ec8",
+              "source_bytes": 520237,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 377138,
+                  "lossy90": 75696
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "290c45e433bd7ade9cb1ab5d7bfc54d0c9c87aaef7d65353466ff05eb22e3584",
+          "bytes": 98738,
+          "width": 512,
+          "height": 506,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 391988,
+              "lossy90": 98738
+            }
+          },
+          "kind": "cover_front",
+          "path": "VMTJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario's Tennis (Japan, USA).png",
+              "source_sha256": "5280d10faf76c746deb78728382da909b88c32af91b6be98d3c06cc4b1f51003",
+              "source_bytes": 532078,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 391988,
+                  "lossy90": 98738
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "5ebf7a672682b3fa254d4f6c9c0b11b0fd11e606b2d3af10f7c99db5ceac75eb",
+          "bytes": 17762,
+          "width": 512,
+          "height": 147,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 51248,
+              "lossy90": 17762
+            }
+          },
+          "kind": "logo",
+          "path": "VMTJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario's Tennis (Japan, USA) (En).png",
+              "source_sha256": "7949c685bee41a42c3b346437e059d2d7cb48532613d3bfe20b1a423678fc871",
+              "source_bytes": 68055,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 51248,
+                  "lossy90": 17762
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "a290b7b531ed39a7c9819be1f35a2edb3822ce9d33b109a2bf533f38eef410c1",
+          "bytes": 3692,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3692,
+              "lossy90": 16176
+            }
+          },
+          "kind": "screenshot",
+          "path": "VMTJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario's Tennis (Japan, USA) (En).png",
+              "source_sha256": "f3194c0c782fe6263bb4e22b05e004663aaff43eef7ea4a3a62fed8cc8793e7a",
+              "source_bytes": 6849,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3692,
+                  "lossy90": 16176
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "a233ee927d6342f68e9309dda577f2df05332c696d02a33b122f93c21491a90b",
+          "bytes": 3868,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3868,
+              "lossy90": 11682
+            }
+          },
+          "kind": "screenshot",
+          "path": "VMTJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario's Tennis (Japan, USA).png",
+              "source_sha256": "d29fca7d3ee35ae7003d1efc2b8785fed74c0d0d590cf27a27f0f3d2d643a774",
+              "source_bytes": 3900,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3868,
+                  "lossy90": 11682
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b8dfeea3a0947f6932b49308129dabed821d72d8d2a92e90066bd83733fb807b",
+          "bytes": 4562,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4562,
+              "lossy90": 17216
+            }
+          },
+          "kind": "title_screen",
+          "path": "VMTJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario's Tennis (Japan, USA) (En).png",
+              "source_sha256": "2505eb264f7d7005d1c3f53abd309745f7ad4d18d104b5eb3523e4cd05a8c016",
+              "source_bytes": 8726,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4562,
+                  "lossy90": 17216
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "9e0b1d823ce8d5c7537728a574c81d066c2df5a58b4bcb2197e37ab49b4865ae",
+          "bytes": 4546,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4546,
+              "lossy90": 14828
+            }
+          },
+          "kind": "title_screen",
+          "path": "VMTJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario's Tennis (Japan, USA).png",
+              "source_sha256": "244db1d04cae7a26b04585b601366dee47ec8ad36057ad106c9e4237dcea67e0",
+              "source_bytes": 4841,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4546,
+                  "lossy90": 14828
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario's Tennis (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VMTJ"
+      ]
+    },
+    "VNFE": {
+      "serial": "VNFE",
+      "entries": [
+        {
+          "redump_id": "0009",
+          "entry_id": "0009",
+          "provider": "no-intro",
+          "name": "Nester's Funky Bowling (USA)",
+          "serial_raw": "VNFE",
+          "serials": [
+            "VNFE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "198b902c62d568e7e86e08721ac82ec45150b7670b8e761111163c06711cb751",
+          "bytes": 89580,
+          "width": 512,
+          "height": 513,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 372568,
+              "lossy90": 89580
+            }
+          },
+          "kind": "cover_front",
+          "path": "VNFE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Nester's Funky Bowling (USA).png",
+              "source_sha256": "3e51fb141e1439c6b472aabf567c4ce7a7ad81487ad12601b3a50dcbda0b9af1",
+              "source_bytes": 501506,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 372568,
+                  "lossy90": 89580
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Nester's Funky Bowling (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "28cc5f579eaadfcf6eb6093e53b80ad3c6f858255c5e7130f10c23802ad82606",
+          "bytes": 6250,
+          "width": 400,
+          "height": 160,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6250,
+              "lossy90": 17082
+            }
+          },
+          "kind": "logo",
+          "path": "VNFE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Nester's Funky Bowling (USA).png",
+              "source_sha256": "8ec472aff6702f1300db39393e3e02185a3f34e219778aa3b149f75017feb166",
+              "source_bytes": 6916,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6250,
+                  "lossy90": 17082
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Nester's Funky Bowling (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "c9c163e6f2f8332d35eecd630ea2c2a05b1c49c96f37c4e21e78001daac4a77b",
+          "bytes": 3080,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3080,
+              "lossy90": 17288
+            }
+          },
+          "kind": "screenshot",
+          "path": "VNFE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Nester's Funky Bowling (USA).png",
+              "source_sha256": "abd1b6f5bfcc9ae90b8a8af4844504b6e2913de0e1fb480988c5d9fb32bb36d2",
+              "source_bytes": 4080,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3080,
+                  "lossy90": 17288
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Nester's Funky Bowling (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b3b10ca4a1d7ac9b2cd30f5d29d6925dda405f033611678139c3e98c9669b52d",
+          "bytes": 2542,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2542,
+              "lossy90": 12132
+            }
+          },
+          "kind": "title_screen",
+          "path": "VNFE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Nester's Funky Bowling (USA).png",
+              "source_sha256": "067d74ea37ba61fa228c84397660726e0a4ae052f85c19577546bb6716197566",
+              "source_bytes": 3240,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2542,
+                  "lossy90": 12132
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Nester's Funky Bowling (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VNFE"
+      ]
+    },
+    "VPBE": {
+      "serial": "VPBE",
+      "entries": [
+        {
+          "redump_id": "0001",
+          "entry_id": "0001",
+          "provider": "no-intro",
+          "name": "3-D Tetris (USA)",
+          "serial_raw": "VPBE",
+          "serials": [
+            "VPBE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e7910c6f296350dd67c7471795447ac96e877dbf8dc9cd33c2a774a43d24571b",
+          "bytes": 63262,
+          "width": 512,
+          "height": 510,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 371528,
+              "lossy90": 63262
+            }
+          },
+          "kind": "cover_front",
+          "path": "VPBE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/3-D Tetris (USA).png",
+              "source_sha256": "a1feeb426286d3caea37c347e7b8363c87eb0317e530bd0989d6036b1a98576d",
+              "source_bytes": 423763,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 371528,
+                  "lossy90": 63262
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "3-D Tetris (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "e33ac8ed834244936e2b614669abe93b5a9f79e0ee6212978161f636e72f7baf",
+          "bytes": 31132,
+          "width": 512,
+          "height": 298,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 123078,
+              "lossy90": 31132
+            }
+          },
+          "kind": "logo",
+          "path": "VPBE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/3-D Tetris (USA).png",
+              "source_sha256": "1ce1e52649f4dcc897a9a48497d6e9f0266f4c0fcd2035b62496c71a60d214fe",
+              "source_bytes": 174451,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 123078,
+                  "lossy90": 31132
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "3-D Tetris (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cc696363a90b193bee668701ebacfc430c75ecb632d9083e6340bb8b3fbc0a79",
+          "bytes": 2394,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2394,
+              "lossy90": 9868
+            }
+          },
+          "kind": "screenshot",
+          "path": "VPBE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/3-D Tetris (USA).png",
+              "source_sha256": "d2c71abd4a7c4eae84911568b62f9ed2cb4a935cd8669ea0b84671de271be8dd",
+              "source_bytes": 2460,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2394,
+                  "lossy90": 9868
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "3-D Tetris (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6998962a77241c74aa6303b909a9d27f80aabce8912787b8e1673195262e2be0",
+          "bytes": 4554,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4554,
+              "lossy90": 13130
+            }
+          },
+          "kind": "title_screen",
+          "path": "VPBE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/3-D Tetris (USA).png",
+              "source_sha256": "b1a5931d215fbb44b10afd549d5dbb1ede8478de34d42993655cfcc5224ad4c0",
+              "source_bytes": 4935,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4554,
+                  "lossy90": 13130
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "3-D Tetris (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VPBE"
+      ]
+    },
+    "VREE": {
+      "serial": "VREE",
+      "entries": [
+        {
+          "redump_id": "0012",
+          "entry_id": "0012",
+          "provider": "no-intro",
+          "name": "Red Alarm (USA)",
+          "serial_raw": "VREE",
+          "serials": [
+            "VREE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ce835221a35c818d7c8d9f1d5a681f743112a0af3601b3547584d5002d2aae26",
+          "bytes": 80714,
+          "width": 512,
+          "height": 509,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 371196,
+              "lossy90": 80714
+            }
+          },
+          "kind": "cover_front",
+          "path": "VREE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Red Alarm (USA).png",
+              "source_sha256": "89f7cf26bc34c7d19ca4588943e976befa3bcc5ac8870b1af2f43e0c14113d31",
+              "source_bytes": 478740,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 371196,
+                  "lossy90": 80714
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Red Alarm (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "43c1d9fbb81e0a3b5169cc8a080b06fdb9cf59e3c2f826740933f7fb354c9abf",
+          "bytes": 28978,
+          "width": 512,
+          "height": 215,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 107944,
+              "lossy90": 28978
+            }
+          },
+          "kind": "logo",
+          "path": "VREE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Red Alarm (USA).png",
+              "source_sha256": "c6733d3585e46bbf53aecf4dd59c62be4f78f80e63d753ff9df4322c2b1ccd5a",
+              "source_bytes": 21,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 107944,
+                  "lossy90": 28978
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Red Alarm (USA).png",
+                  "target": "Red Alarm (Japan).png",
+                  "type": "text_alias",
+                  "sha256": "c6733d3585e46bbf53aecf4dd59c62be4f78f80e63d753ff9df4322c2b1ccd5a",
+                  "bytes": 21
+                }
+              ],
+              "resolved_source": "Named_Logos/Red Alarm (Japan).png",
+              "resolved_source_sha256": "3d4caefecc8a437e5aa1d0791ceed4f5665ec87455ed69df437dfe7985d0ae69",
+              "resolved_source_bytes": 148658,
+              "redump_id": "0012",
+              "dat_name": "Red Alarm (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "85433dca0f92b583b3d1d925d38d2a64379242554c8a0fc90ef10c43ddf27829",
+          "bytes": 3006,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3006,
+              "lossy90": 13158
+            }
+          },
+          "kind": "screenshot",
+          "path": "VREE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Red Alarm (USA).png",
+              "source_sha256": "cf5602dba7e596802e260f9e3d3acc6bd233015d61519ceb4fea2d8fdc91be03",
+              "source_bytes": 3116,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3006,
+                  "lossy90": 13158
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Red Alarm (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "eefc88320bdd11d5cdf8f71a487fad23a661e706f884adb6e67a1b53d8254151",
+          "bytes": 2676,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2676,
+              "lossy90": 10670
+            }
+          },
+          "kind": "title_screen",
+          "path": "VREE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Red Alarm (USA).png",
+              "source_sha256": "4056bb6d5094246d4e4cd192064b7ed048a8cd01be4cf029075c4696aea8ef7f",
+              "source_bytes": 2876,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2676,
+                  "lossy90": 10670
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Red Alarm (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VREE"
+      ]
+    },
+    "VREJ": {
+      "serial": "VREJ",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "Red Alarm (Japan)",
+          "serial_raw": "VREJ",
+          "serials": [
+            "VREJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "857b7bfce77811e2595623b0cb4989f0ca9ec406f932885f76596e3542147160",
+          "bytes": 72272,
+          "width": 511,
+          "height": 458,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 344012,
+              "lossy90": 72272
+            }
+          },
+          "kind": "cover_front",
+          "path": "VREJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Red Alarm (Japan).png",
+              "source_sha256": "018283b5727fc6389d34c916594123a4a680691f05ef6fd6cfadcc9a8813a796",
+              "source_bytes": 425959,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 344012,
+                  "lossy90": 72272
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Red Alarm (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "43c1d9fbb81e0a3b5169cc8a080b06fdb9cf59e3c2f826740933f7fb354c9abf",
+          "bytes": 28978,
+          "width": 512,
+          "height": 215,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 107944,
+              "lossy90": 28978
+            }
+          },
+          "kind": "logo",
+          "path": "VREJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Red Alarm (Japan).png",
+              "source_sha256": "3d4caefecc8a437e5aa1d0791ceed4f5665ec87455ed69df437dfe7985d0ae69",
+              "source_bytes": 148658,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 107944,
+                  "lossy90": 28978
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Red Alarm (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e61be2759ab5c18e17c0a7ae30e96757eb74047dddf2b07f60e28a2d7295d7be",
+          "bytes": 3016,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3016,
+              "lossy90": 13184
+            }
+          },
+          "kind": "screenshot",
+          "path": "VREJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Red Alarm (Japan).png",
+              "source_sha256": "7df54ed2db68df4913f282de42e5bbbba8d6d433a6f494a049b3e8d726fbb1d9",
+              "source_bytes": 3128,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3016,
+                  "lossy90": 13184
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Red Alarm (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9ed856ddcdd9a612b86d5d2f52d2cab6062f25d81b4951635d198aa3b2a46879",
+          "bytes": 2498,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2498,
+              "lossy90": 9632
+            }
+          },
+          "kind": "title_screen",
+          "path": "VREJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Red Alarm (Japan).png",
+              "source_sha256": "2e36eb456a7a9960e277a14e5b96e16ba7c7be143195f3daee6eccabf7cc02ae",
+              "source_bytes": 2721,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2498,
+                  "lossy90": 9632
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Red Alarm (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VREJ"
+      ]
+    },
+    "VSDJ": {
+      "serial": "VSDJ",
+      "entries": [
+        {
+          "redump_id": "0013",
+          "entry_id": "0013",
+          "provider": "no-intro",
+          "name": "SD Gundam - Dimension War (Japan)",
+          "serial_raw": "VSDJ",
+          "serials": [
+            "VSDJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9072e1c33d6e88d822f903d3fdfaa547766bd013ec3c57b9b85d15e73492ec27",
+          "bytes": 105868,
+          "width": 511,
+          "height": 458,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 480538,
+              "lossy90": 105868
+            }
+          },
+          "kind": "cover_front",
+          "path": "VSDJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam - Dimension War (Japan).png",
+              "source_sha256": "ada4e7887231f1bb9d17b6f297289ea3cae3c115dd63aa4c0c9ccfb3522a227e",
+              "source_bytes": 521865,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 480538,
+                  "lossy90": 105868
+                }
+              },
+              "redump_id": "0013",
+              "dat_name": "SD Gundam - Dimension War (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "405bf8b50efa9b6be6cd9fbaf79b2a8a8bff3c27a8a109d78b6f1fc6421a4011",
+          "bytes": 23772,
+          "width": 512,
+          "height": 113,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 70908,
+              "lossy90": 23772
+            }
+          },
+          "kind": "logo",
+          "path": "VSDJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam - Dimension War (Japan).png",
+              "source_sha256": "0f75dac86063415061d1b3c6a8105801ee02660a83640dd1bb27f90b40aeeb76",
+              "source_bytes": 95453,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 70908,
+                  "lossy90": 23772
+                }
+              },
+              "redump_id": "0013",
+              "dat_name": "SD Gundam - Dimension War (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d4259faee360fd8aef89aa6d2e900849a490f3b954ee7243638fe75fa6089121",
+          "bytes": 17254,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 17254,
+              "lossy90": 23302
+            }
+          },
+          "kind": "screenshot",
+          "path": "VSDJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam - Dimension War (Japan).png",
+              "source_sha256": "4b26504455be3e937766e3b28fac4c482c1c04ede24dfbe8c73f30ad5d3d701b",
+              "source_bytes": 22216,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 17254,
+                  "lossy90": 23302
+                }
+              },
+              "redump_id": "0013",
+              "dat_name": "SD Gundam - Dimension War (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "df5ac90d99b9e6a8874e13d7a8090ba7550726bb0f7f761a5bac79e206203aa3",
+          "bytes": 26162,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 37172,
+              "lossy90": 26162
+            }
+          },
+          "kind": "title_screen",
+          "path": "VSDJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam - Dimension War (Japan).png",
+              "source_sha256": "120b053c522b068b082a87563d928f86a7932a5e5a6597845bb14690f67fe000",
+              "source_bytes": 40825,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 37172,
+                  "lossy90": 26162
+                }
+              },
+              "redump_id": "0013",
+              "dat_name": "SD Gundam - Dimension War (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VSDJ"
+      ]
+    },
+    "VSPJ": {
+      "serial": "VSPJ",
+      "entries": [
+        {
+          "redump_id": "0014",
+          "entry_id": "0014",
+          "provider": "no-intro",
+          "name": "Space Invaders - Virtual Collection (Japan)",
+          "serial_raw": "VSPJ",
+          "serials": [
+            "VSPJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "62205ccc49a3ecd37478390a054df3c1e149694d6eca2eacc4ca5bdbaf238662",
+          "bytes": 53372,
+          "width": 512,
+          "height": 518,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 262864,
+              "lossy90": 53372
+            }
+          },
+          "kind": "cover_front",
+          "path": "VSPJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Space Invaders - Virtual Collection (Japan).png",
+              "source_sha256": "c54ff372e1b2027685db56ae63a419d4278db9bc123cf0764c3e5e8c761ad5ea",
+              "source_bytes": 342507,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 262864,
+                  "lossy90": 53372
+                }
+              },
+              "redump_id": "0014",
+              "dat_name": "Space Invaders - Virtual Collection (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d183af1fbc02f8b25e8a9e8dbc55d9b589aa6f5da5e6bea2e400f480b7660229",
+          "bytes": 26396,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 26396,
+              "lossy90": 33400
+            }
+          },
+          "kind": "screenshot",
+          "path": "VSPJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Space Invaders - Virtual Collection (Japan).png",
+              "source_sha256": "4266cf5e6d9756f1cd47ae479758a1ec65c1285cc2f2595facf6a0c09d368019",
+              "source_bytes": 28585,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 26396,
+                  "lossy90": 33400
+                }
+              },
+              "redump_id": "0014",
+              "dat_name": "Space Invaders - Virtual Collection (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "88f52c3d513c2bef1c276b26bfab1b66d731af6df62039d8a0d7acec3b6c3f0f",
+          "bytes": 10364,
+          "width": 383,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10364,
+              "lossy90": 16822
+            }
+          },
+          "kind": "title_screen",
+          "path": "VSPJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Space Invaders - Virtual Collection (Japan).png",
+              "source_sha256": "74d37c5d037541d4a29dd7281055d6ed2de45dfe90cb8625f0177bb3883bf319",
+              "source_bytes": 13469,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10364,
+                  "lossy90": 16822
+                }
+              },
+              "redump_id": "0014",
+              "dat_name": "Space Invaders - Virtual Collection (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VSPJ"
+      ]
+    },
+    "VSSJ": {
+      "serial": "VSSJ",
+      "entries": [
+        {
+          "redump_id": "0015",
+          "entry_id": "0015",
+          "provider": "no-intro",
+          "name": "Space Squash (Japan)",
+          "serial_raw": "VSSJ",
+          "serials": [
+            "VSSJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6728d20a0fe3339d0512cbbd9f3c9e556fcf4c9ee46775af426ad4dde85ce070",
+          "bytes": 54158,
+          "width": 512,
+          "height": 503,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 272692,
+              "lossy90": 54158
+            }
+          },
+          "kind": "cover_front",
+          "path": "VSSJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Space Squash (Japan).png",
+              "source_sha256": "f8f6181b72ca2879dcfa178afc89dd090dacdc60eeb9c8613b25705c5ba57a35",
+              "source_bytes": 358237,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 272692,
+                  "lossy90": 54158
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "Space Squash (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a40ae674ed2d98f4520ba58839102284c6476c757290611599ebe5aa9517a57d",
+          "bytes": 19300,
+          "width": 512,
+          "height": 207,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 44692,
+              "lossy90": 19300
+            }
+          },
+          "kind": "logo",
+          "path": "VSSJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Space Squash (Japan).png",
+              "source_sha256": "cd510ac3779f087355cc862a534a3adca94e87c3c852e6e4b3a608448b6139f6",
+              "source_bytes": 69939,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 44692,
+                  "lossy90": 19300
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "Space Squash (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "9d5389cd1188b81194da244bb9aa9f467c6630698e96436fc7e75ead9304a182",
+          "bytes": 2548,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2548,
+              "lossy90": 19256
+            }
+          },
+          "kind": "screenshot",
+          "path": "VSSJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Space Squash (Japan).png",
+              "source_sha256": "043257f28bdabe72a941a3f85045d91c1bc425a3a3c3a9297367a9319f764fcd",
+              "source_bytes": 2691,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2548,
+                  "lossy90": 19256
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "Space Squash (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "5f7d1136ad0e33d7527129e69055e89ceff6ddf47fb9e1c728090b1d3a308b4c",
+          "bytes": 3248,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3248,
+              "lossy90": 10500
+            }
+          },
+          "kind": "title_screen",
+          "path": "VSSJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Space Squash (Japan).png",
+              "source_sha256": "66e7eda09f5c79a2691b86562b0e8d2076467c0e9fa13024fc708bf849888f9e",
+              "source_bytes": 3470,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3248,
+                  "lossy90": 10500
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "Space Squash (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VSSJ"
+      ]
+    },
+    "VTBJ": {
+      "serial": "VTBJ",
+      "entries": [
+        {
+          "redump_id": "0017",
+          "entry_id": "0017",
+          "provider": "no-intro",
+          "name": "Teleroboxer (Japan, USA) (En)",
+          "serial_raw": "VTBJ",
+          "serials": [
+            "VTBJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "239dc10b3d529d3454aaf60839a209e7922c12fd3a1b21b761d1ed696577e2f0",
+          "bytes": 97968,
+          "width": 512,
+          "height": 457,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 419570,
+              "lossy90": 97968
+            }
+          },
+          "kind": "cover_front",
+          "path": "VTBJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Teleroboxer (Japan, USA) (En).png",
+              "source_sha256": "d64ca1bf57dc3660c598ce77192efbabc4fbe814bb0fec87281aed55ffd56dde",
+              "source_bytes": 557648,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 419570,
+                  "lossy90": 97968
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "7e7d0a3dcf48fa19031d991d4bc57d731ff1a4dd5f78b4a6eafe376a23aa328a",
+          "bytes": 103694,
+          "width": 512,
+          "height": 513,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 437372,
+              "lossy90": 103694
+            }
+          },
+          "kind": "cover_front",
+          "path": "VTBJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Teleroboxer (Japan, USA).png",
+              "source_sha256": "f6b383fe68e42b48931800fb34ab84de5558af4e8a0f990ba2dea2d1318f589c",
+              "source_bytes": 548666,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 437372,
+                  "lossy90": 103694
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "b226d9ee6905ad2044accdd9184be6e0f745ed0384cabdd250ace934f577f59d",
+          "bytes": 12956,
+          "width": 512,
+          "height": 89,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 28990,
+              "lossy90": 12956
+            }
+          },
+          "kind": "logo",
+          "path": "VTBJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Teleroboxer (Japan, USA) (En).png",
+              "source_sha256": "6c7c37ffc5e0d7345e3bd01f8aff480a807584594f3405de75e1f4adcd0fc391",
+              "source_bytes": 38568,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 28990,
+                  "lossy90": 12956
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ba771406a92a579942d2bcc277de751fc97f3ddcfd3717a470a3ab6051c3933c",
+          "bytes": 5556,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5556,
+              "lossy90": 21252
+            }
+          },
+          "kind": "screenshot",
+          "path": "VTBJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Teleroboxer (Japan, USA) (En).png",
+              "source_sha256": "247daaacd13cecf142d3bd91dad966e0b2e902786ca2690a36cbdfd7a302829c",
+              "source_bytes": 10454,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5556,
+                  "lossy90": 21252
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "ef1b0c307752c822df48856ef8c44e3d2a819c7777cfca1f5c643821d808dcd7",
+          "bytes": 5412,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5412,
+              "lossy90": 17430
+            }
+          },
+          "kind": "screenshot",
+          "path": "VTBJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Teleroboxer (Japan, USA).png",
+              "source_sha256": "72585e3a95ade947bbccb042ae848951cdc80e2c23e46631b15eb78ac18eafcb",
+              "source_bytes": 5568,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5412,
+                  "lossy90": 17430
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ee625217292563e6238924a22d2dca49ef8b4ab04fa0ce80ccbf7449936bb9d1",
+          "bytes": 3676,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3676,
+              "lossy90": 11686
+            }
+          },
+          "kind": "title_screen",
+          "path": "VTBJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Teleroboxer (Japan, USA) (En).png",
+              "source_sha256": "3916b80cbd42917a04c5aa4b8d7aa176dc3a2325e552ed80c9e46b038731071e",
+              "source_bytes": 6809,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3676,
+                  "lossy90": 11686
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "803f66a971dd2cce293497fc8ee300b3e5e2c287fdeeed715070eabc46dea0f2",
+          "bytes": 3678,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3678,
+              "lossy90": 11824
+            }
+          },
+          "kind": "title_screen",
+          "path": "VTBJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Teleroboxer (Japan, USA).png",
+              "source_sha256": "a5dff2d3fc13e2334fc36805d519e4a4e9683b2a8714ac59f216bddc6dc5a98d",
+              "source_bytes": 3749,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3678,
+                  "lossy90": 11824
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Teleroboxer (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VTBJ"
+      ]
+    },
+    "VTRJ": {
+      "serial": "VTRJ",
+      "entries": [
+        {
+          "redump_id": "0019",
+          "entry_id": "0019",
+          "provider": "no-intro",
+          "name": "V-Tetris (Japan) (En)",
+          "serial_raw": "VTRJ",
+          "serials": [
+            "VTRJ"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "0031",
+          "entry_id": "0031",
+          "provider": "no-intro",
+          "name": "Niko-chan Battle (Japan) (Proto)",
+          "serial_raw": "VTRJ",
+          "serials": [
+            "VTRJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "60e374d9b4a4a211a70d6904c13fb95675d3f94171947348dd83e4d61842c2f5",
+          "bytes": 19260,
+          "width": 230,
+          "height": 230,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 22800,
+              "lossy90": 19260
+            }
+          },
+          "kind": "cover_front",
+          "path": "VTRJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Niko-chan Battle (Japan) (Proto).png",
+              "source_sha256": "78d73b8f1060a2ef18bb6240ae5f338cb30c429d4e87a108dad74889c8f8b332",
+              "source_bytes": 26230,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 22800,
+                  "lossy90": 19260
+                }
+              },
+              "redump_id": "0031",
+              "dat_name": "Niko-chan Battle (Japan) (Proto)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "9d72144384804db3ebb69dfbec639301576f2174c25ad55dde2896f95e84fd73",
+          "bytes": 56782,
+          "width": 512,
+          "height": 515,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 309490,
+              "lossy90": 56782
+            }
+          },
+          "kind": "cover_front",
+          "path": "VTRJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/V-Tetris (Japan).png",
+              "source_sha256": "c27ff7b2dab2a34378f046c04e6d10c558049d7c43aaa32f4a4b6c4de76ddc43",
+              "source_bytes": 379090,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 309490,
+                  "lossy90": 56782
+                }
+              },
+              "redump_id": "0019",
+              "dat_name": "V-Tetris (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "6eb0e1b58926a6bb0934404e6995319b205249e3f78d5ca20c2da979a230177d",
+          "bytes": 9304,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9304,
+              "lossy90": 9962
+            }
+          },
+          "kind": "screenshot",
+          "path": "VTRJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Niko-chan Battle (Japan) (Proto).png",
+              "source_sha256": "4ec078a78e1e888dce783909e21d3913b9001ade1d167dc75249f018bbd451a5",
+              "source_bytes": 11140,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9304,
+                  "lossy90": 9962
+                }
+              },
+              "redump_id": "0031",
+              "dat_name": "Niko-chan Battle (Japan) (Proto)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "cf6daddfaefb9ea50284e9a8be142ba5eb4a2a17e5060cae63b60c75f6e24c39",
+          "bytes": 1766,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1766,
+              "lossy90": 7708
+            }
+          },
+          "kind": "screenshot",
+          "path": "VTRJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/V-Tetris (Japan).png",
+              "source_sha256": "53977c1070fbcfc100819591e689e3b5e793277a1dcaae529a602ed22de76847",
+              "source_bytes": 1823,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1766,
+                  "lossy90": 7708
+                }
+              },
+              "redump_id": "0019",
+              "dat_name": "V-Tetris (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "33f05f87a6826f7f75f06f91c1dc809f1e6864be3e6ddde7ff27712815da0a5d",
+          "bytes": 15452,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 18584,
+              "lossy90": 15452
+            }
+          },
+          "kind": "title_screen",
+          "path": "VTRJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Niko-chan Battle (Japan) (Proto).png",
+              "source_sha256": "b76d63360f2311933defe758a5aea602f673c699effc0e1b19fa1459aceb6c14",
+              "source_bytes": 21890,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 18584,
+                  "lossy90": 15452
+                }
+              },
+              "redump_id": "0031",
+              "dat_name": "Niko-chan Battle (Japan) (Proto)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "b267a660acbb6ebc54ce7dae7b685a55ae46573305c30f5b943e239237b346c1",
+          "bytes": 2562,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2562,
+              "lossy90": 9896
+            }
+          },
+          "kind": "title_screen",
+          "path": "VTRJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/V-Tetris (Japan).png",
+              "source_sha256": "8cd824078f2d738cb37855f40fcc87d2243dc2c29bc852b2bb97eb628104db28",
+              "source_bytes": 2955,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2562,
+                  "lossy90": 9896
+                }
+              },
+              "redump_id": "0019",
+              "dat_name": "V-Tetris (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VTRJ"
+      ]
+    },
+    "VVBJ": {
+      "serial": "VVBJ",
+      "entries": [
+        {
+          "redump_id": "0022",
+          "entry_id": "0022",
+          "provider": "no-intro",
+          "name": "Virtual Bowling (Japan) (En)",
+          "serial_raw": "VVBJ",
+          "serials": [
+            "VVBJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "77348928e33480fa1fc708b315f105cb43b2357b43a2d2d956953d22def7b17b",
+          "bytes": 85582,
+          "width": 512,
+          "height": 494,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 385988,
+              "lossy90": 85582
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVBJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Bowling (Japan).png",
+              "source_sha256": "46e72c1e27866bf695d2cc5eeff554855c767afb1ae5d7b0c5d70f2a64d30a1c",
+              "source_bytes": 493641,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 385988,
+                  "lossy90": 85582
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Virtual Bowling (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "9c8227e5f341dd57366869404ac3c4a1eb35e81d826acdf933a7e10149915ba1",
+          "bytes": 14182,
+          "width": 400,
+          "height": 156,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 24028,
+              "lossy90": 14182
+            }
+          },
+          "kind": "logo",
+          "path": "VVBJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Virtual Bowling (Japan).png",
+              "source_sha256": "e9bd8276acec98f4678651ae83a0afdaec7d835d517d73794f3c53eeb8942c1b",
+              "source_bytes": 35785,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 24028,
+                  "lossy90": 14182
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Virtual Bowling (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "50d7d0fa01ff256197639bddb3e59829f4df1638203b9060466abc829dd9b6fe",
+          "bytes": 3618,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3618,
+              "lossy90": 11430
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVBJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Bowling (Japan).png",
+              "source_sha256": "628b9126c53782146f1b8a500e01ffa7cf2e859a84d0fb9a0fb640942ee5ad22",
+              "source_bytes": 3876,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3618,
+                  "lossy90": 11430
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Virtual Bowling (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8ff94087ce43f9a906bec262be987b72827e16b9b0844a623aaf164630b769aa",
+          "bytes": 2520,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2520,
+              "lossy90": 12616
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVBJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Bowling (Japan).png",
+              "source_sha256": "db7e4fff62d16c3bb225859acd76f5b68b05ff17cbb7a2d0355810c7ba06c680",
+              "source_bytes": 2780,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2520,
+                  "lossy90": 12616
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Virtual Bowling (Japan) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVBJ"
+      ]
+    },
+    "VVFJ": {
+      "serial": "VVFJ",
+      "entries": [
+        {
+          "redump_id": "0024",
+          "entry_id": "0024",
+          "provider": "no-intro",
+          "name": "Virtual Fishing (Japan)",
+          "serial_raw": "VVFJ",
+          "serials": [
+            "VVFJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2021cb397a9066c647c7631f18e393f3da2c21b38a61d8384af735f2274d299d",
+          "bytes": 44568,
+          "width": 512,
+          "height": 506,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 266472,
+              "lossy90": 44568
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVFJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Fishing (Japan).png",
+              "source_sha256": "17109e77b9a1b979d6eb7e73c4e42c903e816de5512e5dc4a7cff05d0a0b3c97",
+              "source_bytes": 345814,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 266472,
+                  "lossy90": 44568
+                }
+              },
+              "redump_id": "0024",
+              "dat_name": "Virtual Fishing (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e11a47c2c12142279875c5eff9897346c36adefabf4f459c0a2e277115d64728",
+          "bytes": 6306,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6306,
+              "lossy90": 21918
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVFJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Fishing (Japan).png",
+              "source_sha256": "d204fe4a5b312c2eed4d2d98a480a8975302f19d5f4fb04419f066f77d336466",
+              "source_bytes": 6384,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6306,
+                  "lossy90": 21918
+                }
+              },
+              "redump_id": "0024",
+              "dat_name": "Virtual Fishing (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9c4a6575ebeedfb615d6c6dcb83e2a5ed68a32e095da05f1fc09ae49fafaf9d5",
+          "bytes": 5038,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5038,
+              "lossy90": 15356
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVFJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Fishing (Japan).png",
+              "source_sha256": "ae8ec8aa9e6468917bcc8ba910778935b8bb5393531c1d1864dff86b2088383c",
+              "source_bytes": 5208,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5038,
+                  "lossy90": 15356
+                }
+              },
+              "redump_id": "0024",
+              "dat_name": "Virtual Fishing (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVFJ"
+      ]
+    },
+    "VVGE": {
+      "serial": "VVGE",
+      "entries": [
+        {
+          "redump_id": "0003",
+          "entry_id": "0003",
+          "provider": "no-intro",
+          "name": "Golf (USA)",
+          "serial_raw": "VVGE",
+          "serials": [
+            "VVGE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f4e18d31d4b59e3af7903dfc8524aff444102ecfe4702e12c05b12209e9934e6",
+          "bytes": 37750,
+          "width": 512,
+          "height": 366,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 196338,
+              "lossy90": 37750
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVGE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Golf (USA).png",
+              "source_sha256": "823684040c3d1267a28077459e82bfc91d5576cf2bc0419eea35b4570d1e004b",
+              "source_bytes": 281167,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 196338,
+                  "lossy90": 37750
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Golf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "622cef191cad1615bb89e9074edb7d2c55090424bb1cffd59417cae8893bc978",
+          "bytes": 22560,
+          "width": 512,
+          "height": 169,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 87222,
+              "lossy90": 22560
+            }
+          },
+          "kind": "logo",
+          "path": "VVGE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Golf (USA).png",
+              "source_sha256": "245838efa6778d8ffd98550d4e174bca0916504064f4263b358eb2ef3747a83c",
+              "source_bytes": 128735,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 87222,
+                  "lossy90": 22560
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Golf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f707884d849935e938074cae73f3117fa1c944b52fb08df3ce486c04d806616e",
+          "bytes": 2260,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2260,
+              "lossy90": 8708
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVGE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Golf (USA).png",
+              "source_sha256": "08d8e64d7fa2f559216f38b2c8472b71f2e8cdb2421f80d15213561a5d776b48",
+              "source_bytes": 2433,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2260,
+                  "lossy90": 8708
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Golf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7ab6e91d12bb419248e41b8c35b0c7de5d8ae7c432bfbe18a9d9ad928b319bd9",
+          "bytes": 6406,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6406,
+              "lossy90": 16370
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVGE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Golf (USA).png",
+              "source_sha256": "3e6b63fb8108cf2337b2ead1df9d4677f880c19df7ea4f2f3fe574b41a464497",
+              "source_bytes": 6691,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6406,
+                  "lossy90": 16370
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Golf (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVGE"
+      ]
+    },
+    "VVGJ": {
+      "serial": "VVGJ",
+      "entries": [
+        {
+          "redump_id": "0016",
+          "entry_id": "0016",
+          "provider": "no-intro",
+          "name": "T&E Virtual Golf (Japan)",
+          "serial_raw": "VVGJ",
+          "serials": [
+            "VVGJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "754e5ca5c86c2571811b2b78058bc535d889925ee0aaa7d2b67802dc20b78108",
+          "bytes": 78240,
+          "width": 512,
+          "height": 506,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 331416,
+              "lossy90": 78240
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVGJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/T_E Virtual Golf (Japan).png",
+              "source_sha256": "ded91b39a3700fae881cb24b0548f9d219c8a934962fd6d735c927b766f57641",
+              "source_bytes": 447323,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 331416,
+                  "lossy90": 78240
+                }
+              },
+              "redump_id": "0016",
+              "dat_name": "T&E Virtual Golf (Japan)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "622cef191cad1615bb89e9074edb7d2c55090424bb1cffd59417cae8893bc978",
+          "bytes": 22560,
+          "width": 512,
+          "height": 169,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 87222,
+              "lossy90": 22560
+            }
+          },
+          "kind": "logo",
+          "path": "VVGJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/T_E Virtual Golf (Japan).png",
+              "source_sha256": "82a8d2637d7c27575ee661698468bf0d3e4e3a95a0c823400a3cf3b42523259e",
+              "source_bytes": 14,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 87222,
+                  "lossy90": 22560
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/T_E Virtual Golf (Japan).png",
+                  "target": "Golf (USA).png",
+                  "type": "text_alias",
+                  "sha256": "82a8d2637d7c27575ee661698468bf0d3e4e3a95a0c823400a3cf3b42523259e",
+                  "bytes": 14
+                }
+              ],
+              "resolved_source": "Named_Logos/Golf (USA).png",
+              "resolved_source_sha256": "245838efa6778d8ffd98550d4e174bca0916504064f4263b358eb2ef3747a83c",
+              "resolved_source_bytes": 128735,
+              "redump_id": "0016",
+              "dat_name": "T&E Virtual Golf (Japan)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3ffe83d066a44e3bf707539fbdbce6f387d999a28ff3330604bd1775cc22b4de",
+          "bytes": 2128,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2128,
+              "lossy90": 8372
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVGJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/T_E Virtual Golf (Japan).png",
+              "source_sha256": "09128127e01f4c6b4459790ac1e4470128332cdcec8ac8a9b667c370fb3f709d",
+              "source_bytes": 2268,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2128,
+                  "lossy90": 8372
+                }
+              },
+              "redump_id": "0016",
+              "dat_name": "T&E Virtual Golf (Japan)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "71beeef9dd70ec930a8b66bd81228adbf3d69a0317ec499d30ab4831613cc5b0",
+          "bytes": 6134,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6134,
+              "lossy90": 16606
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVGJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/T_E Virtual Golf (Japan).png",
+              "source_sha256": "689770302b122557b2d3d1fcdd6031568d121f82b782753cedecba89d90401b1",
+              "source_bytes": 6401,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6134,
+                  "lossy90": 16606
+                }
+              },
+              "redump_id": "0016",
+              "dat_name": "T&E Virtual Golf (Japan)",
+              "match": "libretro_escaped"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVGJ"
+      ]
+    },
+    "VVPE": {
+      "serial": "VVPE",
+      "entries": [
+        {
+          "redump_id": "0026",
+          "entry_id": "0026",
+          "provider": "no-intro",
+          "name": "Virtual League Baseball (USA)",
+          "serial_raw": "VVPE",
+          "serials": [
+            "VVPE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9055b0b957cbeabf9837b79f6a8d406e699ef7e81f3b2189e2e4b8bfc4f0c8fb",
+          "bytes": 76684,
+          "width": 512,
+          "height": 506,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 408160,
+              "lossy90": 76684
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVPE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual League Baseball (USA).png",
+              "source_sha256": "5103cd1e61e57ffc4cc5cb738a0ff5ac6bd0cacfa5ca754527821f6cd0823e48",
+              "source_bytes": 470747,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 408160,
+                  "lossy90": 76684
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Virtual League Baseball (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "0bfc4db81929c290e4a8938e7abbd19594cd952d0b7d7e4ae58db505bd0aecdb",
+          "bytes": 43024,
+          "width": 512,
+          "height": 299,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 148398,
+              "lossy90": 43024
+            }
+          },
+          "kind": "logo",
+          "path": "VVPE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Virtual League Baseball (USA).png",
+              "source_sha256": "537c805812da58e83e22e28726b8437857ef92c9cdc1f9ff4e2d6602ab7baed8",
+              "source_bytes": 217906,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 148398,
+                  "lossy90": 43024
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Virtual League Baseball (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "45903fcb37b939511e6afc621f5084588e2a5a47e2b14b6e7c0eb60f0e9e818b",
+          "bytes": 4830,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4830,
+              "lossy90": 14930
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVPE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual League Baseball (USA).png",
+              "source_sha256": "2d4314f6dd613445d91ae0648d9a479822f769ffe355a8657d7f2864f67678a2",
+              "source_bytes": 4999,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4830,
+                  "lossy90": 14930
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Virtual League Baseball (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "176a03cb81eb95f5f8f58634bf74e34c1347023f616bb6b386206c369fd259c6",
+          "bytes": 4454,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4454,
+              "lossy90": 12742
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVPE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual League Baseball (USA).png",
+              "source_sha256": "74851b03bf0f3a70c635ec9feb77be6500bbcd939ea573c1b6662e59497f08a5",
+              "source_bytes": 4937,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4454,
+                  "lossy90": 12742
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Virtual League Baseball (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVPE"
+      ]
+    },
+    "VVPJ": {
+      "serial": "VVPJ",
+      "entries": [
+        {
+          "redump_id": "0027",
+          "entry_id": "0027",
+          "provider": "no-intro",
+          "name": "Virtual Pro Yakyuu '95 (Japan)",
+          "serial_raw": "VVPJ",
+          "serials": [
+            "VVPJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "889f508fa6a91b5e2271a62b97478aa421880c80883389385f52fcdb69810554",
+          "bytes": 77750,
+          "width": 512,
+          "height": 514,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 356874,
+              "lossy90": 77750
+            }
+          },
+          "kind": "cover_front",
+          "path": "VVPJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Pro Yakyuu '95 (Japan).png",
+              "source_sha256": "1278ce4e0838552e710e813c36169854d3390576e22c32f3435eaff635891e00",
+              "source_bytes": 450219,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 356874,
+                  "lossy90": 77750
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Virtual Pro Yakyuu '95 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "0bfc4db81929c290e4a8938e7abbd19594cd952d0b7d7e4ae58db505bd0aecdb",
+          "bytes": 43024,
+          "width": 512,
+          "height": 299,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 148398,
+              "lossy90": 43024
+            }
+          },
+          "kind": "logo",
+          "path": "VVPJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Virtual Pro Yakyuu '95 (Japan).png",
+              "source_sha256": "0fa5bfea61b5f50db82ee66f44063ae3d184d99298556c900ce6df9d5c1a2121",
+              "source_bytes": 33,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 148398,
+                  "lossy90": 43024
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Virtual Pro Yakyuu '95 (Japan).png",
+                  "target": "Virtual League Baseball (USA).png",
+                  "type": "text_alias",
+                  "sha256": "0fa5bfea61b5f50db82ee66f44063ae3d184d99298556c900ce6df9d5c1a2121",
+                  "bytes": 33
+                }
+              ],
+              "resolved_source": "Named_Logos/Virtual League Baseball (USA).png",
+              "resolved_source_sha256": "537c805812da58e83e22e28726b8437857ef92c9cdc1f9ff4e2d6602ab7baed8",
+              "resolved_source_bytes": 217906,
+              "redump_id": "0027",
+              "dat_name": "Virtual Pro Yakyuu '95 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "82257e7010c43880bfdfdcc4953fe174ad2e74260d5e012578baef09543c2ee6",
+          "bytes": 4950,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4950,
+              "lossy90": 15424
+            }
+          },
+          "kind": "screenshot",
+          "path": "VVPJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Pro Yakyuu '95 (Japan).png",
+              "source_sha256": "a7344dc6722a82aff11e7eb44e80c6b98c1a557978af78b2172d00903703105e",
+              "source_bytes": 5111,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4950,
+                  "lossy90": 15424
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Virtual Pro Yakyuu '95 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "d7e422296ce205c970e32b9420aadf0180374b03309df95cce95d9662e14b6bd",
+          "bytes": 4262,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4262,
+              "lossy90": 11102
+            }
+          },
+          "kind": "title_screen",
+          "path": "VVPJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Pro Yakyuu '95 (Japan).png",
+              "source_sha256": "a4a23cfe4c1fd8033dbf3ccfc84abce4e9791dc159d56ea288ef928f10f8b13a",
+              "source_bytes": 4509,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4262,
+                  "lossy90": 11102
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Virtual Pro Yakyuu '95 (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VVPJ"
+      ]
+    },
+    "VWCJ": {
+      "serial": "VWCJ",
+      "entries": [
+        {
+          "redump_id": "0023",
+          "entry_id": "0023",
+          "provider": "no-intro",
+          "name": "Virtual Boy Wario Land (Japan, USA) (En)",
+          "serial_raw": "VWCJ",
+          "serials": [
+            "VWCJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "cfb617ec4f2ca859fc614b0c96afcbe00d250d8de391da3dfea4d2722a5f9ae7",
+          "bytes": 87466,
+          "width": 512,
+          "height": 457,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 390040,
+              "lossy90": 87466
+            }
+          },
+          "kind": "cover_front",
+          "path": "VWCJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Boy Wario Land (Japan, USA) (En).png",
+              "source_sha256": "c460196d60690c02bd59b2b7581eb4ee9516323753311a8dfc3d474347e08b98",
+              "source_bytes": 544967,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 390040,
+                  "lossy90": 87466
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "bd1723c49dbc1e54f53f8528ef2747b0824c4bff0ad8856110960302595e6120",
+          "bytes": 117616,
+          "width": 512,
+          "height": 513,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 503696,
+              "lossy90": 117616
+            }
+          },
+          "kind": "cover_front",
+          "path": "VWCJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Virtual Boy Wario Land (Japan, USA).png",
+              "source_sha256": "e6999133cc5557c15448774f77268f1b398a16c41ce2d85a10de63a46c2df3e1",
+              "source_bytes": 578841,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 503696,
+                  "lossy90": 117616
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "08968c22f4a101733e8334475aa85cbd89d91fa5f6fc365ef9800dd1cf24277c",
+          "bytes": 2254,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2254,
+              "lossy90": 11464
+            }
+          },
+          "kind": "screenshot",
+          "path": "VWCJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Boy Wario Land (Japan, USA) (En).png",
+              "source_sha256": "a4944d04703c264f9c356817478dfebaf38d0a293f420f0bb46976ce5ba06993",
+              "source_bytes": 4733,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2254,
+                  "lossy90": 11464
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "fc7984e8da55a5e69f269e108aa3b030587b9c6deddcd3040104d0ca2e9b9279",
+          "bytes": 2466,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2466,
+              "lossy90": 10380
+            }
+          },
+          "kind": "screenshot",
+          "path": "VWCJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtual Boy Wario Land (Japan, USA).png",
+              "source_sha256": "9d6acbd76e25c5dc313d47e3954da4b1023d67f934f629ed4665fec0f91e8d70",
+              "source_bytes": 2589,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2466,
+                  "lossy90": 10380
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7c6ebd9cd180dd738e311068737d0d8bf62747b16fc495793e493211b897294c",
+          "bytes": 5682,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5682,
+              "lossy90": 21598
+            }
+          },
+          "kind": "title_screen",
+          "path": "VWCJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Boy Wario Land (Japan, USA) (En).png",
+              "source_sha256": "4b41e349f4bf709d49abc07d8ddc9f52f73b389907b70cf5c5d3a45d39eb44a4",
+              "source_bytes": 10551,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5682,
+                  "lossy90": 21598
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "58b7a72dbb00553da0e3fbff42edfddb5fd099a84345df19c369f38d2da5d292",
+          "bytes": 5780,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5780,
+              "lossy90": 20508
+            }
+          },
+          "kind": "title_screen",
+          "path": "VWCJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtual Boy Wario Land (Japan, USA).png",
+              "source_sha256": "25de22701c5fabbafd8499f4315eae5b71b9e22274687f6c7908a68a6f2307bb",
+              "source_bytes": 5893,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5780,
+                  "lossy90": 20508
+                }
+              },
+              "redump_id": "0023",
+              "dat_name": "Virtual Boy Wario Land (Japan, USA) (En)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VWCJ"
+      ]
+    },
+    "VWEE": {
+      "serial": "VWEE",
+      "entries": [
+        {
+          "redump_id": "0028",
+          "entry_id": "0028",
+          "provider": "no-intro",
+          "name": "Waterworld (USA)",
+          "serial_raw": "VWEE",
+          "serials": [
+            "VWEE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "046bac59ce0e253f8254fe65a72f6ad093e36e0a53ae735335a4e92b7115decf",
+          "bytes": 80822,
+          "width": 512,
+          "height": 505,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 430412,
+              "lossy90": 80822
+            }
+          },
+          "kind": "cover_front",
+          "path": "VWEE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Waterworld (USA).png",
+              "source_sha256": "8f475d896ad65947909d0cfd4a03d1cdf857c043e1b9e2803bedf63fe4077327",
+              "source_bytes": 483183,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 430412,
+                  "lossy90": 80822
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Waterworld (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "033b80e59d43118379093ef17b786f9e3b7360931e9d1838df0c57eff7116a67",
+          "bytes": 2936,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2936,
+              "lossy90": 8926
+            }
+          },
+          "kind": "screenshot",
+          "path": "VWEE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Waterworld (USA).png",
+              "source_sha256": "53f177e8a14ee5f0ec73304eb40eb13f8e1b36cf6659e7b5b0888b32d1404b05",
+              "source_bytes": 3185,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2936,
+                  "lossy90": 8926
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Waterworld (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "470eddb73e85c106c138034e4179a8ef2a145553335e391404695940c2c4eb49",
+          "bytes": 2580,
+          "width": 384,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2580,
+              "lossy90": 10264
+            }
+          },
+          "kind": "title_screen",
+          "path": "VWEE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Waterworld (USA).png",
+              "source_sha256": "b08d15b586bac1f5b0b8f42c50b4daf0c7499b0cd7b67a778bb0a53cfae88974",
+              "source_bytes": 2898,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2580,
+                  "lossy90": 10264
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Waterworld (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VWEE"
+      ]
+    }
+  }
+}
