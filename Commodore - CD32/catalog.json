@@ -1,0 +1,2222 @@
+{
+  "schema_version": 2,
+  "system": "Commodore - CD32",
+  "dat": {
+    "file": "e8f14819fc5e4b8b9e6d2123bb0e88df89d316827050774884dee96bd56d2620.dat",
+    "sha256": "e8f14819fc5e4b8b9e6d2123bb0e88df89d316827050774884dee96bd56d2620",
+    "version": "2026-10-14 05-50-17",
+    "system": "Commodore - Amiga CD32",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "-CS090023": {
+      "serial": "-CS090023",
+      "entries": [
+        {
+          "redump_id": "106443",
+          "entry_id": "106443",
+          "provider": "redump",
+          "name": "Fury of the Furries (Europe)",
+          "serial_raw": "/CS090023",
+          "serials": [
+            "/CS090023"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "aed422c3c4894073763767d96ab704935de597cb0b471d1055d96dd0c5497173",
+          "bytes": 59556,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 113890,
+              "lossy90": 59556
+            }
+          },
+          "kind": "cover_front",
+          "path": "-CS090023/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Fury of the Furries (Europe).png",
+              "source_sha256": "5138edf57699faf251efccba67689060d5ebdf17819801d9e834050dd624158f",
+              "source_bytes": 132757,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 113890,
+                  "lossy90": 59556
+                }
+              },
+              "redump_id": "106443",
+              "dat_name": "Fury of the Furries (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "d6c0c5df8e43a2c10beba1865b988dc46737b0ad74b2767cc507393ea758a608",
+          "bytes": 14934,
+          "width": 512,
+          "height": 74,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 14934,
+              "lossy90": 30294
+            }
+          },
+          "kind": "logo",
+          "path": "-CS090023/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Fury of the Furries (Europe).png",
+              "source_sha256": "0be5722cb3cac852cbba6cabc996780f825516a5cdd0c5663da501d707a6ddc7",
+              "source_bytes": 26627,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 14934,
+                  "lossy90": 30294
+                }
+              },
+              "redump_id": "106443",
+              "dat_name": "Fury of the Furries (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "428b3df4d2481c5f10bfd1f67737638202c409076f94c070c01854b00f60f480",
+          "bytes": 4304,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4304,
+              "lossy90": 15700
+            }
+          },
+          "kind": "screenshot",
+          "path": "-CS090023/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Fury of the Furries (Europe).png",
+              "source_sha256": "224ed6480aa5f626e2145cdc2bfbaa01e26f490127645edd17f9e56e6f2f8596",
+              "source_bytes": 4398,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4304,
+                  "lossy90": 15700
+                }
+              },
+              "redump_id": "106443",
+              "dat_name": "Fury of the Furries (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "fdd8d6211a100ce62c6e44c530b295986c1547e968725e9856ed645020f8e841",
+          "bytes": 32024,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 34082,
+              "lossy90": 32024
+            }
+          },
+          "kind": "title_screen",
+          "path": "-CS090023/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Fury of the Furries (Europe).png",
+              "source_sha256": "dff853f015c75ab839a6c6338eb1a65cee5cb0ec936607a97f3e387055de3778",
+              "source_bytes": 36404,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 34082,
+                  "lossy90": 32024
+                }
+              },
+              "redump_id": "106443",
+              "dat_name": "Fury of the Furries (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/CS090023"
+      ]
+    },
+    "-DP130001": {
+      "serial": "-DP130001",
+      "entries": [
+        {
+          "redump_id": "3125",
+          "entry_id": "3125",
+          "provider": "redump",
+          "name": "D-Generation (Europe)",
+          "serial_raw": "/DP130001",
+          "serials": [
+            "/DP130001"
+          ],
+          "category": "Games",
+          "version": "1.0"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "79394be2edcc9ea766fe91aebf3a8d2c3d040eca434ae6367c5dfa2c49759861",
+          "bytes": 74396,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 144114,
+              "lossy90": 74396
+            }
+          },
+          "kind": "cover_front",
+          "path": "-DP130001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/D-Generation (Europe).png",
+              "source_sha256": "280f48e70c16d2d27bc555ccd47f5427d3fb4967c22d6256633bb141d0aa810e",
+              "source_bytes": 177366,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 144114,
+                  "lossy90": 74396
+                }
+              },
+              "redump_id": "3125",
+              "dat_name": "D-Generation (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "46f297a7e08e1711ce70fd75c2f4ac1d94c64537d06017f0889f8da667067984",
+          "bytes": 26228,
+          "width": 512,
+          "height": 145,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 26228,
+              "lossy90": 27486
+            }
+          },
+          "kind": "logo",
+          "path": "-DP130001/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/D-Generation (Europe).png",
+              "source_sha256": "1812bda66448295d66415076cd34fe416b2d36d2562ce2767cd79bd788d83b67",
+              "source_bytes": 48566,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 26228,
+                  "lossy90": 27486
+                }
+              },
+              "redump_id": "3125",
+              "dat_name": "D-Generation (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "697dfe80b4243891a944d5fa92381ec6c91ec55a29cd75e55c1274b7af8ac7ce",
+          "bytes": 5438,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5438,
+              "lossy90": 13854
+            }
+          },
+          "kind": "screenshot",
+          "path": "-DP130001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/D-Generation (Europe).png",
+              "source_sha256": "dbca23a8e8b4e5a78df4610795c1cc041aed6a7997f467f7689d7b2f5ca47175",
+              "source_bytes": 5719,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5438,
+                  "lossy90": 13854
+                }
+              },
+              "redump_id": "3125",
+              "dat_name": "D-Generation (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8b37f6c82ad3ebc57f1c6623c840be47573b51fa6df896e8a169e42ca8ac605b",
+          "bytes": 2464,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2464,
+              "lossy90": 6640
+            }
+          },
+          "kind": "title_screen",
+          "path": "-DP130001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/D-Generation (Europe).png",
+              "source_sha256": "d23dd561d07f8afee040ac097b525cea36deff0eb06fff075862de943085b15e",
+              "source_bytes": 2751,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2464,
+                  "lossy90": 6640
+                }
+              },
+              "redump_id": "3125",
+              "dat_name": "D-Generation (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/DP130001"
+      ]
+    },
+    "-DP130002": {
+      "serial": "-DP130002",
+      "entries": [
+        {
+          "redump_id": "3097",
+          "entry_id": "3097",
+          "provider": "redump",
+          "name": "Overkill & Lunar-C (Europe)",
+          "serial_raw": "/DP130002",
+          "serials": [
+            "/DP130002"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c5f842bceea609b019e8951bed55d513f412bf83879919a4330d8d41c7ae4a13",
+          "bytes": 70342,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 123278,
+              "lossy90": 70342
+            }
+          },
+          "kind": "cover_front",
+          "path": "-DP130002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Overkill _ Lunar-C (Europe).png",
+              "source_sha256": "de871a243ca524a2617803cbd74a3f06d2a2e30c5870940c4d7901f9a1b59d5a",
+              "source_bytes": 146915,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 123278,
+                  "lossy90": 70342
+                }
+              },
+              "redump_id": "3097",
+              "dat_name": "Overkill & Lunar-C (Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "7a55ef2fecfcc33c0686cf7dc8bd92b050f79cc22f8b3ba3770ced57d7b297b8",
+          "bytes": 17444,
+          "width": 400,
+          "height": 145,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 19474,
+              "lossy90": 17444
+            }
+          },
+          "kind": "logo",
+          "path": "-DP130002/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Overkill _ Lunar-C (Europe).png",
+              "source_sha256": "79299b28b6fd671e9497f1b942f05308a65d61e265137f464b96a0c849f830a5",
+              "source_bytes": 21254,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 19474,
+                  "lossy90": 17444
+                }
+              },
+              "redump_id": "3097",
+              "dat_name": "Overkill & Lunar-C (Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "9043becf476d2542063b2fb836142df5669560a7a972f3ed48a91e3c8435befa",
+          "bytes": 11226,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11226,
+              "lossy90": 23338
+            }
+          },
+          "kind": "screenshot",
+          "path": "-DP130002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Overkill _ Lunar-C (Europe).png",
+              "source_sha256": "601d5dab36ef111637bded81c2f534327e9600a25866b6c0ba7f006f4ebb0469",
+              "source_bytes": 14315,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11226,
+                  "lossy90": 23338
+                }
+              },
+              "redump_id": "3097",
+              "dat_name": "Overkill & Lunar-C (Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6d565e4d291601170b656ca59335663b9ee301323b8181e2e5a43149c8f4c763",
+          "bytes": 16854,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 16854,
+              "lossy90": 27928
+            }
+          },
+          "kind": "title_screen",
+          "path": "-DP130002/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Overkill _ Lunar-C (Europe).png",
+              "source_sha256": "a77abd06f1f95354c1177be5796a8e50003d46d29936fd2998bfd574d103e90a",
+              "source_bytes": 17299,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 16854,
+                  "lossy90": 27928
+                }
+              },
+              "redump_id": "3097",
+              "dat_name": "Overkill & Lunar-C (Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/DP130002"
+      ]
+    },
+    "-DP130003": {
+      "serial": "-DP130003",
+      "entries": [
+        {
+          "redump_id": "3344",
+          "entry_id": "3344",
+          "provider": "redump",
+          "name": "Alfred Chicken (Europe)",
+          "serial_raw": "/DP130003",
+          "serials": [
+            "/DP130003"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "271c472987ac9f08ce840a7097e0c7db090918c973670a19d261b316a2d5dbf2",
+          "bytes": 81530,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 121672,
+              "lossy90": 81530
+            }
+          },
+          "kind": "cover_front",
+          "path": "-DP130003/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Alfred Chicken (Europe).png",
+              "source_sha256": "f190c0a240d05ec3afd890d9546d041ca3af3940455c944f7709c57aeb1a5835",
+              "source_bytes": 137386,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 121672,
+                  "lossy90": 81530
+                }
+              },
+              "redump_id": "3344",
+              "dat_name": "Alfred Chicken (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "6905bce09fdc225de34160e02017123a4e3f693bfe3087dc0108651d2b4816da",
+          "bytes": 17922,
+          "width": 400,
+          "height": 115,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 19206,
+              "lossy90": 17922
+            }
+          },
+          "kind": "logo",
+          "path": "-DP130003/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Alfred Chicken (Europe).png",
+              "source_sha256": "467bb7fbab1b8411bdf10db268d89e54ee7d65c813cc8b3e939ca13972bc6bea",
+              "source_bytes": 22890,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 19206,
+                  "lossy90": 17922
+                }
+              },
+              "redump_id": "3344",
+              "dat_name": "Alfred Chicken (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "57eb2608934b25d498ed22e5ac6a5777c11e3435f17b911bbd6d6c03fd2fadd5",
+          "bytes": 5094,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5094,
+              "lossy90": 17578
+            }
+          },
+          "kind": "screenshot",
+          "path": "-DP130003/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Alfred Chicken (Europe).png",
+              "source_sha256": "f018d3788c3e46884b81fc6b5cf15156de581752deacc5846080d6e2556f495d",
+              "source_bytes": 5131,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5094,
+                  "lossy90": 17578
+                }
+              },
+              "redump_id": "3344",
+              "dat_name": "Alfred Chicken (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7eb979b9060ac987cd0b62b4b8a74500fda835659b78198fe6b9efa884d260e8",
+          "bytes": 5928,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5928,
+              "lossy90": 18284
+            }
+          },
+          "kind": "title_screen",
+          "path": "-DP130003/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Alfred Chicken (Europe).png",
+              "source_sha256": "8fb1193869e8aeb78b1dad1d14e215e7f358e3cce9d6781f2ea3321c3f0d9ece",
+              "source_bytes": 6128,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5928,
+                  "lossy90": 18284
+                }
+              },
+              "redump_id": "3344",
+              "dat_name": "Alfred Chicken (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/DP130003"
+      ]
+    },
+    "-DP130004": {
+      "serial": "-DP130004",
+      "entries": [
+        {
+          "redump_id": "29260",
+          "entry_id": "29260",
+          "provider": "redump",
+          "name": "Liberation - Captive II (Europe) (Rev 2)",
+          "serial_raw": "/DP130004",
+          "serials": [
+            "/DP130004"
+          ],
+          "category": "Games",
+          "version": "Ratt V2.00c : Wyvern V2.00c"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f5f37bd36af29345b57d4d9b94c8620e065cd969c7dc3f53d781d0828c31b9f3",
+          "bytes": 57570,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 135866,
+              "lossy90": 57570
+            }
+          },
+          "kind": "cover_front",
+          "path": "-DP130004/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Liberation - Captive II (Europe) (Rev 2).png",
+              "source_sha256": "71d1d8b7cd744e9822c61d02aa933e501b02bd66c7b9fb673b07b14db7701095",
+              "source_bytes": 158638,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 135866,
+                  "lossy90": 57570
+                }
+              },
+              "redump_id": "29260",
+              "dat_name": "Liberation - Captive II (Europe) (Rev 2)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "11400352771b92f3aac98a171ec4a78f535fa8d2b4554abbe0b70216c72041b3",
+          "bytes": 10266,
+          "width": 512,
+          "height": 102,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 14322,
+              "lossy90": 10266
+            }
+          },
+          "kind": "logo",
+          "path": "-DP130004/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Liberation - Captive II (Europe) (Rev 2).png",
+              "source_sha256": "f50ab1811ef2c2b3eddcf69808a9297eb10d4c9b1f82c54987613accf512424a",
+              "source_bytes": 26554,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 14322,
+                  "lossy90": 10266
+                }
+              },
+              "redump_id": "29260",
+              "dat_name": "Liberation - Captive II (Europe) (Rev 2)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "861366ff5732be75884e4857705ce59be2c3528a97effd55cdf029055368d526",
+          "bytes": 11384,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11384,
+              "lossy90": 30786
+            }
+          },
+          "kind": "screenshot",
+          "path": "-DP130004/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Liberation - Captive II (Europe) (Rev 2).png",
+              "source_sha256": "fef7cd3dcee452e8b9bcef4121210f771705d5a1d6d9aff4f0e3d673b72a97aa",
+              "source_bytes": 12136,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11384,
+                  "lossy90": 30786
+                }
+              },
+              "redump_id": "29260",
+              "dat_name": "Liberation - Captive II (Europe) (Rev 2)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "cad2df13b0f2f0651f8a8a84fe8e7585484a52b6fa730f56805111ca06dfac12",
+          "bytes": 670,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 670,
+              "lossy90": 4052
+            }
+          },
+          "kind": "title_screen",
+          "path": "-DP130004/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Liberation - Captive II (Europe) (Rev 2).png",
+              "source_sha256": "d8353ea69524a2b8213b672028ad20d05a00ee87d2bb0b46e721a081c3d72866",
+              "source_bytes": 822,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 670,
+                  "lossy90": 4052
+                }
+              },
+              "redump_id": "29260",
+              "dat_name": "Liberation - Captive II (Europe) (Rev 2)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/DP130004"
+      ]
+    },
+    "-DP130020": {
+      "serial": "-DP130020",
+      "entries": [
+        {
+          "redump_id": "3134",
+          "entry_id": "3134",
+          "provider": "redump",
+          "name": "Pierre Le Chef Is ... Out to Lunch (Europe)",
+          "serial_raw": "/DP130020",
+          "serials": [
+            "/DP130020"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9c202a8625c45e63062d9c2bc7afdcdcf201f0a97141ddd8763a38e7630dfb68",
+          "bytes": 83568,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 120182,
+              "lossy90": 83568
+            }
+          },
+          "kind": "cover_front",
+          "path": "-DP130020/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pierre Le Chef Is ... Out to Lunch (Europe).png",
+              "source_sha256": "95e5b9ffe5ef0f0a6772e76cf8b327c772ff4186d5e162ed2f3bcaaf1154312f",
+              "source_bytes": 136920,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 120182,
+                  "lossy90": 83568
+                }
+              },
+              "redump_id": "3134",
+              "dat_name": "Pierre Le Chef Is ... Out to Lunch (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "217ad158d5ba03c186afd3e8b32101516f0fd6d7d7ad1c6d4c7e81cd4d71a6e6",
+          "bytes": 25858,
+          "width": 400,
+          "height": 119,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 64154,
+              "lossy90": 25858
+            }
+          },
+          "kind": "logo",
+          "path": "-DP130020/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pierre Le Chef Is ... Out to Lunch (Europe).png",
+              "source_sha256": "f6a6d9ec583464c8627bc366903d561f11a3c11ada51f9415a7093a40e91de73",
+              "source_bytes": 75626,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 64154,
+                  "lossy90": 25858
+                }
+              },
+              "redump_id": "3134",
+              "dat_name": "Pierre Le Chef Is ... Out to Lunch (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "dbe2bdb6e5442728311f3e532369b4a710e90fa7e46a975b7055d11871b6548c",
+          "bytes": 7414,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7414,
+              "lossy90": 24310
+            }
+          },
+          "kind": "screenshot",
+          "path": "-DP130020/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pierre Le Chef Is ... Out to Lunch (Europe).png",
+              "source_sha256": "f58b6bfc5c13650ce4dbf8cbb98e5b62a9fa5c12ce27386ceb138a0ca3268757",
+              "source_bytes": 7661,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7414,
+                  "lossy90": 24310
+                }
+              },
+              "redump_id": "3134",
+              "dat_name": "Pierre Le Chef Is ... Out to Lunch (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "bdb4b0be226b78c143439b6a9b77901628fe72a2dc19a8ca7bfe0a83d5696736",
+          "bytes": 3102,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3102,
+              "lossy90": 12798
+            }
+          },
+          "kind": "title_screen",
+          "path": "-DP130020/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pierre Le Chef Is ... Out to Lunch (Europe).png",
+              "source_sha256": "9617d1bd7c8c160c010d8a5fa1cf9aea3375b31d2f8d9105687c7f0148c412fb",
+              "source_bytes": 3287,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3102,
+                  "lossy90": 12798
+                }
+              },
+              "redump_id": "3134",
+              "dat_name": "Pierre Le Chef Is ... Out to Lunch (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "/DP130020"
+      ]
+    },
+    "BTLCD32-1": {
+      "serial": "BTLCD32-1",
+      "entries": [
+        {
+          "redump_id": "106417",
+          "entry_id": "106417",
+          "provider": "redump",
+          "name": "Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)",
+          "serial_raw": "BTLCD32-1",
+          "serials": [
+            "BTLCD32-1"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "60978d995dd6101c7efe638ec49701dc72bf407142efaaaf3452f06dc4213aea",
+          "bytes": 82544,
+          "width": 512,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 139990,
+              "lossy90": 82544
+            }
+          },
+          "kind": "cover_front",
+          "path": "BTLCD32-1/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM).png",
+              "source_sha256": "7f419f7ccb22d3b4b4ca9e400cabd0e1ccead544afda43e85584df963748489a",
+              "source_bytes": 166123,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 139990,
+                  "lossy90": 82544
+                }
+              },
+              "redump_id": "106417",
+              "dat_name": "Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "3b2341e095284317537914c4e91c351f35bc44aec09ee5b77dc14221abd6f4a1",
+          "bytes": 17802,
+          "width": 512,
+          "height": 261,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 17802,
+              "lossy90": 18372
+            }
+          },
+          "kind": "logo",
+          "path": "BTLCD32-1/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM).png",
+              "source_sha256": "ecab956f1c90b4493bca88f11a7fcce43163e03f87981036eb807e7e10e77c5f",
+              "source_bytes": 24174,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 17802,
+                  "lossy90": 18372
+                }
+              },
+              "redump_id": "106417",
+              "dat_name": "Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "c764b39edbf4574b10631def3a424e7e1ba7420e52b94b6dc5614e424bc6c145",
+          "bytes": 12192,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 12192,
+              "lossy90": 26112
+            }
+          },
+          "kind": "screenshot",
+          "path": "BTLCD32-1/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM).png",
+              "source_sha256": "da1debe675063de4531edb88c444df9f6daf28e25f95f501a8a9b7b1e6e187ab",
+              "source_bytes": 12557,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12192,
+                  "lossy90": 26112
+                }
+              },
+              "redump_id": "106417",
+              "dat_name": "Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b7406ccb16070fc44090d4e029ff99d1a7c3524f4fe0c4f1ea15704f830c3e99",
+          "bytes": 4156,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4156,
+              "lossy90": 10082
+            }
+          },
+          "kind": "title_screen",
+          "path": "BTLCD32-1/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM).png",
+              "source_sha256": "b24db996bad4b1f2509b45d22bb4f42ba47ce950ff6510d7294013eaa2d6be3e",
+              "source_bytes": 4274,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4156,
+                  "lossy90": 10082
+                }
+              },
+              "redump_id": "106417",
+              "dat_name": "Brian the Lion (Europe) (En,Fr,De,It) (Gameplay CD-ROM)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "BTLCD32-1"
+      ]
+    },
+    "CD32-7002": {
+      "serial": "CD32-7002",
+      "entries": [
+        {
+          "redump_id": "111683",
+          "entry_id": "111683",
+          "provider": "redump",
+          "name": "Guinness Disc of Records, The - Second Edition (UK)",
+          "serial_raw": "CD32-7002",
+          "serials": [
+            "CD32-7002"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e2f63432bb7c72f2343b9c2167ae19b5092be52bc5a83c538ab44ed58412462e",
+          "bytes": 48444,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 92414,
+              "lossy90": 48444
+            }
+          },
+          "kind": "cover_front",
+          "path": "CD32-7002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Guinness Disc of Records, The - Second Edition (UK).png",
+              "source_sha256": "72c6808fbbddab4ab807d026b3a85ad5b40f63f9e099c12c832f417754056f27",
+              "source_bytes": 115261,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 92414,
+                  "lossy90": 48444
+                }
+              },
+              "redump_id": "111683",
+              "dat_name": "Guinness Disc of Records, The - Second Edition (UK)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "893d349105691f8e914300116d24f6e7064798bcfc6d100bce820fe563d1b6fa",
+          "bytes": 107910,
+          "width": 640,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 107910,
+              "lossy90": 125994
+            }
+          },
+          "kind": "screenshot",
+          "path": "CD32-7002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Guinness Disc of Records, The - Second Edition (UK).png",
+              "source_sha256": "82a52ce9831da09d7bdfe7f803eedd630c569eee1cdea6495d41e1364ea0427b",
+              "source_bytes": 121537,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 107910,
+                  "lossy90": 125994
+                }
+              },
+              "redump_id": "111683",
+              "dat_name": "Guinness Disc of Records, The - Second Edition (UK)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "cb82e8665f7f57926e6f945ae7d9c3c2b0b976dce3e328b566e568364485ace2",
+          "bytes": 151810,
+          "width": 640,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 177016,
+              "lossy90": 151810
+            }
+          },
+          "kind": "title_screen",
+          "path": "CD32-7002/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Guinness Disc of Records, The - Second Edition (UK).png",
+              "source_sha256": "6a5b882c9df1cdf96cc3da812d9415d39ea79d68d4cfe626bff6e2018e740340",
+              "source_bytes": 192594,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 177016,
+                  "lossy90": 151810
+                }
+              },
+              "redump_id": "111683",
+              "dat_name": "Guinness Disc of Records, The - Second Edition (UK)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CD32-7002"
+      ]
+    },
+    "CD32-S009": {
+      "serial": "CD32-S009",
+      "entries": [
+        {
+          "redump_id": "35899",
+          "entry_id": "35899",
+          "provider": "redump",
+          "name": "Karaoke - Julsanger I (Sweden)",
+          "serial_raw": "CD32-S009",
+          "serials": [
+            "CD32-S009"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "bdadbbb3e43d0586f82b558e5fc304637fb7204b390a6e862f34e7b93e413578",
+          "bytes": 4194,
+          "width": 640,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4194,
+              "lossy90": 34636
+            }
+          },
+          "kind": "screenshot",
+          "path": "CD32-S009/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Karaoke - Julsanger I (Sweden).png",
+              "source_sha256": "32616c88ebdbdb120abdfdee9d4f3e544d2d4b9f7153e9da5d0cdf2dd5dbe0a9",
+              "source_bytes": 6585,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4194,
+                  "lossy90": 34636
+                }
+              },
+              "redump_id": "35899",
+              "dat_name": "Karaoke - Julsanger I (Sweden)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ce7d24fc0613bb5ab4918bb5ec7512f2e64d9f6ed91df32f46b5b9879473b7d6",
+          "bytes": 12378,
+          "width": 640,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 12378,
+              "lossy90": 95888
+            }
+          },
+          "kind": "title_screen",
+          "path": "CD32-S009/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Karaoke - Julsanger I (Sweden).png",
+              "source_sha256": "ab6b75d9a3316a64ece9e284f234c822e0569d1788c8885b5151b3408f788c12",
+              "source_bytes": 17629,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12378,
+                  "lossy90": 95888
+                }
+              },
+              "redump_id": "35899",
+              "dat_name": "Karaoke - Julsanger I (Sweden)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CD32-S009"
+      ]
+    },
+    "CS090088": {
+      "serial": "CS090088",
+      "entries": [
+        {
+          "redump_id": "31362",
+          "entry_id": "31362",
+          "provider": "redump",
+          "name": "Theme Park (Europe) (En,Fr,De,It)",
+          "serial_raw": "CS090088",
+          "serials": [
+            "CS090088"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "75d29fe449daea06bcaa684f095a97fe79e6c414a8f4fe6e22fc3387a362cb12",
+          "bytes": 67728,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 120038,
+              "lossy90": 67728
+            }
+          },
+          "kind": "cover_front",
+          "path": "CS090088/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Theme Park (Europe) (En,Fr,De,It).png",
+              "source_sha256": "9f30df5576f431d52da25ab4c6756d4699671616a17cd2fca552df0773e86040",
+              "source_bytes": 143798,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 120038,
+                  "lossy90": 67728
+                }
+              },
+              "redump_id": "31362",
+              "dat_name": "Theme Park (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "37d6975a21c9d652ab166ec9b27835aac62ca1f327f2dc91f27fab25fb108fd0",
+          "bytes": 5086,
+          "width": 512,
+          "height": 128,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 8590,
+              "lossy90": 5086
+            }
+          },
+          "kind": "logo",
+          "path": "CS090088/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Theme Park (Europe) (En,Fr,De,It).png",
+              "source_sha256": "a19e1d1a23c5ef6a1d7ae7866f424098b383a53b85df68183792de0ce1f2a90f",
+              "source_bytes": 22836,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 8590,
+                  "lossy90": 5086
+                }
+              },
+              "redump_id": "31362",
+              "dat_name": "Theme Park (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "b590e8dcac6e6c5a083fe7b2aeca20854d324a5b478542b4b1dada46b27b15ca",
+          "bytes": 10804,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10804,
+              "lossy90": 35186
+            }
+          },
+          "kind": "screenshot",
+          "path": "CS090088/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Theme Park (Europe) (En,Fr,De,It).png",
+              "source_sha256": "56e1e53cff25aef103ecc08b1ead66e691cbffbeff9af2a41ebe4c61b39f2f1e",
+              "source_bytes": 11336,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10804,
+                  "lossy90": 35186
+                }
+              },
+              "redump_id": "31362",
+              "dat_name": "Theme Park (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "52ae9f8dafd68d8cc82d81cee5a00d50e48db080bdf8f670909c6b1bc24b3c8c",
+          "bytes": 6590,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6590,
+              "lossy90": 25140
+            }
+          },
+          "kind": "title_screen",
+          "path": "CS090088/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Theme Park (Europe) (En,Fr,De,It).png",
+              "source_sha256": "023396c16dda88d859003f269c479a9b954c72ea25e225be0e20ca4165a89815",
+              "source_bytes": 6140,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6590,
+                  "lossy90": 25140
+                }
+              },
+              "redump_id": "31362",
+              "dat_name": "Theme Park (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CS090088"
+      ]
+    },
+    "MCODEMO32": {
+      "serial": "MCODEMO32",
+      "entries": [
+        {
+          "redump_id": "122302",
+          "entry_id": "122302",
+          "provider": "redump",
+          "name": "Microcosm (Europe) (Demo)",
+          "serial_raw": "MCODEMO32",
+          "serials": [
+            "MCODEMO32"
+          ],
+          "category": "Demos",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6f6dfc91796de37bb0f9d8a6846eed127cc25564bdb9b7d47e1f363bd77281b7",
+          "bytes": 46578,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 111990,
+              "lossy90": 46578
+            }
+          },
+          "kind": "cover_front",
+          "path": "MCODEMO32/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Microcosm (Europe) (Demo).png",
+              "source_sha256": "146e581695b0c6766a7c3c92f1703bf823fb2bbbad1fa1916fecc335e9385a9b",
+              "source_bytes": 129774,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 111990,
+                  "lossy90": 46578
+                }
+              },
+              "redump_id": "122302",
+              "dat_name": "Microcosm (Europe) (Demo)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "570b7373c41064a7bc64f39f46d6ba9d57977caf7ad0ccf8675d9d94db16c48c",
+          "bytes": 9270,
+          "width": 400,
+          "height": 99,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9270,
+              "lossy90": 11972
+            }
+          },
+          "kind": "logo",
+          "path": "MCODEMO32/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Microcosm (Europe) (Demo).png",
+              "source_sha256": "c1c3ccc7588ad2f3d3e67b0d54b3ab2f6854c250115630665d489e84de64365d",
+              "source_bytes": 11469,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9270,
+                  "lossy90": 11972
+                }
+              },
+              "redump_id": "122302",
+              "dat_name": "Microcosm (Europe) (Demo)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "22b080544f54186878cd6e59d736a9f5f7931c727b2362379b431ff2a9493a08",
+          "bytes": 19322,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 19322,
+              "lossy90": 22938
+            }
+          },
+          "kind": "screenshot",
+          "path": "MCODEMO32/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Microcosm (Europe) (Demo).png",
+              "source_sha256": "402c0b61833bcda63f67aec906fc89d8f8c673bc867218dfb22fec240e73d262",
+              "source_bytes": 20458,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 19322,
+                  "lossy90": 22938
+                }
+              },
+              "redump_id": "122302",
+              "dat_name": "Microcosm (Europe) (Demo)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8096ebb94775ba38233cb6f756679eeaff313c22bf82e6e809b79cbd00b4b381",
+          "bytes": 8764,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 11580,
+              "lossy90": 8764
+            }
+          },
+          "kind": "title_screen",
+          "path": "MCODEMO32/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Microcosm (Europe) (Demo).png",
+              "source_sha256": "6cf800cca742dda56112d8d92eb0d4762e6951deb4cea9ed76e42218a1296ba9",
+              "source_bytes": 13130,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 11580,
+                  "lossy90": 8764
+                }
+              },
+              "redump_id": "122302",
+              "dat_name": "Microcosm (Europe) (Demo)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "MCODEMO32"
+      ]
+    },
+    "SSI 1": {
+      "serial": "SSI 1",
+      "entries": [
+        {
+          "redump_id": "29179",
+          "entry_id": "29179",
+          "provider": "redump",
+          "name": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)",
+          "serial_raw": "SSI 1",
+          "serials": [
+            "SSI 1"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "b41e006422ead057d66755302d5f084c3ab3dcc21a64a97cc2b58bd3be42164a",
+          "bytes": 101260,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 149104,
+              "lossy90": 101260
+            }
+          },
+          "kind": "cover_front",
+          "path": "SSI 1/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sensible Soccer - European Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "239bc99d0244bcf0d02d496d5c93200999f058953594225e40b816d5f5f3b020",
+              "source_bytes": 179532,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 149104,
+                  "lossy90": 101260
+                }
+              },
+              "redump_id": "29179",
+              "dat_name": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "1e01e0b28151fc3edafbabed656568918cf3a3215ece959da24cf1d26011ebfe",
+          "bytes": 11192,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11192,
+              "lossy90": 20246
+            }
+          },
+          "kind": "logo",
+          "path": "SSI 1/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Sensible Soccer - European Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "269cbb6e705c00e1f83b80c203512fd353797e7836cc6197e050a8a2c4591dfa",
+              "source_bytes": 12533,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11192,
+                  "lossy90": 20246
+                }
+              },
+              "redump_id": "29179",
+              "dat_name": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "1767a36f3b69900afca4ba9c1a415a0173d9b929eb99aa099ec68c142506bbba",
+          "bytes": 2440,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2440,
+              "lossy90": 30628
+            }
+          },
+          "kind": "screenshot",
+          "path": "SSI 1/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Sensible Soccer - European Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "1bbb0bcd115441006081f8f48cb91a2396ba60438d09cc9b981ad79ea33f7b63",
+              "source_bytes": 2254,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2440,
+                  "lossy90": 30628
+                }
+              },
+              "redump_id": "29179",
+              "dat_name": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "e3027e2caa6eb21a4d5a3ed187b143f7f87fb18fbcfa88db430dcc28435854c5",
+          "bytes": 3342,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3342,
+              "lossy90": 13706
+            }
+          },
+          "kind": "title_screen",
+          "path": "SSI 1/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Sensible Soccer - European Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "25e1804b43d3e05a488f7df9605e8c9500fd223cc108f282c3c250c1114d30a0",
+              "source_bytes": 3628,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3342,
+                  "lossy90": 13706
+                }
+              },
+              "redump_id": "29179",
+              "dat_name": "Sensible Soccer - European Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SSI 1"
+      ]
+    },
+    "SSI 2": {
+      "serial": "SSI 2",
+      "entries": [
+        {
+          "redump_id": "20102",
+          "entry_id": "20102",
+          "provider": "redump",
+          "name": "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)",
+          "serial_raw": "SSI 2",
+          "serials": [
+            "SSI 2"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "aff378dfdd42fde28a8325378b46a1cda16fb0ec8c6eaf3f591bdd76a87ea0ea",
+          "bytes": 96780,
+          "width": 512,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 150444,
+              "lossy90": 96780
+            }
+          },
+          "kind": "cover_front",
+          "path": "SSI 2/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "e50ff44e2ed579709b8000ed3bfecd0601339fcd4294a0ede1dd72a8acd27693",
+              "source_bytes": 176264,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 150444,
+                  "lossy90": 96780
+                }
+              },
+              "redump_id": "20102",
+              "dat_name": "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "d46a8272c733b60ea891e729606585506467330138768a11135a9d9566922932",
+          "bytes": 27076,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 49538,
+              "lossy90": 27076
+            }
+          },
+          "kind": "logo",
+          "path": "SSI 2/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "15f530806b31d630242fd4e915b36f9ed1116cd6d08f337013ffcee4519e4729",
+              "source_bytes": 68436,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 49538,
+                  "lossy90": 27076
+                }
+              },
+              "redump_id": "20102",
+              "dat_name": "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "fcc4d3ea77dc8b3b5912c4627eaf3a6feca6c40b311c7def9deda0435e2c9662",
+          "bytes": 2170,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2170,
+              "lossy90": 19916
+            }
+          },
+          "kind": "screenshot",
+          "path": "SSI 2/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "95d0b08fef64ed64a2ce636a6d816d2b56a08318ddb57a7e560faa388c6305ba",
+              "source_bytes": 1963,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2170,
+                  "lossy90": 19916
+                }
+              },
+              "redump_id": "20102",
+              "dat_name": "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "17787d5935ad933715d90b06a491485c33719603c165f87cf36defe5335fb0e6",
+          "bytes": 3560,
+          "width": 320,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3560,
+              "lossy90": 15112
+            }
+          },
+          "kind": "title_screen",
+          "path": "SSI 2/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).png",
+              "source_sha256": "b4bc7053c0640b41caefdb8d6049ea9c39edbeea03688e0577f9f1c4ffd261bc",
+              "source_bytes": 3861,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3560,
+                  "lossy90": 15112
+                }
+              },
+              "redump_id": "20102",
+              "dat_name": "International Sensible Soccer - World Champions (Europe) (En,Fr,De,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SSI 2"
+      ]
+    }
+  }
+}

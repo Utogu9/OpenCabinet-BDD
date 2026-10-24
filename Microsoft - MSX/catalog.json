@@ -1,0 +1,1154 @@
+{
+  "schema_version": 2,
+  "system": "Microsoft - MSX",
+  "dat": {
+    "file": "2940dc4a0ba53c78f43380be1a87932872721096ead154193b23d62ca48d1ae2.dat",
+    "sha256": "2940dc4a0ba53c78f43380be1a87932872721096ead154193b23d62ca48d1ae2",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Microsoft - MSX (20260618-055428).dat",
+      "standard_sha256": "6ecc125a132359e99589b917ed9be85908708ffc0f899af93731e4b91ea940b0",
+      "db_members": {
+        "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+      }
+    },
+    "version": "20260618-055428",
+    "system": "Microsoft - MSX",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "GPM-104": {
+      "serial": "GPM-104",
+      "entries": [
+        {
+          "redump_id": "0197",
+          "entry_id": "0197",
+          "provider": "no-intro",
+          "name": "Casio Pachinko-U.F.O. (Japan)",
+          "serial_raw": "GPM-104",
+          "serials": [
+            "GPM-104"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "GPM-104",
+                "field": "media_serial1",
+                "source_id": "974",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e1761a3e883872d069c46a47413377d0720d151800569fd2bbe3aefe98b2a143",
+          "bytes": 47342,
+          "width": 512,
+          "height": 694,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 285528,
+              "lossy90": 47342
+            }
+          },
+          "kind": "cover_front",
+          "path": "GPM-104/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Casio Pachinko-U.F.O. (Japan).png",
+              "source_sha256": "4e7e2ee679f0bf29ccf0a1d6c68bd42c4c2d8dd716646fc6701e3dce2a50c57b",
+              "source_bytes": 429584,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 285528,
+                  "lossy90": 47342
+                }
+              },
+              "redump_id": "0197",
+              "dat_name": "Casio Pachinko-U.F.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "159288e1408210ef994652c2680e827f2407e3c3b85d43eb80a2ebe3ec0bd885",
+          "bytes": 11494,
+          "width": 400,
+          "height": 178,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 26092,
+              "lossy90": 11494
+            }
+          },
+          "kind": "logo",
+          "path": "GPM-104/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Casio Pachinko-U.F.O. (Japan).png",
+              "source_sha256": "f186855f2d6bdfc347a0705204c0ab5469056f589f0e07a45615fe1b908c2d04",
+              "source_bytes": 35502,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 26092,
+                  "lossy90": 11494
+                }
+              },
+              "redump_id": "0197",
+              "dat_name": "Casio Pachinko-U.F.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "6b526640412362fffeb8fc573263fd7bf3d35969702cfd16af728f180c2e3d28",
+          "bytes": 2756,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2756,
+              "lossy90": 24280
+            }
+          },
+          "kind": "screenshot",
+          "path": "GPM-104/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Casio Pachinko-U.F.O. (Japan).png",
+              "source_sha256": "7deda576841905e3eb74623bb684358a76f60374c16534a9c8c249357ece418b",
+              "source_bytes": 3699,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2756,
+                  "lossy90": 24280
+                }
+              },
+              "redump_id": "0197",
+              "dat_name": "Casio Pachinko-U.F.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a616d15454610ee3a5bcf5ee9ca1f0aab1f530cdebc9aa12a12ce959150ae0e0",
+          "bytes": 658,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 658,
+              "lossy90": 7072
+            }
+          },
+          "kind": "title_screen",
+          "path": "GPM-104/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Casio Pachinko-U.F.O. (Japan).png",
+              "source_sha256": "640fbaf70f28bd6d213ef696c06d99a27dacd958f0fdd2e698896461cae5d8b4",
+              "source_bytes": 16303,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 658,
+                  "lossy90": 7072
+                }
+              },
+              "redump_id": "0197",
+              "dat_name": "Casio Pachinko-U.F.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GPM-104"
+      ]
+    },
+    "HBS-G020C": {
+      "serial": "HBS-G020C",
+      "entries": [
+        {
+          "redump_id": "0565",
+          "entry_id": "0565",
+          "provider": "no-intro",
+          "name": "Lode Runner (Japan)",
+          "serial_raw": "HBS-G020C",
+          "serials": [
+            "HBS-G020C"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "HBS-G020C",
+                "field": "media_serial1",
+                "source_id": "970",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2f14340e5e1010f8c2db7cb451904d3e945abd819e969a2902b1f895f0eba24f",
+          "bytes": 119374,
+          "width": 512,
+          "height": 504,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 446384,
+              "lossy90": 119374
+            }
+          },
+          "kind": "cover_front",
+          "path": "HBS-G020C/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Lode Runner (Japan).png",
+              "source_sha256": "20feeacd4069dc747ac968dd0d44edea4c14796e97d161c2c698f1148fba2d26",
+              "source_bytes": 671595,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 446384,
+                  "lossy90": 119374
+                }
+              },
+              "redump_id": "0565",
+              "dat_name": "Lode Runner (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "191f38fa24f1cb350eecb211ad33d64d84efc2cf2fa2f1bc3e8aa9f168d83353",
+          "bytes": 13540,
+          "width": 512,
+          "height": 85,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 17006,
+              "lossy90": 13540
+            }
+          },
+          "kind": "logo",
+          "path": "HBS-G020C/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Lode Runner (Japan).png",
+              "source_sha256": "ce4ab35785bded0ceaebc86916f33d09c373d96589efd20ef46942ef1dc4c696",
+              "source_bytes": 26717,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 17006,
+                  "lossy90": 13540
+                }
+              },
+              "redump_id": "0565",
+              "dat_name": "Lode Runner (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e81e047c8f9fd4976821d0d9b9f5f4da9d911361a6019eaa801e34e8291afd19",
+          "bytes": 1076,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1076,
+              "lossy90": 17174
+            }
+          },
+          "kind": "screenshot",
+          "path": "HBS-G020C/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Lode Runner (Japan).png",
+              "source_sha256": "549755e847dc1a1e79e7f3e78bcba5236226ff9932289ab2c02034796773ef7c",
+              "source_bytes": 15938,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1076,
+                  "lossy90": 17174
+                }
+              },
+              "redump_id": "0565",
+              "dat_name": "Lode Runner (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6481e816ba5dde8db6d028722bead878529dc965e58033934d5f19ade157f160",
+          "bytes": 1576,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1576,
+              "lossy90": 14388
+            }
+          },
+          "kind": "title_screen",
+          "path": "HBS-G020C/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Lode Runner (Japan).png",
+              "source_sha256": "19c6b264e41a1dbc03a9b656bddc2afe829f00336e1aa1f3da8ea20527b59df0",
+              "source_bytes": 2170,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1576,
+                  "lossy90": 14388
+                }
+              },
+              "redump_id": "0565",
+              "dat_name": "Lode Runner (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "HBS-G020C"
+      ]
+    },
+    "HBS-G021C": {
+      "serial": "HBS-G021C",
+      "entries": [
+        {
+          "redump_id": "0843",
+          "entry_id": "0843",
+          "provider": "no-intro",
+          "name": "Super Soccer (Japan)",
+          "serial_raw": "HBS-G021C",
+          "serials": [
+            "HBS-G021C"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "HBS-G021C",
+                "field": "media_serial1",
+                "source_id": "972",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "54e64bdb3017c2fa3d5484b3ba8cb7eabb47b821f5fa7cc797cbc9f2b5f138af",
+          "bytes": 62594,
+          "width": 512,
+          "height": 511,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 288208,
+              "lossy90": 62594
+            }
+          },
+          "kind": "cover_front",
+          "path": "HBS-G021C/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Super Soccer (Japan).png",
+              "source_sha256": "a28e86be9bc1570989f50a9ec1d344d4cbda6f2c748e82611f14d72c824be0e5",
+              "source_bytes": 483521,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 288208,
+                  "lossy90": 62594
+                }
+              },
+              "redump_id": "0843",
+              "dat_name": "Super Soccer (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "ba45d356a961d7506f3fff597313530da31ba97512d4ba83420025e31ae91480",
+          "bytes": 22396,
+          "width": 400,
+          "height": 178,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 22396,
+              "lossy90": 23608
+            }
+          },
+          "kind": "logo",
+          "path": "HBS-G021C/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Super Soccer (Japan).png",
+              "source_sha256": "51e9624c3323b92024954498cfbc2947f35a7ae13b62c2477907b04de874d5fa",
+              "source_bytes": 43039,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 22396,
+                  "lossy90": 23608
+                }
+              },
+              "redump_id": "0843",
+              "dat_name": "Super Soccer (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ca06fb1644758c25c6d80284ea75c32f0c9e7a2dfd4e8ef22d4b4e3f401bf976",
+          "bytes": 2678,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2678,
+              "lossy90": 21214
+            }
+          },
+          "kind": "screenshot",
+          "path": "HBS-G021C/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Super Soccer (Japan).png",
+              "source_sha256": "128d1edc752ecc096e7d0ae13902fa981e8a60ca63a7305a70dca4aecc0341fe",
+              "source_bytes": 3728,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2678,
+                  "lossy90": 21214
+                }
+              },
+              "redump_id": "0843",
+              "dat_name": "Super Soccer (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2d02e7b4ecd57682eb43f5bc4d882bb397b05da9679aeb980377820776030f66",
+          "bytes": 966,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 966,
+              "lossy90": 10204
+            }
+          },
+          "kind": "title_screen",
+          "path": "HBS-G021C/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Super Soccer (Japan).png",
+              "source_sha256": "d6d3fef1c9e3374382ec10cb6f3a7e53d581a01a8d8729df78d89ac38c904914",
+              "source_bytes": 15832,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 966,
+                  "lossy90": 10204
+                }
+              },
+              "redump_id": "0843",
+              "dat_name": "Super Soccer (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "HBS-G021C"
+      ]
+    },
+    "HM-001": {
+      "serial": "HM-001",
+      "entries": [
+        {
+          "redump_id": "0821",
+          "entry_id": "0821",
+          "provider": "no-intro",
+          "name": "Step Up (Japan)",
+          "serial_raw": "HM-001",
+          "serials": [
+            "HM-001"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "HM-001",
+                "field": "media_serial1",
+                "source_id": "976",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "04e7ed1b602ff72b86eab40b8659f31b748d98f28b552a9bb4d5ef4dd18dc51b",
+          "bytes": 73244,
+          "width": 484,
+          "height": 680,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 346866,
+              "lossy90": 73244
+            }
+          },
+          "kind": "cover_front",
+          "path": "HM-001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Step Up (Japan).png",
+              "source_sha256": "e4948d45e26ed74e0d9846fb8fa69dc07141c0040fe8d24fe8115544cb88ca1d",
+              "source_bytes": 531981,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 346866,
+                  "lossy90": 73244
+                }
+              },
+              "redump_id": "0821",
+              "dat_name": "Step Up (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "3897ccbf6f71ec96d237a7a18df32d1867cd97a946aa18238bfd8d6bb5d15e3c",
+          "bytes": 4198,
+          "width": 512,
+          "height": 128,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4198,
+              "lossy90": 4238
+            }
+          },
+          "kind": "logo",
+          "path": "HM-001/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Step Up (Japan).png",
+              "source_sha256": "4fa92a161d0395cb10cbedac788ddf84e68380b4f2447c740df4096323de79b3",
+              "source_bytes": 8688,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4198,
+                  "lossy90": 4238
+                }
+              },
+              "redump_id": "0821",
+              "dat_name": "Step Up (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "9b7f02318151e6d7e507bdc7f9d645a5dab675e7cefd570079ecd4d9c7dfbb27",
+          "bytes": 1254,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1254,
+              "lossy90": 19342
+            }
+          },
+          "kind": "screenshot",
+          "path": "HM-001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Step Up (Japan).png",
+              "source_sha256": "5e1a4d2f65f99b66e56bfee2f15598f21cf01503a8f742c49fa437f1f89a6766",
+              "source_bytes": 16206,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1254,
+                  "lossy90": 19342
+                }
+              },
+              "redump_id": "0821",
+              "dat_name": "Step Up (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "4aad90498d060da81769d6ce8f263a8e66a24bf1b9dfedf7c228bfcd7c341f89",
+          "bytes": 730,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 730,
+              "lossy90": 8314
+            }
+          },
+          "kind": "title_screen",
+          "path": "HM-001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Step Up (Japan).png",
+              "source_sha256": "e08098308f0d9186c5c7264aae6a47c6a46bf5ca9947db47d798928e6321c7d9",
+              "source_bytes": 15520,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 730,
+                  "lossy90": 8314
+                }
+              },
+              "redump_id": "0821",
+              "dat_name": "Step Up (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "HM-001"
+      ]
+    },
+    "HM-015": {
+      "serial": "HM-015",
+      "entries": [
+        {
+          "redump_id": "0757",
+          "entry_id": "0757",
+          "provider": "no-intro",
+          "name": "Roller Ball (Japan)",
+          "serial_raw": "HM-015",
+          "serials": [
+            "HM-015"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "HM-015",
+                "field": "media_serial1",
+                "source_id": "971",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e987f9f499b91c38a525c19a3e191697d45cc4d46380d6a3cc53246d57fa6fe8",
+          "bytes": 97126,
+          "width": 484,
+          "height": 680,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 491030,
+              "lossy90": 97126
+            }
+          },
+          "kind": "cover_front",
+          "path": "HM-015/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Roller Ball (Japan).png",
+              "source_sha256": "6f520ec0f5a69a312d51d997ccb5945b778595b6fb83ddce5d4fd0f3f93ad0b4",
+              "source_bytes": 636690,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 491030,
+                  "lossy90": 97126
+                }
+              },
+              "redump_id": "0757",
+              "dat_name": "Roller Ball (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a3bc13ebf9241534946823a69c7b771bb90e7c9793fdef7a89fd99a2d3788df3",
+          "bytes": 5752,
+          "width": 512,
+          "height": 108,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5752,
+              "lossy90": 8110
+            }
+          },
+          "kind": "logo",
+          "path": "HM-015/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Roller Ball (Japan).png",
+              "source_sha256": "7c1b8daed7440b068a2daba718013d387f78e6baf45cad6c93243ea4f5f0fa5a",
+              "source_bytes": 14536,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5752,
+                  "lossy90": 8110
+                }
+              },
+              "redump_id": "0757",
+              "dat_name": "Roller Ball (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "c1bd95d3dabf1495470e5683109f8284c1e6812ee414baf634f28d46e130207c",
+          "bytes": 3712,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3712,
+              "lossy90": 34150
+            }
+          },
+          "kind": "screenshot",
+          "path": "HM-015/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Roller Ball (Japan).png",
+              "source_sha256": "635f6a348e597c4869b7cc83536b4b9155d3c882922b55d6f09d92eedd36a299",
+              "source_bytes": 4713,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3712,
+                  "lossy90": 34150
+                }
+              },
+              "redump_id": "0757",
+              "dat_name": "Roller Ball (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "0622da667ce4213d72521bcd81a9c11e125d52d59251d2ca3e1017b9083215ef",
+          "bytes": 2398,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2398,
+              "lossy90": 22072
+            }
+          },
+          "kind": "title_screen",
+          "path": "HM-015/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Roller Ball (Japan).png",
+              "source_sha256": "1df00faba787d6559d57051daee8827475d02b695b0f3fce90898a8e0eb4f2b9",
+              "source_bytes": 3043,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2398,
+                  "lossy90": 22072
+                }
+              },
+              "redump_id": "0757",
+              "dat_name": "Roller Ball (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "HM-015"
+      ]
+    },
+    "R48X5505": {
+      "serial": "R48X5505",
+      "entries": [
+        {
+          "redump_id": "0423",
+          "entry_id": "0423",
+          "provider": "no-intro",
+          "name": "H.E.R.O. (Japan)",
+          "serial_raw": "R48X5505",
+          "serials": [
+            "R48X5505"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "R48X5505",
+                "field": "media_serial1",
+                "source_id": "982",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Microsoft - MSX (DB Export) (20260618-055428).xml",
+                "member_sha256": "06082d8cb803e851d277ff1f1289338939e103e209ab2ad4ffd882bd39631e7a"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c6e1f1cc87b98c103fd491b8d960e3f6da0155339e6add8228980abe5363eb98",
+          "bytes": 87920,
+          "width": 484,
+          "height": 680,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 427074,
+              "lossy90": 87920
+            }
+          },
+          "kind": "cover_front",
+          "path": "R48X5505/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/H.E.R.O. (Japan).png",
+              "source_sha256": "89b639fb7c5411cf4a0f745b132b88f202540bbc2a9abdeaa1bcbe105789ec45",
+              "source_bytes": 647994,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 427074,
+                  "lossy90": 87920
+                }
+              },
+              "redump_id": "0423",
+              "dat_name": "H.E.R.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "befabbbebfffaed693e361993c541be9c65bfed974dec4d844af5845e704a58d",
+          "bytes": 6536,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6536,
+              "lossy90": 60436
+            }
+          },
+          "kind": "screenshot",
+          "path": "R48X5505/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/H.E.R.O. (Japan).png",
+              "source_sha256": "7a4042e2af0a075977104b452da6cf8fbb71d5420583ad5a2171876c5a8c286b",
+              "source_bytes": 7310,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6536,
+                  "lossy90": 60436
+                }
+              },
+              "redump_id": "0423",
+              "dat_name": "H.E.R.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "c44e4a39d5e64dbfef802c5cb9ef52a357795a007545acab2f8a799a8cf84055",
+          "bytes": 6424,
+          "width": 512,
+          "height": 452,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6424,
+              "lossy90": 57258
+            }
+          },
+          "kind": "title_screen",
+          "path": "R48X5505/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/H.E.R.O. (Japan).png",
+              "source_sha256": "a12013a35acd30b9db2be44debae5019ae27974d63122322736af3f9bd674ab4",
+              "source_bytes": 7251,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6424,
+                  "lossy90": 57258
+                }
+              },
+              "redump_id": "0423",
+              "dat_name": "H.E.R.O. (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "R48X5505"
+      ]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "schema_version": 2,
+  "system": "Commodore - 64",
+  "dat": {
+    "file": "c26ffb1b2c2acf00656b72050ae85b9d3004d4ab3b4b6f7df38def7aad7031d5.dat",
+    "sha256": "c26ffb1b2c2acf00656b72050ae85b9d3004d4ab3b4b6f7df38def7aad7031d5",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Commodore - Commodore 64 (20261014-214312).dat",
+      "standard_sha256": "37c9d334fb88a0dc45ff6a4bd68fb4ba3687760ed35dd7e66324227747008cfd",
+      "db_members": {
+        "No-Intro/Commodore - Commodore 64 (DB Export) (20261014-214312).xml": "021ee199a0e1fcd6884b93f99ae6fff2f96970d47877da193017210308b16594"
+      }
+    },
+    "version": "20261014-214312",
+    "system": "Commodore - Commodore 64",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "C512": {
+      "serial": "C512",
+      "entries": [
+        {
+          "redump_id": "0184",
+          "entry_id": "0184",
+          "provider": "no-intro",
+          "name": "Gridrunner (USA, Europe)",
+          "serial_raw": "C512",
+          "serials": [
+            "C512"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "C512",
+                "field": "media_serial1",
+                "source_id": "354",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Commodore - Commodore 64 (DB Export) (20261014-214312).xml",
+                "member_sha256": "021ee199a0e1fcd6884b93f99ae6fff2f96970d47877da193017210308b16594"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4d37b36c9c9b6321deb79b48da7388167ce2a1dbc2555a8d435dc4579ef0d4ec",
+          "bytes": 43484,
+          "width": 356,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 200180,
+              "lossy90": 43484
+            }
+          },
+          "kind": "cover_front",
+          "path": "C512/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gridrunner (USA, Europe).png",
+              "source_sha256": "1500253517480d23369ca1b0267c12a6b98e8652fe8c8ad5300665d27712ffa2",
+              "source_bytes": 278224,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 200180,
+                  "lossy90": 43484
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "f60151d951ae796fc254a3a762ee6a44b98e009a56dea6d952ea927ebb7d8236",
+          "bytes": 51724,
+          "width": 512,
+          "height": 647,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 254686,
+              "lossy90": 51724
+            }
+          },
+          "kind": "cover_front",
+          "path": "C512/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Grid Runner (Europe).png",
+              "source_sha256": "151ee7b7aba1c766edda4dd9660c174f9040051673ee7fb487dd6400179f1f2d",
+              "source_bytes": 369354,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 254686,
+                  "lossy90": 51724
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "region_included"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "bc816dd3d10e7bf49ee8061926222959ea84e44f32b77c775d5d71f0f0633810",
+          "bytes": 2012,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2012,
+              "lossy90": 6782
+            }
+          },
+          "kind": "logo",
+          "path": "C512/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Grid Runner (Europe).png",
+              "source_sha256": "3cee38370e1183971c92dbe7a01964895bb722219557ae334243ba02fe1cd0b9",
+              "source_bytes": 2513,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2012,
+                  "lossy90": 6782
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "region_included"
+            },
+            {
+              "source": "Named_Logos/Gridrunner (USA, Europe).png",
+              "source_sha256": "3e78b2499ff931803829e840f69e078cbb3f52c28ce135c3451c8167afa104d5",
+              "source_bytes": 24,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2012,
+                  "lossy90": 6782
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Gridrunner (USA, Europe).png",
+                  "target": "Grid Runner (Europe).png",
+                  "type": "text_alias",
+                  "sha256": "3e78b2499ff931803829e840f69e078cbb3f52c28ce135c3451c8167afa104d5",
+                  "bytes": 24
+                }
+              ],
+              "resolved_source": "Named_Logos/Grid Runner (Europe).png",
+              "resolved_source_sha256": "3cee38370e1183971c92dbe7a01964895bb722219557ae334243ba02fe1cd0b9",
+              "resolved_source_bytes": 2513,
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "da0632bf9642d5662f366200a1d4373810be7831ba5274dd67c30e14313f54f6",
+          "bytes": 606,
+          "width": 384,
+          "height": 272,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 606,
+              "lossy90": 22856
+            }
+          },
+          "kind": "screenshot",
+          "path": "C512/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Gridrunner (USA, Europe).png",
+              "source_sha256": "cd25638ee881dd0fbb15bb87156575c04a00bbbfb7c64ef9bc11972f9dd5a3f8",
+              "source_bytes": 15292,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 606,
+                  "lossy90": 22856
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "e6096375fbd4d9c9ae3f88cbd0c1f30ec112c6299e3ecf22b89142cb855de531",
+          "bytes": 1452,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1452,
+              "lossy90": 32282
+            }
+          },
+          "kind": "screenshot",
+          "path": "C512/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Grid Runner (Europe).png",
+              "source_sha256": "8f5c1e78a80e14285e0288a80c17f426955e4ed9af2efbe9c370e6d3e652b015",
+              "source_bytes": 1930,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1452,
+                  "lossy90": 32282
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "region_included"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "e75945fef92960543b2a0f299cd5c57de07a84821bd70f9bfaf142b1f279b11c",
+          "bytes": 662,
+          "width": 384,
+          "height": 272,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 662,
+              "lossy90": 5816
+            }
+          },
+          "kind": "title_screen",
+          "path": "C512/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Gridrunner (USA, Europe).png",
+              "source_sha256": "100901662130cfdc5fd6d0312010c50ed3e452b529071d93f25d2d06d58416a5",
+              "source_bytes": 15330,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 662,
+                  "lossy90": 5816
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "63b89ada7b9219f6431ca962ab5720b2df1589f63db97bf202cc10343e47aee2",
+          "bytes": 674,
+          "width": 320,
+          "height": 200,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 674,
+              "lossy90": 5326
+            }
+          },
+          "kind": "title_screen",
+          "path": "C512/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Grid Runner (Europe).png",
+              "source_sha256": "98e357df28cba56855048e49e3acf39a733604247e081a1ddb072fc34aaae6b8",
+              "source_bytes": 887,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 674,
+                  "lossy90": 5326
+                }
+              },
+              "redump_id": "0184",
+              "dat_name": "Gridrunner (USA, Europe)",
+              "match": "region_included"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "C512"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4431 @@
+{
+  "schema_version": 2,
+  "system": "Atari - 5200",
+  "dat": {
+    "file": "3bf2e51bf76aa5bcb4c299262410f197cd4ae76ccbc30b5f2e18fdec23dc3454.dat",
+    "sha256": "3bf2e51bf76aa5bcb4c299262410f197cd4ae76ccbc30b5f2e18fdec23dc3454",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Atari - Atari 5200 (20260412-121350).dat",
+      "standard_sha256": "2f50d9436637e72cdfacc1ea906e4ea69d2897ddc0c8239f7e016472614e229b",
+      "db_members": {
+        "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+      }
+    },
+    "version": "20260412-121350",
+    "system": "Atari - Atari 5200",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "004-02": {
+      "serial": "004-02",
+      "entries": [
+        {
+          "redump_id": "0091",
+          "entry_id": "0091",
+          "provider": "no-intro",
+          "name": "Star Trek - Strategic Operations Simulator (USA)",
+          "serial_raw": "004-02",
+          "serials": [
+            "004-02"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "004-02",
+                "field": "media_serial1",
+                "source_id": "155",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        },
+        {
+          "redump_id": "0124",
+          "entry_id": "0124",
+          "provider": "no-intro",
+          "name": "Star Trek - Strategic Operations Simulator (USA) (Alt)",
+          "serial_raw": "004-02",
+          "serials": [
+            "004-02"
+          ],
+          "category": "Games",
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "004-02",
+                "field": "media_serial1",
+                "source_id": "164",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "004-02",
+                "field": "media_serial1",
+                "source_id": "165",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1842457e3805b574e14308a6365f3b54f3d6a117927d1babad5471a38419f64d",
+          "bytes": 83622,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 465898,
+              "lossy90": 83622
+            }
+          },
+          "kind": "cover_front",
+          "path": "004-02/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Star Trek - Strategic Operations Simulator (USA).png",
+              "source_sha256": "14ed6f738ed4f3877a253d7ee6a1e75c74c01f355dc03e734a361be64dde868e",
+              "source_bytes": 538841,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 465898,
+                  "lossy90": 83622
+                }
+              },
+              "redump_id": "0091",
+              "dat_name": "Star Trek - Strategic Operations Simulator (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "75f33c91a2b3ba3d5a39bedc56895ead01196e257e54f8fcf79a8742bf7fc31c",
+          "bytes": 432,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 432,
+              "lossy90": 2364
+            }
+          },
+          "kind": "screenshot",
+          "path": "004-02/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Star Trek - Strategic Operations Simulator (USA).png",
+              "source_sha256": "71454225effa71249275bcc34f546bf00fdf35c1df1a9a75c824b3d3656a2fa5",
+              "source_bytes": 15169,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 432,
+                  "lossy90": 2364
+                }
+              },
+              "redump_id": "0091",
+              "dat_name": "Star Trek - Strategic Operations Simulator (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "820f8313d449a906f8f60b974bbfdd8076271221258a4b925be78da27ede2e42",
+          "bytes": 392,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 392,
+              "lossy90": 2110
+            }
+          },
+          "kind": "screenshot",
+          "path": "004-02/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Star Trek - Strategic Operations Simulator (USA) (Alt).png",
+              "source_sha256": "a3d91cbcf78cef45356584697da8fb10d8baf58d195ddbe1524ae6aa72439c7c",
+              "source_bytes": 1568,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 392,
+                  "lossy90": 2110
+                }
+              },
+              "redump_id": "0124",
+              "dat_name": "Star Trek - Strategic Operations Simulator (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2b6d277299cc9343711d30d01446519f93c952602838a2f4ce99d5294d8992b9",
+          "bytes": 758,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 758,
+              "lossy90": 6560
+            }
+          },
+          "kind": "title_screen",
+          "path": "004-02/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Star Trek - Strategic Operations Simulator (USA).png",
+              "source_sha256": "e919bce685b29c68c762e398f77f053a765dfe5d58146d4b59e335339d4ff051",
+              "source_bytes": 15358,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 758,
+                  "lossy90": 6560
+                }
+              },
+              "redump_id": "0091",
+              "dat_name": "Star Trek - Strategic Operations Simulator (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "004-02"
+      ]
+    },
+    "005-02": {
+      "serial": "005-02",
+      "entries": [
+        {
+          "redump_id": "0126",
+          "entry_id": "0126",
+          "provider": "no-intro",
+          "name": "Buck Rogers - Planet of Zoom (USA) (Alt)",
+          "serial_raw": "005-02",
+          "serials": [
+            "005-02"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "005-02",
+                "field": "media_serial1",
+                "source_id": "173",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "005-02",
+                "field": "media_serial1",
+                "source_id": "174",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "fb3f011f211d2d503ae5132f7813566cd5ac99e8099ec789a8955fcf461ad732",
+          "bytes": 812,
+          "width": 336,
+          "height": 225,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 812,
+              "lossy90": 8210
+            }
+          },
+          "kind": "screenshot",
+          "path": "005-02/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Buck Rogers - Planet of Zoom (USA) (Alt).png",
+              "source_sha256": "0ae4e5469ea180e0f6fea32eca81280db11a0e423e26265bc10f9800bb3c80e2",
+              "source_bytes": 2676,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 812,
+                  "lossy90": 8210
+                }
+              },
+              "redump_id": "0126",
+              "dat_name": "Buck Rogers - Planet of Zoom (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "005-02"
+      ]
+    },
+    "006-02": {
+      "serial": "006-02",
+      "entries": [
+        {
+          "redump_id": "0027",
+          "entry_id": "0027",
+          "provider": "no-intro",
+          "name": "Congo Bongo (USA)",
+          "serial_raw": "006-02",
+          "serials": [
+            "006-02"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "006-02",
+                "field": "media_serial1",
+                "source_id": "149",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "006-02",
+                "field": "media_serial1",
+                "source_id": "157",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ffc1e1c98487102aacaa787011280b7a62fd0e6a6685c49b292618ce9e1f8b92",
+          "bytes": 124822,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 571860,
+              "lossy90": 124822
+            }
+          },
+          "kind": "cover_front",
+          "path": "006-02/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Congo Bongo (USA).png",
+              "source_sha256": "92ada4bae3a6213dd361a3cc62c18572a0278fe66b80cdcd6bb90f06e02914ac",
+              "source_bytes": 695566,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 571860,
+                  "lossy90": 124822
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Congo Bongo (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ccb347a3902af1b474acee19284d06a49be87f087662fc0688de02edec5dda78",
+          "bytes": 1880,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1880,
+              "lossy90": 11338
+            }
+          },
+          "kind": "screenshot",
+          "path": "006-02/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Congo Bongo (USA).png",
+              "source_sha256": "4be64ccd21cea9d9666a96e610e67f2c5b75dedad4e3551cb19ba6ac10e66e3b",
+              "source_bytes": 2102,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1880,
+                  "lossy90": 11338
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Congo Bongo (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "cc25994fbfe58cae051e679d2f753403f7af5fa9a0d13d44061361d7e46fffc2",
+          "bytes": 470,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 470,
+              "lossy90": 8606
+            }
+          },
+          "kind": "title_screen",
+          "path": "006-02/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Congo Bongo (USA).png",
+              "source_sha256": "fe1558a36b35a72ef9022b5893f0298f1ed8971a1d7b572508c466eba44fab43",
+              "source_bytes": 15045,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 470,
+                  "lossy90": 8606
+                }
+              },
+              "redump_id": "0027",
+              "dat_name": "Congo Bongo (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "006-02"
+      ]
+    },
+    "123": {
+      "serial": "123",
+      "entries": [
+        {
+          "redump_id": "0122",
+          "entry_id": "0122",
+          "provider": "no-intro",
+          "name": "Galaxian (USA) (Alt)",
+          "serial_raw": "5206, 123",
+          "serials": [
+            "5206",
+            "123"
+          ],
+          "category": "Games",
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5206",
+                "field": "media_serial1",
+                "source_id": "156",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "123",
+                "field": "media_serial1",
+                "source_id": "176",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "dc2d43699581bd4829167a6c5686e8a86057ef9c568061a379c059b3c0cb5f7f",
+          "bytes": 1154,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1154,
+              "lossy90": 6098
+            }
+          },
+          "kind": "screenshot",
+          "path": "123/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Galaxian (USA) (Alt).png",
+              "source_sha256": "381b0e6f1bbadede8a73a7a19e617851027218b23b183dc3c85e0c05bfcd4a77",
+              "source_bytes": 3289,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1154,
+                  "lossy90": 6098
+                }
+              },
+              "redump_id": "0122",
+              "dat_name": "Galaxian (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "123"
+      ]
+    },
+    "4L2711": {
+      "serial": "4L2711",
+      "entries": [
+        {
+          "redump_id": "0038",
+          "entry_id": "0038",
+          "provider": "no-intro",
+          "name": "Gorf (USA)",
+          "serial_raw": "4L2711",
+          "serials": [
+            "4L2711"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L2711",
+                "field": "media_serial1",
+                "source_id": "150",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "87e19d7e16c8f4acd85ef3f1fe56c3e375a723cf054cc5ecab2b0b13f144ee2a",
+          "bytes": 65562,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 386060,
+              "lossy90": 65562
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L2711/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gorf (USA).png",
+              "source_sha256": "30ea43507f349629139a77520a2fd601cf865d7e383d86e36582c57d94927730",
+              "source_bytes": 459902,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 386060,
+                  "lossy90": 65562
+                }
+              },
+              "redump_id": "0038",
+              "dat_name": "Gorf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "25d02794a98b1148605482a0750532990c9221d0421248ab6465c61ab5f16bc1",
+          "bytes": 2092,
+          "width": 400,
+          "height": 120,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2092,
+              "lossy90": 8240
+            }
+          },
+          "kind": "logo",
+          "path": "4L2711/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Gorf (USA).png",
+              "source_sha256": "bb10be86fc0990a620861d42e8894547d02b89bba178602c2c34a7ea4b5e8550",
+              "source_bytes": 2580,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2092,
+                  "lossy90": 8240
+                }
+              },
+              "redump_id": "0038",
+              "dat_name": "Gorf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "44b5267b1aa0b7620d3d9f64935436a82a79fd668d260b8f7922ddc6c68b5b11",
+          "bytes": 538,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 538,
+              "lossy90": 6760
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L2711/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Gorf (USA).png",
+              "source_sha256": "a17d6f6aecb8db3734fb7a7d22298bb159147b1b07ecdd712ffeb117bdae937e",
+              "source_bytes": 15093,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 538,
+                  "lossy90": 6760
+                }
+              },
+              "redump_id": "0038",
+              "dat_name": "Gorf (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6ec63b40e1e8e160407a464a5539ad3f67e9d4218fef32b1d74383892abca4b5",
+          "bytes": 1030,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1030,
+              "lossy90": 10210
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L2711/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Gorf (USA).png",
+              "source_sha256": "79519446f3a33e2997cc850900802ad0666bbc67cc74a7a15fd1e77c56679364",
+              "source_bytes": 15670,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1030,
+                  "lossy90": 10210
+                }
+              },
+              "redump_id": "0038",
+              "dat_name": "Gorf (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L2711"
+      ]
+    },
+    "4L2713": {
+      "serial": "4L2713",
+      "entries": [
+        {
+          "redump_id": "0101",
+          "entry_id": "0101",
+          "provider": "no-intro",
+          "name": "Wizard of Wor (USA)",
+          "serial_raw": "4L2713",
+          "serials": [
+            "4L2713"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L2713",
+                "field": "media_serial1",
+                "source_id": "143",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "4L2713",
+                "field": "media_serial1",
+                "source_id": "161",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1f902ed8d7599a5f2cb5b22e690e716a994abaa8664969f45e0a8c8429175b6a",
+          "bytes": 63414,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 281754,
+              "lossy90": 63414
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L2713/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Wizard of Wor (USA).png",
+              "source_sha256": "76873ad66b933963860fbac436071f2fdb6247934fd025c498a2749fab870b60",
+              "source_bytes": 332389,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 281754,
+                  "lossy90": 63414
+                }
+              },
+              "redump_id": "0101",
+              "dat_name": "Wizard of Wor (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "378d99192815a6c95a865047595b621f5c552126d955b7d3c7737bf772091182",
+          "bytes": 3380,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3380,
+              "lossy90": 12270
+            }
+          },
+          "kind": "logo",
+          "path": "4L2713/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Wizard of Wor (USA).png",
+              "source_sha256": "db5a07a4d4ee42de7add1b92d4591119bb66bfc16712beddde373f6b7889eb55",
+              "source_bytes": 4238,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3380,
+                  "lossy90": 12270
+                }
+              },
+              "redump_id": "0101",
+              "dat_name": "Wizard of Wor (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "1a232ac0ab287119a56e7ff2dea93be4c283010fef95f93ccfb1618ea1a9e0b7",
+          "bytes": 564,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 564,
+              "lossy90": 6092
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L2713/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Wizard of Wor (USA).png",
+              "source_sha256": "16c1ee2eb00c99b6d66d26678ab641454a9d94fad62c0172e2ad350c6d86187a",
+              "source_bytes": 15157,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 564,
+                  "lossy90": 6092
+                }
+              },
+              "redump_id": "0101",
+              "dat_name": "Wizard of Wor (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "3b08715ae8a5ac61e316dea18739da4ba556a9bb9009023be026026945e83c76",
+          "bytes": 852,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 852,
+              "lossy90": 8268
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L2713/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Wizard of Wor (USA).png",
+              "source_sha256": "b284f836189cc488fd7566126676ce205ce521c10b60046cb6825b9875b104b6",
+              "source_bytes": 15465,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 852,
+                  "lossy90": 8268
+                }
+              },
+              "redump_id": "0101",
+              "dat_name": "Wizard of Wor (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L2713"
+      ]
+    },
+    "5202": {
+      "serial": "5202",
+      "entries": [
+        {
+          "redump_id": "0061",
+          "entry_id": "0061",
+          "provider": "no-intro",
+          "name": "Missile Command (USA)",
+          "serial_raw": "5202",
+          "serials": [
+            "5202"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5202",
+                "field": "media_serial1",
+                "source_id": "171",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3dbef2a18b396cad07e837fb68012cb16b281a26a2293d42b8038582d2941662",
+          "bytes": 75598,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 387404,
+              "lossy90": 75598
+            }
+          },
+          "kind": "cover_front",
+          "path": "5202/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Missile Command (USA).png",
+              "source_sha256": "de7f88241eec6b32c3cb9f3c88ccd7d439d89e9d34a7f7f1a7f9324f401bdfa4",
+              "source_bytes": 469363,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 387404,
+                  "lossy90": 75598
+                }
+              },
+              "redump_id": "0061",
+              "dat_name": "Missile Command (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "2229b57fe460c99b6e6328662c493efb82c03bdf7095363df08e4898132de316",
+          "bytes": 5206,
+          "width": 400,
+          "height": 118,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5206,
+              "lossy90": 15160
+            }
+          },
+          "kind": "logo",
+          "path": "5202/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Missile Command (USA).png",
+              "source_sha256": "da7235793476796525354a5e60e144b37b7125d75e0e87f7613d0c70a8757342",
+              "source_bytes": 5779,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5206,
+                  "lossy90": 15160
+                }
+              },
+              "redump_id": "0061",
+              "dat_name": "Missile Command (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "518e3e162af7ff4f0b75cf3aee811d8e6c02f7c113b249c463cf1db63aaecf93",
+          "bytes": 498,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 498,
+              "lossy90": 3812
+            }
+          },
+          "kind": "screenshot",
+          "path": "5202/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Missile Command (USA).png",
+              "source_sha256": "45aad78fb7ebd6bae1122b7242a33ce8de11a90f1ed7163a767f9e526ef5d182",
+              "source_bytes": 15154,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 498,
+                  "lossy90": 3812
+                }
+              },
+              "redump_id": "0061",
+              "dat_name": "Missile Command (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "908e37acb19b78ab1fecb5988285e415f5b205d501f93b7a3744e00f982be898",
+          "bytes": 1328,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1328,
+              "lossy90": 5088
+            }
+          },
+          "kind": "title_screen",
+          "path": "5202/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Missile Command (USA).png",
+              "source_sha256": "9ff9f8d8c2b634fbdccae68cc7aae52811318344d32016d81bebe2ba33067861",
+              "source_bytes": 16132,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1328,
+                  "lossy90": 5088
+                }
+              },
+              "redump_id": "0061",
+              "dat_name": "Missile Command (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5202"
+      ]
+    },
+    "5203": {
+      "serial": "5203",
+      "entries": [
+        {
+          "redump_id": "0095",
+          "entry_id": "0095",
+          "provider": "no-intro",
+          "name": "Super Breakout (USA)",
+          "serial_raw": "5203",
+          "serials": [
+            "5203"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5203",
+                "field": "media_serial1",
+                "source_id": "153",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5203",
+                "field": "media_serial1",
+                "source_id": "163",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8a24c1b2abc0bf201622e1e27c3d5dcc2c135e67ef2c9e9d8bd50b0e72c1f1e3",
+          "bytes": 50036,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 306426,
+              "lossy90": 50036
+            }
+          },
+          "kind": "cover_front",
+          "path": "5203/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Super Breakout (USA).png",
+              "source_sha256": "682f93bbe17f05beef86619f8f862e9786614eac832b780abcbbd95c715d23fe",
+              "source_bytes": 373808,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 306426,
+                  "lossy90": 50036
+                }
+              },
+              "redump_id": "0095",
+              "dat_name": "Super Breakout (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "2d4235392963f171d6fc0023d4b4f7471f0dc5ec8278e78ee30d1adaf2791c54",
+          "bytes": 4528,
+          "width": 400,
+          "height": 120,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4528,
+              "lossy90": 14002
+            }
+          },
+          "kind": "logo",
+          "path": "5203/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Super Breakout (USA).png",
+              "source_sha256": "9d3a37208122ca5a720220a1cc6d79cd533c92be2151e4d641400333ec07b906",
+              "source_bytes": 5092,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4528,
+                  "lossy90": 14002
+                }
+              },
+              "redump_id": "0095",
+              "dat_name": "Super Breakout (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "abc66f0cff2c7938a5bbb32ecec7e7e51e9ca5370812794ba68616aff015428d",
+          "bytes": 236,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 236,
+              "lossy90": 2994
+            }
+          },
+          "kind": "screenshot",
+          "path": "5203/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Super Breakout (USA).png",
+              "source_sha256": "cf7da84d2e94e37022556731093f41492d9c5d66af47a4d73cf8658a277ba510",
+              "source_bytes": 14829,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 236,
+                  "lossy90": 2994
+                }
+              },
+              "redump_id": "0095",
+              "dat_name": "Super Breakout (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "1dbdc33d6840173c25ad02438e025dd89996022e862b3fa6021f8db79c57c90c",
+          "bytes": 392,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 392,
+              "lossy90": 4954
+            }
+          },
+          "kind": "title_screen",
+          "path": "5203/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Super Breakout (USA).png",
+              "source_sha256": "b23e7e0c26c0efd0bd7c647269e1cdddaf3fb8b394ff3d054f8b75b5085baf4f",
+              "source_bytes": 15023,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 392,
+                  "lossy90": 4954
+                }
+              },
+              "redump_id": "0095",
+              "dat_name": "Super Breakout (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5203"
+      ]
+    },
+    "5205": {
+      "serial": "5205",
+      "entries": [
+        {
+          "redump_id": "0090",
+          "entry_id": "0090",
+          "provider": "no-intro",
+          "name": "Star Raiders (USA)",
+          "serial_raw": "5205",
+          "serials": [
+            "5205"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5205",
+                "field": "media_serial1",
+                "source_id": "138",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5205",
+                "field": "media_serial1",
+                "source_id": "162",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5205",
+                "field": "media_serial1",
+                "source_id": "177",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        },
+        {
+          "redump_id": "0127",
+          "entry_id": "0127",
+          "provider": "no-intro",
+          "name": "Star Raiders (USA) (Alt)",
+          "serial_raw": "5205",
+          "serials": [
+            "5205"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5205",
+                "field": "media_serial1",
+                "source_id": "178",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "456d3f465eceaae9fbe49eba2916f39e74cd55a621820775b77300fc1fc231df",
+          "bytes": 61216,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 321936,
+              "lossy90": 61216
+            }
+          },
+          "kind": "cover_front",
+          "path": "5205/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Star Raiders (USA).png",
+              "source_sha256": "3acaf6dffa23498bde3e1b977c937ae02e6eefcc2615467b5082f1d9838769ee",
+              "source_bytes": 417790,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 321936,
+                  "lossy90": 61216
+                }
+              },
+              "redump_id": "0090",
+              "dat_name": "Star Raiders (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "b01b8077b9d74d512bf7d069dc11fd28253c515b2aa4d974edbff8d3d19bb449",
+          "bytes": 3042,
+          "width": 400,
+          "height": 49,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3042,
+              "lossy90": 9514
+            }
+          },
+          "kind": "logo",
+          "path": "5205/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Star Raiders (USA).png",
+              "source_sha256": "b083dcfbf381a99aa7648be5b24b5d8b6e8b845ea54d4983feb6b4e832927d6d",
+              "source_bytes": 3302,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3042,
+                  "lossy90": 9514
+                }
+              },
+              "redump_id": "0090",
+              "dat_name": "Star Raiders (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d8b9f4cdb70e0a0741b594aa35a2d790254797be206d4eb9cb58ec46e24c49c5",
+          "bytes": 466,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 466,
+              "lossy90": 3802
+            }
+          },
+          "kind": "screenshot",
+          "path": "5205/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Star Raiders (USA).png",
+              "source_sha256": "9fe1569faf73dfacea7106f8d88eff3c63044bcc58a7db01139bea0a50d10f73",
+              "source_bytes": 15074,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 466,
+                  "lossy90": 3802
+                }
+              },
+              "redump_id": "0090",
+              "dat_name": "Star Raiders (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "9b02b5fd8b6e20d0ff89b49a8aa4cba06752a49b1e88985360019d8183b4c2e6",
+          "bytes": 494,
+          "width": 336,
+          "height": 225,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 494,
+              "lossy90": 4044
+            }
+          },
+          "kind": "screenshot",
+          "path": "5205/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Star Raiders (USA) (Alt).png",
+              "source_sha256": "9e97edaa2005f1713e8b43d7b6720acae475d2f593115ac49cb426ed17bbaef5",
+              "source_bytes": 1663,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 494,
+                  "lossy90": 4044
+                }
+              },
+              "redump_id": "0127",
+              "dat_name": "Star Raiders (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8a9c82dd6a1eaf55daf7e468fec37b07e9be260258ab8d25209a01f6cb7d2384",
+          "bytes": 1296,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1296,
+              "lossy90": 4936
+            }
+          },
+          "kind": "title_screen",
+          "path": "5205/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Star Raiders (USA).png",
+              "source_sha256": "831916edcc537dfb2717dcc247d582fe6165af083746ed6755df7b2514445281",
+              "source_bytes": 16061,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1296,
+                  "lossy90": 4936
+                }
+              },
+              "redump_id": "0090",
+              "dat_name": "Star Raiders (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5205"
+      ]
+    },
+    "5206": {
+      "serial": "5206",
+      "entries": [
+        {
+          "redump_id": "0037",
+          "entry_id": "0037",
+          "provider": "no-intro",
+          "name": "Galaxian (USA)",
+          "serial_raw": "5206",
+          "serials": [
+            "5206"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5206",
+                "field": "media_serial1",
+                "source_id": "175",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        },
+        {
+          "redump_id": "0122",
+          "entry_id": "0122",
+          "provider": "no-intro",
+          "name": "Galaxian (USA) (Alt)",
+          "serial_raw": "5206, 123",
+          "serials": [
+            "5206",
+            "123"
+          ],
+          "category": "Games",
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5206",
+                "field": "media_serial1",
+                "source_id": "156",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "123",
+                "field": "media_serial1",
+                "source_id": "176",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "fcc52d59633b693f01e346b8e8b86cf408605905aab72fc73415c588afede35c",
+          "bytes": 63272,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 355748,
+              "lossy90": 63272
+            }
+          },
+          "kind": "cover_front",
+          "path": "5206/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Galaxian (USA).png",
+              "source_sha256": "dcdbdd348a11cc6ded2e8770ec8cec587654b0c5854f4a703a02e13b39408f1c",
+              "source_bytes": 421455,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 355748,
+                  "lossy90": 63272
+                }
+              },
+              "redump_id": "0037",
+              "dat_name": "Galaxian (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "848f814968b82a4e5f7fbcb34a589ee5acae62e715de2188687fb772c5eb15b5",
+          "bytes": 2726,
+          "width": 400,
+          "height": 59,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2726,
+              "lossy90": 8648
+            }
+          },
+          "kind": "logo",
+          "path": "5206/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Galaxian (USA).png",
+              "source_sha256": "cdc8c9a1daa10108186158145966bbd568f7763439ba90239d5e31278fbdd4d4",
+              "source_bytes": 3045,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2726,
+                  "lossy90": 8648
+                }
+              },
+              "redump_id": "0037",
+              "dat_name": "Galaxian (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "96041f4d73cfbd591d3a563ffca6e66b63f45bb357a7dbd34a4b1fa4e251df10",
+          "bytes": 1080,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1080,
+              "lossy90": 5852
+            }
+          },
+          "kind": "screenshot",
+          "path": "5206/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Galaxian (USA).png",
+              "source_sha256": "8eafc72f4665513ba8d875f96320162b203033c11b9b416a6c6b350141230fab",
+              "source_bytes": 15733,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1080,
+                  "lossy90": 5852
+                }
+              },
+              "redump_id": "0037",
+              "dat_name": "Galaxian (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "dc2d43699581bd4829167a6c5686e8a86057ef9c568061a379c059b3c0cb5f7f",
+          "bytes": 1154,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1154,
+              "lossy90": 6098
+            }
+          },
+          "kind": "screenshot",
+          "path": "5206/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Galaxian (USA) (Alt).png",
+              "source_sha256": "381b0e6f1bbadede8a73a7a19e617851027218b23b183dc3c85e0c05bfcd4a77",
+              "source_bytes": 3289,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1154,
+                  "lossy90": 6098
+                }
+              },
+              "redump_id": "0122",
+              "dat_name": "Galaxian (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "96a70561f60266677f7bb0e9fa54210b2b2ddd2ed5dcc3cf383a421a9d95e625",
+          "bytes": 930,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 930,
+              "lossy90": 7354
+            }
+          },
+          "kind": "title_screen",
+          "path": "5206/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Galaxian (USA).png",
+              "source_sha256": "dd3908b9290900c0b6b3f674770fcfc5a6244c73d5c1fdf538aae41327e49a5e",
+              "source_bytes": 15584,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 930,
+                  "lossy90": 7354
+                }
+              },
+              "redump_id": "0037",
+              "dat_name": "Galaxian (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5206"
+      ]
+    },
+    "5208": {
+      "serial": "5208",
+      "entries": [
+        {
+          "redump_id": "0067",
+          "entry_id": "0067",
+          "provider": "no-intro",
+          "name": "Pac-Man (USA)",
+          "serial_raw": "5208",
+          "serials": [
+            "5208"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5208",
+                "field": "media_serial1",
+                "source_id": "154",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5208",
+                "field": "media_serial1",
+                "source_id": "158",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5208",
+                "field": "media_serial1",
+                "source_id": "159",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "bd69c60d010ace666f7bbe0b2aa584365154c8a6a0afca2b4a00c711f57ccdb1",
+          "bytes": 50988,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 265420,
+              "lossy90": 50988
+            }
+          },
+          "kind": "cover_front",
+          "path": "5208/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pac-Man (USA).png",
+              "source_sha256": "ee56cd26e4581f4abebcfd7fb272c46c68093d986b92ba3c3accc9813d6a97da",
+              "source_bytes": 306402,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 265420,
+                  "lossy90": 50988
+                }
+              },
+              "redump_id": "0067",
+              "dat_name": "Pac-Man (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f692da08de9c9cedf8f7fab8023db8c830a9b5e454725626e98675190310adeb",
+          "bytes": 868,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 868,
+              "lossy90": 14840
+            }
+          },
+          "kind": "screenshot",
+          "path": "5208/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pac-Man (USA).png",
+              "source_sha256": "0d268c780e4679d0b21964a8fb0390ec6aaef6de830b8dd8ced0d4243a6eecb8",
+              "source_bytes": 15496,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 868,
+                  "lossy90": 14840
+                }
+              },
+              "redump_id": "0067",
+              "dat_name": "Pac-Man (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "626dcc058559daa75b217f1c69e23471748ca5e4132410b1a75c386a8a21b277",
+          "bytes": 944,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 944,
+              "lossy90": 10378
+            }
+          },
+          "kind": "title_screen",
+          "path": "5208/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pac-Man (USA).png",
+              "source_sha256": "9263cde9951c957ba5f15aa7626739877790bdbbbe03eb83a003f70065a6b9b9",
+              "source_bytes": 15612,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 944,
+                  "lossy90": 10378
+                }
+              },
+              "redump_id": "0067",
+              "dat_name": "Pac-Man (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5208"
+      ]
+    },
+    "5210": {
+      "serial": "5210",
+      "entries": [
+        {
+          "redump_id": "0028",
+          "entry_id": "0028",
+          "provider": "no-intro",
+          "name": "Countermeasure (USA)",
+          "serial_raw": "5210",
+          "serials": [
+            "5210"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5210",
+                "field": "media_serial1",
+                "source_id": "192",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "50500411a471786b364c1720f9e665d145cc4369e76bda4f8860e51730f9cdb4",
+          "bytes": 40998,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 294934,
+              "lossy90": 40998
+            }
+          },
+          "kind": "cover_front",
+          "path": "5210/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Countermeasure (USA).png",
+              "source_sha256": "973eba354dc6db8f4780dfc3cec32c7e5001a34c762aca6160029e136051eb20",
+              "source_bytes": 355825,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 294934,
+                  "lossy90": 40998
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Countermeasure (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "b6e1e095c34d8f4bbc7e84894b287b253b2f3508d99ca8470bddf76748a0deee",
+          "bytes": 3044,
+          "width": 400,
+          "height": 34,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3044,
+              "lossy90": 8816
+            }
+          },
+          "kind": "logo",
+          "path": "5210/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Countermeasure (USA).png",
+              "source_sha256": "2c15648c23a090a2ed0126b63e623ba5ef206cf27af00a8ddde1d105eabe341d",
+              "source_bytes": 3285,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3044,
+                  "lossy90": 8816
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Countermeasure (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "447b7f361f3dccc33b18dec32b58e13ac83ff11b6d77e258b606dd81ace07cc2",
+          "bytes": 1568,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1568,
+              "lossy90": 15922
+            }
+          },
+          "kind": "screenshot",
+          "path": "5210/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Countermeasure (USA).png",
+              "source_sha256": "31e7910f1c8c652640af9c7e0d8164fc735b34600a47f2189c2390bcb62c08d9",
+              "source_bytes": 16280,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1568,
+                  "lossy90": 15922
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Countermeasure (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ac900cf2d8fd7f734455418813613be7193cf19ffa404f567a878479a246959f",
+          "bytes": 1762,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1762,
+              "lossy90": 11872
+            }
+          },
+          "kind": "title_screen",
+          "path": "5210/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Countermeasure (USA).png",
+              "source_sha256": "1c55a1707c4362ad3ce4526f7a5527ada34445986a1208a6cd83cd14752f0d22",
+              "source_bytes": 16456,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1762,
+                  "lossy90": 11872
+                }
+              },
+              "redump_id": "0028",
+              "dat_name": "Countermeasure (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5210"
+      ]
+    },
+    "5215": {
+      "serial": "5215",
+      "entries": [
+        {
+          "redump_id": "0025",
+          "entry_id": "0025",
+          "provider": "no-intro",
+          "name": "Centipede (USA)",
+          "serial_raw": "5215",
+          "serials": [
+            "5215"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5215",
+                "field": "media_serial1",
+                "source_id": "172",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "b756dbb42aed1fd525355a2b576dbcde061d203140cf8a270ab3b7eff922743e",
+          "bytes": 63700,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 364458,
+              "lossy90": 63700
+            }
+          },
+          "kind": "cover_front",
+          "path": "5215/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Centipede (USA).png",
+              "source_sha256": "2b1556061058928f0e9c389e748113b2c2b010fd7c0bb365e9ddf0c82d6703b2",
+              "source_bytes": 450308,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 364458,
+                  "lossy90": 63700
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Centipede (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ff83434803cee553f536ba75b4d12fa4d2f2ce11261ffa298367e1132f639583",
+          "bytes": 792,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 792,
+              "lossy90": 5622
+            }
+          },
+          "kind": "screenshot",
+          "path": "5215/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Centipede (USA).png",
+              "source_sha256": "0da181e5c4a4a3f55808e3f76b42cf1d57352e6f2762d7ce81fcf26f4fefefaf",
+              "source_bytes": 15432,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 792,
+                  "lossy90": 5622
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Centipede (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "460eaf26bfa93476b31b6c8b484cda92f4dfef0649da5271dcdf06a0736f88d5",
+          "bytes": 1196,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1196,
+              "lossy90": 4898
+            }
+          },
+          "kind": "title_screen",
+          "path": "5215/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Centipede (USA).png",
+              "source_sha256": "9af0c453941fc64230df8d32b7ad793699541b3c7ec69971d5a4f566a493799d",
+              "source_bytes": 16042,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1196,
+                  "lossy90": 4898
+                }
+              },
+              "redump_id": "0025",
+              "dat_name": "Centipede (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5215"
+      ]
+    },
+    "5217": {
+      "serial": "5217",
+      "entries": [
+        {
+          "redump_id": "0070",
+          "entry_id": "0070",
+          "provider": "no-intro",
+          "name": "Pole Position (USA)",
+          "serial_raw": "5217",
+          "serials": [
+            "5217"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5217",
+                "field": "media_serial1",
+                "source_id": "191",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4f6411d98991497b7c72ce0db2691530c845fc70725bd09683609cee2c4405d8",
+          "bytes": 68586,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 395570,
+              "lossy90": 68586
+            }
+          },
+          "kind": "cover_front",
+          "path": "5217/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pole Position (USA).png",
+              "source_sha256": "18f62281dbb9499a316636c6c3328204dfa406b2d912492d4e4f501cffc4ee34",
+              "source_bytes": 484336,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 395570,
+                  "lossy90": 68586
+                }
+              },
+              "redump_id": "0070",
+              "dat_name": "Pole Position (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a3cf8cd8fc391c06a941ffbec46c473b6d7d0b0a59584cb448f1a33daf9b2023",
+          "bytes": 11400,
+          "width": 400,
+          "height": 152,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11400,
+              "lossy90": 15492
+            }
+          },
+          "kind": "logo",
+          "path": "5217/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pole Position (USA).png",
+              "source_sha256": "08362a48cf45f48194516c519834e34630272886d73f2b9f5244a8327ad8a52e",
+              "source_bytes": 13090,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11400,
+                  "lossy90": 15492
+                }
+              },
+              "redump_id": "0070",
+              "dat_name": "Pole Position (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "169fea9f1e01697cf06afb30a6ab6ac9f6ac3dd53e43149dab4511c68f1a1ddb",
+          "bytes": 1406,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1406,
+              "lossy90": 8360
+            }
+          },
+          "kind": "screenshot",
+          "path": "5217/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pole Position (USA).png",
+              "source_sha256": "7a2a01541b7b8667f51d262565309632a05cb4f1cecdf58f0f145489f2276904",
+              "source_bytes": 16226,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1406,
+                  "lossy90": 8360
+                }
+              },
+              "redump_id": "0070",
+              "dat_name": "Pole Position (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a4645a9cd1dea718028e736c8384787779a941e8d9c361def4239bd9a4b5abd9",
+          "bytes": 1458,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1458,
+              "lossy90": 9150
+            }
+          },
+          "kind": "title_screen",
+          "path": "5217/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pole Position (USA).png",
+              "source_sha256": "266c1cd5be4f465c5cf35b085c471a36eef87e2ababe30a6c1ce41e58a9c4be2",
+              "source_bytes": 16317,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1458,
+                  "lossy90": 9150
+                }
+              },
+              "redump_id": "0070",
+              "dat_name": "Pole Position (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5217"
+      ]
+    },
+    "5220": {
+      "serial": "5220",
+      "entries": [
+        {
+          "redump_id": "0120",
+          "entry_id": "0120",
+          "provider": "no-intro",
+          "name": "Tempest (USA) (AtariAge)",
+          "serial_raw": "5220",
+          "serials": [
+            "5220"
+          ],
+          "category": "Games",
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5220",
+                "field": "media_serial1",
+                "source_id": "141",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "aaa15cbf5d49e7a42da67c7ce9a39e14dca79d8817a5cb4bdf890cbab25b90f8",
+          "bytes": 976,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 976,
+              "lossy90": 6964
+            }
+          },
+          "kind": "screenshot",
+          "path": "5220/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Tempest (USA) (AtariAge).png",
+              "source_sha256": "23c45d880e06fe8934b9214734b477bffaa765296f18b1c6a1a01af01146b532",
+              "source_bytes": 1935,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 976,
+                  "lossy90": 6964
+                }
+              },
+              "redump_id": "0120",
+              "dat_name": "Tempest (USA) (AtariAge)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5220"
+      ]
+    },
+    "5221": {
+      "serial": "5221",
+      "entries": [
+        {
+          "redump_id": "0015",
+          "entry_id": "0015",
+          "provider": "no-intro",
+          "name": "BerZerk (USA)",
+          "serial_raw": "5221",
+          "serials": [
+            "5221"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5221",
+                "field": "media_serial1",
+                "source_id": "168",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5221",
+                "field": "media_serial1",
+                "source_id": "194",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9b872ee201f1f321354b73da118779a7015675ae741780d0df12b7749b8ca26e",
+          "bytes": 80040,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 434280,
+              "lossy90": 80040
+            }
+          },
+          "kind": "cover_front",
+          "path": "5221/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/BerZerk (USA).png",
+              "source_sha256": "511a191359ffa2ce68978c3ceb9546abbfca0f2b397ac341728eccddc6600011",
+              "source_bytes": 514068,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 434280,
+                  "lossy90": 80040
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "BerZerk (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "1c9346eef92928872992e5e805b740bc2e730db5ae08485c8a319ce7e29483f8",
+          "bytes": 1474,
+          "width": 400,
+          "height": 67,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1474,
+              "lossy90": 5310
+            }
+          },
+          "kind": "logo",
+          "path": "5221/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/BerZerk (USA).png",
+              "source_sha256": "f21e6a16a6b89afd9d74de1d8a5778ddd5249680a1ad34ea32a2c2c71473292a",
+              "source_bytes": 1660,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1474,
+                  "lossy90": 5310
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "BerZerk (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f0cc74f030843371525a78c659f9990dee9740f7b7c8236d80e8fde1dd7c3833",
+          "bytes": 268,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 268,
+              "lossy90": 2558
+            }
+          },
+          "kind": "screenshot",
+          "path": "5221/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/BerZerk (USA).png",
+              "source_sha256": "50219e22595d0b58305deac36d995fb82b79c5a49ee3cddd1437b260f8c5ce2f",
+              "source_bytes": 14824,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 268,
+                  "lossy90": 2558
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "BerZerk (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "09223e40121ec3f25986388d18b97caddf9d0dffbc733dff3f099a0aebbcc861",
+          "bytes": 530,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 530,
+              "lossy90": 4660
+            }
+          },
+          "kind": "title_screen",
+          "path": "5221/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/BerZerk (USA).png",
+              "source_sha256": "076b1b94fd22136eec30eb6e85b7ffa50644634c118559703538eef01d687204",
+              "source_bytes": 15161,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 530,
+                  "lossy90": 4660
+                }
+              },
+              "redump_id": "0015",
+              "dat_name": "BerZerk (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5221"
+      ]
+    },
+    "5232": {
+      "serial": "5232",
+      "entries": [
+        {
+          "redump_id": "0085",
+          "entry_id": "0085",
+          "provider": "no-intro",
+          "name": "Space Dungeon (USA)",
+          "serial_raw": "5232",
+          "serials": [
+            "5232"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5232",
+                "field": "media_serial1",
+                "source_id": "148",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e0e13ba99f8a247e25931fb4f704f639605ee13132a0a787d24a3286f20993da",
+          "bytes": 81926,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 432046,
+              "lossy90": 81926
+            }
+          },
+          "kind": "cover_front",
+          "path": "5232/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Space Dungeon (USA).png",
+              "source_sha256": "3b594a37f6b380a934e17cbd2b279d3f3e70d2cbb75019a3410341b80c3fe20f",
+              "source_bytes": 509680,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 432046,
+                  "lossy90": 81926
+                }
+              },
+              "redump_id": "0085",
+              "dat_name": "Space Dungeon (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "f93440572a7afaec4c2a86ba592aaba5d273ff1b3c3ec077e8271f64e3fac617",
+          "bytes": 6882,
+          "width": 400,
+          "height": 77,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6882,
+              "lossy90": 18694
+            }
+          },
+          "kind": "logo",
+          "path": "5232/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Space Dungeon (USA).png",
+              "source_sha256": "737f128c427355484d7799701b2e4ac4992610c8f748ff0d15567b168dbdae56",
+              "source_bytes": 7403,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6882,
+                  "lossy90": 18694
+                }
+              },
+              "redump_id": "0085",
+              "dat_name": "Space Dungeon (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d1283d41a74c3448c2036b117fab8644924677156e324a1a4a76406d06e1d511",
+          "bytes": 814,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 814,
+              "lossy90": 5066
+            }
+          },
+          "kind": "screenshot",
+          "path": "5232/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Space Dungeon (USA).png",
+              "source_sha256": "0473ed5895471cbd4e2961d165b3fd776f910045238d7975633dc2d32bfb7dba",
+              "source_bytes": 15468,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 814,
+                  "lossy90": 5066
+                }
+              },
+              "redump_id": "0085",
+              "dat_name": "Space Dungeon (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "d06a370b73b4c3515710f371c959ab1aacbef676e262d66fffddbb89d9a8d34d",
+          "bytes": 800,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 800,
+              "lossy90": 10300
+            }
+          },
+          "kind": "title_screen",
+          "path": "5232/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Space Dungeon (USA).png",
+              "source_sha256": "daa5957b5e1c231ac78878c5944d79d6ec728cf2621fc45fd1be86b57cd5a418",
+              "source_bytes": 15426,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 800,
+                  "lossy90": 10300
+                }
+              },
+              "redump_id": "0085",
+              "dat_name": "Space Dungeon (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5232"
+      ]
+    },
+    "5236": {
+      "serial": "5236",
+      "entries": [
+        {
+          "redump_id": "0068",
+          "entry_id": "0068",
+          "provider": "no-intro",
+          "name": "Pengo (USA)",
+          "serial_raw": "5236",
+          "serials": [
+            "5236"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5236",
+                "field": "media_serial1",
+                "source_id": "145",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5236",
+                "field": "media_serial1",
+                "source_id": "167",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3255e85f0ae785d12cbe1b429a858db99b1c451871fca7d8e873d82a7020e4e3",
+          "bytes": 69088,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 395546,
+              "lossy90": 69088
+            }
+          },
+          "kind": "cover_front",
+          "path": "5236/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pengo (USA).png",
+              "source_sha256": "e98774ea07a6edbc1b3ddbbffab3505bd00ca4eed7a0d2d8373058f9e8a67adb",
+              "source_bytes": 469435,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 395546,
+                  "lossy90": 69088
+                }
+              },
+              "redump_id": "0068",
+              "dat_name": "Pengo (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "22318542873dc1dde081e6fddbf76c6b5f836355890cf7fdaaf85c47d120f46b",
+          "bytes": 10224,
+          "width": 400,
+          "height": 136,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10224,
+              "lossy90": 17164
+            }
+          },
+          "kind": "logo",
+          "path": "5236/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pengo (USA).png",
+              "source_sha256": "cc63f70301a88174c60e070e60f0a2974dcc88906ff1425a54237f6fc8600228",
+              "source_bytes": 11188,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10224,
+                  "lossy90": 17164
+                }
+              },
+              "redump_id": "0068",
+              "dat_name": "Pengo (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "2629ec7e1dca79f520362d57c78a453f4856f1e1d7787d2606def620c5a44e3d",
+          "bytes": 1302,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1302,
+              "lossy90": 14838
+            }
+          },
+          "kind": "screenshot",
+          "path": "5236/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pengo (USA).png",
+              "source_sha256": "21b611c5c51dd626d0256664321ffbdce24f54eb33f7cdaff63519856b82a1a6",
+              "source_bytes": 16007,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1302,
+                  "lossy90": 14838
+                }
+              },
+              "redump_id": "0068",
+              "dat_name": "Pengo (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a5a423bc0ec37d1c2ac52c890c34e31484b86d4d0e713aad7fec53ce3a56d9be",
+          "bytes": 428,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 428,
+              "lossy90": 10842
+            }
+          },
+          "kind": "title_screen",
+          "path": "5236/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pengo (USA).png",
+              "source_sha256": "d36213ef01c020d6e6e57203588802a1a5e01f5652aae56d5828f5d26c1bf0d3",
+              "source_bytes": 15016,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 428,
+                  "lossy90": 10842
+                }
+              },
+              "redump_id": "0068",
+              "dat_name": "Pengo (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5236"
+      ]
+    },
+    "5240": {
+      "serial": "5240",
+      "entries": [
+        {
+          "redump_id": "0043",
+          "entry_id": "0043",
+          "provider": "no-intro",
+          "name": "Joust (USA)",
+          "serial_raw": "5240",
+          "serials": [
+            "5240"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5240",
+                "field": "media_serial1",
+                "source_id": "169",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "469bcf1afd919364555086e3abcaa4a6736858b9f807d86f83389c1fd8165557",
+          "bytes": 74360,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 384868,
+              "lossy90": 74360
+            }
+          },
+          "kind": "cover_front",
+          "path": "5240/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Joust (USA).png",
+              "source_sha256": "43b02f6700aecdb293d3eca61c44c8f83494e6804119ff845633c6edd976a929",
+              "source_bytes": 472656,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 384868,
+                  "lossy90": 74360
+                }
+              },
+              "redump_id": "0043",
+              "dat_name": "Joust (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "df84a4878d46dafec187052cde0b81d25208fa3a7a10170e21d80d7beafb82fe",
+          "bytes": 13082,
+          "width": 400,
+          "height": 155,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 13082,
+              "lossy90": 19890
+            }
+          },
+          "kind": "logo",
+          "path": "5240/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Joust (USA).png",
+              "source_sha256": "cb356bc695a507800dff0fa8cc6481d81fd2e80a74a867a7f75815f2f265a2a4",
+              "source_bytes": 15245,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 13082,
+                  "lossy90": 19890
+                }
+              },
+              "redump_id": "0043",
+              "dat_name": "Joust (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "778b88c5d0f6993045f097965f1733a481192c5e7fbc8aedd06bc2090eaf2475",
+          "bytes": 960,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 960,
+              "lossy90": 6374
+            }
+          },
+          "kind": "screenshot",
+          "path": "5240/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Joust (USA).png",
+              "source_sha256": "25df6a2b310fc75a88960c87b5097d41fcecfa5db19311fd3fc5810a741f32c9",
+              "source_bytes": 15645,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 960,
+                  "lossy90": 6374
+                }
+              },
+              "redump_id": "0043",
+              "dat_name": "Joust (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "612d45967001c1ca0de844340f1bb39ee7ac870d75f034b8b4c5366a000aa7cd",
+          "bytes": 1060,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1060,
+              "lossy90": 9364
+            }
+          },
+          "kind": "title_screen",
+          "path": "5240/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Joust (USA).png",
+              "source_sha256": "0f5ba4cbc76ce514e12077fd99a3339d1d5df051c4ae24403a92f2c7930a54e5",
+              "source_bytes": 15740,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1060,
+                  "lossy90": 9364
+                }
+              },
+              "redump_id": "0043",
+              "dat_name": "Joust (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5240"
+      ]
+    },
+    "5241": {
+      "serial": "5241",
+      "entries": [
+        {
+          "redump_id": "0063",
+          "entry_id": "0063",
+          "provider": "no-intro",
+          "name": "Moon Patrol (USA)",
+          "serial_raw": "5241",
+          "serials": [
+            "5241"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5241",
+                "field": "media_serial1",
+                "source_id": "195",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "02b61a8ff0c2ab427bfea5c67f0a4d97786dfc7422685c52c8a049cfda12a788",
+          "bytes": 58392,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 332424,
+              "lossy90": 58392
+            }
+          },
+          "kind": "cover_front",
+          "path": "5241/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Moon Patrol (USA).png",
+              "source_sha256": "bd194c2f3f9b59ef8456b1b7105a191cbe534f60cefc55fb0385d26b8ae6689b",
+              "source_bytes": 423527,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 332424,
+                  "lossy90": 58392
+                }
+              },
+              "redump_id": "0063",
+              "dat_name": "Moon Patrol (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "73751e4cca6955c779c132e90f288ceedd631deb1fd16cc3018a06de9c438a57",
+          "bytes": 8054,
+          "width": 400,
+          "height": 71,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8054,
+              "lossy90": 12446
+            }
+          },
+          "kind": "logo",
+          "path": "5241/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Moon Patrol (USA).png",
+              "source_sha256": "e4856bb79724b141c4a6daa7cd4babc73c9bb57a4325a788acfbb79fb9167263",
+              "source_bytes": 8710,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8054,
+                  "lossy90": 12446
+                }
+              },
+              "redump_id": "0063",
+              "dat_name": "Moon Patrol (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "a208533f46ae57248f1c2fbe644c5583f70292bae03d26f74b012d82bd750a13",
+          "bytes": 2038,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2038,
+              "lossy90": 12526
+            }
+          },
+          "kind": "screenshot",
+          "path": "5241/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Moon Patrol (USA).png",
+              "source_sha256": "3cf01f6b3b249e899174c1fbf33ccdb4b918db957d08eee21cb9070d8c3f8d3a",
+              "source_bytes": 2135,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2038,
+                  "lossy90": 12526
+                }
+              },
+              "redump_id": "0063",
+              "dat_name": "Moon Patrol (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "1aabf0dc285989c7fabdfc9ba2931cd49ed2611a0e9a6eb3a6b85d8f440cbe62",
+          "bytes": 498,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 498,
+              "lossy90": 5500
+            }
+          },
+          "kind": "title_screen",
+          "path": "5241/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Moon Patrol (USA).png",
+              "source_sha256": "2583e87ce235ad62568cefb3c9b51fa62ecb9617c6905db5d6a9b2ad5e1869a7",
+              "source_bytes": 15084,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 498,
+                  "lossy90": 5500
+                }
+              },
+              "redump_id": "0063",
+              "dat_name": "Moon Patrol (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5241"
+      ]
+    },
+    "5247": {
+      "serial": "5247",
+      "entries": [
+        {
+          "redump_id": "0125",
+          "entry_id": "0125",
+          "provider": "no-intro",
+          "name": "Mario Bros. (USA) (Alt)",
+          "serial_raw": "5247",
+          "serials": [
+            "5247"
+          ],
+          "category": "Games",
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5247",
+                "field": "media_serial1",
+                "source_id": "166",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              },
+              {
+                "serial": "5247",
+                "field": "media_serial1",
+                "source_id": "193",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "155db15c2ab4b1425803c19a2127bb8a085958e289db6b29b2af4c3d316540f3",
+          "bytes": 824,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 824,
+              "lossy90": 10624
+            }
+          },
+          "kind": "screenshot",
+          "path": "5247/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Bros. (USA) (Alt).png",
+              "source_sha256": "760a2168da8191e815b02f0a20f6a2ff65f5a4fb9ab69f84cf904adf3da06b85",
+              "source_bytes": 2820,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 824,
+                  "lossy90": 10624
+                }
+              },
+              "redump_id": "0125",
+              "dat_name": "Mario Bros. (USA) (Alt)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5247"
+      ]
+    },
+    "5253": {
+      "serial": "5253",
+      "entries": [
+        {
+          "redump_id": "0026",
+          "entry_id": "0026",
+          "provider": "no-intro",
+          "name": "Choplifter! (USA)",
+          "serial_raw": "5253",
+          "serials": [
+            "5253"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "5253",
+                "field": "media_serial1",
+                "source_id": "170",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "03ee7beb066de19655adc97765885254535ac1d47ed440903833c6fe5b3de868",
+          "bytes": 74626,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 410826,
+              "lossy90": 74626
+            }
+          },
+          "kind": "cover_front",
+          "path": "5253/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Choplifter! (USA).png",
+              "source_sha256": "d702bb120711286236c574ce5d1905ba56d6911975623e91dfa5955ec3d61966",
+              "source_bytes": 489846,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 410826,
+                  "lossy90": 74626
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Choplifter! (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "25df74fd1abac0d5d899fa30ab218be9ca0e689ad5cae90d4fc4945a4d6693d7",
+          "bytes": 4562,
+          "width": 400,
+          "height": 91,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4562,
+              "lossy90": 11516
+            }
+          },
+          "kind": "logo",
+          "path": "5253/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Choplifter! (USA).png",
+              "source_sha256": "b6bbba188308d605c187fb25e1695acf70a409d2721e63569d884a3062a669b4",
+              "source_bytes": 5509,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4562,
+                  "lossy90": 11516
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Choplifter! (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "2ab90e1e51a2d49c2265afd3a0f109a7ec5d5006813ff81e8b194f3a1f79a552",
+          "bytes": 440,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 440,
+              "lossy90": 2732
+            }
+          },
+          "kind": "screenshot",
+          "path": "5253/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Choplifter! (USA).png",
+              "source_sha256": "f508773c77c65b501d45ce7c8a42828b30c318ab681469e22384748dbf878d46",
+              "source_bytes": 15040,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 440,
+                  "lossy90": 2732
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Choplifter! (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "55f115a62f123051a3f8c4cab5ef5f9196776a6fbb118b5200915165e57fa69e",
+          "bytes": 646,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 646,
+              "lossy90": 5202
+            }
+          },
+          "kind": "title_screen",
+          "path": "5253/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Choplifter! (USA).png",
+              "source_sha256": "897c0fdfc09803b1d52fef7a7550c458d8fee829a9fcf5e4fe518d5f73e9e99c",
+              "source_bytes": 15262,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 646,
+                  "lossy90": 5202
+                }
+              },
+              "redump_id": "0026",
+              "dat_name": "Choplifter! (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "5253"
+      ]
+    },
+    "FZ-002-04": {
+      "serial": "FZ-002-04",
+      "entries": [
+        {
+          "redump_id": "0022",
+          "entry_id": "0022",
+          "provider": "no-intro",
+          "name": "Carol Shaw's River Raid (USA)",
+          "serial_raw": "FZ-002-04",
+          "serials": [
+            "FZ-002-04"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "FZ-002-04",
+                "field": "media_serial1",
+                "source_id": "146",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "12ca56d58120f3ddf5b7a5891096cd5ca2377c4001e598dca7dda1b83fc9366e",
+          "bytes": 82096,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 423554,
+              "lossy90": 82096
+            }
+          },
+          "kind": "cover_front",
+          "path": "FZ-002-04/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Carol Shaw's River Raid (USA).png",
+              "source_sha256": "be1c17b74a2bfd7f4426b665777d6c0de2ae820ac0dd1b906a711145fd957c0a",
+              "source_bytes": 527957,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 423554,
+                  "lossy90": 82096
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Carol Shaw's River Raid (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "9a1ce30cb0d8fb6fde8902ce13b0fd04daedb5642ba36d006a940a7fe36b9904",
+          "bytes": 1468,
+          "width": 400,
+          "height": 58,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1468,
+              "lossy90": 4926
+            }
+          },
+          "kind": "logo",
+          "path": "FZ-002-04/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Carol Shaw's River Raid (USA).png",
+              "source_sha256": "0bbfae394a515c97abd834ff703b3009a18ec42226b6306ae92c5cf28d80e1d7",
+              "source_bytes": 1880,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1468,
+                  "lossy90": 4926
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Carol Shaw's River Raid (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "fbe6be8455b9bf486a78590f180b5dc84a044833a4b9d0624bc82388643d83ad",
+          "bytes": 1054,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1054,
+              "lossy90": 7466
+            }
+          },
+          "kind": "screenshot",
+          "path": "FZ-002-04/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Carol Shaw's River Raid (USA).png",
+              "source_sha256": "8d6a3dc58e3ad925130e56f84705355bbe7df612e13704a03c68700042c3be71",
+              "source_bytes": 15758,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1054,
+                  "lossy90": 7466
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Carol Shaw's River Raid (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "4807a9d1002996133d20f7fa63cd6f0da18efa4403457d14606e51774cbfa51c",
+          "bytes": 970,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 970,
+              "lossy90": 7156
+            }
+          },
+          "kind": "title_screen",
+          "path": "FZ-002-04/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Carol Shaw's River Raid (USA).png",
+              "source_sha256": "f82dc15a8f569849d059a8b319732c444329e90a8ae57969e01fd5a6d0078df6",
+              "source_bytes": 15682,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 970,
+                  "lossy90": 7156
+                }
+              },
+              "redump_id": "0022",
+              "dat_name": "Carol Shaw's River Raid (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "FZ-002-04"
+      ]
+    },
+    "FZ-005-04": {
+      "serial": "FZ-005-04",
+      "entries": [
+        {
+          "redump_id": "0032",
+          "entry_id": "0032",
+          "provider": "no-intro",
+          "name": "Dreadnaught Factor, The (USA)",
+          "serial_raw": "FZ-005-04",
+          "serials": [
+            "FZ-005-04"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "FZ-005-04",
+                "field": "media_serial1",
+                "source_id": "152",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "de09e43c22f7e1f8802167de0e2878169794dfd63ca12deedc951fc72b0ae44b",
+          "bytes": 87674,
+          "width": 512,
+          "height": 699,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 441744,
+              "lossy90": 87674
+            }
+          },
+          "kind": "cover_front",
+          "path": "FZ-005-04/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Dreadnaught Factor, The (USA).png",
+              "source_sha256": "3bf796be4880471930a627b72161dfcf838f3d2d21e977c9d38c9cf42ec91c11",
+              "source_bytes": 552362,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 441744,
+                  "lossy90": 87674
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Dreadnaught Factor, The (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4d3eece7bcd378f320647f213875a4d09c81635a103f33a017901108c085e9e1",
+          "bytes": 3062,
+          "width": 400,
+          "height": 61,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3062,
+              "lossy90": 10014
+            }
+          },
+          "kind": "logo",
+          "path": "FZ-005-04/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Dreadnaught Factor, The (USA).png",
+              "source_sha256": "fcc76806859410f2e4ad22ce7953bc43e68e0c0e03a4c6faf13b11183fe28491",
+              "source_bytes": 3260,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3062,
+                  "lossy90": 10014
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Dreadnaught Factor, The (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3fe7e19914dec8420a2f18585c01bd6fb6586926ec1b25f918d85ac06d1826fb",
+          "bytes": 782,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 782,
+              "lossy90": 5534
+            }
+          },
+          "kind": "screenshot",
+          "path": "FZ-005-04/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Dreadnaught Factor, The (USA).png",
+              "source_sha256": "bac487d8d142a9ca680d404078079916bfaca751ea8f6ed7fd169010ff556c70",
+              "source_bytes": 15451,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 782,
+                  "lossy90": 5534
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Dreadnaught Factor, The (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "546539e4fba0b1492968efdc37f0a90e7f2176f93b44372d35dba2551f5aa144",
+          "bytes": 828,
+          "width": 336,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 828,
+              "lossy90": 7624
+            }
+          },
+          "kind": "title_screen",
+          "path": "FZ-005-04/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Dreadnaught Factor, The (USA).png",
+              "source_sha256": "a5cc4728462d23938561ab51b0a80c82ee14286452586050196c616088561488",
+              "source_bytes": 15464,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 828,
+                  "lossy90": 7624
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Dreadnaught Factor, The (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "FZ-005-04"
+      ]
+    },
+    "PR-5202": {
+      "serial": "PR-5202",
+      "entries": [
+        {
+          "redump_id": "0121",
+          "entry_id": "0121",
+          "provider": "no-intro",
+          "name": "Xari Arena (USA) (Proto) (1983-09-20)",
+          "serial_raw": "PR-5202",
+          "serials": [
+            "PR-5202"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "PR-5202",
+                "field": "media_serial1",
+                "source_id": "142",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Atari - Atari 5200 (DB Export) (20260412-121350).xml",
+                "member_sha256": "c75e9aef096f8707d7be113fd3bec28293a3fcc08c508977ecc3a4a29387584c"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "a1a5779f6de073bb69cadd06cb97d2a4827be6f6b4edcd07510ae4f8f8f02752",
+          "bytes": 566,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 566,
+              "lossy90": 5918
+            }
+          },
+          "kind": "screenshot",
+          "path": "PR-5202/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Xari Arena (USA) (Proto) (1983-09-20).png",
+              "source_sha256": "e594c60ec49f339b40243e758a003a218276ed9aefb2ae5814773e6b4dff9121",
+              "source_bytes": 1987,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 566,
+                  "lossy90": 5918
+                }
+              },
+              "redump_id": "0121",
+              "dat_name": "Xari Arena (USA) (Proto) (1983-09-20)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PR-5202"
+      ]
+    }
+  }
+}

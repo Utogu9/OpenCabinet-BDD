@@ -1,0 +1,2125 @@
+{
+  "schema_version": 2,
+  "system": "Coleco - ColecoVision",
+  "dat": {
+    "file": "cb728b12387ccf9c7712533557cd74240b472923e1475ffcc03c701f77727877.dat",
+    "sha256": "cb728b12387ccf9c7712533557cd74240b472923e1475ffcc03c701f77727877",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Coleco - ColecoVision (20260710-180934).dat",
+      "standard_sha256": "87933c010be86883b42042492995bf15f5abc98ee5a028b0859bb94df0dae56f",
+      "db_members": {
+        "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+      }
+    },
+    "version": "20260710-180934",
+    "system": "Coleco - ColecoVision",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "4L1716": {
+      "serial": "4L1716",
+      "entries": [
+        {
+          "redump_id": "0042",
+          "entry_id": "0042",
+          "provider": "no-intro",
+          "name": "Donkey Kong Junior (USA, Europe)",
+          "serial_raw": "4L1981, 4L1716",
+          "serials": [
+            "4L1981",
+            "4L1716"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1981",
+                "field": "media_serial1",
+                "source_id": "802",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1716",
+                "field": "media_serial1",
+                "source_id": "810",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1c32217af2c6702715c17be430d989306a7585d73d2e13b1d076e0b4e1a1b65f",
+          "bytes": 54882,
+          "width": 365,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 222748,
+              "lossy90": 54882
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1716/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "e822616e3333e6163906234ca38ef4dcb37098321caa2f57bd686c1d72a84c20",
+              "source_bytes": 282069,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 222748,
+                  "lossy90": 54882
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "7edeb2844b95a9eed273061627cf62bae60adf5c74de5fed1cd752a3df3a2cb4",
+          "bytes": 7286,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7286,
+              "lossy90": 19392
+            }
+          },
+          "kind": "logo",
+          "path": "4L1716/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "6f642a133f91657a011db231494052931fbc39fbd44e66989af6dfbcf180b4e7",
+              "source_bytes": 8122,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7286,
+                  "lossy90": 19392
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "8d58491b58c8bec9fabd97a3b8c2e6d0da7833a233e8a41268af0783da10e184",
+          "bytes": 1672,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1672,
+              "lossy90": 10368
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1716/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "8e651b86b15aa6dc443c81adb88773b14bc46dbced10a7440c5a4d1cf0fe6286",
+              "source_bytes": 1820,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1672,
+                  "lossy90": 10368
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "f65357e770c468d14112ae1710d58923dd9acb376fb973cf5460a71959efa7fe",
+          "bytes": 622,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 622,
+              "lossy90": 3828
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1716/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "b891fae7d47e64e1c9b176ce8199a5c844f97c3a025f47b6ba2890b692744625",
+              "source_bytes": 15255,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 622,
+                  "lossy90": 3828
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1716"
+      ]
+    },
+    "4L1868": {
+      "serial": "4L1868",
+      "entries": [
+        {
+          "redump_id": "0106",
+          "entry_id": "0106",
+          "provider": "no-intro",
+          "name": "Pepper II (USA, Europe)",
+          "serial_raw": "4L1868",
+          "serials": [
+            "4L1868"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1868",
+                "field": "media_serial1",
+                "source_id": "813",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ccad907d0b62e4dd78d4588ef8c4052a683ed9e7ca2ace9167aed98d1fb99d1a",
+          "bytes": 48124,
+          "width": 368,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 194192,
+              "lossy90": 48124
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1868/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pepper II (USA, Europe).png",
+              "source_sha256": "304f3aa227cf979201ccb76a59a388e1171c4271c53ae10707961efa49b2ea20",
+              "source_bytes": 231563,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 194192,
+                  "lossy90": 48124
+                }
+              },
+              "redump_id": "0106",
+              "dat_name": "Pepper II (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "f3b7bf8d32c9ce97948e8859bde25ff7f8300fa047559d4110b4f44ce06cced3",
+          "bytes": 6442,
+          "width": 400,
+          "height": 121,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6442,
+              "lossy90": 14306
+            }
+          },
+          "kind": "logo",
+          "path": "4L1868/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pepper II (USA, Europe).png",
+              "source_sha256": "9038ba1ce3002bf6deb0d792fe3ee86e0c6afb5faf40007c8f86182e0d054832",
+              "source_bytes": 7032,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6442,
+                  "lossy90": 14306
+                }
+              },
+              "redump_id": "0106",
+              "dat_name": "Pepper II (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3e5c834c3d37e3bce961c7884103e609140de82d90a8a6283960103a83d6bf44",
+          "bytes": 1742,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1742,
+              "lossy90": 13500
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1868/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pepper II (USA, Europe).png",
+              "source_sha256": "de29cfe4b98c0205e963d85f2cebf7c50d60db4f10978009b5e4e6c9b57bada6",
+              "source_bytes": 1850,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1742,
+                  "lossy90": 13500
+                }
+              },
+              "redump_id": "0106",
+              "dat_name": "Pepper II (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "249367a4c66f213347553aa01f97a9824f7f3515c6d97de0774b32c3df5bd637",
+          "bytes": 524,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 524,
+              "lossy90": 3142
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1868/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pepper II (USA, Europe).png",
+              "source_sha256": "5353a1dc5415e8b4bbb8fd31011626cc197ec2a79029b56e4b9949c8eb64cee1",
+              "source_bytes": 15132,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 524,
+                  "lossy90": 3142
+                }
+              },
+              "redump_id": "0106",
+              "dat_name": "Pepper II (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1868"
+      ]
+    },
+    "4L1921": {
+      "serial": "4L1921",
+      "entries": [
+        {
+          "redump_id": "0040",
+          "entry_id": "0040",
+          "provider": "no-intro",
+          "name": "Donkey Kong (USA, Europe) (v1.1)",
+          "serial_raw": "4L1921",
+          "serials": [
+            "4L1921"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1921",
+                "field": "media_serial1",
+                "source_id": "799",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1921",
+                "field": "media_serial1",
+                "source_id": "801",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1921",
+                "field": "media_serial1",
+                "source_id": "809",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ed89d75c5bef7a8a6b8fdf7b9b8b4bfa0d507281c149aee7780a3e5d226045c1",
+          "bytes": 56680,
+          "width": 369,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 227256,
+              "lossy90": 56680
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1921/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Donkey Kong (USA, Europe) (v1.1).png",
+              "source_sha256": "ecbe7f1275521a36b951c41fe715ee3be90358e4bd8d2f4f7ed0f850c9a18806",
+              "source_bytes": 273476,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 227256,
+                  "lossy90": 56680
+                }
+              },
+              "redump_id": "0040",
+              "dat_name": "Donkey Kong (USA, Europe) (v1.1)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "e37014ab8927a3fff5b988ea38c1027a7269c7c428e6155c9b8419095807e1ad",
+          "bytes": 27670,
+          "width": 512,
+          "height": 111,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 58704,
+              "lossy90": 27670
+            }
+          },
+          "kind": "logo",
+          "path": "4L1921/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Donkey Kong (USA, Europe) (v1.1).png",
+              "source_sha256": "bd958d035b4f5f72ade9ae0bb2f025342c7f1c489438e8626f1685b198ea8e3c",
+              "source_bytes": 21,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 58704,
+                  "lossy90": 27670
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Donkey Kong (USA, Europe) (v1.1).png",
+                  "target": "Donkey Kong (USA).png",
+                  "type": "text_alias",
+                  "sha256": "bd958d035b4f5f72ade9ae0bb2f025342c7f1c489438e8626f1685b198ea8e3c",
+                  "bytes": 21
+                }
+              ],
+              "resolved_source": "Named_Logos/Donkey Kong (USA).png",
+              "resolved_source_sha256": "800ce661eaf30d42c60978c0121a03b4d7661d99c172d42adf59ed6402ea0689",
+              "resolved_source_bytes": 81034,
+              "redump_id": "0040",
+              "dat_name": "Donkey Kong (USA, Europe) (v1.1)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "4d270aedea315b2e057ca1308d6d1b9b2dd950fdd39a987e222088c070f8e726",
+          "bytes": 1366,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1366,
+              "lossy90": 12310
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1921/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Donkey Kong (USA, Europe) (v1.1).png",
+              "source_sha256": "1752a5a44512584d3f62f96aeed8ebe8961853513eaf3c8663b211394c56f193",
+              "source_bytes": 1432,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1366,
+                  "lossy90": 12310
+                }
+              },
+              "redump_id": "0040",
+              "dat_name": "Donkey Kong (USA, Europe) (v1.1)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "0a3ef73fde88df3dd2f7284997077fd920820273ecdce6a683e39d373b2d3dfa",
+          "bytes": 552,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 552,
+              "lossy90": 3394
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1921/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Donkey Kong (USA, Europe) (v1.1).png",
+              "source_sha256": "cdc9685f4a969857650c9d8a1824138e9ea9a799ded8fc18457e65284915fa53",
+              "source_bytes": 15173,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 552,
+                  "lossy90": 3394
+                }
+              },
+              "redump_id": "0040",
+              "dat_name": "Donkey Kong (USA, Europe) (v1.1)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1921"
+      ]
+    },
+    "4L1954": {
+      "serial": "4L1954",
+      "entries": [
+        {
+          "redump_id": "0173",
+          "entry_id": "0173",
+          "provider": "no-intro",
+          "name": "Zaxxon (USA, Europe)",
+          "serial_raw": "4L1957, 4L1954",
+          "serials": [
+            "4L1957",
+            "4L1954"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1957",
+                "field": "media_serial1",
+                "source_id": "804",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1954",
+                "field": "media_serial1",
+                "source_id": "814",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f23247fa7d5903eaa9abe1abaaf6ed1de9db1cd1a26f8ba7dacae7d67feee205",
+          "bytes": 53078,
+          "width": 363,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 208008,
+              "lossy90": 53078
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1954/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Zaxxon (USA, Europe).png",
+              "source_sha256": "5963d5d5e62942aadc53d5cd02b6a697eb66cb3776233de22f9c0a506dd7bc0c",
+              "source_bytes": 246923,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 208008,
+                  "lossy90": 53078
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "eb018a6eb34c50dfadedb55a040effe6c8ad9840ba918b7805090a42fcdc57b6",
+          "bytes": 24838,
+          "width": 512,
+          "height": 256,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 55162,
+              "lossy90": 24838
+            }
+          },
+          "kind": "logo",
+          "path": "4L1954/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Zaxxon (USA, Europe).png",
+              "source_sha256": "0ffcfbf1a7c480b817a61d77f11db58f0ec418e06f8b46226146e5f94302a643",
+              "source_bytes": 92868,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 55162,
+                  "lossy90": 24838
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "174bee4f25c8c910d437f5f22ac0d17cf3133bc962f04ad71c083a53bf86dbbf",
+          "bytes": 754,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 754,
+              "lossy90": 4688
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1954/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Zaxxon (USA, Europe).png",
+              "source_sha256": "e6fce4459939ad29db85d8941a04384867f93bf4f9404df68d9356e0db569c07",
+              "source_bytes": 15544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 754,
+                  "lossy90": 4688
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "931dfc12d46ce3660454f806c24e20261cbf33594a3a02bebce9eecc21ae157d",
+          "bytes": 530,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 530,
+              "lossy90": 3138
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1954/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Zaxxon (USA, Europe).png",
+              "source_sha256": "027ab8b699a74921f3e7624fae045d16d3b053f806febe873f3e768766426d27",
+              "source_bytes": 15147,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 530,
+                  "lossy90": 3138
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1954"
+      ]
+    },
+    "4L1957": {
+      "serial": "4L1957",
+      "entries": [
+        {
+          "redump_id": "0173",
+          "entry_id": "0173",
+          "provider": "no-intro",
+          "name": "Zaxxon (USA, Europe)",
+          "serial_raw": "4L1957, 4L1954",
+          "serials": [
+            "4L1957",
+            "4L1954"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1957",
+                "field": "media_serial1",
+                "source_id": "804",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1954",
+                "field": "media_serial1",
+                "source_id": "814",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f23247fa7d5903eaa9abe1abaaf6ed1de9db1cd1a26f8ba7dacae7d67feee205",
+          "bytes": 53078,
+          "width": 363,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 208008,
+              "lossy90": 53078
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1957/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Zaxxon (USA, Europe).png",
+              "source_sha256": "5963d5d5e62942aadc53d5cd02b6a697eb66cb3776233de22f9c0a506dd7bc0c",
+              "source_bytes": 246923,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 208008,
+                  "lossy90": 53078
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "eb018a6eb34c50dfadedb55a040effe6c8ad9840ba918b7805090a42fcdc57b6",
+          "bytes": 24838,
+          "width": 512,
+          "height": 256,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 55162,
+              "lossy90": 24838
+            }
+          },
+          "kind": "logo",
+          "path": "4L1957/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Zaxxon (USA, Europe).png",
+              "source_sha256": "0ffcfbf1a7c480b817a61d77f11db58f0ec418e06f8b46226146e5f94302a643",
+              "source_bytes": 92868,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 55162,
+                  "lossy90": 24838
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "174bee4f25c8c910d437f5f22ac0d17cf3133bc962f04ad71c083a53bf86dbbf",
+          "bytes": 754,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 754,
+              "lossy90": 4688
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1957/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Zaxxon (USA, Europe).png",
+              "source_sha256": "e6fce4459939ad29db85d8941a04384867f93bf4f9404df68d9356e0db569c07",
+              "source_bytes": 15544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 754,
+                  "lossy90": 4688
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "931dfc12d46ce3660454f806c24e20261cbf33594a3a02bebce9eecc21ae157d",
+          "bytes": 530,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 530,
+              "lossy90": 3138
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1957/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Zaxxon (USA, Europe).png",
+              "source_sha256": "027ab8b699a74921f3e7624fae045d16d3b053f806febe873f3e768766426d27",
+              "source_bytes": 15147,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 530,
+                  "lossy90": 3138
+                }
+              },
+              "redump_id": "0173",
+              "dat_name": "Zaxxon (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1957"
+      ]
+    },
+    "4L1974": {
+      "serial": "4L1974",
+      "entries": [
+        {
+          "redump_id": "0164",
+          "entry_id": "0164",
+          "provider": "no-intro",
+          "name": "Venture (USA, Europe)",
+          "serial_raw": "4L1974",
+          "serials": [
+            "4L1974"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1974",
+                "field": "media_serial1",
+                "source_id": "794",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3c97ae7967c4814bbedf5a6debd243abc92dea99d9daae144d8f82f3f834c809",
+          "bytes": 51424,
+          "width": 370,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 246134,
+              "lossy90": 51424
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1974/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Venture (USA, Europe).png",
+              "source_sha256": "8d4a8b18b78216f92385ecc6f4fc1cf5a9b3bc301b43f4939f57c0ec19ef10ac",
+              "source_bytes": 296603,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 246134,
+                  "lossy90": 51424
+                }
+              },
+              "redump_id": "0164",
+              "dat_name": "Venture (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "95817965bcf77661b063faef09ea22579e874fc52038092d7020d3ca2d74268a",
+          "bytes": 29442,
+          "width": 512,
+          "height": 256,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 74200,
+              "lossy90": 29442
+            }
+          },
+          "kind": "logo",
+          "path": "4L1974/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Venture (USA, Europe).png",
+              "source_sha256": "8f2f2b2ca5da7f0ed30361f45bcad52161092ecba822b7b8bcf0d1d80fa4bb64",
+              "source_bytes": 114625,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 74200,
+                  "lossy90": 29442
+                }
+              },
+              "redump_id": "0164",
+              "dat_name": "Venture (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "bb5ebf15e8766b785b8ba7757c2d4af153ac9e0949ef4853755147931af0ea0c",
+          "bytes": 688,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 688,
+              "lossy90": 3208
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1974/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Venture (USA, Europe).png",
+              "source_sha256": "1da86ef922a4217452974a3ce9e814fdae18267ac86d35d9010e9fce507486d2",
+              "source_bytes": 15329,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 688,
+                  "lossy90": 3208
+                }
+              },
+              "redump_id": "0164",
+              "dat_name": "Venture (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "f3fce28c5cc4c3eb4080482fbeaa1707e100f258403a860ced8db24718a567d5",
+          "bytes": 528,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 528,
+              "lossy90": 3152
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1974/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Venture (USA, Europe).png",
+              "source_sha256": "b0ae97ae7a8cffd36db122ba4bb441f8f094a45fe6e7dbe0edc4f4714a5edd12",
+              "source_bytes": 15139,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 528,
+                  "lossy90": 3152
+                }
+              },
+              "redump_id": "0164",
+              "dat_name": "Venture (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1974"
+      ]
+    },
+    "4L1981": {
+      "serial": "4L1981",
+      "entries": [
+        {
+          "redump_id": "0042",
+          "entry_id": "0042",
+          "provider": "no-intro",
+          "name": "Donkey Kong Junior (USA, Europe)",
+          "serial_raw": "4L1981, 4L1716",
+          "serials": [
+            "4L1981",
+            "4L1716"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1981",
+                "field": "media_serial1",
+                "source_id": "802",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              },
+              {
+                "serial": "4L1716",
+                "field": "media_serial1",
+                "source_id": "810",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1c32217af2c6702715c17be430d989306a7585d73d2e13b1d076e0b4e1a1b65f",
+          "bytes": 54882,
+          "width": 365,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 222748,
+              "lossy90": 54882
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1981/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "e822616e3333e6163906234ca38ef4dcb37098321caa2f57bd686c1d72a84c20",
+              "source_bytes": 282069,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 222748,
+                  "lossy90": 54882
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "7edeb2844b95a9eed273061627cf62bae60adf5c74de5fed1cd752a3df3a2cb4",
+          "bytes": 7286,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7286,
+              "lossy90": 19392
+            }
+          },
+          "kind": "logo",
+          "path": "4L1981/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "6f642a133f91657a011db231494052931fbc39fbd44e66989af6dfbcf180b4e7",
+              "source_bytes": 8122,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7286,
+                  "lossy90": 19392
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "8d58491b58c8bec9fabd97a3b8c2e6d0da7833a233e8a41268af0783da10e184",
+          "bytes": 1672,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1672,
+              "lossy90": 10368
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1981/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "8e651b86b15aa6dc443c81adb88773b14bc46dbced10a7440c5a4d1cf0fe6286",
+              "source_bytes": 1820,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1672,
+                  "lossy90": 10368
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "f65357e770c468d14112ae1710d58923dd9acb376fb973cf5460a71959efa7fe",
+          "bytes": 622,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 622,
+              "lossy90": 3828
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1981/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Donkey Kong Junior (USA, Europe).png",
+              "source_sha256": "b891fae7d47e64e1c9b176ce8199a5c844f97c3a025f47b6ba2890b692744625",
+              "source_bytes": 15255,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 622,
+                  "lossy90": 3828
+                }
+              },
+              "redump_id": "0042",
+              "dat_name": "Donkey Kong Junior (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1981"
+      ]
+    },
+    "4L1988": {
+      "serial": "4L1988",
+      "entries": [
+        {
+          "redump_id": "0097",
+          "entry_id": "0097",
+          "provider": "no-intro",
+          "name": "Mouse Trap (USA, Europe)",
+          "serial_raw": "4L1988",
+          "serials": [
+            "4L1988"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L1988",
+                "field": "media_serial1",
+                "source_id": "812",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "be143de66fcab536a89b2c826eba8ed3357bffcdfeedafedaaa257c9da2478f6",
+          "bytes": 85086,
+          "width": 363,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 307832,
+              "lossy90": 85086
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L1988/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mouse Trap (USA, Europe).png",
+              "source_sha256": "81f2e258f6aee2f321cb6e05c0cd1ee1c1e9e75fc4888056c41e09e5e3ee82da",
+              "source_bytes": 339860,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 307832,
+                  "lossy90": 85086
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Boxarts/Mousetrap (USA, Europe).png",
+              "source_sha256": "81f2e258f6aee2f321cb6e05c0cd1ee1c1e9e75fc4888056c41e09e5e3ee82da",
+              "source_bytes": 339860,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 307832,
+                  "lossy90": 85086
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "aeaa0e1f2d116ca437004ce13fa119e62bc39323ae8802cd852efbe9ead06324",
+          "bytes": 23868,
+          "width": 512,
+          "height": 213,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 45962,
+              "lossy90": 23868
+            }
+          },
+          "kind": "logo",
+          "path": "4L1988/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mouse Trap (USA, Europe).png",
+              "source_sha256": "3bc88f5cee70be54459fe0e36c2288d08df789d618adafcbd2731cb8ba89a0dd",
+              "source_bytes": 70690,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 45962,
+                  "lossy90": 23868
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "325b3e0a21ebac7ad2f66c60b9f2d204f59ca2b3e70614e61695156d72c1655d",
+          "bytes": 1204,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1204,
+              "lossy90": 9058
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1988/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mouse Trap (USA, Europe).png",
+              "source_sha256": "0d2b4b79dc889e4694529fe7b6313e87bc29caf989a2f0f30e1fd0071baa640b",
+              "source_bytes": 2575,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1204,
+                  "lossy90": 9058
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "d956a1f3ccf52e5421db64ad42a31076c01a9cdf4299b44fafe2338b82b48d31",
+          "bytes": 1188,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1188,
+              "lossy90": 9674
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L1988/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mousetrap (USA, Europe).png",
+              "source_sha256": "59acaa7044aed4a594762319befcf1b3ac32299ee11a1bdca4d98d137aeb1cc6",
+              "source_bytes": 1284,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1188,
+                  "lossy90": 9674
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "c1aefaf75cc2d7486df720c833e0c4ffc935e9f579ec78dc673419d129c7a660",
+          "bytes": 546,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 546,
+              "lossy90": 3298
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1988/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mouse Trap (USA, Europe).png",
+              "source_sha256": "ec134ac98518bff99af1dfbc9165bdc1684ea43ccfe7c31001ad3b33a0ad2edb",
+              "source_bytes": 982,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 546,
+                  "lossy90": 3298
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "619c1114b6ced414f1c0b92e07f6683850fa6068bbd051f6bd8b3ee0942ffb70",
+          "bytes": 544,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 544,
+              "lossy90": 3244
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L1988/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mousetrap (USA, Europe).png",
+              "source_sha256": "1327be5dacfd35ca3802d08ef0d65d13e58ececf1611e7230579bfe0b2c9384a",
+              "source_bytes": 15155,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 544,
+                  "lossy90": 3244
+                }
+              },
+              "redump_id": "0097",
+              "dat_name": "Mouse Trap (USA, Europe)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L1988"
+      ]
+    },
+    "4L2022": {
+      "serial": "4L2022",
+      "entries": [
+        {
+          "redump_id": "0032",
+          "entry_id": "0032",
+          "provider": "no-intro",
+          "name": "Cosmic Avenger (USA, Europe)",
+          "serial_raw": "4L2022",
+          "serials": [
+            "4L2022"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L2022",
+                "field": "media_serial1",
+                "source_id": "808",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e12fdc6d4c1eaab8006ee1eb209f67bf3191046d47a17a4f1c3b7307f2eba4e3",
+          "bytes": 60098,
+          "width": 368,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 251692,
+              "lossy90": 60098
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L2022/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Cosmic Avenger (USA, Europe).png",
+              "source_sha256": "96a4ebe25c9e97c3acaeda999c7ebbe1a3e07a69a81827407fad7d9ada8b6c2e",
+              "source_bytes": 286293,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 251692,
+                  "lossy90": 60098
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Cosmic Avenger (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "fc2a52b5bafde155e0b1e1c6b17a58812caedd4bb4a6a3b48df3f3ec4beda3ad",
+          "bytes": 31280,
+          "width": 512,
+          "height": 213,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 57302,
+              "lossy90": 31280
+            }
+          },
+          "kind": "logo",
+          "path": "4L2022/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Cosmic Avenger (USA, Europe).png",
+              "source_sha256": "d7b5ce9370b0cc760b5c438f2052cbf18bc7c742b0ca918652ac136cbc8b7e8a",
+              "source_bytes": 83207,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 57302,
+                  "lossy90": 31280
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Cosmic Avenger (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "6d3836cf8594394122c2ddc5857af9868f8cffc9225ad0d741b81e7e086264d9",
+          "bytes": 1006,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1006,
+              "lossy90": 6320
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L2022/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Cosmic Avenger (USA, Europe).png",
+              "source_sha256": "a6de1eae6e439cde87018b580262b06e25c4d66fe70cc47799b3bf2ca0278abf",
+              "source_bytes": 1284,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1006,
+                  "lossy90": 6320
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Cosmic Avenger (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9c4e55455cde9a027213f685303cff9106af88d6418531e022a3cf43a4b4cf57",
+          "bytes": 540,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 540,
+              "lossy90": 3200
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L2022/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Cosmic Avenger (USA, Europe).png",
+              "source_sha256": "ba4045433664c356969786484d637759698d04c2fab86818e769f3c00853f3bc",
+              "source_bytes": 15152,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 540,
+                  "lossy90": 3200
+                }
+              },
+              "redump_id": "0032",
+              "dat_name": "Cosmic Avenger (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L2022"
+      ]
+    },
+    "4L2040": {
+      "serial": "4L2040",
+      "entries": [
+        {
+          "redump_id": "0079",
+          "entry_id": "0079",
+          "provider": "no-intro",
+          "name": "Lady Bug (USA, Europe)",
+          "serial_raw": "4L2040",
+          "serials": [
+            "4L2040"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "4L2040",
+                "field": "media_serial1",
+                "source_id": "811",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Coleco - ColecoVision (DB Export) (20260710-180934).xml",
+                "member_sha256": "f90f84292cd41630ce5dcc39b8fb29801cd64f1e47f794c6ed89a70592887617"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f13f12927c59fcd57058411060b06281d27329fadd276d53e4d2579e21c46d88",
+          "bytes": 64050,
+          "width": 369,
+          "height": 500,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 248112,
+              "lossy90": 64050
+            }
+          },
+          "kind": "cover_front",
+          "path": "4L2040/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Lady Bug (USA, Europe).png",
+              "source_sha256": "d5b01c9ab93a3b441b8ad1e46b2a7bfc440c2975c638cb54b091245219fa2bf8",
+              "source_bytes": 290855,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 248112,
+                  "lossy90": 64050
+                }
+              },
+              "redump_id": "0079",
+              "dat_name": "Lady Bug (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "bda45739d857ed71b661c64dd832fff47aa627e8463a2e9c6356d899ecd1a268",
+          "bytes": 5636,
+          "width": 400,
+          "height": 106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5636,
+              "lossy90": 16382
+            }
+          },
+          "kind": "logo",
+          "path": "4L2040/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Lady Bug (USA, Europe).png",
+              "source_sha256": "4901d41485b6c0aa755b302404309faa1dc234e6d666b0b1466d64ec2f6b17d6",
+              "source_bytes": 6151,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5636,
+                  "lossy90": 16382
+                }
+              },
+              "redump_id": "0079",
+              "dat_name": "Lady Bug (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "b22ea4e46ede2d3b70e0d29289c0ed90d1a77373a7e923726dde502023b56b64",
+          "bytes": 1516,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1516,
+              "lossy90": 16180
+            }
+          },
+          "kind": "screenshot",
+          "path": "4L2040/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Lady Bug (USA, Europe).png",
+              "source_sha256": "3fa71143a41a154df979461807d331d39278fe2f3b8116ecf21c7deebb8a5bcd",
+              "source_bytes": 1602,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1516,
+                  "lossy90": 16180
+                }
+              },
+              "redump_id": "0079",
+              "dat_name": "Lady Bug (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "3c82c9f3c6202ae1d61582bb4a6e2edd966d7bbada841467fd12ddbd41fc878a",
+          "bytes": 522,
+          "width": 256,
+          "height": 192,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 522,
+              "lossy90": 2980
+            }
+          },
+          "kind": "title_screen",
+          "path": "4L2040/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Lady Bug (USA, Europe).png",
+              "source_sha256": "fab5970bc2040d84d063e51af6591e73921c209436e9581e5ad08ff75d0b553b",
+              "source_bytes": 15134,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 522,
+                  "lossy90": 2980
+                }
+              },
+              "redump_id": "0079",
+              "dat_name": "Lady Bug (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "4L2040"
+      ]
+    }
+  }
+}

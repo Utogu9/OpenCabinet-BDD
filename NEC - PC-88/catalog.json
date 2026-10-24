@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "system": "NEC - PC-88",
+  "dat": {
+    "file": "6b453a11bdd6493dd88d508db081fa0bb53ac63e98c0bc539474a53db427aab9.dat",
+    "sha256": "6b453a11bdd6493dd88d508db081fa0bb53ac63e98c0bc539474a53db427aab9",
+    "version": "2026-10-14 05-51-53",
+    "system": "NEC - PC-88 series",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {}
+}

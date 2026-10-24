@@ -1,0 +1,573 @@
+{
+  "schema_version": 2,
+  "system": "Microsoft - Xbox 360",
+  "dat": {
+    "file": "ffb3cf6f2990e97dbfc51df21262af24a3827fcd6702bdff178230b2ffc1b063.dat",
+    "sha256": "ffb3cf6f2990e97dbfc51df21262af24a3827fcd6702bdff178230b2ffc1b063",
+    "version": "2026-10-21 08-54-29",
+    "system": "Microsoft - Xbox 360",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "AT-2007": {
+      "serial": "AT-2007",
+      "entries": [
+        {
+          "redump_id": "50527",
+          "entry_id": "50527",
+          "provider": "redump",
+          "name": "Catherine (USA)",
+          "serial_raw": "AT-2007",
+          "serials": [
+            "AT-2007"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1e8c667ac1c068d71619f55b1f4e37bd2bf39db229f02797e4d8ede90c912004",
+          "bytes": 101278,
+          "width": 512,
+          "height": 720,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 430116,
+              "lossy90": 101278
+            }
+          },
+          "kind": "cover_front",
+          "path": "AT-2007/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Catherine (USA).png",
+              "source_sha256": "b1e35ad3eb63072c5e50456a7a1cc0ad628c479127def93e3bf4527dc46583c6",
+              "source_bytes": 565956,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 430116,
+                  "lossy90": 101278
+                }
+              },
+              "redump_id": "50527",
+              "dat_name": "Catherine (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "AT-2007"
+      ]
+    },
+    "CC-2002": {
+      "serial": "CC-2002",
+      "entries": [
+        {
+          "redump_id": "98845",
+          "entry_id": "98845",
+          "provider": "redump",
+          "name": "Dead Rising (USA)",
+          "serial_raw": "CC-2002",
+          "serials": [
+            "CC-2002"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "cc51bb4ec435b60220150e75aaea2dd36425a30a1a25d3c23b7640323694bda2",
+          "bytes": 114944,
+          "width": 512,
+          "height": 729,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 481258,
+              "lossy90": 114944
+            }
+          },
+          "kind": "cover_front",
+          "path": "CC-2002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Dead Rising (USA).png",
+              "source_sha256": "55f8dd03ac84015fa7aa069c47c08897e72f8e707fdb06939ba1db227e341db8",
+              "source_bytes": 629726,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 481258,
+                  "lossy90": 114944
+                }
+              },
+              "redump_id": "98845",
+              "dat_name": "Dead Rising (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CC-2002"
+      ]
+    },
+    "KV-2010": {
+      "serial": "KV-2010",
+      "entries": [
+        {
+          "redump_id": "43230",
+          "entry_id": "43230",
+          "provider": "redump",
+          "name": "Dead or Alive 5 (USA)",
+          "serial_raw": "KV-2010",
+          "serials": [
+            "KV-2010"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c7e57dce0efbf6770f57697e354d2fc52e36c4be785db3ff9c0df882886fe0c3",
+          "bytes": 95684,
+          "width": 512,
+          "height": 722,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 452694,
+              "lossy90": 95684
+            }
+          },
+          "kind": "cover_front",
+          "path": "KV-2010/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Dead or Alive 5 (USA).png",
+              "source_sha256": "d2b060d5af044cef09d1ff2abfa0e805493e74786bf20204459573154aabf0f3",
+              "source_bytes": 579102,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 452694,
+                  "lossy90": 95684
+                }
+              },
+              "redump_id": "43230",
+              "dat_name": "Dead or Alive 5 (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "KV-2010"
+      ]
+    },
+    "SE-2067": {
+      "serial": "SE-2067",
+      "entries": [
+        {
+          "redump_id": "11495",
+          "entry_id": "11495",
+          "provider": "redump",
+          "name": "Bayonetta (USA, Europe) (En,Ja,Fr,De,Es,It)",
+          "serial_raw": "SE-2067",
+          "serials": [
+            "SE-2067"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1c0bd13c94f7642975d6b85efd53965942d40c496c4429e7484beca83d59728e",
+          "bytes": 120822,
+          "width": 512,
+          "height": 723,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 469176,
+              "lossy90": 120822
+            }
+          },
+          "kind": "cover_front",
+          "path": "SE-2067/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Bayonetta (USA).png",
+              "source_sha256": "ea6455fb6626bdfe12d1e6201db45e089e0b93c59ebc670918807abe3d008d1f",
+              "source_bytes": 648015,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 469176,
+                  "lossy90": 120822
+                }
+              },
+              "redump_id": "11495",
+              "dat_name": "Bayonetta (USA, Europe) (En,Ja,Fr,De,Es,It)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SE-2067"
+      ]
+    },
+    "SQ-2020": {
+      "serial": "SQ-2020",
+      "entries": [
+        {
+          "redump_id": "12485",
+          "entry_id": "12485",
+          "provider": "redump",
+          "name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 1)",
+          "serial_raw": "SQ-2020",
+          "serials": [
+            "SQ-2020"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "12486",
+          "entry_id": "12486",
+          "provider": "redump",
+          "name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 2)",
+          "serial_raw": "SQ-2020",
+          "serials": [
+            "SQ-2020"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "12487",
+          "entry_id": "12487",
+          "provider": "redump",
+          "name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 3)",
+          "serial_raw": "SQ-2020",
+          "serials": [
+            "SQ-2020"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "85cb545879e8857683c3ec52d161023c1756143e5daaa35b33598d4c0bc78a1d",
+          "bytes": 69760,
+          "width": 512,
+          "height": 725,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 318682,
+              "lossy90": 69760
+            }
+          },
+          "kind": "cover_front",
+          "path": "SQ-2020/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XIII (USA).png",
+              "source_sha256": "c146e92bbfc101629ae45f29823d1a8fb631f59da449a94e0d15491df039787e",
+              "source_bytes": 456544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 318682,
+                  "lossy90": 69760
+                }
+              },
+              "redump_id": "12485",
+              "dat_name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 1)",
+              "match": "disc_fallback"
+            },
+            {
+              "source": "Named_Boxarts/Final Fantasy XIII (USA).png",
+              "source_sha256": "c146e92bbfc101629ae45f29823d1a8fb631f59da449a94e0d15491df039787e",
+              "source_bytes": 456544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 318682,
+                  "lossy90": 69760
+                }
+              },
+              "redump_id": "12486",
+              "dat_name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 2)",
+              "match": "disc_fallback"
+            },
+            {
+              "source": "Named_Boxarts/Final Fantasy XIII (USA).png",
+              "source_sha256": "c146e92bbfc101629ae45f29823d1a8fb631f59da449a94e0d15491df039787e",
+              "source_bytes": 456544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 318682,
+                  "lossy90": 69760
+                }
+              },
+              "redump_id": "12487",
+              "dat_name": "Final Fantasy XIII (USA, Europe) (En,Fr,De,Es,It) (Disc 3)",
+              "match": "disc_fallback"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SQ-2020"
+      ]
+    },
+    "SQ-2054": {
+      "serial": "SQ-2054",
+      "entries": [
+        {
+          "redump_id": "43233",
+          "entry_id": "43233",
+          "provider": "redump",
+          "name": "Final Fantasy XIII-2 (USA)",
+          "serial_raw": "SQ-2054",
+          "serials": [
+            "SQ-2054"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "792c27f0576cb408d10cc9c69311ad609c4e3a499dfc9071846d352a03eb2f65",
+          "bytes": 71764,
+          "width": 512,
+          "height": 722,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 317938,
+              "lossy90": 71764
+            }
+          },
+          "kind": "cover_front",
+          "path": "SQ-2054/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XIII-2 (USA).png",
+              "source_sha256": "99c144405d9c4de4d2865a73b5824e06182fc69ac51e7a47d137e80589820bdd",
+              "source_bytes": 461734,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 317938,
+                  "lossy90": 71764
+                }
+              },
+              "redump_id": "43233",
+              "dat_name": "Final Fantasy XIII-2 (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SQ-2054"
+      ]
+    },
+    "SQ-2075": {
+      "serial": "SQ-2075",
+      "entries": [
+        {
+          "redump_id": "81547",
+          "entry_id": "81547",
+          "provider": "redump",
+          "name": "Lightning Returns - Final Fantasy XIII (Japan)",
+          "serial_raw": "SQ-2075",
+          "serials": [
+            "SQ-2075"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3565a336b6702f00c52a67f6c5272141577119a071c51f2e53a51ecb92c3a32d",
+          "bytes": 129624,
+          "width": 512,
+          "height": 722,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 541658,
+              "lossy90": 129624
+            }
+          },
+          "kind": "cover_front",
+          "path": "SQ-2075/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Lightning Returns - Final Fantasy XIII (Japan).png",
+              "source_sha256": "cbf796c00ce5e62700b8af19b59d864814e7fd905f8ae32cf2afb3d1237b4406",
+              "source_bytes": 676828,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 541658,
+                  "lossy90": 129624
+                }
+              },
+              "redump_id": "81547",
+              "dat_name": "Lightning Returns - Final Fantasy XIII (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SQ-2075"
+      ]
+    },
+    "VW-2000": {
+      "serial": "VW-2000",
+      "entries": [
+        {
+          "redump_id": "137958",
+          "entry_id": "137958",
+          "provider": "redump",
+          "name": "Lollipop Chainsaw (Japan)",
+          "serial_raw": "VW-2000",
+          "serials": [
+            "VW-2000"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3289cb1499b8443b2cadbbef22b65d1d425e15f3bd16d0cb10608229823ea025",
+          "bytes": 94954,
+          "width": 512,
+          "height": 733,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 459892,
+              "lossy90": 94954
+            }
+          },
+          "kind": "cover_front",
+          "path": "VW-2000/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Lollipop Chainsaw (Japan).png",
+              "source_sha256": "f3db01da850152e75e59ca47f44cd5deb9afd9e813c137a38871b7e65af71c53",
+              "source_bytes": 608379,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 459892,
+                  "lossy90": 94954
+                }
+              },
+              "redump_id": "137958",
+              "dat_name": "Lollipop Chainsaw (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VW-2000"
+      ]
+    }
+  }
+}
