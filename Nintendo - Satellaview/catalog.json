@@ -1,0 +1,1085 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Satellaview",
+  "dat": {
+    "file": "80b2994af0907cbe406c996206f5ef16e02df31db209b954caf2083673052090.dat",
+    "sha256": "80b2994af0907cbe406c996206f5ef16e02df31db209b954caf2083673052090",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Nintendo - Satellaview (20260919-025009).dat",
+      "standard_sha256": "9b8df057c8038f2fc71049d3b9ee409f4fecfc8e36d2e75dd0bd41d589e28a88",
+      "db_members": {
+        "No-Intro/Nintendo - Satellaview (DB Export) (20260919-025009).xml": "845b7edebb9a78fdf5adddbf95de0a839fdd5df37312ee7246b5fe13d58720be"
+      }
+    },
+    "version": "20260919-025009",
+    "system": "Nintendo - Satellaview",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "AYLE": {
+      "serial": "AYLE",
+      "entries": [
+        {
+          "redump_id": "3378",
+          "entry_id": "3378",
+          "provider": "no-intro",
+          "name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2)",
+          "serial_raw": "AYLE",
+          "serials": [
+            "AYLE"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "3600",
+          "entry_id": "3600",
+          "provider": "no-intro",
+          "name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14)",
+          "serial_raw": "AYLE",
+          "serials": [
+            "AYLE"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "3601",
+          "entry_id": "3601",
+          "provider": "no-intro",
+          "name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3)",
+          "serial_raw": "AYLE",
+          "serials": [
+            "AYLE"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "3602",
+          "entry_id": "3602",
+          "provider": "no-intro",
+          "name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5)",
+          "serial_raw": "AYLE",
+          "serials": [
+            "AYLE"
+          ],
+          "category": "Games",
+          "version": null
+        },
+        {
+          "redump_id": "3656",
+          "entry_id": "3656",
+          "provider": "no-intro",
+          "name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25)",
+          "serial_raw": "AYLE",
+          "serials": [
+            "AYLE"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "logo": {
+          "sha256": "99f5625daae7e0d59b1a6885c6e0aa93d92815ebcd2a9611d55708b6c872e0a0",
+          "bytes": 13206,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 31702,
+              "lossy90": 13206
+            }
+          },
+          "kind": "logo",
+          "path": "AYLE/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "source_sha256": "82bd3bf69c8e7abfe02cc56cfb2cb4dc46773cba296cf2b28798c5b6ada56627",
+              "source_bytes": 57995,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31702,
+                  "lossy90": 13206
+                }
+              },
+              "redump_id": "3378",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14).png",
+              "source_sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+              "source_bytes": 51,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31702,
+                  "lossy90": 13206
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14).png",
+                  "target": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+                  "type": "text_alias",
+                  "sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+                  "bytes": 51
+                }
+              ],
+              "resolved_source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "resolved_source_sha256": "82bd3bf69c8e7abfe02cc56cfb2cb4dc46773cba296cf2b28798c5b6ada56627",
+              "resolved_source_bytes": 57995,
+              "redump_id": "3600",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3).png",
+              "source_sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+              "source_bytes": 51,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31702,
+                  "lossy90": 13206
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3).png",
+                  "target": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+                  "type": "text_alias",
+                  "sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+                  "bytes": 51
+                }
+              ],
+              "resolved_source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "resolved_source_sha256": "82bd3bf69c8e7abfe02cc56cfb2cb4dc46773cba296cf2b28798c5b6ada56627",
+              "resolved_source_bytes": 57995,
+              "redump_id": "3601",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5).png",
+              "source_sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+              "source_bytes": 51,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31702,
+                  "lossy90": 13206
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5).png",
+                  "target": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+                  "type": "text_alias",
+                  "sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+                  "bytes": 51
+                }
+              ],
+              "resolved_source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "resolved_source_sha256": "82bd3bf69c8e7abfe02cc56cfb2cb4dc46773cba296cf2b28798c5b6ada56627",
+              "resolved_source_bytes": 57995,
+              "redump_id": "3602",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25).png",
+              "source_sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+              "source_bytes": 51,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31702,
+                  "lossy90": 13206
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25).png",
+                  "target": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+                  "type": "text_alias",
+                  "sha256": "a62bbd55abd52878eeb2cd448358b127cc8e555042c1366e1733bfd5fbd2722d",
+                  "bytes": 51
+                }
+              ],
+              "resolved_source": "Named_Logos/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "resolved_source_sha256": "82bd3bf69c8e7abfe02cc56cfb2cb4dc46773cba296cf2b28798c5b6ada56627",
+              "resolved_source_bytes": 57995,
+              "redump_id": "3656",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f5ed2895fc95e89d1fb9d28ff01fd921b9e878ee5d0f33631f7fe5b9d9394337",
+          "bytes": 9102,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9102,
+              "lossy90": 24786
+            }
+          },
+          "kind": "screenshot",
+          "path": "AYLE/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "source_sha256": "483325fe477d6f87bce11afd795b202fa21bc8adb73e7e4b39bc7c49408646ab",
+              "source_bytes": 11361,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9102,
+                  "lossy90": 24786
+                }
+              },
+              "redump_id": "3378",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14).png",
+              "source_sha256": "483325fe477d6f87bce11afd795b202fa21bc8adb73e7e4b39bc7c49408646ab",
+              "source_bytes": 11361,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9102,
+                  "lossy90": 24786
+                }
+              },
+              "redump_id": "3600",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3).png",
+              "source_sha256": "483325fe477d6f87bce11afd795b202fa21bc8adb73e7e4b39bc7c49408646ab",
+              "source_bytes": 11361,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9102,
+                  "lossy90": 24786
+                }
+              },
+              "redump_id": "3601",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5).png",
+              "source_sha256": "483325fe477d6f87bce11afd795b202fa21bc8adb73e7e4b39bc7c49408646ab",
+              "source_bytes": 11361,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9102,
+                  "lossy90": 24786
+                }
+              },
+              "redump_id": "3602",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25).png",
+              "source_sha256": "483325fe477d6f87bce11afd795b202fa21bc8adb73e7e4b39bc7c49408646ab",
+              "source_bytes": 11361,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9102,
+                  "lossy90": 24786
+                }
+              },
+              "redump_id": "3656",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "af6e92ec62e3f90a53ebdc0bd49067a2a986d52b5cc90f31c3f5430a359629d0",
+          "bytes": 12302,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 12302,
+              "lossy90": 27610
+            }
+          },
+          "kind": "title_screen",
+          "path": "AYLE/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2).png",
+              "source_sha256": "4937bdf2b75b86c9dac5e95f1d659b9ba551eddd9b52c205e0bde38b7b0a0f75",
+              "source_bytes": 31232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12302,
+                  "lossy90": 27610
+                }
+              },
+              "redump_id": "3378",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14).png",
+              "source_sha256": "4937bdf2b75b86c9dac5e95f1d659b9ba551eddd9b52c205e0bde38b7b0a0f75",
+              "source_bytes": 31232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12302,
+                  "lossy90": 27610
+                }
+              },
+              "redump_id": "3600",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (6-14)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3).png",
+              "source_sha256": "4937bdf2b75b86c9dac5e95f1d659b9ba551eddd9b52c205e0bde38b7b0a0f75",
+              "source_bytes": 31232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12302,
+                  "lossy90": 27610
+                }
+              },
+              "redump_id": "3601",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-3)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5).png",
+              "source_sha256": "4937bdf2b75b86c9dac5e95f1d659b9ba551eddd9b52c205e0bde38b7b0a0f75",
+              "source_bytes": 31232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12302,
+                  "lossy90": 27610
+                }
+              },
+              "redump_id": "3602",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5)",
+              "match": "exact"
+            },
+            {
+              "source": "Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25).png",
+              "source_sha256": "4937bdf2b75b86c9dac5e95f1d659b9ba551eddd9b52c205e0bde38b7b0a0f75",
+              "source_bytes": 31232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12302,
+                  "lossy90": 27610
+                }
+              },
+              "redump_id": "3656",
+              "dat_name": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-25)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "AYLE"
+      ]
+    },
+    "BSMC-YS5J-JPN": {
+      "serial": "BSMC-YS5J-JPN",
+      "entries": [
+        {
+          "redump_id": "2215",
+          "entry_id": "2215",
+          "provider": "no-intro",
+          "name": "Same Game - Chara Data Shuu (Japan) (ROM)",
+          "serial_raw": "BSMC-YS5J-JPN",
+          "serials": [
+            "BSMC-YS5J-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "BSMC-YS5J-JPN",
+                "field": "media_serial1",
+                "source_id": "2626",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Satellaview (DB Export) (20260919-025009).xml",
+                "member_sha256": "845b7edebb9a78fdf5adddbf95de0a839fdd5df37312ee7246b5fe13d58720be"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "a589ed493e075149353e2f0f570c3d51f5ecd3e35b0c47fb3be46ec29b113854",
+          "bytes": 152866,
+          "width": 478,
+          "height": 864,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 654494,
+              "lossy90": 152866
+            }
+          },
+          "kind": "cover_front",
+          "path": "BSMC-YS5J-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Same Game - Chara Data Shuu (Japan) (ROM).png",
+              "source_sha256": "6810218df96e47125dcf1c896197fccd160a8e4e2f3d53c6169776ff8deaebe0",
+              "source_bytes": 925930,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 654494,
+                  "lossy90": 152866
+                }
+              },
+              "redump_id": "2215",
+              "dat_name": "Same Game - Chara Data Shuu (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "7ece85ba5b30a618b15cb1a2d187a5650e0289ceebe7f4ab354b152940ce2a00",
+          "bytes": 21544,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 62568,
+              "lossy90": 21544
+            }
+          },
+          "kind": "logo",
+          "path": "BSMC-YS5J-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Same Game - Chara Data Shuu (Japan) (ROM).png",
+              "source_sha256": "ac66ff0f412b3c73d93d895bb0fb271f85927d2587d74d84b57909d9f167706a",
+              "source_bytes": 44,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 62568,
+                  "lossy90": 21544
+                }
+              },
+              "alias_chain": [
+                {
+                  "source": "Named_Logos/Same Game - Chara Data Shuu (Japan) (ROM).png",
+                  "target": "Same Game - Chara Cassette (Japan) (ROM).png",
+                  "type": "text_alias",
+                  "sha256": "ac66ff0f412b3c73d93d895bb0fb271f85927d2587d74d84b57909d9f167706a",
+                  "bytes": 44
+                }
+              ],
+              "resolved_source": "Named_Logos/Same Game - Chara Cassette (Japan) (ROM).png",
+              "resolved_source_sha256": "492e1cc9991b8575e23c68f263a55df6f93f0988008e1f3c4c1a5b611006d76a",
+              "resolved_source_bytes": 99341,
+              "redump_id": "2215",
+              "dat_name": "Same Game - Chara Data Shuu (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "537a2eb92bdd94e144624afff59f77dabe358b806dd3b49a0b29514d2efa2cc3",
+          "bytes": 8452,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8452,
+              "lossy90": 37486
+            }
+          },
+          "kind": "screenshot",
+          "path": "BSMC-YS5J-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Same Game - Chara Data Shuu (Japan) (ROM).png",
+              "source_sha256": "b550eec9064e4c63bab08f52bf2abfaf1d8df70dc196ee7dcc7016c26f220ff0",
+              "source_bytes": 12288,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8452,
+                  "lossy90": 37486
+                }
+              },
+              "redump_id": "2215",
+              "dat_name": "Same Game - Chara Data Shuu (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2998689805511dc021865b4d7fc117d8d46391b7c5f3e31339ff175094180df4",
+          "bytes": 11658,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11658,
+              "lossy90": 31810
+            }
+          },
+          "kind": "title_screen",
+          "path": "BSMC-YS5J-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Same Game - Chara Data Shuu (Japan) (ROM).png",
+              "source_sha256": "49405634a0dad74a3d79732fa7ce3ce2a0de0ee63ac4827d9fce3edf78e916bd",
+              "source_bytes": 27960,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11658,
+                  "lossy90": 31810
+                }
+              },
+              "redump_id": "2215",
+              "dat_name": "Same Game - Chara Data Shuu (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "BSMC-YS5J-JPN"
+      ]
+    },
+    "BSMC-ZS5J-JPN": {
+      "serial": "BSMC-ZS5J-JPN",
+      "entries": [
+        {
+          "redump_id": "2214",
+          "entry_id": "2214",
+          "provider": "no-intro",
+          "name": "Same Game - Chara Cassette (Japan) (ROM)",
+          "serial_raw": "BSMC-ZS5J-JPN",
+          "serials": [
+            "BSMC-ZS5J-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "BSMC-ZS5J-JPN",
+                "field": "media_serial1",
+                "source_id": "2623",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Satellaview (DB Export) (20260919-025009).xml",
+                "member_sha256": "845b7edebb9a78fdf5adddbf95de0a839fdd5df37312ee7246b5fe13d58720be"
+              },
+              {
+                "serial": "BSMC-ZS5J-JPN",
+                "field": "media_serial1",
+                "source_id": "2625",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Satellaview (DB Export) (20260919-025009).xml",
+                "member_sha256": "845b7edebb9a78fdf5adddbf95de0a839fdd5df37312ee7246b5fe13d58720be"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "a589ed493e075149353e2f0f570c3d51f5ecd3e35b0c47fb3be46ec29b113854",
+          "bytes": 152866,
+          "width": 478,
+          "height": 864,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 654494,
+              "lossy90": 152866
+            }
+          },
+          "kind": "cover_front",
+          "path": "BSMC-ZS5J-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Same Game - Chara Cassette (Japan) (ROM).png",
+              "source_sha256": "6810218df96e47125dcf1c896197fccd160a8e4e2f3d53c6169776ff8deaebe0",
+              "source_bytes": 925930,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 654494,
+                  "lossy90": 152866
+                }
+              },
+              "redump_id": "2214",
+              "dat_name": "Same Game - Chara Cassette (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "7ece85ba5b30a618b15cb1a2d187a5650e0289ceebe7f4ab354b152940ce2a00",
+          "bytes": 21544,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 62568,
+              "lossy90": 21544
+            }
+          },
+          "kind": "logo",
+          "path": "BSMC-ZS5J-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Same Game - Chara Cassette (Japan) (ROM).png",
+              "source_sha256": "492e1cc9991b8575e23c68f263a55df6f93f0988008e1f3c4c1a5b611006d76a",
+              "source_bytes": 99341,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 62568,
+                  "lossy90": 21544
+                }
+              },
+              "redump_id": "2214",
+              "dat_name": "Same Game - Chara Cassette (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "537a2eb92bdd94e144624afff59f77dabe358b806dd3b49a0b29514d2efa2cc3",
+          "bytes": 8452,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8452,
+              "lossy90": 37486
+            }
+          },
+          "kind": "screenshot",
+          "path": "BSMC-ZS5J-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Same Game - Chara Cassette (Japan) (ROM).png",
+              "source_sha256": "b550eec9064e4c63bab08f52bf2abfaf1d8df70dc196ee7dcc7016c26f220ff0",
+              "source_bytes": 12288,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8452,
+                  "lossy90": 37486
+                }
+              },
+              "redump_id": "2214",
+              "dat_name": "Same Game - Chara Cassette (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2998689805511dc021865b4d7fc117d8d46391b7c5f3e31339ff175094180df4",
+          "bytes": 11658,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11658,
+              "lossy90": 31810
+            }
+          },
+          "kind": "title_screen",
+          "path": "BSMC-ZS5J-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Same Game - Chara Cassette (Japan) (ROM).png",
+              "source_sha256": "49405634a0dad74a3d79732fa7ce3ce2a0de0ee63ac4827d9fce3edf78e916bd",
+              "source_bytes": 27960,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11658,
+                  "lossy90": 31810
+                }
+              },
+              "redump_id": "2214",
+              "dat_name": "Same Game - Chara Cassette (Japan) (ROM)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "BSMC-ZS5J-JPN"
+      ]
+    },
+    "BSMC-ZX3J-JPN": {
+      "serial": "BSMC-ZX3J-JPN",
+      "entries": [
+        {
+          "redump_id": "2239",
+          "entry_id": "2239",
+          "provider": "no-intro",
+          "name": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+          "serial_raw": "BSMC-ZX3J-JPN",
+          "serials": [
+            "BSMC-ZX3J-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "BSMC-ZX3J-JPN",
+                "field": "media_serial1",
+                "source_id": "2624",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Satellaview (DB Export) (20260919-025009).xml",
+                "member_sha256": "845b7edebb9a78fdf5adddbf95de0a839fdd5df37312ee7246b5fe13d58720be"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "7bee198930c59166140c76d3038b2417a37bf9e75b05ebd579ff1bae80da60c4",
+          "bytes": 128050,
+          "width": 478,
+          "height": 864,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 551130,
+              "lossy90": 128050
+            }
+          },
+          "kind": "cover_front",
+          "path": "BSMC-ZX3J-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam G Next - Unit _ Map Collection (Japan) (ROM).png",
+              "source_sha256": "9689d314fb1e00688a14ac4e26eec4517a700563bdab433cd167f20350fda446",
+              "source_bytes": 840093,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 551130,
+                  "lossy90": 128050
+                }
+              },
+              "redump_id": "2239",
+              "dat_name": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "68fa371ff600a7fb4a777c1c7029f0f1a902314475e5122c606d35bdbca5a68e",
+          "bytes": 29864,
+          "width": 400,
+          "height": 225,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 85976,
+              "lossy90": 29864
+            }
+          },
+          "kind": "logo",
+          "path": "BSMC-ZX3J-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam G Next - Unit _ Map Collection (Japan) (ROM).png",
+              "source_sha256": "8382762c712d1ac240249c646f5907385b58f83610c4636714749f6a4c0c7327",
+              "source_bytes": 128348,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 85976,
+                  "lossy90": 29864
+                }
+              },
+              "redump_id": "2239",
+              "dat_name": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cb5efd77f6937b1fc308746705f5cddeb8073a9338536d6bf8da87d7cc3f7a71",
+          "bytes": 11012,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11012,
+              "lossy90": 32230
+            }
+          },
+          "kind": "screenshot",
+          "path": "BSMC-ZX3J-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam G Next - Unit _ Map Collection (Japan) (ROM).png",
+              "source_sha256": "9a310905e1dfc7dfd284c0c18394371bd4478ebdbbc400bde89ee17331c2b3ac",
+              "source_bytes": 10792,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11012,
+                  "lossy90": 32230
+                }
+              },
+              "redump_id": "2239",
+              "dat_name": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6cdbd635094e1ef2df282075a26ea5319d5c69421d0aa4ad5fb647a0ea7fa685",
+          "bytes": 7916,
+          "width": 256,
+          "height": 224,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7916,
+              "lossy90": 11554
+            }
+          },
+          "kind": "title_screen",
+          "path": "BSMC-ZX3J-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam G Next - Unit _ Map Collection (Japan) (ROM).png",
+              "source_sha256": "7c765643ab197135741832aee3cf7569884d1dceec6edc42ba2a53f6b0542553",
+              "source_bytes": 15784,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7916,
+                  "lossy90": 11554
+                }
+              },
+              "redump_id": "2239",
+              "dat_name": "SD Gundam G Next - Unit & Map Collection (Japan) (ROM)",
+              "match": "libretro_escaped"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "BSMC-ZX3J-JPN"
+      ]
+    }
+  }
+}

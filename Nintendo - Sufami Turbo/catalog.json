@@ -1,0 +1,2544 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Sufami Turbo",
+  "dat": {
+    "file": "ce568617484327cbea1cbfbb75cb64b0eb6f8e5cb46f99e2626075b993adff93.dat",
+    "sha256": "ce568617484327cbea1cbfbb75cb64b0eb6f8e5cb46f99e2626075b993adff93",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Nintendo - Sufami Turbo (20260529-125659).dat",
+      "standard_sha256": "dcc6918f4b552b9c4232e8d8a26fcdfa32107c24d564fdbbe4846ea37a679ced",
+      "db_members": {
+        "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+      }
+    },
+    "version": "20260529-125659",
+    "system": "Nintendo - Sufami Turbo",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "SFT-0101-JPN": {
+      "serial": "SFT-0101-JPN",
+      "entries": [
+        {
+          "redump_id": "2255",
+          "entry_id": "2255",
+          "provider": "no-intro",
+          "name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+          "serial_raw": "SFT-0101-JPN",
+          "serials": [
+            "SFT-0101-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0101-JPN",
+                "field": "media_serial1",
+                "source_id": "26",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "177e77d5937719c53389879cc573315093f6aee392b7abbb68bc7ee0bb436967",
+          "bytes": 189010,
+          "width": 512,
+          "height": 1076,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 781858,
+              "lossy90": 189010
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0101-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Ultra Battle - Ultraman Densetsu (Japan).png",
+              "source_sha256": "02aa407eadb1562a9de0de75de062d7cd03311d0b576dd9522803dad17f79872",
+              "source_bytes": 1127209,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 781858,
+                  "lossy90": 189010
+                }
+              },
+              "redump_id": "2255",
+              "dat_name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "27475b045f0c58fcf037e367d0dc868b44a7238b774c34e995e3832eea637602",
+          "bytes": 41568,
+          "width": 400,
+          "height": 214,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 126004,
+              "lossy90": 41568
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0101-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Ultra Battle - Ultraman Densetsu (Japan).png",
+              "source_sha256": "81dad99ace51c9b7b39ffcf0d66eaa96b6e51bf5e0037aacfe5434405f8400c7",
+              "source_bytes": 345448,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 126004,
+                  "lossy90": 41568
+                }
+              },
+              "redump_id": "2255",
+              "dat_name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cb5a666ff25ac5cd0dc94db9fc020bdb08701b9bb3053db3b4c4aa93d3690745",
+          "bytes": 9378,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9378,
+              "lossy90": 21304
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0101-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Ultra Battle - Ultraman Densetsu (Japan).png",
+              "source_sha256": "310ccecd30ac0cd07a78299acdb8e826b24dbae04eb9a1a6ccda52d75c3846ad",
+              "source_bytes": 9471,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9378,
+                  "lossy90": 21304
+                }
+              },
+              "redump_id": "2255",
+              "dat_name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "4d2ab2f53c8f486498ab9fdb6ed33693d0825767d11c4b19ed9a7213417f6a6d",
+          "bytes": 11024,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11024,
+              "lossy90": 25958
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0101-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Ultra Battle - Ultraman Densetsu (Japan).png",
+              "source_sha256": "efc77026b935aa9eeaba1cf572951e5afa5cb3743d80405cea05be2335eb198b",
+              "source_bytes": 11374,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11024,
+                  "lossy90": 25958
+                }
+              },
+              "redump_id": "2255",
+              "dat_name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0101-JPN"
+      ]
+    },
+    "SFT-0102-JPN": {
+      "serial": "SFT-0102-JPN",
+      "entries": [
+        {
+          "redump_id": "2254",
+          "entry_id": "2254",
+          "provider": "no-intro",
+          "name": "SD Ultra Battle - Seven Densetsu (Japan)",
+          "serial_raw": "SFT-0102-JPN",
+          "serials": [
+            "SFT-0102-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0102-JPN",
+                "field": "media_serial1",
+                "source_id": "25",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c1551d5a3525ccf8c634d1ceba352b0f5b42f0982ae0f49cefdf10cefae24f02",
+          "bytes": 213476,
+          "width": 512,
+          "height": 1076,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 900514,
+              "lossy90": 213476
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0102-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Ultra Battle - Seven Densetsu (Japan).png",
+              "source_sha256": "b2ca3750c6ee09e917b52c36e2ac0504ff1de93623f6d5853b9ec635383ff663",
+              "source_bytes": 1208578,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 900514,
+                  "lossy90": 213476
+                }
+              },
+              "redump_id": "2254",
+              "dat_name": "SD Ultra Battle - Seven Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "499d087a031ef325c4fd9d68e149b5dff0feb53c1aaaa5fd48686e8b9651b886",
+          "bytes": 40926,
+          "width": 400,
+          "height": 212,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 127346,
+              "lossy90": 40926
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0102-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Ultra Battle - Seven Densetsu (Japan).png",
+              "source_sha256": "06d7489eb69dbf8ae6c0ae961e4e8ad17eeef6659b3895d9ae083710742b9fdc",
+              "source_bytes": 342246,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 127346,
+                  "lossy90": 40926
+                }
+              },
+              "redump_id": "2254",
+              "dat_name": "SD Ultra Battle - Seven Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "5d78fa795d907d868eb4497f8176489ba88e1b5c7be6cc766687ea59ad05d28c",
+          "bytes": 12626,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 12626,
+              "lossy90": 26600
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0102-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Ultra Battle - Seven Densetsu (Japan).png",
+              "source_sha256": "8f59fb5821713b85f22400ec9e2eca05d3098dbb90955823e7dc1f5f1566a82f",
+              "source_bytes": 12014,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12626,
+                  "lossy90": 26600
+                }
+              },
+              "redump_id": "2254",
+              "dat_name": "SD Ultra Battle - Seven Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "66c4d0cc6b265bda39165edaa0099c2a46d650381ef84820f778fe48bd5ebfd4",
+          "bytes": 13560,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 13560,
+              "lossy90": 30686
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0102-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Ultra Battle - Seven Densetsu (Japan).png",
+              "source_sha256": "6ee113b2a166d2bfe76c67fde531c37f6dba8ee70d60b531868b07796ed24d44",
+              "source_bytes": 13172,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 13560,
+                  "lossy90": 30686
+                }
+              },
+              "redump_id": "2254",
+              "dat_name": "SD Ultra Battle - Seven Densetsu (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0102-JPN"
+      ]
+    },
+    "SFT-0103-JPN": {
+      "serial": "SFT-0103-JPN",
+      "entries": [
+        {
+          "redump_id": "2012",
+          "entry_id": "2012",
+          "provider": "no-intro",
+          "name": "Poi Poi Ninja World (Japan)",
+          "serial_raw": "SFT-0103-JPN",
+          "serials": [
+            "SFT-0103-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0103-JPN",
+                "field": "media_serial1",
+                "source_id": "19",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "0a50cfdf918e0f46bfa04ffb1d154e954ddebc21bc3e4e0a9a1b3d24d8277993",
+          "bytes": 204298,
+          "width": 512,
+          "height": 1076,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 849204,
+              "lossy90": 204298
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0103-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Poi Poi Ninja World (Japan).png",
+              "source_sha256": "466b2a0154d939e6821aa1a4af7a103f1709b0d2873b9983b20ce1f3faa20210",
+              "source_bytes": 1195131,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 849204,
+                  "lossy90": 204298
+                }
+              },
+              "redump_id": "2012",
+              "dat_name": "Poi Poi Ninja World (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "dfd1607aa20e3fcbf08cca9159285bc6eb3d85694e7b40427d196a2862266d8a",
+          "bytes": 26534,
+          "width": 400,
+          "height": 166,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 58852,
+              "lossy90": 26534
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0103-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Poi Poi Ninja World (Japan).png",
+              "source_sha256": "34d5124aecc343d36e1c8953041ff5e619e8099b27c10b9a6ef209e50241aa14",
+              "source_bytes": 72823,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 58852,
+                  "lossy90": 26534
+                }
+              },
+              "redump_id": "2012",
+              "dat_name": "Poi Poi Ninja World (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "dca66985ad6ff164f33c921bf9d8339ad088cdb24776389a65a2a13d8f0e3a49",
+          "bytes": 8160,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8160,
+              "lossy90": 25356
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0103-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Poi Poi Ninja World (Japan).png",
+              "source_sha256": "9d15523b70e2be288a9db40da4cddbd9ea63fa1cc69c135aaf707dae56e77961",
+              "source_bytes": 8112,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8160,
+                  "lossy90": 25356
+                }
+              },
+              "redump_id": "2012",
+              "dat_name": "Poi Poi Ninja World (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9128aae2c91f6a4a926424b844723c79780c6aac61ce4c46c144a52e1f5b8559",
+          "bytes": 10746,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10746,
+              "lossy90": 25722
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0103-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Poi Poi Ninja World (Japan).png",
+              "source_sha256": "7130395fdc07bc2d8c9625204653bada1b227d9e9d688b67bfea07cb9cebadd3",
+              "source_bytes": 11842,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10746,
+                  "lossy90": 25722
+                }
+              },
+              "redump_id": "2012",
+              "dat_name": "Poi Poi Ninja World (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0103-JPN"
+      ]
+    },
+    "SFT-0104-JPN": {
+      "serial": "SFT-0104-JPN",
+      "entries": [
+        {
+          "redump_id": "2247",
+          "entry_id": "2247",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+          "serial_raw": "SFT-0104-JPN",
+          "serials": [
+            "SFT-0104-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0104-JPN",
+                "field": "media_serial1",
+                "source_id": "23",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "00991249d15a43b1f26c3221f9f48880c174dc26144547bf21fc3404edf6b3fd",
+          "bytes": 160872,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 705864,
+              "lossy90": 160872
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0104-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Ichinen Sensouki (Japan).png",
+              "source_sha256": "f27606b56ab8e266b2d1b37cb7315c5bbe365a88b6974c0e07af4d96e678e7f5",
+              "source_bytes": 1058687,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 705864,
+                  "lossy90": 160872
+                }
+              },
+              "redump_id": "2247",
+              "dat_name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "973d84fc02a3437218155a0e3c61ba3ad9dcfd43e2edda8e34e29d66b3e1d72b",
+          "bytes": 31346,
+          "width": 400,
+          "height": 167,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 96542,
+              "lossy90": 31346
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0104-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Ichinen Sensouki (Japan).png",
+              "source_sha256": "719783e09b7b27fd5f44fc21f2901b9d4666f97060f74b891636d4d21f22e065",
+              "source_bytes": 270191,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 96542,
+                  "lossy90": 31346
+                }
+              },
+              "redump_id": "2247",
+              "dat_name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3bfc9ce1bf99d6e7af9b93895388929f3046720e4e2944f8d5499ea64be7a246",
+          "bytes": 3788,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3788,
+              "lossy90": 13748
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0104-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Ichinen Sensouki (Japan).png",
+              "source_sha256": "f6a9630863f7dad13c55748d8da35f30de1294ef92980d6fb7844f6fdceea346",
+              "source_bytes": 3897,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3788,
+                  "lossy90": 13748
+                }
+              },
+              "redump_id": "2247",
+              "dat_name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "48865f2de5f0eb62622c5fcfe74c1db88a2db04e7b072950bacb77649e1bec3b",
+          "bytes": 4324,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4324,
+              "lossy90": 13266
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0104-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Ichinen Sensouki (Japan).png",
+              "source_sha256": "5a5e9d5a83e5735699a90fd1e0fe7acb5a8bf9c7f33295ebebf5a4bc8a3ad7d6",
+              "source_bytes": 4847,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4324,
+                  "lossy90": 13266
+                }
+              },
+              "redump_id": "2247",
+              "dat_name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0104-JPN"
+      ]
+    },
+    "SFT-0105-JPN": {
+      "serial": "SFT-0105-JPN",
+      "entries": [
+        {
+          "redump_id": "2246",
+          "entry_id": "2246",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Gryps Senki (Japan)",
+          "serial_raw": "SFT-0105-JPN",
+          "serials": [
+            "SFT-0105-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0105-JPN",
+                "field": "media_serial1",
+                "source_id": "22",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1eee31987e00d5cc5bffa52abfd20a6c32251df0e7e5a861e1938df8ce17c1c2",
+          "bytes": 156098,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 708574,
+              "lossy90": 156098
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0105-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Gryps Senki (Japan).png",
+              "source_sha256": "a87e849b72e02f0ff4f3df345ecec084cc0b8c9ac9d850d338a2af4113798061",
+              "source_bytes": 1052685,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 708574,
+                  "lossy90": 156098
+                }
+              },
+              "redump_id": "2246",
+              "dat_name": "SD Gundam Generation - Gryps Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "95d27bb7300ea6acfa8ea86fcd7d739f71f9c32613c4caa65f40b97cc637bd0c",
+          "bytes": 28504,
+          "width": 400,
+          "height": 166,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 88292,
+              "lossy90": 28504
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0105-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Gryps Senki (Japan).png",
+              "source_sha256": "b064729b280dbe1694bfc8d733314a9b24b7343065f9654b21411126ef278c79",
+              "source_bytes": 268590,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 88292,
+                  "lossy90": 28504
+                }
+              },
+              "redump_id": "2246",
+              "dat_name": "SD Gundam Generation - Gryps Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "276b30e7c96851e238409b7fbf5879e11c326e7e03bde803b61e1426da320316",
+          "bytes": 3108,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3108,
+              "lossy90": 8426
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0105-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Gryps Senki (Japan).png",
+              "source_sha256": "de2566b7f9766eaea9c5b369d475edbc25d6fa77efb09eea343cc5fccea5865f",
+              "source_bytes": 3202,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3108,
+                  "lossy90": 8426
+                }
+              },
+              "redump_id": "2246",
+              "dat_name": "SD Gundam Generation - Gryps Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7cf8747e337a513ea22e56e35b9dfdbfde5c328b0e31751607a4581feba34aba",
+          "bytes": 4422,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4422,
+              "lossy90": 12886
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0105-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Gryps Senki (Japan).png",
+              "source_sha256": "d4826d3bb84ad9090450fb3cafc08a958fb6839c146d2e05504a1e80b59eee43",
+              "source_bytes": 4841,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4422,
+                  "lossy90": 12886
+                }
+              },
+              "redump_id": "2246",
+              "dat_name": "SD Gundam Generation - Gryps Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0105-JPN"
+      ]
+    },
+    "SFT-0106-JPN": {
+      "serial": "SFT-0106-JPN",
+      "entries": [
+        {
+          "redump_id": "0927",
+          "entry_id": "0927",
+          "provider": "no-intro",
+          "name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+          "serial_raw": "SFT-0106-JPN",
+          "serials": [
+            "SFT-0106-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0106-JPN",
+                "field": "media_serial1",
+                "source_id": "17",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e952ea0991c4d6cb29d9d27c27b6b8e794721c1bda8633be0b59b7b215333505",
+          "bytes": 214990,
+          "width": 512,
+          "height": 1096,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 836310,
+              "lossy90": 214990
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0106-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gegege no Kitarou - Youkai Donjara (Japan).png",
+              "source_sha256": "4bc034dd3623ec302e3fc6839fb7aa4cdd6ccd14ad28c1099eace6ce0be1fee6",
+              "source_bytes": 1097760,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 836310,
+                  "lossy90": 214990
+                }
+              },
+              "redump_id": "0927",
+              "dat_name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "c87553d33245abd55c709b0e59db7e80225ab8fdef8433f0723c9bffb6a4b1b0",
+          "bytes": 27824,
+          "width": 400,
+          "height": 190,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 70578,
+              "lossy90": 27824
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0106-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Gegege no Kitarou - Youkai Donjara (Japan).png",
+              "source_sha256": "9be9552f083a05acf034db33639d0f3e7f57a2228bbf2de493488b2ac2a55911",
+              "source_bytes": 96039,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 70578,
+                  "lossy90": 27824
+                }
+              },
+              "redump_id": "0927",
+              "dat_name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "a92ceb7a259b1dfc5ce5d23065be311a05771a6c01ab9f67176326f6efc4e159",
+          "bytes": 3916,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3916,
+              "lossy90": 24166
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0106-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Gegege no Kitarou - Youkai Donjara (Japan).png",
+              "source_sha256": "d9e1c5c3ed7381806c461622a3032db10f4d54a6b757ea5c632afe7f5091c470",
+              "source_bytes": 4325,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3916,
+                  "lossy90": 24166
+                }
+              },
+              "redump_id": "0927",
+              "dat_name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "eb2166f3a7c6e23a861d27af3f5961b216486188696dba4ce5e02290e26e55bc",
+          "bytes": 9368,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9368,
+              "lossy90": 23994
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0106-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Gegege no Kitarou - Youkai Donjara (Japan).png",
+              "source_sha256": "f2677138408d4e72d049d57332ad2b9389f38a67f35291f5e5d7aaf9c28198a8",
+              "source_bytes": 9851,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9368,
+                  "lossy90": 23994
+                }
+              },
+              "redump_id": "0927",
+              "dat_name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0106-JPN"
+      ]
+    },
+    "SFT-0107-JPN": {
+      "serial": "SFT-0107-JPN",
+      "entries": [
+        {
+          "redump_id": "2243",
+          "entry_id": "2243",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Axis Senki (Japan)",
+          "serial_raw": "SFT-0107-JPN",
+          "serials": [
+            "SFT-0107-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0107-JPN",
+                "field": "media_serial1",
+                "source_id": "14",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d85d622255f67e076d7f80cb5ee5e4c31a6b80d3002ed3be58abdbb841da4eec",
+          "bytes": 167430,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 721540,
+              "lossy90": 167430
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0107-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Axis Senki (Japan).png",
+              "source_sha256": "f918182b7d1760b9ad03b3ba6540269b53ee28927f6efd4025a31144f4447779",
+              "source_bytes": 1076688,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 721540,
+                  "lossy90": 167430
+                }
+              },
+              "redump_id": "2243",
+              "dat_name": "SD Gundam Generation - Axis Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "ced5e62c40daff1a8dc4a413a5ca8bcc32bd782943a1c08f1a6bdf306ec0f8a4",
+          "bytes": 29560,
+          "width": 400,
+          "height": 167,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 94390,
+              "lossy90": 29560
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0107-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Axis Senki (Japan).png",
+              "source_sha256": "8b9f8a0f86a9fc57aed816caa43959bb21c3bdaf25519a9072e560e844612ba5",
+              "source_bytes": 270191,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 94390,
+                  "lossy90": 29560
+                }
+              },
+              "redump_id": "2243",
+              "dat_name": "SD Gundam Generation - Axis Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "dc336d19ec0dd32ac7b17d24772a39f1547864295ca5749ca6f04a081c121778",
+          "bytes": 4826,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4826,
+              "lossy90": 22492
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0107-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Axis Senki (Japan).png",
+              "source_sha256": "0d0e737823e26fa5acd992961fa940bb9c57a0cc4a763cb3f58081b386ca49ab",
+              "source_bytes": 4830,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4826,
+                  "lossy90": 22492
+                }
+              },
+              "redump_id": "2243",
+              "dat_name": "SD Gundam Generation - Axis Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a430a95ed3141a5a8f11b679e7e7b270e93e3d0e4a1cbe6b18a82f3b029a08f9",
+          "bytes": 4738,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4738,
+              "lossy90": 13462
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0107-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Axis Senki (Japan).png",
+              "source_sha256": "1861549ffab0b94ca6bcafa75e7cbec2df7fa32e2a3aa4d4c49cb5a9fec0a949",
+              "source_bytes": 5138,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4738,
+                  "lossy90": 13462
+                }
+              },
+              "redump_id": "2243",
+              "dat_name": "SD Gundam Generation - Axis Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0107-JPN"
+      ]
+    },
+    "SFT-0108-JPN": {
+      "serial": "SFT-0108-JPN",
+      "entries": [
+        {
+          "redump_id": "2244",
+          "entry_id": "2244",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+          "serial_raw": "SFT-0108-JPN",
+          "serials": [
+            "SFT-0108-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0108-JPN",
+                "field": "media_serial1",
+                "source_id": "20",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "88b78fa21e7e217f7f5cd6d92e0956d91777e280475aa2a45ad6926cc9c1bc34",
+          "bytes": 167232,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 724822,
+              "lossy90": 167232
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0108-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Babylonia Kenkoku Senki (Japan).png",
+              "source_sha256": "653619334963d15cfd2f6068cd4531f40be4bb48522e8bd1f2726cc3a7ffe269",
+              "source_bytes": 1078647,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 724822,
+                  "lossy90": 167232
+                }
+              },
+              "redump_id": "2244",
+              "dat_name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "2528dfcd6fa666369e3a54e3f5584a00db982fb67d4babd47a65c818549bd712",
+          "bytes": 31894,
+          "width": 400,
+          "height": 168,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 95646,
+              "lossy90": 31894
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0108-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Babylonia Kenkoku Senki (Japan).png",
+              "source_sha256": "584c930cd3d1e0cc4edc30b426fb2916db2d940134347ca3109479e3fbae048c",
+              "source_bytes": 271792,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 95646,
+                  "lossy90": 31894
+                }
+              },
+              "redump_id": "2244",
+              "dat_name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "5f0d82e7b7754b9e12b2897062a1bd5e900ede32a5cdbdd64e1d5ad1ee2e2d91",
+          "bytes": 5468,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5468,
+              "lossy90": 25332
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0108-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Babylonia Kenkoku Senki (Japan).png",
+              "source_sha256": "f3a5062b59a798b86046efc773d7395f6e57a8b4c8460168ed6889f78a8e278b",
+              "source_bytes": 5236,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5468,
+                  "lossy90": 25332
+                }
+              },
+              "redump_id": "2244",
+              "dat_name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b2d03ac7d85248c890e421a32385f49b917d58051f5bac46a11456005068242d",
+          "bytes": 4568,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4568,
+              "lossy90": 13402
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0108-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Babylonia Kenkoku Senki (Japan).png",
+              "source_sha256": "91cb108b468fa2aa6226eb3eec4c6a458057d6428b5d883b4e37f670fed2eec1",
+              "source_bytes": 5022,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4568,
+                  "lossy90": 13402
+                }
+              },
+              "redump_id": "2244",
+              "dat_name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0108-JPN"
+      ]
+    },
+    "SFT-0109-JPN": {
+      "serial": "SFT-0109-JPN",
+      "entries": [
+        {
+          "redump_id": "0928",
+          "entry_id": "0928",
+          "provider": "no-intro",
+          "name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+          "serial_raw": "SFT-0109-JPN",
+          "serials": [
+            "SFT-0109-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0109-JPN",
+                "field": "media_serial1",
+                "source_id": "18",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6e69a1a18928d24339fa5133a614fed2cc9c2e944b4b329f26359b295cd20ac9",
+          "bytes": 206418,
+          "width": 512,
+          "height": 1083,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 898730,
+              "lossy90": 206418
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0109-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).png",
+              "source_sha256": "a1b951b7216c304e05522ca2059ca95c93146976eedadcca5685d092dfae0920",
+              "source_bytes": 1225050,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 898730,
+                  "lossy90": 206418
+                }
+              },
+              "redump_id": "0928",
+              "dat_name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "13753674b430fd1b862ccea2dd9550236ac7a7d4fdf41725402ad7a34065d7af",
+          "bytes": 30732,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 36314,
+              "lossy90": 30732
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0109-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).png",
+              "source_sha256": "a102fffb3d5cb4a550048ea6999b738ee0d476c5456feca5b7c74479e2375e8d",
+              "source_bytes": 42516,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 36314,
+                  "lossy90": 30732
+                }
+              },
+              "redump_id": "0928",
+              "dat_name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ddbd776684f508633ae28e974d3707b8470409d92b12c4b20005f205ba8a1b9b",
+          "bytes": 3844,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3844,
+              "lossy90": 14920
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0109-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).png",
+              "source_sha256": "29945ddd8da9e136a0520795cca1b2a12edc86b762d70c7f1374634fbfd2cf88",
+              "source_bytes": 4439,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3844,
+                  "lossy90": 14920
+                }
+              },
+              "redump_id": "0928",
+              "dat_name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "34c92dac29abc3c2c83e552ab14a2938256670b8f2b01ba61be52474955663e8",
+          "bytes": 8232,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8232,
+              "lossy90": 22502
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0109-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).png",
+              "source_sha256": "8e4283cb70939e48721b5562e530d8357035ec87f589cc280f147edd0eac87f5",
+              "source_bytes": 8513,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8232,
+                  "lossy90": 22502
+                }
+              },
+              "redump_id": "0928",
+              "dat_name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0109-JPN"
+      ]
+    },
+    "SFT-0110-JPN": {
+      "serial": "SFT-0110-JPN",
+      "entries": [
+        {
+          "redump_id": "2248",
+          "entry_id": "2248",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Zanscare Senki (Japan)",
+          "serial_raw": "SFT-0110-JPN",
+          "serials": [
+            "SFT-0110-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0110-JPN",
+                "field": "media_serial1",
+                "source_id": "24",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8c5bbe89bab7af47c8c5a9fbcb0737a48b8f8f314a3a83a51ae285d1eefc4afa",
+          "bytes": 163084,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 706914,
+              "lossy90": 163084
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0110-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Zanscare Senki (Japan).png",
+              "source_sha256": "0eb84497e54eee07e01965c58a1ceb719d57f0fdd25f27724464dfaf48d65d14",
+              "source_bytes": 1062198,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 706914,
+                  "lossy90": 163084
+                }
+              },
+              "redump_id": "2248",
+              "dat_name": "SD Gundam Generation - Zanscare Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "2b1d45fbaf0b711f7244fe87049f26954df2cc349a1c6c5497648b1a68462018",
+          "bytes": 33136,
+          "width": 400,
+          "height": 168,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 94238,
+              "lossy90": 33136
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0110-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Zanscare Senki (Japan).png",
+              "source_sha256": "3e208ab5a1823b64cb5c571928fe62550b37196ecbcf172d1cdf2d75348b93f1",
+              "source_bytes": 271792,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 94238,
+                  "lossy90": 33136
+                }
+              },
+              "redump_id": "2248",
+              "dat_name": "SD Gundam Generation - Zanscare Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e479e28643ff17ff6bc2b05681ac3ae60894d4b70351822c7d8162bb38e1de75",
+          "bytes": 7500,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7500,
+              "lossy90": 30480
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0110-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Zanscare Senki (Japan).png",
+              "source_sha256": "f3382b53b624b51edc26501135062d2584b9070411068204e0aff23c90dd599a",
+              "source_bytes": 6235,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7500,
+                  "lossy90": 30480
+                }
+              },
+              "redump_id": "2248",
+              "dat_name": "SD Gundam Generation - Zanscare Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2cfe750ff99df0a39fcbfe63dc5759af9ba04c486e6e53b4d9cff9343701cbb7",
+          "bytes": 4708,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4708,
+              "lossy90": 13804
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0110-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Zanscare Senki (Japan).png",
+              "source_sha256": "93aacd8f3c51f0a8db4bffac4876e23d53bca9cdcb859917d93a754b75d65eb8",
+              "source_bytes": 5129,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4708,
+                  "lossy90": 13804
+                }
+              },
+              "redump_id": "2248",
+              "dat_name": "SD Gundam Generation - Zanscare Senki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0110-JPN"
+      ]
+    },
+    "SFT-0111-JPN": {
+      "serial": "SFT-0111-JPN",
+      "entries": [
+        {
+          "redump_id": "2245",
+          "entry_id": "2245",
+          "provider": "no-intro",
+          "name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+          "serial_raw": "SFT-0111-JPN",
+          "serials": [
+            "SFT-0111-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0111-JPN",
+                "field": "media_serial1",
+                "source_id": "21",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "eef3e8402bda860950064311f4ca43dc234821b10de2898da46cdd8b004aa145",
+          "bytes": 194150,
+          "width": 512,
+          "height": 1106,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 813496,
+              "lossy90": 194150
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0111-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SD Gundam Generation - Colony Kakutouki (Japan).png",
+              "source_sha256": "17eb0885773d6ed99f77e5dbdb0ec94b4fd6b519d2248c21ec18c16b1fb763f5",
+              "source_bytes": 1163123,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 813496,
+                  "lossy90": 194150
+                }
+              },
+              "redump_id": "2245",
+              "dat_name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4b0eda8da609f737c82d3fd6b7c9132ae44b069e8f801e67444e52a46179bae5",
+          "bytes": 31844,
+          "width": 400,
+          "height": 167,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 98478,
+              "lossy90": 31844
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0111-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SD Gundam Generation - Colony Kakutouki (Japan).png",
+              "source_sha256": "84c101efac07a880f4e8b63e35a82bfb69345b9dfb6e037d45a79a924c4211bd",
+              "source_bytes": 270191,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 98478,
+                  "lossy90": 31844
+                }
+              },
+              "redump_id": "2245",
+              "dat_name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "b6b68e59fb5c672488c365c668bf7d32930f4297e35bafc3135a023ef19cf3ff",
+          "bytes": 7478,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7478,
+              "lossy90": 33466
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0111-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SD Gundam Generation - Colony Kakutouki (Japan).png",
+              "source_sha256": "2910ad612314571f6dfabf35554d6ccebe1ff4022b99d798a073ec9a82a7e307",
+              "source_bytes": 6217,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7478,
+                  "lossy90": 33466
+                }
+              },
+              "redump_id": "2245",
+              "dat_name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "0c019f02114c1cf7941f9c4f21f5f41f0e0d0c911d1b7a742cce1aebdc2bdcb2",
+          "bytes": 4116,
+          "width": 256,
+          "height": 223,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4116,
+              "lossy90": 13514
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0111-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SD Gundam Generation - Colony Kakutouki (Japan).png",
+              "source_sha256": "7d747858eb72d539dd63a0de6393c4afa3c103570616ff8c55acfdb91992409a",
+              "source_bytes": 4385,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4116,
+                  "lossy90": 13514
+                }
+              },
+              "redump_id": "2245",
+              "dat_name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0111-JPN"
+      ]
+    },
+    "SFT-0112-JPN": {
+      "serial": "SFT-0112-JPN",
+      "entries": [
+        {
+          "redump_id": "0249",
+          "entry_id": "0249",
+          "provider": "no-intro",
+          "name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+          "serial_raw": "SFT-0112-JPN",
+          "serials": [
+            "SFT-0112-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0112-JPN",
+                "field": "media_serial1",
+                "source_id": "15",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2a553c62d22d5c6ed7de8f1701efe322020ee952c2fa856c43932014aed79dc5",
+          "bytes": 189334,
+          "width": 512,
+          "height": 1096,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 834912,
+              "lossy90": 189334
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0112-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).png",
+              "source_sha256": "c6e52eaa5c6cd8f14813d39ff244c27ddd69baf8c083fc68e0cd19d6b26c6242",
+              "source_bytes": 1036381,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 834912,
+                  "lossy90": 189334
+                }
+              },
+              "redump_id": "0249",
+              "dat_name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "d28ea4921a04027eadd5f7bbdbfb4107bd3b4b1e5d3cad3310262d35eaac22b3",
+          "bytes": 16564,
+          "width": 400,
+          "height": 169,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 16564,
+              "lossy90": 30128
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0112-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).png",
+              "source_sha256": "06b0c06a3dec73cb0dbef1e8392dec004349b3deefdf60d5f4e8c195b8288fab",
+              "source_bytes": 18259,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 16564,
+                  "lossy90": 30128
+                }
+              },
+              "redump_id": "0249",
+              "dat_name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7ea540e9d7be290087f6ff69bbc634f53930f3001107189a239c740ed7a3c57d",
+          "bytes": 8326,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8326,
+              "lossy90": 28100
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0112-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).png",
+              "source_sha256": "0f9929609a71e9e3f57cd296a58393c33e55de3d009bc40d7364268d1c357f89",
+              "source_bytes": 9002,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8326,
+                  "lossy90": 28100
+                }
+              },
+              "redump_id": "0249",
+              "dat_name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "26ebff98b2a381416189f5d8b91360a990b075d3ff5dbdc9b5929f093ef2e68a",
+          "bytes": 14020,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 14020,
+              "lossy90": 28584
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0112-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).png",
+              "source_sha256": "683553dd35c930a747d00232daa6ebe2b8efed773b4e9aefe39fd2f019ded9db",
+              "source_bytes": 14235,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 14020,
+                  "lossy90": 28584
+                }
+              },
+              "redump_id": "0249",
+              "dat_name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0112-JPN"
+      ]
+    },
+    "SFT-0113-JPN": {
+      "serial": "SFT-0113-JPN",
+      "entries": [
+        {
+          "redump_id": "0491",
+          "entry_id": "0491",
+          "provider": "no-intro",
+          "name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+          "serial_raw": "SFT-0113-JPN",
+          "serials": [
+            "SFT-0113-JPN"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "SFT-0113-JPN",
+                "field": "media_serial1",
+                "source_id": "16",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Nintendo - Sufami Turbo (DB Export) (20260529-125659).xml",
+                "member_sha256": "b80bd38ef396caf53da7788662abe12db3f692158119343a18566776e290ebad"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ab4ab89176ef2a1ffa59ac66ff9d3f293615ec77f3c01478cffe696c3ed338b2",
+          "bytes": 125350,
+          "width": 512,
+          "height": 1089,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 624754,
+              "lossy90": 125350
+            }
+          },
+          "kind": "cover_front",
+          "path": "SFT-0113-JPN/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Crayon Shin-chan - Nagagutsu Dobon!! (Japan).png",
+              "source_sha256": "39b10853a8940bddbc75d107371723d1fce568dbf72a025ca0916ee82b3bf8fb",
+              "source_bytes": 918903,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 624754,
+                  "lossy90": 125350
+                }
+              },
+              "redump_id": "0491",
+              "dat_name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "53e461ccc3f2b853e579d0d9181eed30cd762e68aca9b3b06c7088b86728dc88",
+          "bytes": 26304,
+          "width": 400,
+          "height": 77,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 64368,
+              "lossy90": 26304
+            }
+          },
+          "kind": "logo",
+          "path": "SFT-0113-JPN/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Crayon Shin-chan - Nagagutsu Dobon!! (Japan).png",
+              "source_sha256": "ee892cf34c3fc1c2ec324df60f9e63e4420e0303ae580609eda90b392ceee23f",
+              "source_bytes": 126076,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 64368,
+                  "lossy90": 26304
+                }
+              },
+              "redump_id": "0491",
+              "dat_name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3d68f5918e0f8f0f151533b66d27925fbd8d633699269f87a652a99847dbdd32",
+          "bytes": 6350,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6350,
+              "lossy90": 27428
+            }
+          },
+          "kind": "screenshot",
+          "path": "SFT-0113-JPN/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Crayon Shin-chan - Nagagutsu Dobon!! (Japan).png",
+              "source_sha256": "20a76e5730194db4bbb012d8000f58e8cc04d549bdb29cf40bcdcd04d002a169",
+              "source_bytes": 6203,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6350,
+                  "lossy90": 27428
+                }
+              },
+              "redump_id": "0491",
+              "dat_name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "af4cd770f430bfa27711d47cd76eb6795948cfedfcb5255106305bc79c5ac41a",
+          "bytes": 12370,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 12370,
+              "lossy90": 25480
+            }
+          },
+          "kind": "title_screen",
+          "path": "SFT-0113-JPN/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Crayon Shin-chan - Nagagutsu Dobon!! (Japan).png",
+              "source_sha256": "6e65731f6cc98fd1cf6778701990e0c454c296589dd7654650c8948a29ec39c0",
+              "source_bytes": 12405,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 12370,
+                  "lossy90": 25480
+                }
+              },
+              "redump_id": "0491",
+              "dat_name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "SFT-0113-JPN"
+      ]
+    }
+  }
+}
