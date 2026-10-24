@@ -1,0 +1,1613 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Nintendo 64DD",
+  "dat": {
+    "file": "e07847385f7307bdfea6a92c470027d56729fed1916b5c10442214304efd3e7b.dat",
+    "sha256": "e07847385f7307bdfea6a92c470027d56729fed1916b5c10442214304efd3e7b",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Nintendo - Nintendo 64DD (20261010-010620).dat",
+      "standard_sha256": "2ec58f301fcb732a1f22dd13c4837f00c6d2d5d3098b027d5eb76240984ec76d",
+      "db_members": {}
+    },
+    "version": "20261010-010620",
+    "system": "Nintendo - Nintendo 64DD",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "DKDJ": {
+      "serial": "DKDJ",
+      "entries": [
+        {
+          "redump_id": "0002",
+          "entry_id": "0002",
+          "provider": "no-intro",
+          "name": "Kyojin no Doshin 1 (Japan)",
+          "serial_raw": "DKDJ",
+          "serials": [
+            "DKDJ"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "1024f7b5091737f287bd9243275795b4c66fe71c8f3fcb51556d048e310eca60",
+          "bytes": 96932,
+          "width": 512,
+          "height": 434,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 450776,
+              "lossy90": 96932
+            }
+          },
+          "kind": "cover_front",
+          "path": "DKDJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Kyojin no Doshin 1 (Japan).png",
+              "source_sha256": "30f2bc28a5b5f96d694522da28bc5ba4abf5f650f88e87d5a594df5ef1e48fad",
+              "source_bytes": 509668,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 450776,
+                  "lossy90": 96932
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Kyojin no Doshin 1 (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DKDJ"
+      ]
+    },
+    "DMBJ": {
+      "serial": "DMBJ",
+      "entries": [
+        {
+          "redump_id": "0005",
+          "entry_id": "0005",
+          "provider": "no-intro",
+          "name": "Mario Artist - Communication Kit (Japan)",
+          "serial_raw": "DMBJ",
+          "serials": [
+            "DMBJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3c936101ce1233620faf3f20639df4bf4e0889eba5e2a7f4ba49b26e1077937a",
+          "bytes": 67162,
+          "width": 512,
+          "height": 443,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 400622,
+              "lossy90": 67162
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMBJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist - Communication Kit (Japan).png",
+              "source_sha256": "357de8ee0121bd366e5e6dd28f710fd6d6106abf1042a5c339e598feb2f7daca",
+              "source_bytes": 478843,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 400622,
+                  "lossy90": 67162
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "06d87734ecbc875142dd9734e6d6465e205032ebc9ddadc01f096e65d56dfece",
+          "bytes": 48158,
+          "width": 512,
+          "height": 442,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 246540,
+              "lossy90": 48158
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMBJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist Communication Kit (Japan).png",
+              "source_sha256": "8560e9bdf2d8bd98a030969360f933dd398ad9b2dba32a0605b28e8d53f1ca5d",
+              "source_bytes": 336616,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 246540,
+                  "lossy90": 48158
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4b6637dc6a19c4bc50fdd84c27a09806a94aace8d880cabcc46fe71fbc026e69",
+          "bytes": 16570,
+          "width": 512,
+          "height": 131,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 28118,
+              "lossy90": 16570
+            }
+          },
+          "kind": "logo",
+          "path": "DMBJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario Artist - Communication Kit (Japan).png",
+              "source_sha256": "1340ac6ef67b79440de7f6b8c76f3296ef564357c29c27f2810777d1f1e5fe6a",
+              "source_bytes": 41520,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 28118,
+                  "lossy90": 16570
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "eb2a5f1e8113dbb612dce16385fe7b93643cd3a427a52deb9d29a7eeba874751",
+          "bytes": 22062,
+          "width": 512,
+          "height": 379,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 114810,
+              "lossy90": 22062
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMBJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist - Communication Kit (Japan).png",
+              "source_sha256": "fd4ca11fa2ae31bd12c5c763902640fa01eceff67e23a81fbd481477e0d92a45",
+              "source_bytes": 165703,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 114810,
+                  "lossy90": 22062
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "dfbcaa0436802a9aa5104663970ee02cf255d250afd21e8405fbdeac77570e72",
+          "bytes": 27186,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 183456,
+              "lossy90": 27186
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMBJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist Communication Kit (Japan).png",
+              "source_sha256": "57735dbc3015c73115b298e446d0f9eda1e5790ab923905efc9809755bd72e8c",
+              "source_bytes": 234366,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 183456,
+                  "lossy90": 27186
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "41cf475eb86fde197e0e555a75c63f40cc1bf602ce8acbe7f39de4aeb02a20a6",
+          "bytes": 12116,
+          "width": 512,
+          "height": 381,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 57868,
+              "lossy90": 12116
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMBJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist - Communication Kit (Japan).png",
+              "source_sha256": "5154b72d9b8607684099b52afe314db91a9e04c647b60e58b7b3817c43ea9dab",
+              "source_bytes": 80498,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 57868,
+                  "lossy90": 12116
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "0d360da7b87c4b25f0984512581cfe4d586e85c5badb93cc9b45f60f5543ab4e",
+          "bytes": 15522,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 130040,
+              "lossy90": 15522
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMBJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist Communication Kit (Japan).png",
+              "source_sha256": "4d7fa3f5089e0866251548a8e65efcfcfa2893e8e0fde3706f51678fc39ffe63",
+              "source_bytes": 138211,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 130040,
+                  "lossy90": 15522
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Mario Artist - Communication Kit (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMBJ"
+      ]
+    },
+    "DMGJ": {
+      "serial": "DMGJ",
+      "entries": [
+        {
+          "redump_id": "0007",
+          "entry_id": "0007",
+          "provider": "no-intro",
+          "name": "Mario Artist - Polygon Studio (Japan)",
+          "serial_raw": "DMGJ",
+          "serials": [
+            "DMGJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6da76f0042b7e9b9a407b6ff55f14d4b88132acb1c29770b11cd55610b543078",
+          "bytes": 112980,
+          "width": 512,
+          "height": 433,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 480622,
+              "lossy90": 112980
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMGJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist - Polygon Studio (Japan).png",
+              "source_sha256": "1eac492104d42d6ef4191f28d4f2080e2a1b83c9e9a241c7a2abaa71d171d60f",
+              "source_bytes": 536432,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 480622,
+                  "lossy90": 112980
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "e9a06732227b55901a6302fc749a90aaa63363b95389292c613fc681a6972158",
+          "bytes": 51550,
+          "width": 512,
+          "height": 442,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 295166,
+              "lossy90": 51550
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMGJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist Polygon Studio (Japan).png",
+              "source_sha256": "247b30bd868df8a119587335811d64072d210fb078b217adea41b45cd05bede7",
+              "source_bytes": 380805,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 295166,
+                  "lossy90": 51550
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a16bbd6958086a9c2640aec6d104a44b600b9c7a5b31c0a74df96e7401f632f5",
+          "bytes": 20472,
+          "width": 512,
+          "height": 127,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 35230,
+              "lossy90": 20472
+            }
+          },
+          "kind": "logo",
+          "path": "DMGJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario Artist - Polygon Studio (Japan).png",
+              "source_sha256": "cfe69db2452a67e63f08825dd67f5019acc6ae246f970414c3b4b8037f2f3238",
+              "source_bytes": 57570,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 35230,
+                  "lossy90": 20472
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7ebdc8450de8a45172e528bf73ed537b88c317997fe1147ca2ace85780b8f904",
+          "bytes": 24182,
+          "width": 512,
+          "height": 384,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 95186,
+              "lossy90": 24182
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMGJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist - Polygon Studio (Japan).png",
+              "source_sha256": "f4f840ece2edce75f33af1bd7fb8112f34fb9f33bd37e886fbb32ba2bd8d92ea",
+              "source_bytes": 154416,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 95186,
+                  "lossy90": 24182
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "3a9c8bcf9a539f86c74a166077ee2306429812ffa95be4cbe8738bf3ed350707",
+          "bytes": 11132,
+          "width": 640,
+          "height": 480,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 114358,
+              "lossy90": 11132
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMGJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist Polygon Studio (Japan).png",
+              "source_sha256": "a891e81d26c41078d6198c1fd9cd0c021c0032ba47c1cfe906729a5af2d6a3f6",
+              "source_bytes": 156721,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 114358,
+                  "lossy90": 11132
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "4f16dc949757e74733cadd4bcf9fc50575d501292a1bd02a5f5e1f22c8f54e63",
+          "bytes": 19330,
+          "width": 512,
+          "height": 384,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 128632,
+              "lossy90": 19330
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMGJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist - Polygon Studio (Japan).png",
+              "source_sha256": "abe64b150662b837536fb5c617182c3f2a37d824a3a00cf920514d81de10a1d1",
+              "source_bytes": 197779,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 128632,
+                  "lossy90": 19330
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "96fb33b3286766cd04bbefe9a845c4b5c588fa6646360da057b6ade511b20173",
+          "bytes": 25256,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 186040,
+              "lossy90": 25256
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMGJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist Polygon Studio (Japan).png",
+              "source_sha256": "870e3ab981c7ad4b9de53c37580643c3dde7dfc560efd5c4f9ff493908ea918e",
+              "source_bytes": 236855,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 186040,
+                  "lossy90": 25256
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Mario Artist - Polygon Studio (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMGJ"
+      ]
+    },
+    "DMPJ": {
+      "serial": "DMPJ",
+      "entries": [
+        {
+          "redump_id": "0006",
+          "entry_id": "0006",
+          "provider": "no-intro",
+          "name": "Mario Artist - Paint Studio (Japan)",
+          "serial_raw": "DMPJ",
+          "serials": [
+            "DMPJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6f151cdc32d92248f52fa4d9344ea5eb33af6d3b3fd788fc8fbd8c4bc03c3bde",
+          "bytes": 96312,
+          "width": 512,
+          "height": 653,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 405202,
+              "lossy90": 96312
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMPJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist - Paint Studio (Japan).png",
+              "source_sha256": "612aa30d79dae59d622b0063a66a3ae3ec8ae4ae8c47c7736ba7275444d7a1f2",
+              "source_bytes": 560494,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 405202,
+                  "lossy90": 96312
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Mario Artist - Paint Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "c1a8b7d60c82848ac5ce65c34516425709e4981100a246a26f6eeb7b5f205472",
+          "bytes": 23620,
+          "width": 512,
+          "height": 169,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 30628,
+              "lossy90": 23620
+            }
+          },
+          "kind": "logo",
+          "path": "DMPJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario Artist - Paint Studio (Japan).png",
+              "source_sha256": "a970dc483d9e559cc5a47472d143375ead8c81b00b2b8e194f7ea54a6208ea7d",
+              "source_bytes": 57598,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 30628,
+                  "lossy90": 23620
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Mario Artist - Paint Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "abddb41b1f51f4658fa76c4555442535ce0700b7c666713b9e2f6c8f120c408a",
+          "bytes": 30816,
+          "width": 512,
+          "height": 288,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 153382,
+              "lossy90": 30816
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMPJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist - Paint Studio (Japan).png",
+              "source_sha256": "af60549d5c2e1b3044bdab247c6ecbcfd01bb563974617550bddb023f803b30e",
+              "source_bytes": 245410,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 153382,
+                  "lossy90": 30816
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Mario Artist - Paint Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "0ca865383900d9d510b1c8615fff796a48cd4d9c179f94d9d3307f05655a0897",
+          "bytes": 32042,
+          "width": 512,
+          "height": 384,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 181506,
+              "lossy90": 32042
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMPJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist - Paint Studio (Japan).png",
+              "source_sha256": "f5123fddee2b3782b65ae097900b6b62488d6c2c376fadcc2fb708c8fa5880ac",
+              "source_bytes": 274528,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 181506,
+                  "lossy90": 32042
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Mario Artist - Paint Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMPJ"
+      ]
+    },
+    "DMTJ": {
+      "serial": "DMTJ",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "Mario Artist - Talent Studio (Japan)",
+          "serial_raw": "DMTJ",
+          "serials": [
+            "DMTJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9e00ed8713107c7789e29d5fea88358db7be9c3f9ce8a2b5a541d3bd9aab0c9e",
+          "bytes": 94088,
+          "width": 512,
+          "height": 435,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 469154,
+              "lossy90": 94088
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMTJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist - Talent Studio (Japan).png",
+              "source_sha256": "57a84b920bc96228406c3a95df8ca6dff88727447ab883e5a05a659bea7ddf50",
+              "source_bytes": 517174,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 469154,
+                  "lossy90": 94088
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario Artist - Talent Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "4251c32560fd791e3411a54ba03c09273ef73eff19713d88a52d838af1c8cd58",
+          "bytes": 47398,
+          "width": 512,
+          "height": 442,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 260802,
+              "lossy90": 47398
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMTJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist Talent Studio (Japan).png",
+              "source_sha256": "d4485c2f724f9447f56570bc3e871103940e1ef343c9d3f68bc59ad7cd4bb351",
+              "source_bytes": 336961,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 260802,
+                  "lossy90": 47398
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario Artist - Talent Studio (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "818deb77c773ef24ed436d079245b945e66127d84d12d3a2aa8cc37a03f186b6",
+          "bytes": 3164,
+          "width": 251,
+          "height": 55,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3164,
+              "lossy90": 6354
+            }
+          },
+          "kind": "logo",
+          "path": "DMTJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Mario Artist - Talent Studio (Japan).png",
+              "source_sha256": "24694de2bb593c9a8186f512859db3d5326fe798391cb1b0e233766b5fac49f1",
+              "source_bytes": 3839,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3164,
+                  "lossy90": 6354
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario Artist - Talent Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "8f7be6caee635f0d4c6c3164170b0dd8a708552884732e2f961cb06e5986c38a",
+          "bytes": 44736,
+          "width": 512,
+          "height": 384,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 149446,
+              "lossy90": 44736
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMTJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mario Artist - Talent Studio (Japan).png",
+              "source_sha256": "e98d24f5e85da2f9381e34ad1d1d3025f6374131b351b7991e2f48d33f7957eb",
+              "source_bytes": 244125,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 149446,
+                  "lossy90": 44736
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario Artist - Talent Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6505c6da40ea2f857b4a6e48d7c3effd05737d93a8a043d9722b2144ee476008",
+          "bytes": 11756,
+          "width": 512,
+          "height": 384,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 96848,
+              "lossy90": 11756
+            }
+          },
+          "kind": "title_screen",
+          "path": "DMTJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Mario Artist - Talent Studio (Japan).png",
+              "source_sha256": "605149b4b5f0a4cddf47f805769b20b5e141b147a868d8144c183e31cbf36275",
+              "source_bytes": 146488,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 96848,
+                  "lossy90": 11756
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Mario Artist - Talent Studio (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMTJ"
+      ]
+    },
+    "DSCJ": {
+      "serial": "DSCJ",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "SimCity 64 (Japan)",
+          "serial_raw": "DSCJ",
+          "serials": [
+            "DSCJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ebb757c022d309e5e178a0704745b6c996548e2e2cd07614f10365a0b4622944",
+          "bytes": 126368,
+          "width": 512,
+          "height": 434,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 535586,
+              "lossy90": 126368
+            }
+          },
+          "kind": "cover_front",
+          "path": "DSCJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SimCity 64 (Japan).png",
+              "source_sha256": "674b76d01980fa2230e9088a6b04931c7c9a599e23d2d49a16a9e120537ce8b6",
+              "source_bytes": 572425,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 535586,
+                  "lossy90": 126368
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "SimCity 64 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "0d5e84c98a6a2cf4128246952da8671970cfe8ea5f12fdf5e95460ba551cd8e1",
+          "bytes": 121344,
+          "width": 512,
+          "height": 442,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 493146,
+              "lossy90": 121344
+            }
+          },
+          "kind": "cover_front",
+          "path": "DSCJ/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sim City 64 (Japan).png",
+              "source_sha256": "c18350ce54ea632bd2fd786281bfd7d8995562c236c18244f2235a2aad0646d4",
+              "source_bytes": 565310,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 493146,
+                  "lossy90": 121344
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "SimCity 64 (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "84f51488b7455af1d142d49ddc237d9d19ec0d11924966b7167e617ac031cddb",
+          "bytes": 15454,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 32132,
+              "lossy90": 15454
+            }
+          },
+          "kind": "logo",
+          "path": "DSCJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/SimCity 64 (Japan).png",
+              "source_sha256": "d564ae79e74cb2097eaaf8b790cb93c1aaacad54a8c12149630fd1763ba961a3",
+              "source_bytes": 60785,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 32132,
+                  "lossy90": 15454
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "SimCity 64 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "82247eac746a0e9877a687342cac3b913cb3f7f00914d316b60836dfcdbcda82",
+          "bytes": 69578,
+          "width": 512,
+          "height": 288,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 246636,
+              "lossy90": 69578
+            }
+          },
+          "kind": "screenshot",
+          "path": "DSCJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SimCity 64 (Japan).png",
+              "source_sha256": "14a649cb46c9cc8a5dffeb2e6e24e5c635350a991fac3bcfeabbd18c661af63c",
+              "source_bytes": 339876,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 246636,
+                  "lossy90": 69578
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "SimCity 64 (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7aed036f1f885f01c8fcf9c368efdb9830457f07e4d0a91dc4223a4c3cd5a820",
+          "bytes": 24498,
+          "width": 512,
+          "height": 288,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 125712,
+              "lossy90": 24498
+            }
+          },
+          "kind": "title_screen",
+          "path": "DSCJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/SimCity 64 (Japan).png",
+              "source_sha256": "914996efdb61be1f29b1157e12ed37c8d9fb0028884b0562ee0a41b3ed2530d6",
+              "source_bytes": 161439,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 125712,
+                  "lossy90": 24498
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "SimCity 64 (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DSCJ"
+      ]
+    },
+    "EFZJ": {
+      "serial": "EFZJ",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "F-Zero X - Expansion Kit (Japan)",
+          "serial_raw": "EFZJ",
+          "serials": [
+            "EFZJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e0e775e1c8544013cb907e08ed87c15a20050bd3e080f2eb2c25c3a489999e35",
+          "bytes": 118690,
+          "width": 512,
+          "height": 434,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 460726,
+              "lossy90": 118690
+            }
+          },
+          "kind": "cover_front",
+          "path": "EFZJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/F-Zero X - Expansion Kit (Japan).png",
+              "source_sha256": "f28a304a1a965de9f1da76bafa0a49505e6e3c3a092425a60a3f070d1693e925",
+              "source_bytes": 486290,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 460726,
+                  "lossy90": 118690
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "bda01180adeb31dc139628d64b0c8246a36de6aa8858ff4dbc353971e21f4e5c",
+          "bytes": 18142,
+          "width": 305,
+          "height": 192,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 46690,
+              "lossy90": 18142
+            }
+          },
+          "kind": "logo",
+          "path": "EFZJ/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/F-Zero X - Expansion Kit (Japan).png",
+              "source_sha256": "6034374394d4c04749c7a0e47e908138954aea1b0fb0ee3473dcef02624759b3",
+              "source_bytes": 60830,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 46690,
+                  "lossy90": 18142
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ee1941cf4e61e5a24914ddaf4cd07c2c8d0607c1cbca21e14a2ad119fd32c3d8",
+          "bytes": 21710,
+          "width": 267,
+          "height": 200,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 77100,
+              "lossy90": 21710
+            }
+          },
+          "kind": "screenshot",
+          "path": "EFZJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/F-Zero X - Expansion Kit (Japan).png",
+              "source_sha256": "40bee00afb35900d8e1205b7e660da13213983647d51af8d5366ec33fcccafe2",
+              "source_bytes": 110913,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 77100,
+                  "lossy90": 21710
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "cffbd1b6a66454178e83965c8f2756384b44d0e9302a7b7a47e9c3ba0f782d8f",
+          "bytes": 42152,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 293374,
+              "lossy90": 42152
+            }
+          },
+          "kind": "screenshot",
+          "path": "EFZJ/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/F-Zero X Expansion Kit (Japan).png",
+              "source_sha256": "d4f5c04eaf5d6a53e1729ae686afa2a34d0eacdc6fefd29f7788486b9a79f3ef",
+              "source_bytes": 377637,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 293374,
+                  "lossy90": 42152
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "da11b1d077f714845dfc84b4351c37d0a6c4da162ef1d5528d64696374847362",
+          "bytes": 23174,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 108642,
+              "lossy90": 23174
+            }
+          },
+          "kind": "title_screen",
+          "path": "EFZJ/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/F-Zero X - Expansion Kit (Japan).png",
+              "source_sha256": "8614627e21519f804e84754a5b6718210b4d5cc629da1c252ff2b3e66f82f1a5",
+              "source_bytes": 156680,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 108642,
+                  "lossy90": 23174
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "b9d456df084b32b2e753875ff8e763b0c5bb66afb8b32ca354e2ea0e782f25d6",
+          "bytes": 84870,
+          "width": 640,
+          "height": 480,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 351756,
+              "lossy90": 84870
+            }
+          },
+          "kind": "title_screen",
+          "path": "EFZJ/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/F-Zero X Expansion Kit (Japan).png",
+              "source_sha256": "841463cc1ace2ffcd24b0b2eb6f15cceb5f14cb6f6a29babfa50d930c24663c6",
+              "source_bytes": 506761,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 351756,
+                  "lossy90": 84870
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "F-Zero X - Expansion Kit (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "EFZJ"
+      ]
+    },
+    "TEST": {
+      "serial": "TEST",
+      "entries": [
+        {
+          "redump_id": "0017",
+          "entry_id": "0017",
+          "provider": "no-intro",
+          "name": "Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)",
+          "serial_raw": "TEST",
+          "serials": [
+            "TEST"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "5919b8ba1faacf10ffb5630d286f1fb293e24988ab0e93d7af13b611a30b641c",
+          "bytes": 47906,
+          "width": 512,
+          "height": 442,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 191226,
+              "lossy90": 47906
+            }
+          },
+          "kind": "cover_front",
+          "path": "TEST/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11).png",
+              "source_sha256": "850968b5ebc623e0ccfcdaa728f9e1472ba1e4216ed2887757bc81c68e2e11cc",
+              "source_bytes": 261565,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 191226,
+                  "lossy90": 47906
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "TEST"
+      ]
+    }
+  }
+}
