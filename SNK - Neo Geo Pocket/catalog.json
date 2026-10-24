@@ -1,0 +1,1713 @@
+{
+  "schema_version": 2,
+  "system": "SNK - Neo Geo Pocket",
+  "dat": {
+    "file": "75286154379578d2a7ba3bcdce8a777cb72636a271436a6a9484a56ce0f63a78.dat",
+    "sha256": "75286154379578d2a7ba3bcdce8a777cb72636a271436a6a9484a56ce0f63a78",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/SNK - NeoGeo Pocket (20250904-215533).dat",
+      "standard_sha256": "71202813e83f62678aa820575a3add71e96f93f7f344641c477f1e716ca975c2",
+      "db_members": {}
+    },
+    "version": "20250904-215533",
+    "system": "SNK - NeoGeo Pocket",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "0001": {
+      "serial": "0001",
+      "entries": [
+        {
+          "redump_id": "0004",
+          "entry_id": "0004",
+          "provider": "no-intro",
+          "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+          "serial_raw": "0001",
+          "serials": [
+            "0001"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ff67b440eedb9674da77ffec4e461ca9c5dff445d51969abb3dc022207de03c3",
+          "bytes": 27126,
+          "width": 256,
+          "height": 294,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 99890,
+              "lossy90": 27126
+            }
+          },
+          "kind": "cover_front",
+          "path": "0001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "83ffe4373c04f789b9ee87b0b5a463c2d8d02ed3d12a33f6309c7a11ee02e958",
+              "source_bytes": 127016,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 99890,
+                  "lossy90": 27126
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "3f03990ca7201d5370aab674bba475cfb251472c51c606e9c25ea8b2a8a60ee9",
+          "bytes": 25876,
+          "width": 512,
+          "height": 200,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 62420,
+              "lossy90": 25876
+            }
+          },
+          "kind": "logo",
+          "path": "0001/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "689b7175c8bac12366255ec16a86a76dcbe8f39d7a0c952b15147902080df1c6",
+              "source_bytes": 96266,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 62420,
+                  "lossy90": 25876
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f7dab28f81b80cf5a8ccc4860019edeadc6368ae0544188991a207e4c2129b0d",
+          "bytes": 2592,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2592,
+              "lossy90": 10062
+            }
+          },
+          "kind": "screenshot",
+          "path": "0001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "dbdd00e7ce50dfb494e20355f0da1b1aa9212232b9cde8e9f88fcd984544f404",
+              "source_bytes": 2764,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2592,
+                  "lossy90": 10062
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "65610adb5e5ab37f19c2a42f9dcd2ffb829ff3df4a35972c80505a280e57629d",
+          "bytes": 1316,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1316,
+              "lossy90": 9402
+            }
+          },
+          "kind": "title_screen",
+          "path": "0001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "be5b87a72e34bdfef2889c137f987959423a1229d3a59eedab468ec8e3092ad4",
+              "source_bytes": 1454,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1316,
+                  "lossy90": 9402
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0001"
+      ]
+    },
+    "0002": {
+      "serial": "0002",
+      "entries": [
+        {
+          "redump_id": "0007",
+          "entry_id": "0007",
+          "provider": "no-intro",
+          "name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+          "serial_raw": "0002",
+          "serials": [
+            "0002"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "fc2c9136e11f2182dff55df1f11e01c8a4e66d35af66932e2dcef3dc6ab45dbf",
+          "bytes": 49528,
+          "width": 512,
+          "height": 458,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 221192,
+              "lossy90": 49528
+            }
+          },
+          "kind": "cover_front",
+          "path": "0002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/NeoGeo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "4f59519fe226f01dbe10e166d2d757d0386b498323715b1bcaf304867f1a42cd",
+              "source_bytes": 348337,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 221192,
+                  "lossy90": 49528
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "4983ea16f85ff38b07b504c58461abb20d89573c03131aaae029cdfe01017766",
+          "bytes": 29132,
+          "width": 256,
+          "height": 290,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 108734,
+              "lossy90": 29132
+            }
+          },
+          "kind": "cover_front",
+          "path": "0002/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "56fd9c6e04f2e2c418deac9f8208c25b104ea8cac7eaf7d76e31da365f9ee0cf",
+              "source_bytes": 131493,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 108734,
+                  "lossy90": 29132
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4e4206ef7948afb85a45e6b4d9afda07e3b19675437f9eb1ec7cda7f23e9d233",
+          "bytes": 17546,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 61712,
+              "lossy90": 17546
+            }
+          },
+          "kind": "logo",
+          "path": "0002/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/NeoGeo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "197032142d0fa03d1eeb7cd433be486d8905e2bef08a37acf416bb4be7c49b2e",
+              "source_bytes": 102074,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 61712,
+                  "lossy90": 17546
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "06b763be15e4624a68204cb6aa500cac248f5a2e5474e20967d4ce2c2d5140ed",
+          "bytes": 43560,
+          "width": 512,
+          "height": 486,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 65842,
+              "lossy90": 43560
+            }
+          },
+          "kind": "screenshot",
+          "path": "0002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/NeoGeo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "271956760715ba9efc522fc26c5b7370964497f2b45f72239821861df2c1544b",
+              "source_bytes": 70883,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 65842,
+                  "lossy90": 43560
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "25f4fa1162ed61b6972bb6274b43699788711158cd0616ed1ed4acfb2c5bdf7b",
+          "bytes": 7304,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7304,
+              "lossy90": 8978
+            }
+          },
+          "kind": "screenshot",
+          "path": "0002/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "0705f3185d71fffa35e5dd876bfae09489d25dd8ad523aafef8c9ae7b5c69285",
+              "source_bytes": 7822,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7304,
+                  "lossy90": 8978
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "2713c7b3cd3f1ad40af161d1856966b23d6f3e6ea2c9ea46e648aa4d7a34f0c2",
+          "bytes": 2120,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2120,
+              "lossy90": 10704
+            }
+          },
+          "kind": "title_screen",
+          "path": "0002/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/NeoGeo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "ad9901e349286dcb429ed2cac3969955bcc1de53badfe94bb9052bb9aaf0597d",
+              "source_bytes": 3963,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2120,
+                  "lossy90": 10704
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen2": {
+          "sha256": "4559b159a8718d195a731b66d37ca774df454d0460bc3640b842b772e076671a",
+          "bytes": 2112,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2112,
+              "lossy90": 7410
+            }
+          },
+          "kind": "title_screen",
+          "path": "0002/title_screen2.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png",
+              "source_sha256": "dd705f304e089607bffe0b7f0f27c0642f8a9bfb0145c36770709996b1baabf0",
+              "source_bytes": 2279,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2112,
+                  "lossy90": 7410
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "NeoGeo Cup '98 (Japan, Europe) (En,Ja)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0002"
+      ]
+    },
+    "0004": {
+      "serial": "0004",
+      "entries": [
+        {
+          "redump_id": "0005",
+          "entry_id": "0005",
+          "provider": "no-intro",
+          "name": "Melon-chan no Seichou Nikki (Japan)",
+          "serial_raw": "0004",
+          "serials": [
+            "0004"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3ccde13e58ad2eb9e1d9a5de69b5214cc145e3383eabb714deeacc530b7b7a2b",
+          "bytes": 38972,
+          "width": 244,
+          "height": 280,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 140776,
+              "lossy90": 38972
+            }
+          },
+          "kind": "cover_front",
+          "path": "0004/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Melon-chan no Seichou Nikki (Japan).png",
+              "source_sha256": "e5ba747574d156f515e3556d1249b156cff65cfbaa3f48847db9b4fd4ceefc29",
+              "source_bytes": 163938,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 140776,
+                  "lossy90": 38972
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Melon-chan no Seichou Nikki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "6258dc3942f5b99bccca589b6c336e7076f7f8161d253659d313416eed3ae835",
+          "bytes": 28242,
+          "width": 512,
+          "height": 202,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 63276,
+              "lossy90": 28242
+            }
+          },
+          "kind": "logo",
+          "path": "0004/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Melon-chan no Seichou Nikki (Japan).png",
+              "source_sha256": "b3cabe44269453ed298f4a1fd484377d455f5491dc5a9afc9ec8676301630923",
+              "source_bytes": 104681,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 63276,
+                  "lossy90": 28242
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Melon-chan no Seichou Nikki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "78c9ae34c2e5dfb27b0d40711630c4124369bcadaad25e8b9586aa570386c68c",
+          "bytes": 2278,
+          "width": 160,
+          "height": 144,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2278,
+              "lossy90": 8686
+            }
+          },
+          "kind": "screenshot",
+          "path": "0004/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Melon-chan no Seichou Nikki (Japan).png",
+              "source_sha256": "a80b33636682cbb0a978289074fd0af4f4e7a057cda74a07ea6648a514fb8fc6",
+              "source_bytes": 2420,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2278,
+                  "lossy90": 8686
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Melon-chan no Seichou Nikki (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b2306adb6d0e2d033c76591b5597a1fe3431a3bce7de4864cee53998703deeba",
+          "bytes": 2706,
+          "width": 160,
+          "height": 144,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2706,
+              "lossy90": 9640
+            }
+          },
+          "kind": "title_screen",
+          "path": "0004/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Melon-chan no Seichou Nikki (Japan).png",
+              "source_sha256": "6ee9139f8c904d3427b14b4804c2bfb80872d2751edd0a8fec790473e2fd587d",
+              "source_bytes": 2808,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2706,
+                  "lossy90": 9640
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Melon-chan no Seichou Nikki (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0004"
+      ]
+    },
+    "0005": {
+      "serial": "0005",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "Shougi no Tatsujin (Japan)",
+          "serial_raw": "0005",
+          "serials": [
+            "0005"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "237259acdcc892199d970eba8cc661a634d95d3242213d6e2849cabb637529d7",
+          "bytes": 44086,
+          "width": 330,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 168020,
+              "lossy90": 44086
+            }
+          },
+          "kind": "cover_front",
+          "path": "0005/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Shougi no Tatsujin (Japan).png",
+              "source_sha256": "9f797d54f22e477fabcbb16146d8434e0dcebf9da5dad4bcf9cf1fc8ac036916",
+              "source_bytes": 233555,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 168020,
+                  "lossy90": 44086
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Shougi no Tatsujin (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "a40e82874990854c466c7f6bf427df82fd7a4c3a68ab467b69cfaf6fe941de06",
+          "bytes": 34614,
+          "width": 512,
+          "height": 222,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 51562,
+              "lossy90": 34614
+            }
+          },
+          "kind": "logo",
+          "path": "0005/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Shougi no Tatsujin (Japan).png",
+              "source_sha256": "fe4965c9837c3d36cb4a6c1bf407961661a4fef336672a9651f6f6a367c82dd0",
+              "source_bytes": 93586,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 51562,
+                  "lossy90": 34614
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Shougi no Tatsujin (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "95c6ed37651fbbd07324dc8362e7ec710747fe3184c548b1c472cd100cefaa17",
+          "bytes": 1244,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1244,
+              "lossy90": 8158
+            }
+          },
+          "kind": "screenshot",
+          "path": "0005/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Shougi no Tatsujin (Japan).png",
+              "source_sha256": "d969163ef88246bbad82156dc0a9f037b1e1423fe091327cab59763736041d7f",
+              "source_bytes": 1312,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1244,
+                  "lossy90": 8158
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Shougi no Tatsujin (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "1f6ba6b3946cb1a5cc5baa1903f0950c6cec6c678b1fa2e50947f366464f6f25",
+          "bytes": 1356,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1356,
+              "lossy90": 6806
+            }
+          },
+          "kind": "title_screen",
+          "path": "0005/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Shougi no Tatsujin (Japan).png",
+              "source_sha256": "eb9cb30dc0130ed7acd4f63551bf1b0ceaa9200948f1140a764d08b15b077861",
+              "source_bytes": 1435,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1356,
+                  "lossy90": 6806
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Shougi no Tatsujin (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0005"
+      ]
+    },
+    "0007": {
+      "serial": "0007",
+      "entries": [
+        {
+          "redump_id": "0002",
+          "entry_id": "0002",
+          "provider": "no-intro",
+          "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+          "serial_raw": "0007",
+          "serials": [
+            "0007"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "13ee78948cdcb3a2bbda58f580aaad64d3d5b4314ddb2cd5bc95610bb1b3797c",
+          "bytes": 43804,
+          "width": 256,
+          "height": 292,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 155882,
+              "lossy90": 43804
+            }
+          },
+          "kind": "cover_front",
+          "path": "0007/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "9a137802a5cdba15fb7cfa775803b35fd04e746083436769300d9c561ed20c04",
+              "source_bytes": 185876,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 155882,
+                  "lossy90": 43804
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "31c1c9fd018f3b77e035f8d442c6430147fd4c959de2558cfd80235bd1a78d58",
+          "bytes": 2960,
+          "width": 159,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2960,
+              "lossy90": 4170
+            }
+          },
+          "kind": "screenshot",
+          "path": "0007/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "1e2372b782b97baa955f89d19b49fa4bd53147e7e2cd6702bb34701471a3a345",
+              "source_bytes": 3131,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2960,
+                  "lossy90": 4170
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "fc451b1e6eb14451418b15d89591b3c930c09a222369b4c235fea81868972896",
+          "bytes": 1512,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1512,
+              "lossy90": 6078
+            }
+          },
+          "kind": "title_screen",
+          "path": "0007/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "f17a477983df1f9968cd668bf143439d38af95fdd5a3e31c0838f56b60e7d32b",
+              "source_bytes": 1660,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1512,
+                  "lossy90": 6078
+                }
+              },
+              "redump_id": "0002",
+              "dat_name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0007"
+      ]
+    },
+    "0008": {
+      "serial": "0008",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+          "serial_raw": "0008",
+          "serials": [
+            "0008"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "862a9583096c2fc32c2d633972db731fdab43b0b7ca9570adccdef00fe0f94ef",
+          "bytes": 27306,
+          "width": 256,
+          "height": 299,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 102050,
+              "lossy90": 27306
+            }
+          },
+          "kind": "cover_front",
+          "path": "0008/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "d73fc3d4ad20d6b897a833e5136dfae96cfaeba1b8d2463fca6305362e1d24ba",
+              "source_bytes": 124274,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 102050,
+                  "lossy90": 27306
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "188efbacd6f9e22c5e70629a3ee21667db233d881da73602441f9eb9e439af66",
+          "bytes": 17694,
+          "width": 400,
+          "height": 175,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 65976,
+              "lossy90": 17694
+            }
+          },
+          "kind": "logo",
+          "path": "0008/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "84b503a2cc6c57d719307779b305f0ff69cc0de78b261c71ca42e7e2d7d30645",
+              "source_bytes": 115244,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 65976,
+                  "lossy90": 17694
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ceee9b1b58b547f5649c9f8137b2cb1436fa68b415146b872706294bb12346d8",
+          "bytes": 2522,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2522,
+              "lossy90": 9450
+            }
+          },
+          "kind": "screenshot",
+          "path": "0008/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "547ce326b08f45d458e9f5c0c6ff12aa27653e2209804163093d49f4f8699842",
+              "source_bytes": 2607,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2522,
+                  "lossy90": 9450
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "816894de1c896cacc3195289d71651835286c24af62b9a4eb5b9889c539e6cc7",
+          "bytes": 1976,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1976,
+              "lossy90": 8330
+            }
+          },
+          "kind": "title_screen",
+          "path": "0008/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "58b816f28235e15a898662ed7337ee4d8be6784966e63bc142c2350ac2c41dde",
+              "source_bytes": 2132,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1976,
+                  "lossy90": 8330
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0008"
+      ]
+    },
+    "0009": {
+      "serial": "0009",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+          "serial_raw": "0009",
+          "serials": [
+            "0009"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "51991a75450beae885f514d80188ed4085221e81fd382487ca3277039324db41",
+          "bytes": 22498,
+          "width": 256,
+          "height": 288,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 89972,
+              "lossy90": 22498
+            }
+          },
+          "kind": "cover_front",
+          "path": "0009/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "ed9f3f01140719ae26f8e938076f4c3e6093d517bb3b12eac47caf5b9363d7a1",
+              "source_bytes": 115826,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 89972,
+                  "lossy90": 22498
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "d7b6fa5f5467b26f180edae3f2062dacf3b783fd214ca1ca5020010e4715e193",
+          "bytes": 19796,
+          "width": 512,
+          "height": 182,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 35840,
+              "lossy90": 19796
+            }
+          },
+          "kind": "logo",
+          "path": "0009/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "8057fe756a9a5dea33607ce7ef4c2965e25745cc7664238d7492542ff7c8044d",
+              "source_bytes": 59497,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 35840,
+                  "lossy90": 19796
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "1231e258c271b0a3ca36a4daacbc5afd6e511cbfaef21c9e092d2cd54de0b159",
+          "bytes": 7068,
+          "width": 158,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7068,
+              "lossy90": 9324
+            }
+          },
+          "kind": "screenshot",
+          "path": "0009/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "da015ede2e5b6dc3c2c911c06d0f9773aa22b230915ddf343edd7e8ffa99b69b",
+              "source_bytes": 7200,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7068,
+                  "lossy90": 9324
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "3f10eeec852c5a0afe4a6860f8248677e5e4a94e7276cbbb868fbc50eed1b243",
+          "bytes": 1910,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1910,
+              "lossy90": 8672
+            }
+          },
+          "kind": "title_screen",
+          "path": "0009/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png",
+              "source_sha256": "f4663abbd6747845b437e99eb119b43f9773e2a85418edf969950bc7751511dd",
+              "source_bytes": 1991,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1910,
+                  "lossy90": 8672
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0009"
+      ]
+    },
+    "0012": {
+      "serial": "0012",
+      "entries": [
+        {
+          "redump_id": "0009",
+          "entry_id": "0009",
+          "provider": "no-intro",
+          "name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+          "serial_raw": "0012",
+          "serials": [
+            "0012"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "72738ace12df71bc7ba5e57d38adc26a3493c5518f9e41c789c687794142094a",
+          "bytes": 77248,
+          "width": 450,
+          "height": 505,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 268684,
+              "lossy90": 77248
+            }
+          },
+          "kind": "cover_front",
+          "path": "0012/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Renketsu Puzzle Tsunagete Pon! (Japan).png",
+              "source_sha256": "bcd938263a183f634f7bea22a8ce2ea902a35b18d4881c801b29c2234e2192c2",
+              "source_bytes": 392978,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 268684,
+                  "lossy90": 77248
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "ac39644be67092bcb4f231139087699a01de3fbc3f8f337783055091c00a9d60",
+          "bytes": 39726,
+          "width": 512,
+          "height": 346,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 67592,
+              "lossy90": 39726
+            }
+          },
+          "kind": "logo",
+          "path": "0012/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Renketsu Puzzle Tsunagete Pon! (Japan).png",
+              "source_sha256": "15cfd84d0b8032f4b94401dd2e90669f80ab02fd7f122c264398eca56bf95a5b",
+              "source_bytes": 111217,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 67592,
+                  "lossy90": 39726
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "00a8376a074117c0fc2fba06a5e9f2fb9199df252b8bacb74129a9f2a5d9da3c",
+          "bytes": 1248,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1248,
+              "lossy90": 5276
+            }
+          },
+          "kind": "screenshot",
+          "path": "0012/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Renketsu Puzzle Tsunagete Pon! (Japan).png",
+              "source_sha256": "69491fc1a8f32c2a49c955708afe17d45ac11a888cd4037ef405fd1812027cbf",
+              "source_bytes": 1347,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1248,
+                  "lossy90": 5276
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "993d81a43c85788a79ab25080450e05c853091955f2b400ec3f7d4faf1d19fe3",
+          "bytes": 1788,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1788,
+              "lossy90": 7524
+            }
+          },
+          "kind": "title_screen",
+          "path": "0012/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Renketsu Puzzle Tsunagete Pon! (Japan).png",
+              "source_sha256": "c912fff8d64ba722190d8cffd4b546ddf5a577e633d44da1a765bb539eb839ce",
+              "source_bytes": 2036,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1788,
+                  "lossy90": 7524
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0012"
+      ]
+    },
+    "0014": {
+      "serial": "0014",
+      "entries": [
+        {
+          "redump_id": "0006",
+          "entry_id": "0006",
+          "provider": "no-intro",
+          "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+          "serial_raw": "0014",
+          "serials": [
+            "0014"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "23e9a33dc053baeaeca2f68a830192b65e1ca207335cdee4c05db4adaafabda9",
+          "bytes": 33060,
+          "width": 256,
+          "height": 281,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 126636,
+              "lossy90": 33060
+            }
+          },
+          "kind": "cover_front",
+          "path": "0014/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png",
+              "source_sha256": "999b91e6004ec611568742a558134ee927064944033c62c5ae6ff99140ae2ad8",
+              "source_bytes": 155992,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 126636,
+                  "lossy90": 33060
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "ce52c9fcefdcfe3782d3cec7b802603171643f5b5be67e7623bb2a129db2c6ed",
+          "bytes": 31330,
+          "width": 512,
+          "height": 207,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 54938,
+              "lossy90": 31330
+            }
+          },
+          "kind": "logo",
+          "path": "0014/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png",
+              "source_sha256": "748572ed1a4e56e1993744b2c57ae26f0671cc94b7f83570b5768f44f7a40e40",
+              "source_bytes": 93363,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 54938,
+                  "lossy90": 31330
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "170409c070bdf6aef75af4adbccc28bd7f91dad124eeaf3d10639b8b4f4012f2",
+          "bytes": 1978,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1978,
+              "lossy90": 9304
+            }
+          },
+          "kind": "screenshot",
+          "path": "0014/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png",
+              "source_sha256": "3ca19c44bdc74660105ca8a8ff21aaaf83855826cea546e2f032b1bbbd52f6d9",
+              "source_bytes": 2048,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1978,
+                  "lossy90": 9304
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "842a0fdaf7905e0338b36324f3132e864a5aca36e2d74f0dcfb77c79cf7fbe23",
+          "bytes": 2532,
+          "width": 160,
+          "height": 152,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2532,
+              "lossy90": 12410
+            }
+          },
+          "kind": "title_screen",
+          "path": "0014/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png",
+              "source_sha256": "fd35e58b04d8ec806519c290e4559b85233e8a27ce6302ba2782711afbbf1fc9",
+              "source_bytes": 2587,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2532,
+                  "lossy90": 12410
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "0014"
+      ]
+    }
+  }
+}

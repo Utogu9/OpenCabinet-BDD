@@ -1,0 +1,509 @@
+{
+  "schema_version": 2,
+  "system": "RCA - Studio II",
+  "dat": {
+    "file": "13df7cf0aa35cf11c3d238ffa2a4296a074bd3d3593f30ed1c84fe832c75fdcd.dat",
+    "sha256": "13df7cf0aa35cf11c3d238ffa2a4296a074bd3d3593f30ed1c84fe832c75fdcd",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/RCA - Studio II (20260522-175404).dat",
+      "standard_sha256": "4cded761ca05ab2ea5083f39b3950835e4bee74b0afc9a06f2e8a3be2e51ad2a",
+      "db_members": {
+        "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+      }
+    },
+    "version": "20260522-175404",
+    "system": "RCA - Studio II",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "1808517-20": {
+      "serial": "1808517-20",
+      "entries": [
+        {
+          "redump_id": "0013",
+          "entry_id": "0013",
+          "provider": "no-intro",
+          "name": "Demonstration Cartridge (USA)",
+          "serial_raw": "1808517-20",
+          "serials": [
+            "1808517-20"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "1808517-20",
+                "field": "media_serial1",
+                "source_id": "13",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4f79770885054d1190788fc3e218b9e392926fcc8c1afffe07e46b27b2b7b384",
+          "bytes": 44214,
+          "width": 512,
+          "height": 346,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 198884,
+              "lossy90": 44214
+            }
+          },
+          "kind": "cover_front",
+          "path": "1808517-20/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Demonstration Cartridge (USA).png",
+              "source_sha256": "019e144f7a0e25ca8fb97ed3b51b2cba2cc39d25c4667a2846a8f0aae8098b5b",
+              "source_bytes": 337296,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 198884,
+                  "lossy90": 44214
+                }
+              },
+              "redump_id": "0013",
+              "dat_name": "Demonstration Cartridge (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "1808517-20"
+      ]
+    },
+    "18V601": {
+      "serial": "18V601",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "TV Casino Series - TV Bingo (USA, Europe)",
+          "serial_raw": "MG-201, 18V601",
+          "serials": [
+            "MG-201",
+            "18V601"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "MG-201",
+                "field": "media_serial1",
+                "source_id": "14",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              },
+              {
+                "serial": "18V601",
+                "field": "media_serial1",
+                "source_id": "11",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d7f916a66b2be737f12aeb75c50a28435e2b42d5ab663e576c29867f7abf827c",
+          "bytes": 16550,
+          "width": 214,
+          "height": 281,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 46970,
+              "lossy90": 16550
+            }
+          },
+          "kind": "cover_front",
+          "path": "18V601/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/TV Casino Series - TV Bingo (USA, Europe).png",
+              "source_sha256": "aeb150301a78aed4caf4a20ef806fd8d599e23d512c0944f1f4fa07c678da2ff",
+              "source_bytes": 76337,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 46970,
+                  "lossy90": 16550
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "TV Casino Series - TV Bingo (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "18V601"
+      ]
+    },
+    "MG-201": {
+      "serial": "MG-201",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "TV Casino Series - TV Bingo (USA, Europe)",
+          "serial_raw": "MG-201, 18V601",
+          "serials": [
+            "MG-201",
+            "18V601"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "MG-201",
+                "field": "media_serial1",
+                "source_id": "14",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              },
+              {
+                "serial": "18V601",
+                "field": "media_serial1",
+                "source_id": "11",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d7f916a66b2be737f12aeb75c50a28435e2b42d5ab663e576c29867f7abf827c",
+          "bytes": 16550,
+          "width": 214,
+          "height": 281,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 46970,
+              "lossy90": 16550
+            }
+          },
+          "kind": "cover_front",
+          "path": "MG-201/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/TV Casino Series - TV Bingo (USA, Europe).png",
+              "source_sha256": "aeb150301a78aed4caf4a20ef806fd8d599e23d512c0944f1f4fa07c678da2ff",
+              "source_bytes": 76337,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 46970,
+                  "lossy90": 16550
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "TV Casino Series - TV Bingo (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "MG-201"
+      ]
+    },
+    "MG-204": {
+      "serial": "MG-204",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "TV School House II - Math Fun (USA, Europe)",
+          "serial_raw": "MG-204",
+          "serials": [
+            "MG-204"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "MG-204",
+                "field": "media_serial1",
+                "source_id": "17",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8f1e1a6bfb6d839ba637c5a116cabb29c9e54a21d46932438b3cfc0050367929",
+          "bytes": 25668,
+          "width": 368,
+          "height": 281,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 82324,
+              "lossy90": 25668
+            }
+          },
+          "kind": "cover_front",
+          "path": "MG-204/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/TV School House II - Math Fun (USA, Europe).png",
+              "source_sha256": "7e06745517a1aadb57e9acf9cae73e6fa2f3d81320ef60505ad26a544311c0b2",
+              "source_bytes": 141358,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 82324,
+                  "lossy90": 25668
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "TV School House II - Math Fun (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "MG-204"
+      ]
+    },
+    "MG-206": {
+      "serial": "MG-206",
+      "entries": [
+        {
+          "redump_id": "0012",
+          "entry_id": "0012",
+          "provider": "no-intro",
+          "name": "TV Mystic Series - Biorhythm (USA, Europe)",
+          "serial_raw": "MG-206",
+          "serials": [
+            "MG-206"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "MG-206",
+                "field": "media_serial1",
+                "source_id": "16",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d9cb36d685a36549bab6f79ab3a87b25ea0b68c8e470e11e1fe71f28066860a9",
+          "bytes": 14646,
+          "width": 368,
+          "height": 281,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 39656,
+              "lossy90": 14646
+            }
+          },
+          "kind": "cover_front",
+          "path": "MG-206/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/TV Mystic Series - Biorhythm (USA, Europe).png",
+              "source_sha256": "4434fab5c703d29332d511813e1ac4e67bc395cd329e5630a493e9b2cca34cc9",
+              "source_bytes": 64712,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 39656,
+                  "lossy90": 14646
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "TV Mystic Series - Biorhythm (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "MG-206"
+      ]
+    },
+    "MG-213": {
+      "serial": "MG-213",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)",
+          "serial_raw": "MG-213",
+          "serials": [
+            "MG-213"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "MG-213",
+                "field": "media_serial1",
+                "source_id": "15",
+                "section": "Trusted Dump",
+                "member": "No-Intro/RCA - Studio II (DB Export) (20260522-175404).xml",
+                "member_sha256": "3364c03590f7d9cb4ced695f12218f7e705ce369f95a5213a94d172894a98107"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "b87257b47795a4cda0b3dab3262d59d159dabb5b66067cfcb20f3c2e4ea5a1b6",
+          "bytes": 35660,
+          "width": 368,
+          "height": 281,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 135086,
+              "lossy90": 35660
+            }
+          },
+          "kind": "cover_front",
+          "path": "MG-213/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe).png",
+              "source_sha256": "cb3bb9e95d10baaf45c144a07e0c343ec68c04a359f4ec90182e2820bc888779",
+              "source_bytes": 211378,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 135086,
+                  "lossy90": 35660
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "MG-213"
+      ]
+    }
+  }
+}

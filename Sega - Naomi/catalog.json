@@ -1,0 +1,2610 @@
+{
+  "schema_version": 2,
+  "system": "Sega - Naomi",
+  "dat": {
+    "file": "767ac5cb519d24f5b570dd8805e67ca84f76c759976e3ed58d766c4b5c054f7e.dat",
+    "sha256": "767ac5cb519d24f5b570dd8805e67ca84f76c759976e3ed58d766c4b5c054f7e",
+    "version": "2026-10-18 12-44-57",
+    "system": "Arcade - Sega - Naomi",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "GDL-0002": {
+      "serial": "GDL-0002",
+      "entries": [
+        {
+          "redump_id": "69513",
+          "entry_id": "69513",
+          "provider": "redump",
+          "name": "Street Fighter Zero 3 Upper (Japan)",
+          "serial_raw": "GDL-0002",
+          "serials": [
+            "GDL-0002"
+          ],
+          "category": "Games",
+          "version": "1.001"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "b81d07b6a037f3903c2842719b70ba51cd8337fdbece9ae2aa9ed2a24ba66a89",
+          "bytes": 52718,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 94620,
+              "lossy90": 52718
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Street Fighter Zero 3 Upper (Japan) (GDL-0002).png",
+              "source_sha256": "2103acf3e874d07099e4f6a81627f81d1b243ca24cbbca6406fe3c2d44cfd184",
+              "source_bytes": 131121,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 94620,
+                  "lossy90": 52718
+                }
+              },
+              "redump_id": "69513",
+              "dat_name": "Street Fighter Zero 3 Upper (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "daf82523f185bcb445d45cb864d65f4dc6a3a927b60adaadfea638ac569f4b84",
+          "bytes": 24476,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 25032,
+              "lossy90": 24476
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0002/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Street Fighter Zero 3 Upper (Japan) (GDL-0002).png",
+              "source_sha256": "5fb01328fd94596b22ddf174d7ed422aaa1fb639a4736d76a5bc593dacb563bc",
+              "source_bytes": 42179,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 25032,
+                  "lossy90": 24476
+                }
+              },
+              "redump_id": "69513",
+              "dat_name": "Street Fighter Zero 3 Upper (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0002"
+      ]
+    },
+    "GDL-0010": {
+      "serial": "GDL-0010",
+      "entries": [
+        {
+          "redump_id": "139476",
+          "entry_id": "139476",
+          "provider": "redump",
+          "name": "Ikaruga (Japan)",
+          "serial_raw": "GDL-0010",
+          "serials": [
+            "GDL-0010"
+          ],
+          "category": "Games",
+          "version": "1.002"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c37a25b1683e3b79d3ecfde71d49fc24974b1d033fea83398705850acb64788d",
+          "bytes": 52166,
+          "width": 512,
+          "height": 350,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 179260,
+              "lossy90": 52166
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0010/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Ikaruga (GDL-0010).png",
+              "source_sha256": "080f6b9aa7a2703f1792eec34a5a123fec1614881d4151d2e5d44b8a131dbe15",
+              "source_bytes": 234352,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 179260,
+                  "lossy90": 52166
+                }
+              },
+              "redump_id": "139476",
+              "dat_name": "Ikaruga (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3663fba65b8889975aa4878831a826b6e72545d9d32592a2d1a1bd4d6b8452e8",
+          "bytes": 50976,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 269440,
+              "lossy90": 50976
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0010/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Ikaruga (GDL-0010).png",
+              "source_sha256": "979851047c7dda8ac2cefeacd6d64fada626c404c72101120be2f09aec3a26d0",
+              "source_bytes": 344090,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 269440,
+                  "lossy90": 50976
+                }
+              },
+              "redump_id": "139476",
+              "dat_name": "Ikaruga (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "d044eecf9ace106bbef81300e61d333765313cbbfd8e880398c4df2a1855e450",
+          "bytes": 46406,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 116468,
+              "lossy90": 46406
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0010/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Ikaruga (GDL-0010).png",
+              "source_sha256": "d46060c1ff0bbeda6971871942b14e18782dce92bc762fbf3efe588ad083bff2",
+              "source_bytes": 175163,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 116468,
+                  "lossy90": 46406
+                }
+              },
+              "redump_id": "139476",
+              "dat_name": "Ikaruga (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0010"
+      ]
+    },
+    "GDL-0020": {
+      "serial": "GDL-0020",
+      "entries": [
+        {
+          "redump_id": "69605",
+          "entry_id": "69605",
+          "provider": "redump",
+          "name": "Tetris Kiwamemichi (Japan)",
+          "serial_raw": "GDL-0020",
+          "serials": [
+            "GDL-0020"
+          ],
+          "category": "Games",
+          "version": "1.003"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "0e8c580916097e4716865aefcaf8d0448b8455a3bf518120fed743f48e94cd1f",
+          "bytes": 60488,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 259642,
+              "lossy90": 60488
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0020/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Tetris Kiwamemichi (Japan) (GDL-0020).png",
+              "source_sha256": "b1bd79060b1cbe4a234222ef31f9d0dc5a8e5f1347add894ce10178b54fbf0c5",
+              "source_bytes": 322953,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 259642,
+                  "lossy90": 60488
+                }
+              },
+              "redump_id": "69605",
+              "dat_name": "Tetris Kiwamemichi (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "14d4516482748dd8ac35f8bd2c8254e7bd7481b1ef7363ea390a933f9c2556fe",
+          "bytes": 19290,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 71920,
+              "lossy90": 19290
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0020/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Tetris Kiwamemichi (Japan) (GDL-0020).png",
+              "source_sha256": "174613ec5cd2c16756ef5744cbc01cab0d091ea7abe4245d8af9b0139ea87abf",
+              "source_bytes": 99002,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 71920,
+                  "lossy90": 19290
+                }
+              },
+              "redump_id": "69605",
+              "dat_name": "Tetris Kiwamemichi (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0020"
+      ]
+    },
+    "GDL-0023A": {
+      "serial": "GDL-0023A",
+      "entries": [
+        {
+          "redump_id": "139328",
+          "entry_id": "139328",
+          "provider": "redump",
+          "name": "Border Down (Japan) (Rev A)",
+          "serial_raw": "GDL-0023A",
+          "serials": [
+            "GDL-0023A"
+          ],
+          "category": "Games",
+          "version": "2.000"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "4861a22692221b7fc7d8814b9cebaa091669b6a859fef8d149657a06ed60f927",
+          "bytes": 42544,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 215918,
+              "lossy90": 42544
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0023A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Border Down (Rev A) (GDL-0023A).png",
+              "source_sha256": "437209a096d1ec66346e41dd0eb4243f66e52741da90e9d4b168b5e5904e093f",
+              "source_bytes": 291464,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 215918,
+                  "lossy90": 42544
+                }
+              },
+              "redump_id": "139328",
+              "dat_name": "Border Down (Japan) (Rev A)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b6223c00cab963df85e0eb8f9cf826c8309faa5e4d914f210992d5335297bbf7",
+          "bytes": 36958,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 160698,
+              "lossy90": 36958
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0023A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Border Down (Rev A) (GDL-0023A).png",
+              "source_sha256": "b440d7f2f04002d83673e53b116ae629148cfa1e58147eef3cf9fe5b929b2ca9",
+              "source_bytes": 202832,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 160698,
+                  "lossy90": 36958
+                }
+              },
+              "redump_id": "139328",
+              "dat_name": "Border Down (Japan) (Rev A)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0023A"
+      ]
+    },
+    "GDL-0024": {
+      "serial": "GDL-0024",
+      "entries": [
+        {
+          "redump_id": "139478",
+          "entry_id": "139478",
+          "provider": "redump",
+          "name": "Psyvariar 2 - The Will to Fabricate (Japan)",
+          "serial_raw": "GDL-0024",
+          "serials": [
+            "GDL-0024"
+          ],
+          "category": "Games",
+          "version": "1.002"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "dd6d30e25e0a75ce72168622a77bd283657414a9e8d1a79c0282a4dc819555a1",
+          "bytes": 26318,
+          "width": 222,
+          "height": 296,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 31376,
+              "lossy90": 26318
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0024/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Psyvariar 2 - The Will To Fabricate (Japan) (GDL-0024).png",
+              "source_sha256": "ab12a3e88d02e6f465172df896ab96856643496a0305115183bbd887a9c5d184",
+              "source_bytes": 35666,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 31376,
+                  "lossy90": 26318
+                }
+              },
+              "redump_id": "139478",
+              "dat_name": "Psyvariar 2 - The Will to Fabricate (Japan)",
+              "match": "case_apostrophe_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e1daa6bea083be9bf51a887be84399847b6eececfcb3ae7dd672fa9e65bea326",
+          "bytes": 27068,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 230914,
+              "lossy90": 27068
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0024/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Psyvariar 2 - The Will To Fabricate (Japan) (GDL-0024).png",
+              "source_sha256": "5aa367d617ba713c6acbb7c42d11b9c545f97bfeab50346ca550a3e71220e46e",
+              "source_bytes": 301007,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 230914,
+                  "lossy90": 27068
+                }
+              },
+              "redump_id": "139478",
+              "dat_name": "Psyvariar 2 - The Will to Fabricate (Japan)",
+              "match": "case_apostrophe_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "48d31be7bb74e52ce5643d687e7d870fec79ae7f06ad0f1486f631004977a970",
+          "bytes": 58706,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 334898,
+              "lossy90": 58706
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0024/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Psyvariar 2 - The Will To Fabricate (Japan) (GDL-0024).png",
+              "source_sha256": "7ee0cd0915046948bf7e6ceb404551cb6a61d08d34fd2276fa88ac65d57d3bde",
+              "source_bytes": 416748,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 334898,
+                  "lossy90": 58706
+                }
+              },
+              "redump_id": "139478",
+              "dat_name": "Psyvariar 2 - The Will to Fabricate (Japan)",
+              "match": "case_apostrophe_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0024"
+      ]
+    },
+    "GDL-0025": {
+      "serial": "GDL-0025",
+      "entries": [
+        {
+          "redump_id": "73282",
+          "entry_id": "73282",
+          "provider": "redump",
+          "name": "Chaos Field (Japan)",
+          "serial_raw": "GDL-0025",
+          "serials": [
+            "GDL-0025"
+          ],
+          "category": "Games",
+          "version": "1.004"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d56ed8ce447a1dfa97bdc67d2290b81471a44f6e87143922f72852683f1a6394",
+          "bytes": 67256,
+          "width": 512,
+          "height": 738,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 240356,
+              "lossy90": 67256
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0025/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Chaos Field (Japan) (GDL-0025).png",
+              "source_sha256": "187ac5cdb655fea652747b02560895530de0df1beb9584aed24b5d5a17b33f45",
+              "source_bytes": 362186,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 240356,
+                  "lossy90": 67256
+                }
+              },
+              "redump_id": "73282",
+              "dat_name": "Chaos Field (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ad5f3baa31f33821e9d28c7e4e01c249b096a6dff0953830de653a0de2564546",
+          "bytes": 47594,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 230130,
+              "lossy90": 47594
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0025/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Chaos Field (Japan) (GDL-0025).png",
+              "source_sha256": "b5fa8c3d3c0c72bf0e7bc233f4dbb7a0748f749ffb2eff96171e13ae0dbad3a2",
+              "source_bytes": 299515,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 230130,
+                  "lossy90": 47594
+                }
+              },
+              "redump_id": "73282",
+              "dat_name": "Chaos Field (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "81f16ed6df0737a53381c170bb4ce56081af6df38a8b710ce9c23e9e9d5240a7",
+          "bytes": 36746,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 162916,
+              "lossy90": 36746
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0025/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Chaos Field (Japan) (GDL-0025).png",
+              "source_sha256": "4807bd4bb31d970507528b7d5923591bff3ebb0f19e6654f50ef883407091dfe",
+              "source_bytes": 211070,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 162916,
+                  "lossy90": 36746
+                }
+              },
+              "redump_id": "73282",
+              "dat_name": "Chaos Field (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0025"
+      ]
+    },
+    "GDL-0026": {
+      "serial": "GDL-0026",
+      "entries": [
+        {
+          "redump_id": "139329",
+          "entry_id": "139329",
+          "provider": "redump",
+          "name": "Trizeal (Japan)",
+          "serial_raw": "GDL-0026",
+          "serials": [
+            "GDL-0026"
+          ],
+          "category": "Games",
+          "version": "1.000"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "45212c8e229472b01b1d0b9865f00ca6a45bc0701db4fd568dfec11b3f461888",
+          "bytes": 92900,
+          "width": 512,
+          "height": 724,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 362826,
+              "lossy90": 92900
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0026/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Trizeal (Japan) (GDL-0026).png",
+              "source_sha256": "9b3f7d76faaaa395738f4828c7176a5077174e65236edddff8642c0a3d3f8860",
+              "source_bytes": 518857,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 362826,
+                  "lossy90": 92900
+                }
+              },
+              "redump_id": "139329",
+              "dat_name": "Trizeal (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3c4f983f443de35e06821d62e618c9844a01c2287e2a122b38188b80ed9a015f",
+          "bytes": 30642,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 229282,
+              "lossy90": 30642
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0026/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Trizeal (Japan) (GDL-0026).png",
+              "source_sha256": "2fe7cb2337a0f83eaed3a09de2591d19eef91b44811ee8ef4ea669a1aa18f49d",
+              "source_bytes": 287277,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 229282,
+                  "lossy90": 30642
+                }
+              },
+              "redump_id": "139329",
+              "dat_name": "Trizeal (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "70e3e127abeb1bc515efaf957261598380a571805e6317fa328872cdd3a3c97b",
+          "bytes": 38708,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 99874,
+              "lossy90": 38708
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0026/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Trizeal (Japan) (GDL-0026).png",
+              "source_sha256": "922a85eb59a790e7d5ab79a5e253d27f2aad9dcf018de054bee083f57c26a40e",
+              "source_bytes": 134130,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 99874,
+                  "lossy90": 38708
+                }
+              },
+              "redump_id": "139329",
+              "dat_name": "Trizeal (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0026"
+      ]
+    },
+    "GDL-0030A": {
+      "serial": "GDL-0030A",
+      "entries": [
+        {
+          "redump_id": "127953",
+          "entry_id": "127953",
+          "provider": "redump",
+          "name": "Senko no Ronde (Japan) (Rev A)",
+          "serial_raw": "GDL-0030A",
+          "serials": [
+            "GDL-0030A"
+          ],
+          "category": "Games",
+          "version": "2.001"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "cc6d4a7ef747227fa8665305aa6344b60eb114dde2f1b90a000af043e6b4462d",
+          "bytes": 46576,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 230360,
+              "lossy90": 46576
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0030A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Senko no Ronde (Japan, Rev A) (GDL-0030A).png",
+              "source_sha256": "dff1a8bf8b1b06b4820e3037c49160fea46e8c0133420246de109a365b30c6ef",
+              "source_bytes": 291737,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 230360,
+                  "lossy90": 46576
+                }
+              },
+              "redump_id": "127953",
+              "dat_name": "Senko no Ronde (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "051c0603ec4c769383036576ecef0958cd84f7983e38f6e68fe491ec80f2e10b",
+          "bytes": 56678,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 230962,
+              "lossy90": 56678
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0030A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Senko no Ronde (Japan, Rev A) (GDL-0030A).png",
+              "source_sha256": "bd1bdc7d77a9e5231b445ae9d1a213aba3d9c80cb266a35ae3c246d095cda5ab",
+              "source_bytes": 303425,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 230962,
+                  "lossy90": 56678
+                }
+              },
+              "redump_id": "127953",
+              "dat_name": "Senko no Ronde (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0030A"
+      ]
+    },
+    "GDL-0031A": {
+      "serial": "GDL-0031A",
+      "entries": [
+        {
+          "redump_id": "69607",
+          "entry_id": "69607",
+          "provider": "redump",
+          "name": "Super Shanghai 2005 (Japan) (Rev A)",
+          "serial_raw": "GDL-0031A",
+          "serials": [
+            "GDL-0031A"
+          ],
+          "category": "Games",
+          "version": "2.001"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "765ebd5014fac298d6c4bfaf8056b9be3c77c35b37846da28095fdd5b132c3d5",
+          "bytes": 176276,
+          "width": 512,
+          "height": 730,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 569986,
+              "lossy90": 176276
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0031A/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Super Shanghai 2005 (Japan, Rev A) (GDL-0031A).png",
+              "source_sha256": "fcf534cf3ad4532f21062184fccb55ad325271ae357c7a9bb2fcefb8b1a50fd7",
+              "source_bytes": 865568,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 569986,
+                  "lossy90": 176276
+                }
+              },
+              "redump_id": "69607",
+              "dat_name": "Super Shanghai 2005 (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "5520cd7ea28067aa36a82fec6c0a81e61a77f478d80bc084beb730c7e0fdf4b2",
+          "bytes": 52448,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 196812,
+              "lossy90": 52448
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0031A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Super Shanghai 2005 (Japan, Rev A) (GDL-0031A).png",
+              "source_sha256": "e8ed61aeb1b8db2e0ab7d8df2b936f4764e33860e4d93dda68101ea675083fed",
+              "source_bytes": 262618,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 196812,
+                  "lossy90": 52448
+                }
+              },
+              "redump_id": "69607",
+              "dat_name": "Super Shanghai 2005 (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "85523102eefe952deb3453005991eba24ebeb2985fa8e0ad672ca47ea6b65809",
+          "bytes": 73850,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 287486,
+              "lossy90": 73850
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0031A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Super Shanghai 2005 (Japan, Rev A) (GDL-0031A).png",
+              "source_sha256": "a3b9bf6fc859dc7ecb81ff36cc548a85cb6224be599bf77a0f0b7bc61eada362",
+              "source_bytes": 343328,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 287486,
+                  "lossy90": 73850
+                }
+              },
+              "redump_id": "69607",
+              "dat_name": "Super Shanghai 2005 (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0031A"
+      ]
+    },
+    "GDL-0032A": {
+      "serial": "GDL-0032A",
+      "entries": [
+        {
+          "redump_id": "139479",
+          "entry_id": "139479",
+          "provider": "redump",
+          "name": "Radirgy (Japan) (Rev A)",
+          "serial_raw": "GDL-0032A",
+          "serials": [
+            "GDL-0032A"
+          ],
+          "category": "Games",
+          "version": "2.000"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "fb542c805a1c10190c0da7861c0d7cf61dde14fa91d6a7a44d050a45db0d4980",
+          "bytes": 36416,
+          "width": 222,
+          "height": 296,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 41638,
+              "lossy90": 36416
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0032A/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Radirgy (Japan, Rev A) (GDL-0032A).png",
+              "source_sha256": "a28e1429ebfb8b8d2d64e5610753af507d5fb30f8429306dacf7b9818f6e178f",
+              "source_bytes": 46557,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 41638,
+                  "lossy90": 36416
+                }
+              },
+              "redump_id": "139479",
+              "dat_name": "Radirgy (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "1b2fc04812f3d886c2710d5da887c32a9c8ca9eda9f65ee759f567e13b933650",
+          "bytes": 48784,
+          "width": 384,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 195604,
+              "lossy90": 48784
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0032A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Radirgy (Japan, Rev A) (GDL-0032A).png",
+              "source_sha256": "1bc5b3296619edc43f532d4e92882078c57bec241ee56091ecfa2d5d3b559d19",
+              "source_bytes": 253427,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 195604,
+                  "lossy90": 48784
+                }
+              },
+              "redump_id": "139479",
+              "dat_name": "Radirgy (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "69d1ff1b99d8a67027a4c46645fd41014e43f5c96cc93a482541b31605f2e5a8",
+          "bytes": 30618,
+          "width": 384,
+          "height": 512,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 79960,
+              "lossy90": 30618
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0032A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Radirgy (Japan, Rev A) (GDL-0032A).png",
+              "source_sha256": "e165f8043d1498d1f1354085de9a1cb808736118a35860a3874d123a235820f6",
+              "source_bytes": 130564,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 79960,
+                  "lossy90": 30618
+                }
+              },
+              "redump_id": "139479",
+              "dat_name": "Radirgy (Japan) (Rev A)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0032A"
+      ]
+    },
+    "GDL-0034": {
+      "serial": "GDL-0034",
+      "entries": [
+        {
+          "redump_id": "139264",
+          "entry_id": "139264",
+          "provider": "redump",
+          "name": "Kuru Kuru Chameleon (Japan)",
+          "serial_raw": "GDL-0034",
+          "serials": [
+            "GDL-0034"
+          ],
+          "category": "Games",
+          "version": "1.001"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4cfdf3d624702c173c96c11bb07359487c652746b85e9163daaa9f6bfbcdf0d4",
+          "bytes": 38410,
+          "width": 222,
+          "height": 312,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 38410,
+              "lossy90": 38678
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0034/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Kurukuru Chameleon (Japan) (GDL-0034).png",
+              "source_sha256": "1aa83e784758a5cf9db3f825d19b012f21fba56e3f26709452d61a2a5468bae0",
+              "source_bytes": 42669,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 38410,
+                  "lossy90": 38678
+                }
+              },
+              "redump_id": "139264",
+              "dat_name": "Kuru Kuru Chameleon (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "2c315cdcf2330d2c7f0ee903a1a33689197dd5deb9f642f58d94812a6b10a409",
+          "bytes": 85024,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 251472,
+              "lossy90": 85024
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0034/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Kurukuru Chameleon (Japan) (GDL-0034).png",
+              "source_sha256": "5c3a7baf1fb15fc2d200ef2f63da4f45cbfe95ed71536b86054ee9d01427f0e9",
+              "source_bytes": 290382,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 251472,
+                  "lossy90": 85024
+                }
+              },
+              "redump_id": "139264",
+              "dat_name": "Kuru Kuru Chameleon (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a93a33b34dc656fd354e849285457b7670f4f54023583b9524f1764702daab0b",
+          "bytes": 71888,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 251222,
+              "lossy90": 71888
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0034/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Kurukuru Chameleon (Japan) (GDL-0034).png",
+              "source_sha256": "38bb5cbf758ef07379c94761de5db5b949d4a1b9192873ea791f8065ef3ea871",
+              "source_bytes": 317523,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 251222,
+                  "lossy90": 71888
+                }
+              },
+              "redump_id": "139264",
+              "dat_name": "Kuru Kuru Chameleon (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0034"
+      ]
+    },
+    "GDL-0035": {
+      "serial": "GDL-0035",
+      "entries": [
+        {
+          "redump_id": "139327",
+          "entry_id": "139327",
+          "provider": "redump",
+          "name": "Under Defeat (Japan)",
+          "serial_raw": "GDL-0035",
+          "serials": [
+            "GDL-0035"
+          ],
+          "category": "Games",
+          "version": "1.001"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "86eccb5e5f0970830144e16ca567eb4baa111e6e4b22cd4782a59b95b8428b74",
+          "bytes": 32270,
+          "width": 222,
+          "height": 316,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 38228,
+              "lossy90": 32270
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0035/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Under Defeat (Japan) (GDL-0035).png",
+              "source_sha256": "1dac6814a6ddfb89a4da04a32b1d2be39b2513234b16cec0023f1b540c02bced",
+              "source_bytes": 43079,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 38228,
+                  "lossy90": 32270
+                }
+              },
+              "redump_id": "139327",
+              "dat_name": "Under Defeat (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "512cc53abe9ef2525d5e13c11a05e31c5b14dd35f88b66b23bf2f0c39b47b4f1",
+          "bytes": 100084,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 428620,
+              "lossy90": 100084
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0035/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Under Defeat (Japan) (GDL-0035).png",
+              "source_sha256": "ba2b38c911e3558449ecb9c04b6788efc8125b985a2dffa733f8e44ef91469b9",
+              "source_bytes": 583224,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 428620,
+                  "lossy90": 100084
+                }
+              },
+              "redump_id": "139327",
+              "dat_name": "Under Defeat (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "b47660a361c60ed8c72ae6281d861080a8a1969b6ac43125082cbadf5e347cbd",
+          "bytes": 49476,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 97732,
+              "lossy90": 49476
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0035/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Under Defeat (Japan) (GDL-0035).png",
+              "source_sha256": "93f0d62c8cbd5937c11fb07d609188e2356dbc3e6b43692e003481f7118a1adc",
+              "source_bytes": 168675,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 97732,
+                  "lossy90": 49476
+                }
+              },
+              "redump_id": "139327",
+              "dat_name": "Under Defeat (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0035"
+      ]
+    },
+    "GDL-0040": {
+      "serial": "GDL-0040",
+      "entries": [
+        {
+          "redump_id": "139477",
+          "entry_id": "139477",
+          "provider": "redump",
+          "name": "Karous (Japan)",
+          "serial_raw": "GDL-0040",
+          "serials": [
+            "GDL-0040"
+          ],
+          "category": "Games",
+          "version": "1.004"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2c3a864a369df0aa9b176a39a408353ed2cbba87ff0481ff9c5e63739cce66f4",
+          "bytes": 85862,
+          "width": 512,
+          "height": 689,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 382544,
+              "lossy90": 85862
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0040/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Karous (Japan) (GDL-0040).png",
+              "source_sha256": "a39e3d5ce9fa22ad0e4791a81fb2da2d3dcff12addc1634d800ffea627039a81",
+              "source_bytes": 526513,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 382544,
+                  "lossy90": 85862
+                }
+              },
+              "redump_id": "139477",
+              "dat_name": "Karous (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "a2e2a3afc7f5e3879b29305c7261d4bfff94e1b3a8162f7c990b8c7f810964b4",
+          "bytes": 48376,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 142882,
+              "lossy90": 48376
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0040/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Karous (Japan) (GDL-0040).png",
+              "source_sha256": "b93cea0e08fcdd00d36f7e357c37164a675f93ff329615cc70bad2295552e28a",
+              "source_bytes": 212293,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 142882,
+                  "lossy90": 48376
+                }
+              },
+              "redump_id": "139477",
+              "dat_name": "Karous (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "709c9a5056afcdde4715886503c18679efe0a09983397516051a99abdae23a6b",
+          "bytes": 81774,
+          "width": 480,
+          "height": 640,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 216898,
+              "lossy90": 81774
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0040/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Karous (Japan) (GDL-0040).png",
+              "source_sha256": "945d36f4af25997cacf9252ffdc82ad6037b8b7c0dffd2580d6437f9ea7e06e0",
+              "source_bytes": 344279,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 216898,
+                  "lossy90": 81774
+                }
+              },
+              "redump_id": "139477",
+              "dat_name": "Karous (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0040"
+      ]
+    },
+    "GDL-0041": {
+      "serial": "GDL-0041",
+      "entries": [
+        {
+          "redump_id": "75446",
+          "entry_id": "75446",
+          "provider": "redump",
+          "name": "Guilty Gear XX Accent Core (Japan)",
+          "serial_raw": "GDL-0041",
+          "serials": [
+            "GDL-0041"
+          ],
+          "category": "Games",
+          "version": "1.002"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "154e8f867f611916f10e7ff8702a668eaa99c346a1cb2b0e4634dc46f4db9223",
+          "bytes": 119214,
+          "width": 512,
+          "height": 721,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 458922,
+              "lossy90": 119214
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDL-0041/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Guilty Gear XX Accent Core (Japan) (GDL-0041).png",
+              "source_sha256": "180aa1bf64f64bb9030801c3f190c506c5818cd753a3a61f138395f19e625f0e",
+              "source_bytes": 690430,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 458922,
+                  "lossy90": 119214
+                }
+              },
+              "redump_id": "75446",
+              "dat_name": "Guilty Gear XX Accent Core (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "05530ddc7d5fd8532b950b1f6760017eab505761503ecd2463d730287a0b97f5",
+          "bytes": 75970,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 268298,
+              "lossy90": 75970
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0041/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Guilty Gear XX Accent Core (Japan) (GDL-0041).png",
+              "source_sha256": "235efa1c661a8e0720950bf2d491927fa0cd8506293e7f9dde146bb2a6e88f12",
+              "source_bytes": 342257,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 268298,
+                  "lossy90": 75970
+                }
+              },
+              "redump_id": "75446",
+              "dat_name": "Guilty Gear XX Accent Core (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "3e076422edef5fc6b38fa8bde91714898857a14d8cbda3e979b50f006e8d1f14",
+          "bytes": 69120,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 284074,
+              "lossy90": 69120
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0041/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Guilty Gear XX Accent Core (Japan) (GDL-0041).png",
+              "source_sha256": "520951dccaf2f8367f3c149bc561037479597220deedc6929368090cd9172fe3",
+              "source_bytes": 368510,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 284074,
+                  "lossy90": 69120
+                }
+              },
+              "redump_id": "75446",
+              "dat_name": "Guilty Gear XX Accent Core (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0041"
+      ]
+    },
+    "GDL-0042": {
+      "serial": "GDL-0042",
+      "entries": [
+        {
+          "redump_id": "69610",
+          "entry_id": "69610",
+          "provider": "redump",
+          "name": "NouKone Puzzle - Takoron (Japan)",
+          "serial_raw": "GDL-0042",
+          "serials": [
+            "GDL-0042"
+          ],
+          "category": "Games",
+          "version": "1.002"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "18a6c4a4cc1dbb07228329dfde9e39f7efd9baf55feb7703d43e499b1420318f",
+          "bytes": 64780,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 182024,
+              "lossy90": 64780
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDL-0042/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Noukone Puzzle Takoron (Japan) (GDL-0042).png",
+              "source_sha256": "03b86153f6e7a36bd9183b781fef60ad1dc9488fd79df98c8b28080107d79bf2",
+              "source_bytes": 229554,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 182024,
+                  "lossy90": 64780
+                }
+              },
+              "redump_id": "69610",
+              "dat_name": "NouKone Puzzle - Takoron (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9fd0dd05b8cc61875dc4957b936316dc72dc0c9c71f10029627b9b2c86e11ad0",
+          "bytes": 63380,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 204028,
+              "lossy90": 63380
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDL-0042/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Noukone Puzzle Takoron (Japan) (GDL-0042).png",
+              "source_sha256": "a72fa0668e10d01e7154a730058a37f0be7f15f3aa3dc1ab28ebd44790521b38",
+              "source_bytes": 260258,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 204028,
+                  "lossy90": 63380
+                }
+              },
+              "redump_id": "69610",
+              "dat_name": "NouKone Puzzle - Takoron (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDL-0042"
+      ]
+    },
+    "GDS-0003": {
+      "serial": "GDS-0003",
+      "entries": [
+        {
+          "redump_id": "75486",
+          "entry_id": "75486",
+          "provider": "redump",
+          "name": "Sports Jam (Japan)",
+          "serial_raw": "GDS-0003",
+          "serials": [
+            "GDS-0003"
+          ],
+          "category": "Games",
+          "version": "1.005"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "7a1758fec685f630c7a34ab521315263a0b80f4fa6175113de787f6bef1818de",
+          "bytes": 151704,
+          "width": 512,
+          "height": 735,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 598008,
+              "lossy90": 151704
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0003/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sports Jam (GDS-0003).png",
+              "source_sha256": "f33710132b9fafa2fcb131280efa559c581b429bf9fe66ba23c106666439593e",
+              "source_bytes": 777494,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 598008,
+                  "lossy90": 151704
+                }
+              },
+              "redump_id": "75486",
+              "dat_name": "Sports Jam (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cc53956869914d3bae05e637f43c02b20e190134d555e9db2834bac44b24f334",
+          "bytes": 83076,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 321818,
+              "lossy90": 83076
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0003/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Sports Jam (GDS-0003).png",
+              "source_sha256": "2b38f13f91497d6518250e68178c61f24016d2fd141ed6bdc78e04f2b8b1d0f9",
+              "source_bytes": 383994,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 321818,
+                  "lossy90": 83076
+                }
+              },
+              "redump_id": "75486",
+              "dat_name": "Sports Jam (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "e979720e93b72fa9882358d95f1457bb4c75182dc08fdf5bb6a013b5e90049bc",
+          "bytes": 52352,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 213434,
+              "lossy90": 52352
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0003/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Sports Jam (GDS-0003).png",
+              "source_sha256": "e002d1fa455c97646cc5cea5a6c2c5b7d497785cf63531d13c22db7afdac45e8",
+              "source_bytes": 276589,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 213434,
+                  "lossy90": 52352
+                }
+              },
+              "redump_id": "75486",
+              "dat_name": "Sports Jam (Japan)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0003"
+      ]
+    },
+    "GDS-0004": {
+      "serial": "GDS-0004",
+      "entries": [
+        {
+          "redump_id": "69429",
+          "entry_id": "69429",
+          "provider": "redump",
+          "name": "Slashout (World) (En,Ja)",
+          "serial_raw": "GDS-0004",
+          "serials": [
+            "GDS-0004"
+          ],
+          "category": "Games",
+          "version": "1.000"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "f5d318a9bdcff057bc74d5d4f68f9f6fbc52d7bb61b99139612ca6b06e64905d",
+          "bytes": 80306,
+          "width": 512,
+          "height": 643,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 333272,
+              "lossy90": 80306
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0004/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Slashout (GDS-0004).png",
+              "source_sha256": "2b8b6e07050d3c2cc5bd2f1cd8c5bac20f42c30dddb22d3d1dd776e5f0bcc165",
+              "source_bytes": 512117,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 333272,
+                  "lossy90": 80306
+                }
+              },
+              "redump_id": "69429",
+              "dat_name": "Slashout (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "8957cdc28f0b398a165abe9f573b98b01df7cf16c027ed03592581124cc88beb",
+          "bytes": 81344,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 315232,
+              "lossy90": 81344
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0004/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Slashout (GDS-0004).png",
+              "source_sha256": "bb12a24932008f03aac586e40f73b9e8e03d425c6483d84566b3a198fdbb7b51",
+              "source_bytes": 406029,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 315232,
+                  "lossy90": 81344
+                }
+              },
+              "redump_id": "69429",
+              "dat_name": "Slashout (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "c0da9c2aa4a27f3de925ccc84c86f8bf75664bfde82822cb9f721e5faa78f8c0",
+          "bytes": 42306,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 139662,
+              "lossy90": 42306
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0004/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Slashout (GDS-0004).png",
+              "source_sha256": "305b5c73502f41ef8a48281d85da09db2ec9cc18bea05e9bc4bb2e2b035b74a5",
+              "source_bytes": 168295,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 139662,
+                  "lossy90": 42306
+                }
+              },
+              "redump_id": "69429",
+              "dat_name": "Slashout (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0004"
+      ]
+    },
+    "GDS-0005": {
+      "serial": "GDS-0005",
+      "entries": [
+        {
+          "redump_id": "127954",
+          "entry_id": "127954",
+          "provider": "redump",
+          "name": "Spikers Battle (World) (En,Ja)",
+          "serial_raw": "GDS-0005",
+          "serials": [
+            "GDS-0005"
+          ],
+          "category": "Games",
+          "version": "1.002"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c70ea64cdc6c35f642ff3c7662eb6f0b021cb28953f619033979252f7acc4502",
+          "bytes": 133078,
+          "width": 512,
+          "height": 720,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 542036,
+              "lossy90": 133078
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0005/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Spikers Battle (GDS-0005).png",
+              "source_sha256": "3c1d516835175bf85473153d34cd9e4a3604ef050b66ae42196f4ce54b53fb06",
+              "source_bytes": 728626,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 542036,
+                  "lossy90": 133078
+                }
+              },
+              "redump_id": "127954",
+              "dat_name": "Spikers Battle (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "c68bd5685d37612cdd6feb3197f921812277af4be882a4a38fc8ac9e26782098",
+          "bytes": 71584,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 300780,
+              "lossy90": 71584
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0005/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Spikers Battle (GDS-0005).png",
+              "source_sha256": "8f4202265ae0ed6ed5837d32971f891aab04320b775c179d840a6a3e6f8cc370",
+              "source_bytes": 386622,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 300780,
+                  "lossy90": 71584
+                }
+              },
+              "redump_id": "127954",
+              "dat_name": "Spikers Battle (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "d0fc4439fa98f0ecde95822b0a0737a66765787e591f430c89567ef3d2ec5c16",
+          "bytes": 70812,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 269574,
+              "lossy90": 70812
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0005/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Spikers Battle (GDS-0005).png",
+              "source_sha256": "ef0de93981a1e50976a12e9abb4aa4eeafba12dfa68bf7897d6597066ecbbd54",
+              "source_bytes": 343171,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 269574,
+                  "lossy90": 70812
+                }
+              },
+              "redump_id": "127954",
+              "dat_name": "Spikers Battle (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0005"
+      ]
+    },
+    "GDS-0008": {
+      "serial": "GDS-0008",
+      "entries": [
+        {
+          "redump_id": "75285",
+          "entry_id": "75285",
+          "provider": "redump",
+          "name": "Monkey Ball (World) (En,Ja)",
+          "serial_raw": "GDS-0008",
+          "serials": [
+            "GDS-0008"
+          ],
+          "category": "Games",
+          "version": "1.008"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "198bd26790d36a1c91a89cfacd51b151dad61258f96d0e87418e67dfc0ab1f9c",
+          "bytes": 108344,
+          "width": 512,
+          "height": 663,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 470406,
+              "lossy90": 108344
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0008/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Monkey Ball (GDS-0008).png",
+              "source_sha256": "4dc0c2f3abde711a1a165eb09139795d376ff7502db2c3b4c0a833977c48d64c",
+              "source_bytes": 657457,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 470406,
+                  "lossy90": 108344
+                }
+              },
+              "redump_id": "75285",
+              "dat_name": "Monkey Ball (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "aca8d214dbccc4900bce3fb426027f6ea59c3c655f2fff741777f70e727fa855",
+          "bytes": 41978,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 120014,
+              "lossy90": 41978
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0008/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Monkey Ball (GDS-0008).png",
+              "source_sha256": "664aafaef74fbaf8409252ebec674672063cd04e4ffe58d44bbcacf336592991",
+              "source_bytes": 152661,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 120014,
+                  "lossy90": 41978
+                }
+              },
+              "redump_id": "75285",
+              "dat_name": "Monkey Ball (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "bc896730bf905488ddf0c026253cdeb023ccb62c037e7a90485ac302c243902f",
+          "bytes": 75382,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 220764,
+              "lossy90": 75382
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0008/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Monkey Ball (GDS-0008).png",
+              "source_sha256": "b3c12867661aa3784cfdd798f4e60ffd089d6ff050618bcc78e8aab5a018306f",
+              "source_bytes": 271416,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 220764,
+                  "lossy90": 75382
+                }
+              },
+              "redump_id": "75285",
+              "dat_name": "Monkey Ball (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0008"
+      ]
+    },
+    "GDS-0034": {
+      "serial": "GDS-0034",
+      "entries": [
+        {
+          "redump_id": "54280",
+          "entry_id": "54280",
+          "provider": "redump",
+          "name": "Puyo Pop Fever (World)",
+          "serial_raw": "GDS-0034",
+          "serials": [
+            "GDS-0034"
+          ],
+          "category": "Games",
+          "version": "1.001"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "7842e0e501e8ca31155b952e90299293bdd6ea8cf4a80387f873ff989c9aa64c",
+          "bytes": 138418,
+          "width": 512,
+          "height": 662,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 631944,
+              "lossy90": 138418
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0034/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Puyo Pop Fever (World) (GDS-0034).png",
+              "source_sha256": "4cfb8238ae0d332493ab76a04584067794aadf3b2adcca0dd5abfec06eb23bcb",
+              "source_bytes": 750517,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 631944,
+                  "lossy90": 138418
+                }
+              },
+              "redump_id": "54280",
+              "dat_name": "Puyo Pop Fever (World)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e46a1a5e1a9a064c5d756b761ca72d6884708039f79a905fb64a8873a7c8d77b",
+          "bytes": 43364,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 148386,
+              "lossy90": 43364
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0034/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Puyo Pop Fever (World) (GDS-0034).png",
+              "source_sha256": "2b5d91be0ff8a3ac381bc464695463eb26e20b2c7e24675ecb1ca1c095fbb4ef",
+              "source_bytes": 183359,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 148386,
+                  "lossy90": 43364
+                }
+              },
+              "redump_id": "54280",
+              "dat_name": "Puyo Pop Fever (World)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "0e95da5dad67c0fb87f2fbe2728452292a1373b374ace580b811a4766e43f4b4",
+          "bytes": 61488,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 177092,
+              "lossy90": 61488
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0034/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Puyo Pop Fever (World) (GDS-0034).png",
+              "source_sha256": "a07803c46d6df0ad5ddc9ab61c4991323ed9c5dff8c490f75153b1405a045fd4",
+              "source_bytes": 238857,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 177092,
+                  "lossy90": 61488
+                }
+              },
+              "redump_id": "54280",
+              "dat_name": "Puyo Pop Fever (World)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0034"
+      ]
+    }
+  }
+}
