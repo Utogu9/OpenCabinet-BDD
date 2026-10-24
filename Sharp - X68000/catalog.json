@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "system": "Sharp - X68000",
+  "dat": {
+    "file": "b528380088e9466d045d434f875a183b121d88efd363d246019cbe481f17d001.dat",
+    "sha256": "b528380088e9466d045d434f875a183b121d88efd363d246019cbe481f17d001",
+    "version": "2026-10-14 05-52-40",
+    "system": "Sharp - X68000",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {}
+}
