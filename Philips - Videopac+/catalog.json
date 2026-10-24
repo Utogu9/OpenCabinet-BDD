@@ -1,0 +1,497 @@
+{
+  "schema_version": 2,
+  "system": "Philips - Videopac+",
+  "dat": {
+    "file": "d27d01c78ebe73667b89682757917b293a5a2aaa1764df44051e30c0b4a81ea9.dat",
+    "sha256": "d27d01c78ebe73667b89682757917b293a5a2aaa1764df44051e30c0b4a81ea9",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Philips - Videopac+ (20250423-131120).dat",
+      "standard_sha256": "e1ca3efd86058247386f0a55c2df711a68fbd426735bc33ef7cee56b034ffbc8",
+      "db_members": {
+        "No-Intro/Philips - Videopac+ (DB Export) (20250423-131120).xml": "87299a4fbc72fb90a83e3009141a5326f275f24994a180d24a44c6ee40ddf000"
+      }
+    },
+    "version": "20250423-131120",
+    "system": "Philips - Videopac+",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "PDSF CATAP": {
+      "serial": "PDSF CATAP",
+      "entries": [
+        {
+          "redump_id": "0029",
+          "entry_id": "0029",
+          "provider": "no-intro",
+          "name": "Stone Sling (Europe)",
+          "serial_raw": "PDSF CATAP",
+          "serials": [
+            "PDSF CATAP"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "PDSF CATAP",
+                "field": "media_serial1",
+                "source_id": "35",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Philips - Videopac+ (DB Export) (20250423-131120).xml",
+                "member_sha256": "87299a4fbc72fb90a83e3009141a5326f275f24994a180d24a44c6ee40ddf000"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e775ab3a7da5f12d1df35f9d424893360e4ed9e54b0e87c2f91443ff5694932c",
+          "bytes": 123506,
+          "width": 512,
+          "height": 705,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 493532,
+              "lossy90": 123506
+            }
+          },
+          "kind": "cover_front",
+          "path": "PDSF CATAP/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Stone Sling (Europe).png",
+              "source_sha256": "c077c327baa2282ff8d11bb21311f49540e8d595c359291ea3b20104972a9a29",
+              "source_bytes": 627509,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 493532,
+                  "lossy90": 123506
+                }
+              },
+              "redump_id": "0029",
+              "dat_name": "Stone Sling (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "3bc5fc08b2f5d84da6ca735df2c925046c5e6be13a7eb265572ddc1f8864f6ea",
+          "bytes": 3014,
+          "width": 200,
+          "height": 150,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3014,
+              "lossy90": 6944
+            }
+          },
+          "kind": "screenshot",
+          "path": "PDSF CATAP/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Stone Sling (Europe).png",
+              "source_sha256": "2001189fac92cef5c9b9c813b5ecffaa0b6c37ad8dde9500ac4a61e9ef1efc59",
+              "source_bytes": 3156,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3014,
+                  "lossy90": 6944
+                }
+              },
+              "redump_id": "0029",
+              "dat_name": "Stone Sling (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "299f1ed9ebd00f987d71015c577da6073eb764b3b935d18a94918c27e6e73505",
+          "bytes": 2180,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2180,
+              "lossy90": 60710
+            }
+          },
+          "kind": "title_screen",
+          "path": "PDSF CATAP/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Stone Sling (Europe).png",
+              "source_sha256": "3b1258158e6073a0961781fd5d38d273d327eed84d6ca38ad593e86f3507432b",
+              "source_bytes": 2055,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2180,
+                  "lossy90": 60710
+                }
+              },
+              "redump_id": "0029",
+              "dat_name": "Stone Sling (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PDSF CATAP"
+      ]
+    },
+    "PDSF SYRAC": {
+      "serial": "PDSF SYRAC",
+      "entries": [
+        {
+          "redump_id": "0030",
+          "entry_id": "0030",
+          "provider": "no-intro",
+          "name": "Syracuse (France)",
+          "serial_raw": "PDSF SYRAC",
+          "serials": [
+            "PDSF SYRAC"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "PDSF SYRAC",
+                "field": "media_serial1",
+                "source_id": "36",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Philips - Videopac+ (DB Export) (20250423-131120).xml",
+                "member_sha256": "87299a4fbc72fb90a83e3009141a5326f275f24994a180d24a44c6ee40ddf000"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "84da3da1e2c188d0a1457b9211b934c8c62f4bb25568c2c5db9c7e43d00f4630",
+          "bytes": 114796,
+          "width": 512,
+          "height": 707,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 494714,
+              "lossy90": 114796
+            }
+          },
+          "kind": "cover_front",
+          "path": "PDSF SYRAC/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Syracuse (France).png",
+              "source_sha256": "7b78bf70fd984f0f19d693d4953764d64ac462f283437af1a6dfa7e0195ffb84",
+              "source_bytes": 676469,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 494714,
+                  "lossy90": 114796
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Syracuse (France)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7627895a520bea432f20b43b9405202a033c6582083c8745b1158c82bface32f",
+          "bytes": 1598,
+          "width": 200,
+          "height": 150,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 1598,
+              "lossy90": 3672
+            }
+          },
+          "kind": "screenshot",
+          "path": "PDSF SYRAC/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Syracuse (France).png",
+              "source_sha256": "d4565145b9c675ba522ee1afc2471e8e6299254c923acde2948e05dc297fa867",
+              "source_bytes": 1687,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 1598,
+                  "lossy90": 3672
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Syracuse (France)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "299f1ed9ebd00f987d71015c577da6073eb764b3b935d18a94918c27e6e73505",
+          "bytes": 2180,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2180,
+              "lossy90": 60710
+            }
+          },
+          "kind": "title_screen",
+          "path": "PDSF SYRAC/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Syracuse (France).png",
+              "source_sha256": "3b1258158e6073a0961781fd5d38d273d327eed84d6ca38ad593e86f3507432b",
+              "source_bytes": 2055,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2180,
+                  "lossy90": 60710
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Syracuse (France)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PDSF SYRAC"
+      ]
+    },
+    "VIDEOPAC+ 1": {
+      "serial": "VIDEOPAC+ 1",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "Course de Voitures + Autodrome + Cryptogramme (France)",
+          "serial_raw": "VIDEOPAC+ 1",
+          "serials": [
+            "VIDEOPAC+ 1"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "Videopac+ 1",
+                "field": "media_serial1",
+                "source_id": "37",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Philips - Videopac+ (DB Export) (20250423-131120).xml",
+                "member_sha256": "87299a4fbc72fb90a83e3009141a5326f275f24994a180d24a44c6ee40ddf000"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "13f68091abdfc4831f5b4aa796ec23cac7f8eceb0c552370287960218fe72bae",
+          "bytes": 75032,
+          "width": 512,
+          "height": 709,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 382992,
+              "lossy90": 75032
+            }
+          },
+          "kind": "cover_front",
+          "path": "VIDEOPAC+ 1/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Course de Voitures + Autodrome + Cryptogramme (France).png",
+              "source_sha256": "87388896722117e3fbfe17d2f4c2e4d0c46f990ceb6481ca8547083f64222421",
+              "source_bytes": 532855,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 382992,
+                  "lossy90": 75032
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Course de Voitures + Autodrome + Cryptogramme (France)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "26aebfaa6a859b9d1fb0c0c97b2ff1c34e54c4702d375378b55fcc7019670737",
+          "bytes": 260,
+          "width": 960,
+          "height": 720,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 260,
+              "lossy90": 2686
+            }
+          },
+          "kind": "screenshot",
+          "path": "VIDEOPAC+ 1/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Course de Voitures + Autodrome + Cryptogramme (France).png",
+              "source_sha256": "dacc7803df7d0e4a7d2daf0a44f5c0d404095142f33934a02249698a086879e5",
+              "source_bytes": 16148,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 260,
+                  "lossy90": 2686
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Course de Voitures + Autodrome + Cryptogramme (France)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "299f1ed9ebd00f987d71015c577da6073eb764b3b935d18a94918c27e6e73505",
+          "bytes": 2180,
+          "width": 640,
+          "height": 480,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2180,
+              "lossy90": 60710
+            }
+          },
+          "kind": "title_screen",
+          "path": "VIDEOPAC+ 1/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Course de Voitures + Autodrome + Cryptogramme (France).png",
+              "source_sha256": "3b1258158e6073a0961781fd5d38d273d327eed84d6ca38ad593e86f3507432b",
+              "source_bytes": 2055,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2180,
+                  "lossy90": 60710
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Course de Voitures + Autodrome + Cryptogramme (France)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "VIDEOPAC+ 1"
+      ]
+    }
+  }
+}

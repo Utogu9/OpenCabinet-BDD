@@ -1,0 +1,264 @@
+{
+  "schema_version": 2,
+  "system": "Sega - Naomi 2",
+  "dat": {
+    "file": "65af772491b8d79ce4f0bd6ede731d1ac8841f1e95efef588076b11b72f6cf3b.dat",
+    "sha256": "65af772491b8d79ce4f0bd6ede731d1ac8841f1e95efef588076b11b72f6cf3b",
+    "version": "2026-10-16 21-23-35",
+    "system": "Arcade - Sega - Naomi 2",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "GDS-0006": {
+      "serial": "GDS-0006",
+      "entries": [
+        {
+          "redump_id": "50977",
+          "entry_id": "50977",
+          "provider": "redump",
+          "name": "Virtua Striker 3 (World) (En,Ja)",
+          "serial_raw": "GDS-0006",
+          "serials": [
+            "GDS-0006"
+          ],
+          "category": "Games",
+          "version": "1.003"
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "24c2ea10c31635fb7085cb321471bc303b6c57dd02dca731d115b5a476e4cede",
+          "bytes": 99260,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 371602,
+              "lossy90": 99260
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0006/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Virtua Striker 3 (GDS-0006).png",
+              "source_sha256": "5257715dd88fa30e1e790d76c7a51511403637495c840402f6beedc781f84cc0",
+              "source_bytes": 448967,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 371602,
+                  "lossy90": 99260
+                }
+              },
+              "redump_id": "50977",
+              "dat_name": "Virtua Striker 3 (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "819afc1b9aeefaf3735ba79b41d03a69265b30496ad2ef1ce724661436ce4de8",
+          "bytes": 47880,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 197574,
+              "lossy90": 47880
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0006/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Virtua Striker 3 (GDS-0006).png",
+              "source_sha256": "11901c584ca4a7b2343ffb86cfc2980532bcbd0fa1455fe5cafb83e4f50e97ca",
+              "source_bytes": 254701,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 197574,
+                  "lossy90": 47880
+                }
+              },
+              "redump_id": "50977",
+              "dat_name": "Virtua Striker 3 (World) (En,Ja)",
+              "match": "filename_serial_name_only"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0006"
+      ]
+    },
+    "GDS-0020B": {
+      "serial": "GDS-0020B",
+      "entries": [
+        {
+          "redump_id": "75025",
+          "entry_id": "75025",
+          "provider": "redump",
+          "name": "Initial D Arcade Stage (Japan) (Rev B)",
+          "serial_raw": "GDS-0020B",
+          "serials": [
+            "GDS-0020B"
+          ],
+          "category": "Games",
+          "version": "3.000"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "6e4e1c8f683f944ff2637ec62858e3b0cb68e94d5f2bab45ab998018ad77583d",
+          "bytes": 201596,
+          "width": 740,
+          "height": 961,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 776218,
+              "lossy90": 201596
+            }
+          },
+          "kind": "cover_front",
+          "path": "GDS-0020B/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Initial D Arcade Stage (Japan, Rev B) (GDS-0020B).png",
+              "source_sha256": "abb07c5eba464bdbb8782c0bbc0cc5d7b16e4d73a0d9bd243ac378069309da59",
+              "source_bytes": 1136544,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 776218,
+                  "lossy90": 201596
+                }
+              },
+              "redump_id": "75025",
+              "dat_name": "Initial D Arcade Stage (Japan) (Rev B)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "609d743c81a5d1c967e817c5bae0ee40e1fc537936d6d8c972617e76956c8f94",
+          "bytes": 47336,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 216568,
+              "lossy90": 47336
+            }
+          },
+          "kind": "screenshot",
+          "path": "GDS-0020B/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Initial D Arcade Stage (Japan, Rev B) (GDS-0020B).png",
+              "source_sha256": "325d2392d2c055ddf835b959d7190939884f2e1abb9de3b74ddb512e48cc86b1",
+              "source_bytes": 301132,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 216568,
+                  "lossy90": 47336
+                }
+              },
+              "redump_id": "75025",
+              "dat_name": "Initial D Arcade Stage (Japan) (Rev B)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "961f151ac9370e01f09b12902c8740167f1b2f7a0fd7a862c30ddc11e29127f9",
+          "bytes": 17530,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 45800,
+              "lossy90": 17530
+            }
+          },
+          "kind": "title_screen",
+          "path": "GDS-0020B/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Initial D Arcade Stage (Japan, Rev B) (GDS-0020B).png",
+              "source_sha256": "8b1ef13504363b377e6a97ec5d8e585ad397a10e2162b7e57881923dd5a06b91",
+              "source_bytes": 64580,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 45800,
+                  "lossy90": 17530
+                }
+              },
+              "redump_id": "75025",
+              "dat_name": "Initial D Arcade Stage (Japan) (Rev B)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "GDS-0020B"
+      ]
+    }
+  }
+}
