@@ -1,0 +1,579 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Nintendo DSi",
+  "dat": {
+    "file": "be9e9b21d2abb0254f5ebf92d6a645e5ab5bf293bec0fde140c7d8daf7e16167.dat",
+    "sha256": "be9e9b21d2abb0254f5ebf92d6a645e5ab5bf293bec0fde140c7d8daf7e16167",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Nintendo - Nintendo DSi (Decrypted) (20260831-022507).dat",
+      "standard_sha256": "a3c0fee26e31d555ac66fa8effe6d4a277802bae4efe95048a20385efc31f482",
+      "db_members": {
+        "No-Intro/Nintendo - Nintendo DSi (DB Export) (20260831-022507).xml": "b97fc83bc6c7bb192b94a1c300a19012fc535948ded74b89ded9cfe7c50be6d3"
+      }
+    },
+    "version": "20260831-022507",
+    "system": "Nintendo - Nintendo DSi (Decrypted)",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "DD3D": {
+      "serial": "DD3D",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "Wimmelbild-Creator (Germany)",
+          "serial_raw": "DD3D",
+          "serials": [
+            "DD3D"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "fd4cd1a60dcf071a337a9ffeaa45a1a2dcfde41f77bc6ec28d8d9977a168540e",
+          "bytes": 75142,
+          "width": 512,
+          "height": 461,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 327634,
+              "lossy90": 75142
+            }
+          },
+          "kind": "cover_front",
+          "path": "DD3D/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Wimmelbild-Creator (Germany).png",
+              "source_sha256": "89a74e61798a42a7b0714c3f4c342ff14d3485a167f43fbd76b3b113c68e6231",
+              "source_bytes": 412916,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 327634,
+                  "lossy90": 75142
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Wimmelbild-Creator (Germany)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DD3D"
+      ]
+    },
+    "DD3P": {
+      "serial": "DD3P",
+      "entries": [
+        {
+          "redump_id": "0007",
+          "entry_id": "0007",
+          "provider": "no-intro",
+          "name": "Hidden Photo (Europe) (En,Fr,Es,It)",
+          "serial_raw": "DD3P",
+          "serials": [
+            "DD3P"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9145fb08f48ebd5e0c4b0726b56f501bddbe88084b089fb5042bcac5fd158c10",
+          "bytes": 61548,
+          "width": 512,
+          "height": 461,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 218816,
+              "lossy90": 61548
+            }
+          },
+          "kind": "cover_front",
+          "path": "DD3P/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Hidden Photo (Europe).png",
+              "source_sha256": "dea24a63092aee85b36cf235c01a6850a1396ade93d0d9915a31e48c01d91cb1",
+              "source_bytes": 302225,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 218816,
+                  "lossy90": 61548
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Hidden Photo (Europe) (En,Fr,Es,It)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DD3P"
+      ]
+    },
+    "DHSE": {
+      "serial": "DHSE",
+      "entries": [
+        {
+          "redump_id": "0003",
+          "entry_id": "0003",
+          "provider": "no-intro",
+          "name": "Picture Perfect Hair Salon (USA) (En,Fr,Es)",
+          "serial_raw": "DHSE",
+          "serials": [
+            "DHSE"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8278a4a92c6b0e85f24b6563cb39f23a6a673ea060e68d53249a960c9e268607",
+          "bytes": 60872,
+          "width": 512,
+          "height": 408,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 227338,
+              "lossy90": 60872
+            }
+          },
+          "kind": "cover_front",
+          "path": "DHSE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Picture Perfect Hair Salon (USA).png",
+              "source_sha256": "ec4608cfeacae4387b04950da307ea506aeb4631df50c255439bc469e2469e5e",
+              "source_bytes": 302174,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 227338,
+                  "lossy90": 60872
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Picture Perfect Hair Salon (USA) (En,Fr,Es)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DHSE"
+      ]
+    },
+    "DMFE": {
+      "serial": "DMFE",
+      "entries": [
+        {
+          "redump_id": "0005",
+          "entry_id": "0005",
+          "provider": "no-intro",
+          "name": "Foto Showdown (USA)",
+          "serial_raw": "DMFE",
+          "serials": [
+            "DMFE"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2cf2e7c881312ef7a545396a46f61d2fee68a255f99ef00087328df4c60290ca",
+          "bytes": 76032,
+          "width": 512,
+          "height": 520,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 240790,
+              "lossy90": 76032
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMFE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Foto Showdown (USA).png",
+              "source_sha256": "4d8da033b1c9c44640ce25f6fa0ad62029022c10e9d6393afa0d78d57d4b4bf5",
+              "source_bytes": 333753,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 240790,
+                  "lossy90": 76032
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Foto Showdown (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMFE"
+      ]
+    },
+    "DMFJ": {
+      "serial": "DMFJ",
+      "entries": [
+        {
+          "redump_id": "0001",
+          "entry_id": "0001",
+          "provider": "no-intro",
+          "name": "Monster Finder (Japan)",
+          "serial_raw": "DMFJ",
+          "serials": [
+            "DMFJ"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "08526659459f2671278d7d7f3352a5168622c09a0f3200829769424fdd9b551d",
+          "bytes": 74180,
+          "width": 512,
+          "height": 459,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 297172,
+              "lossy90": 74180
+            }
+          },
+          "kind": "cover_front",
+          "path": "DMFJ/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Monster Finder (Japan).png",
+              "source_sha256": "eb3aeefc22f0cfda18e3d7965d0414be6961a4f329db72622b12980c4aea6aa1",
+              "source_bytes": 408397,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 297172,
+                  "lossy90": 74180
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "Monster Finder (Japan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "90d23ddc769050126ea15b8c6cbc103429b8ab6f78dd09c8bf75a894f212b9a5",
+          "bytes": 46130,
+          "width": 256,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 148820,
+              "lossy90": 46130
+            }
+          },
+          "kind": "screenshot",
+          "path": "DMFJ/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Monster Finder (Japan).png",
+              "source_sha256": "dc2d293f93ec36144c8800d416a7455491dcfd24541fef28eb2b5359e99cf924",
+              "source_bytes": 194127,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 148820,
+                  "lossy90": 46130
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "Monster Finder (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DMFJ"
+      ]
+    },
+    "DSYE": {
+      "serial": "DSYE",
+      "entries": [
+        {
+          "redump_id": "0004",
+          "entry_id": "0004",
+          "provider": "no-intro",
+          "name": "System - Flaw (USA) (En,Fr,Es)",
+          "serial_raw": "DSYE",
+          "serials": [
+            "DSYE"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "80ffc2dfd20afc35ea2f70b3229608b38af08632649379037ee774080e128a76",
+          "bytes": 42758,
+          "width": 409,
+          "height": 374,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 177312,
+              "lossy90": 42758
+            }
+          },
+          "kind": "cover_front",
+          "path": "DSYE/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/System - Flaw (USA).png",
+              "source_sha256": "f6be848c935cd463a0330f7c08dbd1c6be4a90fd725c04addf421096a458be3c",
+              "source_bytes": 260346,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 177312,
+                  "lossy90": 42758
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "System - Flaw (USA) (En,Fr,Es)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "DSYE"
+      ]
+    },
+    "USKV": {
+      "serial": "USKV",
+      "entries": [
+        {
+          "redump_id": "0009",
+          "entry_id": "0009",
+          "provider": "no-intro",
+          "name": "Face Training (Europe) (En,Fr,De,Es,It)",
+          "serial_raw": "USKV",
+          "serials": [
+            "USKV"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "fbf57afb923bfc336419b5e49343c8e2348e1b29beb8bb3a7a2f582c9e48a50b",
+          "bytes": 33328,
+          "width": 512,
+          "height": 462,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 130370,
+              "lossy90": 33328
+            }
+          },
+          "kind": "cover_front",
+          "path": "USKV/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Face Training (Europe) (En,Fr,De,Es,It).png",
+              "source_sha256": "c8fd5d3e9d4200e9351bc070ff3e0a3bc1dbdc2063abaf3254094b61d047d44b",
+              "source_bytes": 193876,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 130370,
+                  "lossy90": 33328
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Face Training (Europe) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e43121e33e2138c12f421b9bcc6b88cccede3db9f1a5e17592bd2b1f659144b6",
+          "bytes": 27200,
+          "width": 392,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 114340,
+              "lossy90": 27200
+            }
+          },
+          "kind": "screenshot",
+          "path": "USKV/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Face Training (Europe) (En,Fr,De,Es,It).png",
+              "source_sha256": "8e6cc97b329021bf60398b54d5f7950ffd1bd809c38b8bedf7b82e26ab96c392",
+              "source_bytes": 129385,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 114340,
+                  "lossy90": 27200
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Face Training (Europe) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "7ded8b3b888fab82474c63539c6000d9f007a33070c1c688dbd62ab72cd93417",
+          "bytes": 25932,
+          "width": 392,
+          "height": 256,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 107312,
+              "lossy90": 25932
+            }
+          },
+          "kind": "title_screen",
+          "path": "USKV/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Face Training (Europe) (En,Fr,De,Es,It).png",
+              "source_sha256": "108dfc9c9f0fd9f25b904fe853eb7e750ce22c3173b2e5a4d97f6f6ea8114a30",
+              "source_bytes": 131637,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 107312,
+                  "lossy90": 25932
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "Face Training (Europe) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "USKV"
+      ]
+    }
+  }
+}
