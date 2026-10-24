@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "system": "Sony - PlayStation Vita",
+  "dat": {
+    "file": "7627642f0fd9d9d2fb0169361b832ded60622fceae23dbbdbf3cd45cddb329fd.dat",
+    "sha256": "7627642f0fd9d9d2fb0169361b832ded60622fceae23dbbdbf3cd45cddb329fd",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Sony - PlayStation Vita (NoNpDrm) (20260924-144902).dat",
+      "standard_sha256": "d5d29adc93e6fe2fcae6a0b7d7ad2aea4cfb3a7499ee16043787023ae4b51ac7",
+      "db_members": {}
+    },
+    "version": "20260924-144902",
+    "system": "Sony - PlayStation Vita (NoNpDrm)",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {}
+}
