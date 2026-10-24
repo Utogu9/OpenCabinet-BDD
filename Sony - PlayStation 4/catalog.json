@@ -1,0 +1,1143 @@
+{
+  "schema_version": 2,
+  "system": "Sony - PlayStation 4",
+  "dat": {
+    "file": "10e748a4866b608f97560df8e8c0db7aae7468aa90853ccc3847076b8d8bdf87.dat",
+    "sha256": "10e748a4866b608f97560df8e8c0db7aae7468aa90853ccc3847076b8d8bdf87",
+    "version": "2026-10-19 14-53-59",
+    "system": "Sony - PlayStation 4",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "CUSA-00285": {
+      "serial": "CUSA-00285",
+      "entries": [
+        {
+          "redump_id": "96404",
+          "entry_id": "96404",
+          "provider": "redump",
+          "name": "Final Fantasy XIV Online - A Realm Reborn (Europe)",
+          "serial_raw": "CUSA-00285, CUSA-00285/SB",
+          "serials": [
+            "CUSA-00285",
+            "CUSA-00285/SB"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e35cb5a99981e40492c117cd94ad9df3373e8c9c630f04a8ae37815c92f86b53",
+          "bytes": 86222,
+          "width": 512,
+          "height": 622,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 387506,
+              "lossy90": 86222
+            }
+          },
+          "kind": "cover_front",
+          "path": "CUSA-00285/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XIV Online - A Realm Reborn (Europe).png",
+              "source_sha256": "e9fc0272041ca6a4bc01edd96fbee679242fb2448f220cba6d8a58b7a21e8e90",
+              "source_bytes": 516166,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 387506,
+                  "lossy90": 86222
+                }
+              },
+              "redump_id": "96404",
+              "dat_name": "Final Fantasy XIV Online - A Realm Reborn (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CUSA-00285"
+      ]
+    },
+    "CUSA-00285-SB": {
+      "serial": "CUSA-00285-SB",
+      "entries": [
+        {
+          "redump_id": "96404",
+          "entry_id": "96404",
+          "provider": "redump",
+          "name": "Final Fantasy XIV Online - A Realm Reborn (Europe)",
+          "serial_raw": "CUSA-00285, CUSA-00285/SB",
+          "serials": [
+            "CUSA-00285",
+            "CUSA-00285/SB"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e35cb5a99981e40492c117cd94ad9df3373e8c9c630f04a8ae37815c92f86b53",
+          "bytes": 86222,
+          "width": 512,
+          "height": 622,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 387506,
+              "lossy90": 86222
+            }
+          },
+          "kind": "cover_front",
+          "path": "CUSA-00285-SB/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XIV Online - A Realm Reborn (Europe).png",
+              "source_sha256": "e9fc0272041ca6a4bc01edd96fbee679242fb2448f220cba6d8a58b7a21e8e90",
+              "source_bytes": 516166,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 387506,
+                  "lossy90": 86222
+                }
+              },
+              "redump_id": "96404",
+              "dat_name": "Final Fantasy XIV Online - A Realm Reborn (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CUSA-00285/SB"
+      ]
+    },
+    "CUSA-01113-EXP": {
+      "serial": "CUSA-01113-EXP",
+      "entries": [
+        {
+          "redump_id": "69294",
+          "entry_id": "69294",
+          "provider": "redump",
+          "name": "Gravity Rush Remastered (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)",
+          "serial_raw": "CUSA-01113/EXP, CUSA-01113/RSC",
+          "serials": [
+            "CUSA-01113/EXP",
+            "CUSA-01113/RSC"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4e1e1dee7e635de25e4afbc7b7d70bc6ebe5f66d0b8a05f354fbbd2e36c972f4",
+          "bytes": 76520,
+          "width": 512,
+          "height": 650,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 361212,
+              "lossy90": 76520
+            }
+          },
+          "kind": "cover_front",
+          "path": "CUSA-01113-EXP/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gravity Rush Remastered (Europe).png",
+              "source_sha256": "9187f8aa632f547e1116747e37f9f677ebfa6a4ada63c20dc2d49679ff8200f3",
+              "source_bytes": 508731,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 361212,
+                  "lossy90": 76520
+                }
+              },
+              "redump_id": "69294",
+              "dat_name": "Gravity Rush Remastered (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CUSA-01113/EXP"
+      ]
+    },
+    "CUSA-01113-RSC": {
+      "serial": "CUSA-01113-RSC",
+      "entries": [
+        {
+          "redump_id": "69294",
+          "entry_id": "69294",
+          "provider": "redump",
+          "name": "Gravity Rush Remastered (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)",
+          "serial_raw": "CUSA-01113/EXP, CUSA-01113/RSC",
+          "serials": [
+            "CUSA-01113/EXP",
+            "CUSA-01113/RSC"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4e1e1dee7e635de25e4afbc7b7d70bc6ebe5f66d0b8a05f354fbbd2e36c972f4",
+          "bytes": 76520,
+          "width": 512,
+          "height": 650,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 361212,
+              "lossy90": 76520
+            }
+          },
+          "kind": "cover_front",
+          "path": "CUSA-01113-RSC/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gravity Rush Remastered (Europe).png",
+              "source_sha256": "9187f8aa632f547e1116747e37f9f677ebfa6a4ada63c20dc2d49679ff8200f3",
+              "source_bytes": 508731,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 361212,
+                  "lossy90": 76520
+                }
+              },
+              "redump_id": "69294",
+              "dat_name": "Gravity Rush Remastered (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CUSA-01113/RSC"
+      ]
+    },
+    "CUSA-05877": {
+      "serial": "CUSA-05877",
+      "entries": [
+        {
+          "redump_id": "43253",
+          "entry_id": "43253",
+          "provider": "redump",
+          "name": "Persona 5 (USA)",
+          "serial_raw": "CUSA-05877",
+          "serials": [
+            "CUSA-05877"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "5a132f85b0ab38992a206bc37dbbd48d4e2243c143a970081ccab5f834b2cc12",
+          "bytes": 111010,
+          "width": 512,
+          "height": 630,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 422452,
+              "lossy90": 111010
+            }
+          },
+          "kind": "cover_front",
+          "path": "CUSA-05877/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Persona 5 (USA).png",
+              "source_sha256": "be5f552c49102561a7396f7ea5296e4f6a39f204893e7ec770d25581bd5932f4",
+              "source_bytes": 532740,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 422452,
+                  "lossy90": 111010
+                }
+              },
+              "redump_id": "43253",
+              "dat_name": "Persona 5 (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CUSA-05877"
+      ]
+    },
+    "PCAS-02031": {
+      "serial": "PCAS-02031",
+      "entries": [
+        {
+          "redump_id": "61892",
+          "entry_id": "61892",
+          "provider": "redump",
+          "name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+          "serial_raw": "PCAS 02031, PLJM 16145, PLJM 84059, PLJM 84060",
+          "serials": [
+            "PCAS-02031",
+            "PLJM-16145",
+            "PLJM-84059",
+            "PLJM-84060"
+          ],
+          "category": "Games",
+          "version": "01.03"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e2d18e5024e677d3b0c20cb42fad099c383a2a8288ef1bc71e56eca4588798e6",
+          "bytes": 84864,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 326784,
+              "lossy90": 84864
+            }
+          },
+          "kind": "cover_front",
+          "path": "PCAS-02031/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XV (Japan).png",
+              "source_sha256": "64c60c7e6969e77a4d306d919b643c3902065b61fe0f328146b21ccdc9a327af",
+              "source_bytes": 478059,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 326784,
+                  "lossy90": 84864
+                }
+              },
+              "redump_id": "61892",
+              "dat_name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PCAS-02031"
+      ]
+    },
+    "PLAS-05062": {
+      "serial": "PLAS-05062",
+      "entries": [
+        {
+          "redump_id": "61434",
+          "entry_id": "61434",
+          "provider": "redump",
+          "name": "Yoru no Nai Kuni (Japan, Asia)",
+          "serial_raw": "PLAS 05062, PLJM 80064",
+          "serials": [
+            "PLAS-05062",
+            "PLJM-80064"
+          ],
+          "category": "Games",
+          "version": "01.01"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "eb97c18dd9f1a487495958adfe85f2c41bec029b5c1f15925f7f3e40be1e1f1b",
+          "bytes": 85262,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 390762,
+              "lossy90": 85262
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLAS-05062/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Yoru no Nai Kuni (Japan).png",
+              "source_sha256": "61fb2c2950e960c7293eb0a2558e8d5e77f10a20aaf7a8b662adf992794989d3",
+              "source_bytes": 525203,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 390762,
+                  "lossy90": 85262
+                }
+              },
+              "redump_id": "61434",
+              "dat_name": "Yoru no Nai Kuni (Japan, Asia)",
+              "match": "region_included"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLAS-05062"
+      ]
+    },
+    "PLJM-16145": {
+      "serial": "PLJM-16145",
+      "entries": [
+        {
+          "redump_id": "61892",
+          "entry_id": "61892",
+          "provider": "redump",
+          "name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+          "serial_raw": "PCAS 02031, PLJM 16145, PLJM 84059, PLJM 84060",
+          "serials": [
+            "PCAS-02031",
+            "PLJM-16145",
+            "PLJM-84059",
+            "PLJM-84060"
+          ],
+          "category": "Games",
+          "version": "01.03"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e2d18e5024e677d3b0c20cb42fad099c383a2a8288ef1bc71e56eca4588798e6",
+          "bytes": 84864,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 326784,
+              "lossy90": 84864
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-16145/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XV (Japan).png",
+              "source_sha256": "64c60c7e6969e77a4d306d919b643c3902065b61fe0f328146b21ccdc9a327af",
+              "source_bytes": 478059,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 326784,
+                  "lossy90": 84864
+                }
+              },
+              "redump_id": "61892",
+              "dat_name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-16145"
+      ]
+    },
+    "PLJM-16347": {
+      "serial": "PLJM-16347",
+      "entries": [
+        {
+          "redump_id": "76471",
+          "entry_id": "76471",
+          "provider": "redump",
+          "name": "Nier - Automata (Japan)",
+          "serial_raw": "PLJM 16347, PLJM 84079",
+          "serials": [
+            "PLJM-16347",
+            "PLJM-84079"
+          ],
+          "category": "Games",
+          "version": "01.01"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "dd094461fc056b3afdf18cdd98c905e14b719295f15a25a1f09f05aa154af815",
+          "bytes": 69468,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 280696,
+              "lossy90": 69468
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-16347/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/NieR Automata (Japan).png",
+              "source_sha256": "89f8b62fc3e18916bece99bc7c72399fcdef699d0f912614a54bc4cd4d6d3a52",
+              "source_bytes": 418464,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 280696,
+                  "lossy90": 69468
+                }
+              },
+              "redump_id": "76471",
+              "dat_name": "Nier - Automata (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-16347"
+      ]
+    },
+    "PLJM-80048": {
+      "serial": "PLJM-80048",
+      "entries": [
+        {
+          "redump_id": "61212",
+          "entry_id": "61212",
+          "provider": "redump",
+          "name": "Odin Sphere - Leifthrasir (Japan)",
+          "serial_raw": "PLJM 80048",
+          "serials": [
+            "PLJM-80048"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "939f22c7cbdc77f679933797a2d15eef1e7cf9a1f122ecac3b87bd329d8d1caf",
+          "bytes": 97750,
+          "width": 512,
+          "height": 642,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 405604,
+              "lossy90": 97750
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-80048/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Odin Sphere Leifthrasir (Japan).png",
+              "source_sha256": "5a264387fee8e6c3d32abc4daa4bb9d269b8fc10bc9020d11e44877e41b6c123",
+              "source_bytes": 570090,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 405604,
+                  "lossy90": 97750
+                }
+              },
+              "redump_id": "61212",
+              "dat_name": "Odin Sphere - Leifthrasir (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-80048"
+      ]
+    },
+    "PLJM-80051": {
+      "serial": "PLJM-80051",
+      "entries": [
+        {
+          "redump_id": "81846",
+          "entry_id": "81846",
+          "provider": "redump",
+          "name": "Dark Souls III (Japan)",
+          "serial_raw": "PLJM 80051",
+          "serials": [
+            "PLJM-80051"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2e62b5a361f76e0d8334559ca0d89306018df91dc318e19a4471444acf828a3b",
+          "bytes": 74628,
+          "width": 512,
+          "height": 642,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 335528,
+              "lossy90": 74628
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-80051/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Dark Souls III (Japan).png",
+              "source_sha256": "911fe214edea54a784311441f9338b8849818006dc9deb4900aa7c241a515ab2",
+              "source_bytes": 479663,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 335528,
+                  "lossy90": 74628
+                }
+              },
+              "redump_id": "81846",
+              "dat_name": "Dark Souls III (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-80051"
+      ]
+    },
+    "PLJM-80064": {
+      "serial": "PLJM-80064",
+      "entries": [
+        {
+          "redump_id": "61434",
+          "entry_id": "61434",
+          "provider": "redump",
+          "name": "Yoru no Nai Kuni (Japan, Asia)",
+          "serial_raw": "PLAS 05062, PLJM 80064",
+          "serials": [
+            "PLAS-05062",
+            "PLJM-80064"
+          ],
+          "category": "Games",
+          "version": "01.01"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "eb97c18dd9f1a487495958adfe85f2c41bec029b5c1f15925f7f3e40be1e1f1b",
+          "bytes": 85262,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 390762,
+              "lossy90": 85262
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-80064/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Yoru no Nai Kuni (Japan).png",
+              "source_sha256": "61fb2c2950e960c7293eb0a2558e8d5e77f10a20aaf7a8b662adf992794989d3",
+              "source_bytes": 525203,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 390762,
+                  "lossy90": 85262
+                }
+              },
+              "redump_id": "61434",
+              "dat_name": "Yoru no Nai Kuni (Japan, Asia)",
+              "match": "region_included"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-80064"
+      ]
+    },
+    "PLJM-80136": {
+      "serial": "PLJM-80136",
+      "entries": [
+        {
+          "redump_id": "115808",
+          "entry_id": "115808",
+          "provider": "redump",
+          "name": "Dead or Alive Xtreme 3 - Fortune (Japan)",
+          "serial_raw": "PLJM 80136",
+          "serials": [
+            "PLJM-80136"
+          ],
+          "category": "Games",
+          "version": "01.02"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4098f74d453f79d7e491fc43ec2205e3e18b8453b249e00f99741a206adc55c3",
+          "bytes": 91380,
+          "width": 512,
+          "height": 642,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 411332,
+              "lossy90": 91380
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-80136/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Dead or Alive Xtreme 3 - Fortune (Japan).png",
+              "source_sha256": "77cca9096c910ff2201d9c81d8d1be01e4cb646f07496b42ec0d9447ab534390",
+              "source_bytes": 528229,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 411332,
+                  "lossy90": 91380
+                }
+              },
+              "redump_id": "115808",
+              "dat_name": "Dead or Alive Xtreme 3 - Fortune (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-80136"
+      ]
+    },
+    "PLJM-80169": {
+      "serial": "PLJM-80169",
+      "entries": [
+        {
+          "redump_id": "68818",
+          "entry_id": "68818",
+          "provider": "redump",
+          "name": "Persona 5 (Japan)",
+          "serial_raw": "PLJM 80169",
+          "serials": [
+            "PLJM-80169"
+          ],
+          "category": "Games",
+          "version": "01.00"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "554fddd4fa46c804df6f64f9cdfd6494d00f64d3de115ddb688c9df0e94065ee",
+          "bytes": 102174,
+          "width": 512,
+          "height": 636,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 430038,
+              "lossy90": 102174
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-80169/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Persona 5 (Japan).png",
+              "source_sha256": "971b447e2a4b55add1605b16fc26e5a6c4dfb1e343953fbab6b743723f47d5fe",
+              "source_bytes": 560161,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 430038,
+                  "lossy90": 102174
+                }
+              },
+              "redump_id": "68818",
+              "dat_name": "Persona 5 (Japan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-80169"
+      ]
+    },
+    "PLJM-84059": {
+      "serial": "PLJM-84059",
+      "entries": [
+        {
+          "redump_id": "61892",
+          "entry_id": "61892",
+          "provider": "redump",
+          "name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+          "serial_raw": "PCAS 02031, PLJM 16145, PLJM 84059, PLJM 84060",
+          "serials": [
+            "PCAS-02031",
+            "PLJM-16145",
+            "PLJM-84059",
+            "PLJM-84060"
+          ],
+          "category": "Games",
+          "version": "01.03"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e2d18e5024e677d3b0c20cb42fad099c383a2a8288ef1bc71e56eca4588798e6",
+          "bytes": 84864,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 326784,
+              "lossy90": 84864
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-84059/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XV (Japan).png",
+              "source_sha256": "64c60c7e6969e77a4d306d919b643c3902065b61fe0f328146b21ccdc9a327af",
+              "source_bytes": 478059,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 326784,
+                  "lossy90": 84864
+                }
+              },
+              "redump_id": "61892",
+              "dat_name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-84059"
+      ]
+    },
+    "PLJM-84060": {
+      "serial": "PLJM-84060",
+      "entries": [
+        {
+          "redump_id": "61892",
+          "entry_id": "61892",
+          "provider": "redump",
+          "name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+          "serial_raw": "PCAS 02031, PLJM 16145, PLJM 84059, PLJM 84060",
+          "serials": [
+            "PCAS-02031",
+            "PLJM-16145",
+            "PLJM-84059",
+            "PLJM-84060"
+          ],
+          "category": "Games",
+          "version": "01.03"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e2d18e5024e677d3b0c20cb42fad099c383a2a8288ef1bc71e56eca4588798e6",
+          "bytes": 84864,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 326784,
+              "lossy90": 84864
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-84060/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Final Fantasy XV (Japan).png",
+              "source_sha256": "64c60c7e6969e77a4d306d919b643c3902065b61fe0f328146b21ccdc9a327af",
+              "source_bytes": 478059,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 326784,
+                  "lossy90": 84864
+                }
+              },
+              "redump_id": "61892",
+              "dat_name": "Final Fantasy XV (Japan, Asia) (En,Ja,Fr,De,Es,It,Pt,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-84060"
+      ]
+    },
+    "PLJM-84079": {
+      "serial": "PLJM-84079",
+      "entries": [
+        {
+          "redump_id": "76471",
+          "entry_id": "76471",
+          "provider": "redump",
+          "name": "Nier - Automata (Japan)",
+          "serial_raw": "PLJM 16347, PLJM 84079",
+          "serials": [
+            "PLJM-16347",
+            "PLJM-84079"
+          ],
+          "category": "Games",
+          "version": "01.01"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "dd094461fc056b3afdf18cdd98c905e14b719295f15a25a1f09f05aa154af815",
+          "bytes": 69468,
+          "width": 512,
+          "height": 641,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 280696,
+              "lossy90": 69468
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-84079/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/NieR Automata (Japan).png",
+              "source_sha256": "89f8b62fc3e18916bece99bc7c72399fcdef699d0f912614a54bc4cd4d6d3a52",
+              "source_bytes": 418464,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 280696,
+                  "lossy90": 69468
+                }
+              },
+              "redump_id": "76471",
+              "dat_name": "Nier - Automata (Japan)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-84079"
+      ]
+    },
+    "PLJM-84080": {
+      "serial": "PLJM-84080",
+      "entries": [
+        {
+          "redump_id": "76472",
+          "entry_id": "76472",
+          "provider": "redump",
+          "name": "Nioh (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)",
+          "serial_raw": "PLJM 84080",
+          "serials": [
+            "PLJM-84080"
+          ],
+          "category": "Games",
+          "version": "01.02"
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "996a614e1996dbeebad4b7610e75714c3dad2093418653c9a36475a2074b17eb",
+          "bytes": 99204,
+          "width": 512,
+          "height": 642,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 437630,
+              "lossy90": 99204
+            }
+          },
+          "kind": "cover_front",
+          "path": "PLJM-84080/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Nioh (Japan).png",
+              "source_sha256": "af188419a300fb21695132f670b16312692b8cc7524df1de70e4daf30dd152f2",
+              "source_bytes": 568417,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 437630,
+                  "lossy90": 99204
+                }
+              },
+              "redump_id": "76472",
+              "dat_name": "Nioh (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "PLJM-84080"
+      ]
+    }
+  }
+}
