@@ -1,0 +1,768 @@
+{
+  "schema_version": 2,
+  "system": "Mattel - Intellivision",
+  "dat": {
+    "file": "ec83aec30e9a6b918fc8e28214441d69cef3d52246cb2b3a206848daf4458723.dat",
+    "sha256": "ec83aec30e9a6b918fc8e28214441d69cef3d52246cb2b3a206848daf4458723",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Mattel - Intellivision (20260811-144508).dat",
+      "standard_sha256": "48abb61a92829d8dca628cbad4a89aa1919f1bb8c7b62052c810e9645ffdbe83",
+      "db_members": {
+        "No-Intro/Mattel - Intellivision (DB Export) (20260811-144508).xml": "41f5cc2b848b17ea80cf42e5efd698778cbbc3f5255afecd7ee9eb17fca0e4e7"
+      }
+    },
+    "version": "20260811-144508",
+    "system": "Mattel - Intellivision",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "70251": {
+      "serial": "70251",
+      "entries": [
+        {
+          "redump_id": "0105",
+          "entry_id": "0105",
+          "provider": "no-intro",
+          "name": "Pac-Man (USA) (Atarisoft)",
+          "serial_raw": "70251",
+          "serials": [
+            "70251"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "70251",
+                "field": "media_serial1",
+                "source_id": "581",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Mattel - Intellivision (DB Export) (20260811-144508).xml",
+                "member_sha256": "41f5cc2b848b17ea80cf42e5efd698778cbbc3f5255afecd7ee9eb17fca0e4e7"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3f8079366b2456f79d030cb05373e954858f01b4339fc3b90bbf74e8afa19e25",
+          "bytes": 37990,
+          "width": 500,
+          "height": 693,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 93850,
+              "lossy90": 37990
+            }
+          },
+          "kind": "cover_front",
+          "path": "70251/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pac-Man (USA) (Atarisoft).png",
+              "source_sha256": "97e7f4fc8f1077d7e64a9ce4bb4b4e4095c37af3ab1fce6d7ba934da4abfddb5",
+              "source_bytes": 124763,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 93850,
+                  "lossy90": 37990
+                }
+              },
+              "redump_id": "0105",
+              "dat_name": "Pac-Man (USA) (Atarisoft)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "61e63e2b4893d7b8facd64b963e5b1905f27f9577ff9a7f14be678cae3b0e95b",
+          "bytes": 3974,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3974,
+              "lossy90": 9172
+            }
+          },
+          "kind": "screenshot",
+          "path": "70251/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pac-Man (USA) (Atarisoft).png",
+              "source_sha256": "e7dcc2d8ae659feffd72d54c3d5086964c91eed627ff13d246b36e7d61147950",
+              "source_bytes": 4998,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3974,
+                  "lossy90": 9172
+                }
+              },
+              "redump_id": "0105",
+              "dat_name": "Pac-Man (USA) (Atarisoft)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "fe0d6887e2d1a9a657b6d1523ad2d97409eb4aa1c268a18db57f07355025c2a0",
+          "bytes": 8382,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 8548,
+              "lossy90": 8382
+            }
+          },
+          "kind": "title_screen",
+          "path": "70251/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pac-Man (USA) (Atarisoft).png",
+              "source_sha256": "29603822edd1ffef96c8a92a6a9fa654d732769e16685559c88f7c8badddd970",
+              "source_bytes": 10384,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 8548,
+                  "lossy90": 8382
+                }
+              },
+              "redump_id": "0105",
+              "dat_name": "Pac-Man (USA) (Atarisoft)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "70251"
+      ]
+    },
+    "710009-1A": {
+      "serial": "710009-1A",
+      "entries": [
+        {
+          "redump_id": "0153",
+          "entry_id": "0153",
+          "provider": "no-intro",
+          "name": "Swords & Serpents (USA, Europe)",
+          "serial_raw": "710009-1A",
+          "serials": [
+            "710009-1A"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "710009-1A",
+                "field": "media_serial1",
+                "source_id": "766",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Mattel - Intellivision (DB Export) (20260811-144508).xml",
+                "member_sha256": "41f5cc2b848b17ea80cf42e5efd698778cbbc3f5255afecd7ee9eb17fca0e4e7"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "9d77eebbef60ee6109c40cea6625e5b3fbadfbea891bcd112f8d36b27c502679",
+          "bytes": 53888,
+          "width": 500,
+          "height": 693,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 236388,
+              "lossy90": 53888
+            }
+          },
+          "kind": "cover_front",
+          "path": "710009-1A/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Swords _ Serpents (USA, Europe).png",
+              "source_sha256": "beede371f7341d2432eb4be1be3961351eca23550d6789f48650b58c21a04429",
+              "source_bytes": 291463,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 236388,
+                  "lossy90": 53888
+                }
+              },
+              "redump_id": "0153",
+              "dat_name": "Swords & Serpents (USA, Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "84df30ed5f44e16f7538c4e2396656485196b4cd54a217ee6039fb8a53cca74d",
+          "bytes": 3826,
+          "width": 400,
+          "height": 111,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3826,
+              "lossy90": 9958
+            }
+          },
+          "kind": "logo",
+          "path": "710009-1A/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Swords _ Serpents (USA, Europe).png",
+              "source_sha256": "cd9ded6ecb3662c851e73af89569981e08f93b3d611cb1edd53e25280a8f9f57",
+              "source_bytes": 4215,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3826,
+                  "lossy90": 9958
+                }
+              },
+              "redump_id": "0153",
+              "dat_name": "Swords & Serpents (USA, Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e4ee8e30707fc3bba43c54a47fa835b8785a5b57c5876684e89e20df45bc5067",
+          "bytes": 4986,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4986,
+              "lossy90": 9036
+            }
+          },
+          "kind": "screenshot",
+          "path": "710009-1A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Swords _ Serpents (USA, Europe).png",
+              "source_sha256": "56452e3ca80686c5be275d47abb92fab296cb40d013b0dedd3c7a93ed9ec99b5",
+              "source_bytes": 6072,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4986,
+                  "lossy90": 9036
+                }
+              },
+              "redump_id": "0153",
+              "dat_name": "Swords & Serpents (USA, Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6cd95f4a1f4f27626e6dcba47bc6139f73c1c1b0f34e775d96e2fb9b49299779",
+          "bytes": 5760,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 5760,
+              "lossy90": 9374
+            }
+          },
+          "kind": "title_screen",
+          "path": "710009-1A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Swords _ Serpents (USA, Europe).png",
+              "source_sha256": "558796b00501989370c859961a7ae3c497d3854cd7dc3f3d926368367294b8c4",
+              "source_bytes": 6707,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 5760,
+                  "lossy90": 9374
+                }
+              },
+              "redump_id": "0153",
+              "dat_name": "Swords & Serpents (USA, Europe)",
+              "match": "libretro_escaped"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "710009-1A"
+      ]
+    },
+    "720006-1A": {
+      "serial": "720006-1A",
+      "entries": [
+        {
+          "redump_id": "0017",
+          "entry_id": "0017",
+          "provider": "no-intro",
+          "name": "Atlantis (USA, Europe)",
+          "serial_raw": "720006-1A",
+          "serials": [
+            "720006-1A"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "720006-1A",
+                "field": "media_serial1",
+                "source_id": "768",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Mattel - Intellivision (DB Export) (20260811-144508).xml",
+                "member_sha256": "41f5cc2b848b17ea80cf42e5efd698778cbbc3f5255afecd7ee9eb17fca0e4e7"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ad6011f97cd066b5c55b8a2d37b62672b2827b36eb0a8f6fbb59f21dfd88ccae",
+          "bytes": 49896,
+          "width": 500,
+          "height": 693,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 205302,
+              "lossy90": 49896
+            }
+          },
+          "kind": "cover_front",
+          "path": "720006-1A/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Atlantis (USA, Europe).png",
+              "source_sha256": "3f1cd132249389e21d2747abd69e7267231cb66fc906f78deeb3aaca817e5db3",
+              "source_bytes": 270135,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 205302,
+                  "lossy90": 49896
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Atlantis (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4a5078278dafa5e4020dcee52870f598cddd84d1441876197c10c15236b99ed9",
+          "bytes": 2706,
+          "width": 400,
+          "height": 100,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 2706,
+              "lossy90": 5876
+            }
+          },
+          "kind": "logo",
+          "path": "720006-1A/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Atlantis (USA, Europe).png",
+              "source_sha256": "7c54173c4b638d4bb72cef10ad0810888f3aee51576cf0b96e8737f38b9b2c55",
+              "source_bytes": 3341,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 2706,
+                  "lossy90": 5876
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Atlantis (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d3cc056ac72952fc245ac8f8f8b374904c33e6919d79dcb7c1c7b0d198bec494",
+          "bytes": 7854,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7854,
+              "lossy90": 11118
+            }
+          },
+          "kind": "screenshot",
+          "path": "720006-1A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Atlantis (USA, Europe).png",
+              "source_sha256": "c7fc094f47c51508630f2a7818309a03f425ad62b609919dffa0c14e9f2c2a34",
+              "source_bytes": 9554,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7854,
+                  "lossy90": 11118
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Atlantis (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "03e6ef04e7db8cd50ea63ec7279e7a8d2ae7e358efba3caa616781ee1bbf5883",
+          "bytes": 8776,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 8776,
+              "lossy90": 13186
+            }
+          },
+          "kind": "title_screen",
+          "path": "720006-1A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Atlantis (USA, Europe).png",
+              "source_sha256": "a81e48acf67792f5ade37b7e20b4ebbb6e09c0c1805e9a1264e32e442d7dabd6",
+              "source_bytes": 10551,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 8776,
+                  "lossy90": 13186
+                }
+              },
+              "redump_id": "0017",
+              "dat_name": "Atlantis (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "720006-1A"
+      ]
+    },
+    "M-002-02": {
+      "serial": "M-002-02",
+      "entries": [
+        {
+          "redump_id": "0112",
+          "entry_id": "0112",
+          "provider": "no-intro",
+          "name": "Pitfall! (USA, Europe)",
+          "serial_raw": "M-002-02",
+          "serials": [
+            "M-002-02"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "M-002-02",
+                "field": "media_serial1",
+                "source_id": "763",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Mattel - Intellivision (DB Export) (20260811-144508).xml",
+                "member_sha256": "41f5cc2b848b17ea80cf42e5efd698778cbbc3f5255afecd7ee9eb17fca0e4e7"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ebbb9bb7a9fbffbf993b44ff7018785ad300a08da03e724cc668507605d63bcd",
+          "bytes": 81956,
+          "width": 498,
+          "height": 680,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 131306,
+              "lossy90": 81956
+            }
+          },
+          "kind": "cover_front",
+          "path": "M-002-02/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Pitfall! (USA, Europe).png",
+              "source_sha256": "91512ee9bf2e198e8bc3a47a73d28e714dbce35b0fdac826edb8fbe21ebabce7",
+              "source_bytes": 148668,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 131306,
+                  "lossy90": 81956
+                }
+              },
+              "redump_id": "0112",
+              "dat_name": "Pitfall! (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "234d3143a0978d61930c3703013ea69d016e657aee54bb41adf9b765890c0339",
+          "bytes": 7362,
+          "width": 400,
+          "height": 71,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7362,
+              "lossy90": 9158
+            }
+          },
+          "kind": "logo",
+          "path": "M-002-02/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Pitfall! (USA, Europe).png",
+              "source_sha256": "da4cfb8e53f4f66c109c7cbde1d22e545c72a9e6a1d40698c69bf82bebff0d31",
+              "source_bytes": 8226,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7362,
+                  "lossy90": 9158
+                }
+              },
+              "redump_id": "0112",
+              "dat_name": "Pitfall! (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "cf92ee12f1d6ec4657e6c41a2ce1ccd1b733d03b7aa61fcf3c806a3a9c0c31c6",
+          "bytes": 444,
+          "width": 320,
+          "height": 200,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 444,
+              "lossy90": 4170
+            }
+          },
+          "kind": "screenshot",
+          "path": "M-002-02/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Pitfall! (USA, Europe).png",
+              "source_sha256": "afc2c490261f436b94a2d0dc74c35dbc74c285a82b854d3d843fafceaccda93e",
+              "source_bytes": 1500,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 444,
+                  "lossy90": 4170
+                }
+              },
+              "redump_id": "0112",
+              "dat_name": "Pitfall! (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "27ab2768692bee869cfd9be339ede0f2d7d995c0e8ff64a6c04270d51041812f",
+          "bytes": 6506,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6506,
+              "lossy90": 9688
+            }
+          },
+          "kind": "title_screen",
+          "path": "M-002-02/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Pitfall! (USA, Europe).png",
+              "source_sha256": "0174d8e54eea4f89ffd611e9e1290e337ef82c28dfbff56db3b13b8af88f0fbc",
+              "source_bytes": 7638,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6506,
+                  "lossy90": 9688
+                }
+              },
+              "redump_id": "0112",
+              "dat_name": "Pitfall! (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "M-002-02"
+      ]
+    }
+  }
+}

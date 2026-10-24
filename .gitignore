@@ -1,0 +1,5 @@
+/_*/
+checkpoint.json
+*.tmp
+Thumbs.db
+.DS_Store

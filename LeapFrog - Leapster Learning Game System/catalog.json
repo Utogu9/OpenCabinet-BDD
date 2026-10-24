@@ -1,0 +1,174 @@
+{
+  "schema_version": 2,
+  "system": "LeapFrog - Leapster Learning Game System",
+  "dat": {
+    "file": "023804a689f63933384556ac783d52115b2549ba2859aa9201a3a2dd3065e108.dat",
+    "sha256": "023804a689f63933384556ac783d52115b2549ba2859aa9201a3a2dd3065e108",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/LeapFrog - Leapster Learning Game System (20260315-132252).dat",
+      "standard_sha256": "3d46ffae4cbb80d65dc754bbee1bbcdc7b3adbaef08d5f354001562917fb866a",
+      "db_members": {
+        "No-Intro/LeapFrog - Leapster Learning Game System (DB Export) (20260315-132252).xml": "a4184715eff092dc1143cb6fb06edf4dfa3ebd45773b91b502ac0b9b5c07ec1b"
+      }
+    },
+    "version": "20260315-132252",
+    "system": "LeapFrog - Leapster Learning Game System",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "500-12098-A": {
+      "serial": "500-12098-A",
+      "entries": [
+        {
+          "redump_id": "0030",
+          "entry_id": "0030",
+          "provider": "no-intro",
+          "name": "Cars (USA)",
+          "serial_raw": "500-12098-A",
+          "serials": [
+            "500-12098-A"
+          ],
+          "category": null,
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "971cddcea03b90e501db12e89d23f7691fd3d26a38813ac78008f230fc327bda",
+          "bytes": 107140,
+          "width": 512,
+          "height": 723,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 449304,
+              "lossy90": 107140
+            }
+          },
+          "kind": "cover_front",
+          "path": "500-12098-A/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Cars (USA).png",
+              "source_sha256": "ee5f03ea51ecbb5cfcc57380d3936c3bafd30556f7fc43b9faa8fbc85bcfbc61",
+              "source_bytes": 594903,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 449304,
+                  "lossy90": 107140
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Cars (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "bd9758dcd19594fc80ceb60cae701271883cf46c6befe742c426f491f015a77f",
+          "bytes": 19608,
+          "width": 256,
+          "height": 255,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 85862,
+              "lossy90": 19608
+            }
+          },
+          "kind": "screenshot",
+          "path": "500-12098-A/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Cars (USA).png",
+              "source_sha256": "5ce84b915026a95c9203725661fa346a0ee15fc09822246a5b5559d3df9f43ab",
+              "source_bytes": 103173,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 85862,
+                  "lossy90": 19608
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Cars (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "06066414b1a21b3b3fdaf29f5019b675bb599f4def84cb47cce03bdb2027b960",
+          "bytes": 44200,
+          "width": 512,
+          "height": 486,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 224804,
+              "lossy90": 44200
+            }
+          },
+          "kind": "title_screen",
+          "path": "500-12098-A/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Cars (USA).png",
+              "source_sha256": "5a76bf5759d739a83bd9a624c8535525ea80aebccb36a6466eb3203fdf386057",
+              "source_bytes": 279346,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 224804,
+                  "lossy90": 44200
+                }
+              },
+              "redump_id": "0030",
+              "dat_name": "Cars (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "500-12098-A"
+      ]
+    }
+  }
+}

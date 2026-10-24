@@ -1,0 +1,1807 @@
+{
+  "schema_version": 2,
+  "system": "Funtech - Super Acan",
+  "dat": {
+    "file": "6884e32a2d56203e2b32919741e46a016eb2149f036946bbbf13b3cdfb9c169d.dat",
+    "sha256": "6884e32a2d56203e2b32919741e46a016eb2149f036946bbbf13b3cdfb9c169d",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Funtech - Super Acan (20260913-064553).dat",
+      "standard_sha256": "febef2c606e4895cf9e869a314c0923002271fbabb262ac7fe91b20319bfef1a",
+      "db_members": {
+        "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+      }
+    },
+    "version": "20260913-064553",
+    "system": "Funtech - Super Acan",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "F-001": {
+      "serial": "F-001",
+      "entries": [
+        {
+          "redump_id": "0010",
+          "entry_id": "0010",
+          "provider": "no-intro",
+          "name": "Formosa Duel (Taiwan)",
+          "serial_raw": "F-001",
+          "serials": [
+            "F-001"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-001",
+                "field": "media_serial1",
+                "source_id": "9",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e61d8e609c5ca7d11419753d826fd9ec2355bbf713f4fbbc1532abdf93e2965d",
+          "bytes": 66792,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 417868,
+              "lossy90": 66792
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Formosa Duel (Taiwan).png",
+              "source_sha256": "d8e5cdcfd3fa188b3b1f539d9c284184c87b7f46fcdda5fa3972557724f3a377",
+              "source_bytes": 688782,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 417868,
+                  "lossy90": 66792
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Formosa Duel (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d4cfc73a614f46211090ff9da295a426f7a5388783dc8f18828983d0e7fb9e55",
+          "bytes": 21458,
+          "width": 256,
+          "height": 193,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 85186,
+              "lossy90": 21458
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Formosa Duel (Taiwan).png",
+              "source_sha256": "2adcdcdb6e8867b97a23a8349b6d7e1b4290bc8721c24ae44522ee3c301fef02",
+              "source_bytes": 104372,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 85186,
+                  "lossy90": 21458
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Formosa Duel (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "51227236cb171861df7d089e42fe93bde52e59f4bbcb2e92b1a9b53a8cd7530d",
+          "bytes": 18978,
+          "width": 256,
+          "height": 187,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 79028,
+              "lossy90": 18978
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Formosa Duel (Taiwan).png",
+              "source_sha256": "16a1f38f4200086afb9de5d8a4cda258c637665c14e90803ed348f8af2f35281",
+              "source_bytes": 94475,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 79028,
+                  "lossy90": 18978
+                }
+              },
+              "redump_id": "0010",
+              "dat_name": "Formosa Duel (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-001"
+      ]
+    },
+    "F-002": {
+      "serial": "F-002",
+      "entries": [
+        {
+          "redump_id": "0004",
+          "entry_id": "0004",
+          "provider": "no-intro",
+          "name": "Sango Fighter (Taiwan)",
+          "serial_raw": "F-002",
+          "serials": [
+            "F-002"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-002",
+                "field": "media_serial1",
+                "source_id": "4",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "8bcdc0c4662cb32bd8d8b3ea635896552a3c4b651fe29fd2b9c52e9a0c31b44d",
+          "bytes": 132400,
+          "width": 512,
+          "height": 896,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 601586,
+              "lossy90": 132400
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sango Fighter (Taiwan).png",
+              "source_sha256": "68218987bce9d3db408932a48bf85be6687264ec5cea1fdd10a22356c3e5ccd4",
+              "source_bytes": 825957,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 601586,
+                  "lossy90": 132400
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Sango Fighter (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "4ec84bff7c8d5b68f45d3d2e4fbb9b9db3574f0da084ed8b9e710f0d231fe590",
+          "bytes": 32470,
+          "width": 400,
+          "height": 236,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 58392,
+              "lossy90": 32470
+            }
+          },
+          "kind": "logo",
+          "path": "F-002/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Sango Fighter (Taiwan).png",
+              "source_sha256": "b76158daccb36f8e44b9f239fe9da60123eef1cd834c93ce0297becd066c45e4",
+              "source_bytes": 88873,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 58392,
+                  "lossy90": 32470
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Sango Fighter (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "435328625f060d754526144435c7837a7b38cc5b2950924691622493b00cdd95",
+          "bytes": 16162,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 16162,
+              "lossy90": 37600
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Sango Fighter (Taiwan).png",
+              "source_sha256": "5e46de034cc46fba4a9f7de5e951e5220fecb0aad88c229be86fd3cd6de48bc2",
+              "source_bytes": 17113,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 16162,
+                  "lossy90": 37600
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Sango Fighter (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ae4c23d872cbca3a3f388f077e9b0973b635734fb3c0c041ce8d9322869275fb",
+          "bytes": 7864,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 7864,
+              "lossy90": 21424
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-002/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Sango Fighter (Taiwan).png",
+              "source_sha256": "e4639808b8e79447d7a3501ef4c28c5c5d9e44c367de6e448b9f69fed0f556ee",
+              "source_bytes": 8188,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 7864,
+                  "lossy90": 21424
+                }
+              },
+              "redump_id": "0004",
+              "dat_name": "Sango Fighter (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-002"
+      ]
+    },
+    "F-003": {
+      "serial": "F-003",
+      "entries": [
+        {
+          "redump_id": "0009",
+          "entry_id": "0009",
+          "provider": "no-intro",
+          "name": "The Son of Evil (Taiwan)",
+          "serial_raw": "F-003",
+          "serials": [
+            "F-003"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-003",
+                "field": "media_serial1",
+                "source_id": "8",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3baacb1c2808bf1672d2482f0ae5a17f1a622a006be91375104393e2a4a3d54b",
+          "bytes": 35340,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 255386,
+              "lossy90": 35340
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-003/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/The Son of Evil (Taiwan).png",
+              "source_sha256": "4b2c7fae7ef87ef69436758fa45ee22ccc7d618acbc538a4c7ae405bb3e25a8e",
+              "source_bytes": 395736,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 255386,
+                  "lossy90": 35340
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "The Son of Evil (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "82aad1d5558d69a37613e178f233c931a291bf3e907fea0f66ad4344363354ea",
+          "bytes": 15174,
+          "width": 256,
+          "height": 197,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 57276,
+              "lossy90": 15174
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-003/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/The Son of Evil (Taiwan).png",
+              "source_sha256": "eeca391011b9b7f4758ed1f0fdcd307a11a6adb8d03ae2d5cc0aa1c28d7e0d1d",
+              "source_bytes": 83101,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 57276,
+                  "lossy90": 15174
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "The Son of Evil (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "69a9c5fcb958da06c9632048e2e132f043100bcd8023c699091535109067f237",
+          "bytes": 14450,
+          "width": 512,
+          "height": 330,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 78286,
+              "lossy90": 14450
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-003/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/The Son of Evil (Taiwan).png",
+              "source_sha256": "2ed3744458ac323698172773beb89126bda9487a4451673ae0275a23a5a328c4",
+              "source_bytes": 110678,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 78286,
+                  "lossy90": 14450
+                }
+              },
+              "redump_id": "0009",
+              "dat_name": "The Son of Evil (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-003"
+      ]
+    },
+    "F-004": {
+      "serial": "F-004",
+      "entries": [
+        {
+          "redump_id": "0008",
+          "entry_id": "0008",
+          "provider": "no-intro",
+          "name": "Speedy Dragon (Taiwan)",
+          "serial_raw": "F-004",
+          "serials": [
+            "F-004"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-004",
+                "field": "media_serial1",
+                "source_id": "7",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "4b2924e3eaa5c1f3aedee96ad49bb21825d6289d451bd4adbbeb626469c02e76",
+          "bytes": 136820,
+          "width": 512,
+          "height": 896,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 597724,
+              "lossy90": 136820
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-004/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Speedy Dragon (Taiwan).png",
+              "source_sha256": "1d749bafb33fec6cdafca3a5ed5aa576a5dc2fea63e8ac6dfcde126158104227",
+              "source_bytes": 817104,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 597724,
+                  "lossy90": 136820
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Speedy Dragon (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "80a3f557229c4bc383b41f32254202a5582b230938873aeab3e4006bdaba099d",
+          "bytes": 10450,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10450,
+              "lossy90": 25008
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-004/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Speedy Dragon (Taiwan).png",
+              "source_sha256": "6d8d3b2afb4798d72b8350363f13a639eafba1795eac8072355386c232d506a8",
+              "source_bytes": 10834,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10450,
+                  "lossy90": 25008
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Speedy Dragon (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "21d8ebdfe9433e0b508341643b6e585350db8a6974d794b1b7acc9a7b08070ca",
+          "bytes": 11748,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11748,
+              "lossy90": 23400
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-004/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Speedy Dragon (Taiwan).png",
+              "source_sha256": "ad5709cef58107fe02a82a4984f49f1c66d22f06ba3d4985a3c065b7ad622fa8",
+              "source_bytes": 12232,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11748,
+                  "lossy90": 23400
+                }
+              },
+              "redump_id": "0008",
+              "dat_name": "Speedy Dragon (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-004"
+      ]
+    },
+    "F-005": {
+      "serial": "F-005",
+      "entries": [
+        {
+          "redump_id": "0005",
+          "entry_id": "0005",
+          "provider": "no-intro",
+          "name": "Super Taiwanese Baseball League (Taiwan)",
+          "serial_raw": "F-005",
+          "serials": [
+            "F-005"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-005",
+                "field": "media_serial1",
+                "source_id": "5",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "e01a3bcd1e7bad9e3cdeeb098aabd6fd05f962d4cae798eac969f87ffa6f5d7f",
+          "bytes": 84334,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 453036,
+              "lossy90": 84334
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-005/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Super Taiwanese Baseball League (Taiwan).png",
+              "source_sha256": "420522fd8c023f49683074ffec71bee46067db05278beec840d81d008383ca3e",
+              "source_bytes": 783951,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 453036,
+                  "lossy90": 84334
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Super Taiwanese Baseball League (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7d5ffdf71a310c6ecc79d2aeb8cf22a8e00416cef5e459cfe6bd16cc9361fcdd",
+          "bytes": 18660,
+          "width": 256,
+          "height": 196,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 76696,
+              "lossy90": 18660
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-005/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Super Taiwanese Baseball League (Taiwan).png",
+              "source_sha256": "195f41e0faa77e156298abb35d7e38cf8422f5f0f9bca7a6f4370cda45c839f3",
+              "source_bytes": 96202,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 76696,
+                  "lossy90": 18660
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Super Taiwanese Baseball League (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "54d764a86dbe3e96b7455d63eb4b2fb7214963a1096e3044c1afe20d73d990de",
+          "bytes": 16466,
+          "width": 256,
+          "height": 178,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 59700,
+              "lossy90": 16466
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-005/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Super Taiwanese Baseball League (Taiwan).png",
+              "source_sha256": "22275891a8f795fcecfc3b3448cedc7a566f4c423338fdb7473ec4b7d95711c7",
+              "source_bytes": 81573,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 59700,
+                  "lossy90": 16466
+                }
+              },
+              "redump_id": "0005",
+              "dat_name": "Super Taiwanese Baseball League (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-005"
+      ]
+    },
+    "F-006": {
+      "serial": "F-006",
+      "entries": [
+        {
+          "redump_id": "0007",
+          "entry_id": "0007",
+          "provider": "no-intro",
+          "name": "Journey to the Laugh (Taiwan)",
+          "serial_raw": "F-006",
+          "serials": [
+            "F-006"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-006",
+                "field": "media_serial1",
+                "source_id": "2",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "dd365fe45bd7167fdae7a80e8312c6700d7679cda9c361c9b1e7b65e752e7947",
+          "bytes": 84532,
+          "width": 512,
+          "height": 896,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 486312,
+              "lossy90": 84532
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-006/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Journey to the Laugh (Taiwan).png",
+              "source_sha256": "0930105a6f525b2541ba208f07a02886d69f93ce8cd924cffea642e062a9d68e",
+              "source_bytes": 671404,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 486312,
+                  "lossy90": 84532
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Journey to the Laugh (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "483d140cfaa0c03488b2289a63c26eac3bd3092a800f0c26b5b5482ee5835c01",
+          "bytes": 9478,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 9478,
+              "lossy90": 37274
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-006/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Journey to the Laugh (Taiwan).png",
+              "source_sha256": "de3ba20a0d4d569e43813d2a1757c9ae916ede29a81cb64babf708f6d8488552",
+              "source_bytes": 9142,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 9478,
+                  "lossy90": 37274
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Journey to the Laugh (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "66c23ca8ea7f80ad93712b34bcb76c214ef89fa1dd3235f13618fc70f07e2028",
+          "bytes": 6156,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 6156,
+              "lossy90": 25216
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-006/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Journey to the Laugh (Taiwan).png",
+              "source_sha256": "2468e0a027c42ffe1135db4fe06ddea829cc2a2ea544a98f43ad2e66026035db",
+              "source_bytes": 6630,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 6156,
+                  "lossy90": 25216
+                }
+              },
+              "redump_id": "0007",
+              "dat_name": "Journey to the Laugh (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-006"
+      ]
+    },
+    "F-007": {
+      "serial": "F-007",
+      "entries": [
+        {
+          "redump_id": "0003",
+          "entry_id": "0003",
+          "provider": "no-intro",
+          "name": "Super Dragon Force (Taiwan)",
+          "serial_raw": "F-007",
+          "serials": [
+            "F-007"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-007",
+                "field": "media_serial1",
+                "source_id": "3",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d8176bd294c5c0c22b01f7c903b05f0912bb7ad6e2e69a0939be4c8aa752ec53",
+          "bytes": 44204,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 297542,
+              "lossy90": 44204
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-007/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Super Dragon Force (Taiwan).png",
+              "source_sha256": "293aa7e73254bf3f4c0ee32a878956a04f7d6271e7fbbe9c17a18b564ec23541",
+              "source_bytes": 508251,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 297542,
+                  "lossy90": 44204
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Super Dragon Force (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "3a832912687cb93297c907faa872b0d4012a2b14a27190dd226194a9f4072651",
+          "bytes": 17628,
+          "width": 400,
+          "height": 84,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 47530,
+              "lossy90": 17628
+            }
+          },
+          "kind": "logo",
+          "path": "F-007/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Super Dragon Force (Taiwan).png",
+              "source_sha256": "a34561136bc2a207f411c1f2c413d79039004f398de78331d9c1c30b664eac8b",
+              "source_bytes": 137288,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 47530,
+                  "lossy90": 17628
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Super Dragon Force (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "bbc1200be7cea5340da2c4878d5281691ba93cffdcaa515e4a98ca4697d332e8",
+          "bytes": 51344,
+          "width": 512,
+          "height": 384,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 208100,
+              "lossy90": 51344
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-007/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Super Dragon Force (Taiwan).png",
+              "source_sha256": "8fbe81b1c9f1e22389ba4f15597dd638f402db2629c28c7ce87ca42beaf0ffbd",
+              "source_bytes": 293296,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 208100,
+                  "lossy90": 51344
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Super Dragon Force (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "56b87761cc804e4b984f2e7bea1a70c094bce239b92a886ff1364f74a13b42c3",
+          "bytes": 37768,
+          "width": 512,
+          "height": 376,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 170548,
+              "lossy90": 37768
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-007/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Super Dragon Force (Taiwan).png",
+              "source_sha256": "4cb751f5047907982292dca41da2014bdfdcd544bdd6881b0cfd957ac3aba8af",
+              "source_bytes": 199665,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 170548,
+                  "lossy90": 37768
+                }
+              },
+              "redump_id": "0003",
+              "dat_name": "Super Dragon Force (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-007"
+      ]
+    },
+    "F-008": {
+      "serial": "F-008",
+      "entries": [
+        {
+          "redump_id": "0006",
+          "entry_id": "0006",
+          "provider": "no-intro",
+          "name": "Monopoly - Adventure in Africa (Taiwan)",
+          "serial_raw": "F-008",
+          "serials": [
+            "F-008"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-008",
+                "field": "media_serial1",
+                "source_id": "6",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "847240fc4fc54a74756f33becb6ede8f9a2f174084f148b20829c3773a4488c1",
+          "bytes": 71152,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 415292,
+              "lossy90": 71152
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-008/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Monopoly - Adventure in Africa (Taiwan).png",
+              "source_sha256": "de40f3b6d1a91a4bc08ce02a16728a198c6e9babff0bf0fc53045ce8a8c19740",
+              "source_bytes": 681023,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 415292,
+                  "lossy90": 71152
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Monopoly - Adventure in Africa (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "053843827da3eca309a6747a8114622f455d2fa06cb94b931b26fe51c974f0f2",
+          "bytes": 10976,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10976,
+              "lossy90": 43286
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-008/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Monopoly - Adventure in Africa (Taiwan).png",
+              "source_sha256": "15026b7aff04fec7eefff7ecb973f0f7e5b9fd99b4ab2742d51a8ebb16bf6bcf",
+              "source_bytes": 11152,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10976,
+                  "lossy90": 43286
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Monopoly - Adventure in Africa (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "6dc3142bd203fce62a5bdb7b1a49a91995f577cc4f9bd1e1e8c9a96c57267fea",
+          "bytes": 10274,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 10274,
+              "lossy90": 43376
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-008/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Monopoly - Adventure in Africa (Taiwan).png",
+              "source_sha256": "c0c46ed5fb0d3308bf25f098c168e1561f799e515f72d8da6aca7de535de8e7c",
+              "source_bytes": 9965,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 10274,
+                  "lossy90": 43376
+                }
+              },
+              "redump_id": "0006",
+              "dat_name": "Monopoly - Adventure in Africa (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-008"
+      ]
+    },
+    "F-009": {
+      "serial": "F-009",
+      "entries": [
+        {
+          "redump_id": "0011",
+          "entry_id": "0011",
+          "provider": "no-intro",
+          "name": "Gambling Lord (Taiwan)",
+          "serial_raw": "F-009",
+          "serials": [
+            "F-009"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-009",
+                "field": "media_serial1",
+                "source_id": "10",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3accd20508a0f2ac8a0212a365a80efc4fa4818979bec8cf941fd386b8e12732",
+          "bytes": 104300,
+          "width": 512,
+          "height": 896,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 523376,
+              "lossy90": 104300
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-009/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Gambling Lord (Taiwan).png",
+              "source_sha256": "b6a8ea2f247bb7ed467cfe7f3977ce5ad59e15d01baba75640225fe3b15f1c74",
+              "source_bytes": 736507,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 523376,
+                  "lossy90": 104300
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Gambling Lord (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "7bf73d4fdebb77ca46badffd2ab991b134fb010831344ff8fa7ccf5ba7de807c",
+          "bytes": 4852,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4852,
+              "lossy90": 19472
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-009/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Gambling Lord (Taiwan).png",
+              "source_sha256": "a7f21f12220efd56a185ea86ea0dcd105c6bb2655427de1601d131d29a559e53",
+              "source_bytes": 7779,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4852,
+                  "lossy90": 19472
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Gambling Lord (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "8e39b044c752279cff4a10d4a3b85611956d07618019c56eb15cb27de0e3df33",
+          "bytes": 11154,
+          "width": 320,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 11154,
+              "lossy90": 28292
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-009/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Gambling Lord (Taiwan).png",
+              "source_sha256": "b0f675d21b46d597ecf303a83ed86b8a72252b6ed64a44019096a0141884d281",
+              "source_bytes": 16308,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 11154,
+                  "lossy90": 28292
+                }
+              },
+              "redump_id": "0011",
+              "dat_name": "Gambling Lord (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-009"
+      ]
+    },
+    "F-010": {
+      "serial": "F-010",
+      "entries": [
+        {
+          "redump_id": "0012",
+          "entry_id": "0012",
+          "provider": "no-intro",
+          "name": "Magical Pool (Taiwan)",
+          "serial_raw": "F-010",
+          "serials": [
+            "F-010"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-010",
+                "field": "media_serial1",
+                "source_id": "11",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "c3f6842339621e638df030f151ad1a4eaacd2442359ce53135d7e0e07e61144f",
+          "bytes": 35396,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 252428,
+              "lossy90": 35396
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-010/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Magical Pool (Taiwan).png",
+              "source_sha256": "b6d0b7f7401ae987b98aa609fe99ea645d14587e4ba43d03a225dea391dc0e95",
+              "source_bytes": 416040,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 252428,
+                  "lossy90": 35396
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Magical Pool (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "18983e66337827f2eafcd191e92b598666bb936ad217ebe98456349508f1a0e4",
+          "bytes": 10466,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 66450,
+              "lossy90": 10466
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-010/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Magical Pool (Taiwan).png",
+              "source_sha256": "593b58d82b2d3f0cee19fe4576cb750cf83c7ceae80c66acd4c5a9aa0951825c",
+              "source_bytes": 94786,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 66450,
+                  "lossy90": 10466
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Magical Pool (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "e99589ff9e5ba9eb9c329bf14164df4ba165afece2e57500c5421f06521c9d2d",
+          "bytes": 20694,
+          "width": 479,
+          "height": 360,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 84480,
+              "lossy90": 20694
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-010/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Magical Pool (Taiwan).png",
+              "source_sha256": "236f5e6d0227423bef114ae80e25d6ff9449b15155052014acca84a72df63a4b",
+              "source_bytes": 143551,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 84480,
+                  "lossy90": 20694
+                }
+              },
+              "redump_id": "0012",
+              "dat_name": "Magical Pool (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-010"
+      ]
+    },
+    "F-011": {
+      "serial": "F-011",
+      "entries": [
+        {
+          "redump_id": "0001",
+          "entry_id": "0001",
+          "provider": "no-intro",
+          "name": "Boom Zoo (Taiwan)",
+          "serial_raw": "F-011",
+          "serials": [
+            "F-011"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "F-011",
+                "field": "media_serial1",
+                "source_id": "1",
+                "section": "Third Party",
+                "member": "No-Intro/Funtech - Super Acan (DB Export) (20260913-064553).xml",
+                "member_sha256": "291a83ed5a4629ed5178971853bb942510a3538997a3a70cf8b09efec17bf32e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d25bfc0121ce36f3c11160dbcf3581b22e17fcb85678e65f5f4722d6e2e7242f",
+          "bytes": 67276,
+          "width": 512,
+          "height": 896,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 389920,
+              "lossy90": 67276
+            }
+          },
+          "kind": "cover_front",
+          "path": "F-011/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Boom Zoo (Taiwan).png",
+              "source_sha256": "df9d4c61ed8b44eecfc7638563e0e8a2755cc8be73c10b4d45ddb189fa78679d",
+              "source_bytes": 596713,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 389920,
+                  "lossy90": 67276
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "Boom Zoo (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d8bd1b21383265d0054ffc2b076c6acd648fcfa9751330af8cd82d02293201c5",
+          "bytes": 4666,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 4666,
+              "lossy90": 30598
+            }
+          },
+          "kind": "screenshot",
+          "path": "F-011/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Boom Zoo (Taiwan).png",
+              "source_sha256": "49e55e4ce254a43207dbb79fcfa0732295de9d886dc79f0d65852de2df45731e",
+              "source_bytes": 4798,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 4666,
+                  "lossy90": 30598
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "Boom Zoo (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "ff15a5925f78c33d70c20c243f95370636af4776bd288c716ec729cf5351fa89",
+          "bytes": 3668,
+          "width": 256,
+          "height": 224,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 3668,
+              "lossy90": 15760
+            }
+          },
+          "kind": "title_screen",
+          "path": "F-011/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Boom Zoo (Taiwan).png",
+              "source_sha256": "2e8b90f1da55a656aec2043f2922ed7b4f3083f3280b9c23da61ca6fbf163dd8",
+              "source_bytes": 4007,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 3668,
+                  "lossy90": 15760
+                }
+              },
+              "redump_id": "0001",
+              "dat_name": "Boom Zoo (Taiwan)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "F-011"
+      ]
+    }
+  }
+}

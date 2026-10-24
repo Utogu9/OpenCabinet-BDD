@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "system": "Microsoft - MSX2",
+  "dat": {
+    "file": "a3cbff15bc5be3627ef19964bf3169677fffe66899ee72beab639526ae1628b2.dat",
+    "sha256": "a3cbff15bc5be3627ef19964bf3169677fffe66899ee72beab639526ae1628b2",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Microsoft - MSX2 (20260124-112728).dat",
+      "standard_sha256": "2b091dda9a132b1d8b14a131ff8152ee2ca873c52ed3a08d6ce10f5fb4395c64",
+      "db_members": {
+        "No-Intro/Microsoft - MSX2 (DB Export) (20260124-112728).xml": "72b3f4a734bc7f9df355af9297f4b37c867049785cbdfb7bfad7a0080e584029"
+      }
+    },
+    "version": "20260124-112728",
+    "system": "Microsoft - MSX2",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {}
+}

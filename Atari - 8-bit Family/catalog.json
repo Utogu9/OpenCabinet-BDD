@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "system": "Atari - 8-bit Family",
+  "dat": {
+    "file": "8ce49f81dfa24d2268ba133a2a878e1705c1290792a776ad1c2c01b055d3de04.dat",
+    "sha256": "8ce49f81dfa24d2268ba133a2a878e1705c1290792a776ad1c2c01b055d3de04",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Atari - 8-bit Family (20260918-122830).dat",
+      "standard_sha256": "fec9ad902dcab4b16b201028c2503e421eb5e7ae0ec41d1aae954750af84935c",
+      "db_members": {
+        "No-Intro/Atari - 8-bit Family (DB Export) (20260918-122830).xml": "2e8c012d7ace3094d5ecc83e3add63503821c591c8f65e5aa9eb79d75b011f82"
+      }
+    },
+    "version": "20260918-122830",
+    "system": "Atari - 8-bit Family",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {}
+}

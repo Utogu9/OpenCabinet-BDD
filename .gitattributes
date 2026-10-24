@@ -1,0 +1,4 @@
+*.webp binary
+*.pdf binary
+*.json -text
+*.md text eol=lf

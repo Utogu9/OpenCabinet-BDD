@@ -1,0 +1,228 @@
+{
+  "schema_version": 2,
+  "system": "Emerson - Arcadia 2001",
+  "dat": {
+    "file": "88d53d1a3d141fcc17537a49d1689d25cd31aae38651ea7edf49db3d678209b5.dat",
+    "sha256": "88d53d1a3d141fcc17537a49d1689d25cd31aae38651ea7edf49db3d678209b5",
+    "source_provenance": {
+      "provider": "no-intro",
+      "url": "https://datomatic.no-intro.org/index.php?page=download&op=daily&s=64",
+      "policy": "official-db-primary-media-fill-v1",
+      "standard_member": "No-Intro/Emerson - Arcadia 2001 (20240811-205103).dat",
+      "standard_sha256": "46ab5691be80ae5deda763d6d6e4788c2aea3d4d7261f571ec1afaa65d85fd67",
+      "db_members": {
+        "No-Intro/Emerson - Arcadia 2001 (DB Export) (20240811-205103).xml": "a3bf620f65f7aa2d85d94497aac37e73fdcc6b7afa9a525c002b77c34524fe1e"
+      }
+    },
+    "version": "20240811-205103",
+    "system": "Emerson - Arcadia 2001",
+    "provider": "no-intro"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "20": {
+      "serial": "20",
+      "entries": [
+        {
+          "redump_id": "0046",
+          "entry_id": "0046",
+          "provider": "no-intro",
+          "name": "Tanks a Lot (USA, Europe)",
+          "serial_raw": "20",
+          "serials": [
+            "20"
+          ],
+          "category": null,
+          "version": null,
+          "source_provenance": {
+            "provider": "no-intro",
+            "export": "DB",
+            "policy": "official-db-primary-media-fill-v1",
+            "evidence": [
+              {
+                "serial": "20",
+                "field": "media_serial1",
+                "source_id": "49",
+                "section": "Trusted Dump",
+                "member": "No-Intro/Emerson - Arcadia 2001 (DB Export) (20240811-205103).xml",
+                "member_sha256": "a3bf620f65f7aa2d85d94497aac37e73fdcc6b7afa9a525c002b77c34524fe1e"
+              }
+            ]
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "eacb61dead98303de1e4e41d6bd49242f5953b572058062a275aea9b2d3a3cb4",
+          "bytes": 63970,
+          "width": 512,
+          "height": 683,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 259312,
+              "lossy90": 63970
+            }
+          },
+          "kind": "cover_front",
+          "path": "20/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Tanks a Lot (USA, Europe).png",
+              "source_sha256": "47ca96b78825d6a30e17165ec4a4e4cdb14752dbe26eea12258602b952210eb0",
+              "source_bytes": 429679,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 259312,
+                  "lossy90": 63970
+                }
+              },
+              "redump_id": "0046",
+              "dat_name": "Tanks a Lot (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "logo": {
+          "sha256": "c592a4bda04c4f79f46da48d264bb25e8bf35adc192ae129723cd69aa4c1d5a3",
+          "bytes": 7478,
+          "width": 400,
+          "height": 45,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 9902,
+              "lossy90": 7478
+            }
+          },
+          "kind": "logo",
+          "path": "20/logo.webp",
+          "sources": [
+            {
+              "source": "Named_Logos/Tanks a Lot (USA, Europe).png",
+              "source_sha256": "fd2911e24470b1ade27a85f953910f1b1c9038a6a7e2f0344092b894b6053864",
+              "source_bytes": 13182,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 9902,
+                  "lossy90": 7478
+                }
+              },
+              "redump_id": "0046",
+              "dat_name": "Tanks a Lot (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "af1f96632f2c142dddebd4486daa1c5b1836442e829ad42aff3e24d549c04e5d",
+          "bytes": 944,
+          "width": 156,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 944,
+              "lossy90": 11696
+            }
+          },
+          "kind": "screenshot",
+          "path": "20/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Tanks a Lot (USA, Europe).png",
+              "source_sha256": "0a766ef5f52005fd0ca646bcedc4f5dc21bf49a6579ca4335e3ab9abc1365153",
+              "source_bytes": 16437,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 944,
+                  "lossy90": 11696
+                }
+              },
+              "redump_id": "0046",
+              "dat_name": "Tanks a Lot (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a4de99e4d390a135f1117253564741edc434cf9704b94ef21da173193d597fd7",
+          "bytes": 918,
+          "width": 156,
+          "height": 234,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": true,
+            "reason": "smallest_webp",
+            "quality": 100,
+            "candidate_bytes": {
+              "lossless": 918,
+              "lossy90": 11868
+            }
+          },
+          "kind": "title_screen",
+          "path": "20/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Tanks a Lot (USA, Europe).png",
+              "source_sha256": "7079eab82908d131f67a98af2d0c9d4283f9ca2fa33ab9824a736e139e14961e",
+              "source_bytes": 16412,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": true,
+                "reason": "smallest_webp",
+                "quality": 100,
+                "candidate_bytes": {
+                  "lossless": 918,
+                  "lossy90": 11868
+                }
+              },
+              "redump_id": "0046",
+              "dat_name": "Tanks a Lot (USA, Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "20"
+      ]
+    }
+  }
+}

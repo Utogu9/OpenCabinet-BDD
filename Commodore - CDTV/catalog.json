@@ -1,0 +1,1403 @@
+{
+  "schema_version": 2,
+  "system": "Commodore - CDTV",
+  "dat": {
+    "file": "27c3b6f3a68d5416b60746b2c1b6241ee4bbc95b6080b38166db84d3e306a4fc.dat",
+    "sha256": "27c3b6f3a68d5416b60746b2c1b6241ee4bbc95b6080b38166db84d3e306a4fc",
+    "version": "2026-10-14 05-50-21",
+    "system": "Commodore - Amiga CDTV",
+    "provider": "redump"
+  },
+  "source_policy": "release-metadata-v1",
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "status": "complete",
+  "games": {
+    "91133": {
+      "serial": "91133",
+      "entries": [
+        {
+          "redump_id": "26396",
+          "entry_id": "26396",
+          "provider": "redump",
+          "name": "SimCity (Europe) (En,Fr,De,Es,It)",
+          "serial_raw": "91133",
+          "serials": [
+            "91133"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "af9904e44aa2bbced3bbba04ee9436ab39c2c01489730398fc735a592492094a",
+          "bytes": 40218,
+          "width": 320,
+          "height": 270,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 143892,
+              "lossy90": 40218
+            }
+          },
+          "kind": "cover_front",
+          "path": "91133/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/SimCity (Europe) (En,Fr,De,Es,It).png",
+              "source_sha256": "b9c7c3d1118560494be0a62a04f8d1e12d2067f8f73d7a42eb56358c74f7313c",
+              "source_bytes": 196035,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 143892,
+                  "lossy90": 40218
+                }
+              },
+              "redump_id": "26396",
+              "dat_name": "SimCity (Europe) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front2": {
+          "sha256": "81f09d96b405ccedf7c725fab81611a7a3ab1840ceb6a19f4a1463c0c6fb0c69",
+          "bytes": 45758,
+          "width": 320,
+          "height": 269,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 157664,
+              "lossy90": 45758
+            }
+          },
+          "kind": "cover_front",
+          "path": "91133/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sim City (Europe).png",
+              "source_sha256": "ecb09e893682ef527cf2653c520d07537a465dad0ed61a7ef347d657d1b24eb0",
+              "source_bytes": 189539,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 157664,
+                  "lossy90": 45758
+                }
+              },
+              "redump_id": "26396",
+              "dat_name": "SimCity (Europe) (En,Fr,De,Es,It)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "4018ec7b099ccd424fdcffa01ad2ddec546af1b22a170ce2bb46d3d68bea4bb3",
+          "bytes": 11698,
+          "width": 320,
+          "height": 194,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 39162,
+              "lossy90": 11698
+            }
+          },
+          "kind": "screenshot",
+          "path": "91133/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/SimCity (Europe) (En,Fr,De,Es,It).png",
+              "source_sha256": "b225df322f213c6e0bd26dc8fb12aab1cc0d64927750edf03c6ff6d6f5c86d63",
+              "source_bytes": 51181,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 39162,
+                  "lossy90": 11698
+                }
+              },
+              "redump_id": "26396",
+              "dat_name": "SimCity (Europe) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot2": {
+          "sha256": "f15abcb910a5c6a953a583f5331c8c76f24e92a5bb1ad93ac3c71e351afe4db7",
+          "bytes": 18092,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 72500,
+              "lossy90": 18092
+            }
+          },
+          "kind": "screenshot",
+          "path": "91133/screenshot2.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Sim City (Europe).png",
+              "source_sha256": "5a4aeb20ac4157211f47967559f3cb8829a4d6fb0461275672918f616787f6cc",
+              "source_bytes": 85281,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 72500,
+                  "lossy90": 18092
+                }
+              },
+              "redump_id": "26396",
+              "dat_name": "SimCity (Europe) (En,Fr,De,Es,It)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "fd9868e9c1667d8c7fbd0a062c204cee82ee46b5061a69d019caaf15b75200a4",
+          "bytes": 17874,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 59400,
+              "lossy90": 17874
+            }
+          },
+          "kind": "title_screen",
+          "path": "91133/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Sim City (Europe).png",
+              "source_sha256": "e7f24cecba2d0370052ec1d55bfeed2a70aa744d12521a40a1c87d853dfaf620",
+              "source_bytes": 70897,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 59400,
+                  "lossy90": 17874
+                }
+              },
+              "redump_id": "26396",
+              "dat_name": "SimCity (Europe) (En,Fr,De,Es,It)",
+              "match": "release_metadata_normalized"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "91133"
+      ]
+    },
+    "CD32-3010": {
+      "serial": "CD32-3010",
+      "entries": [
+        {
+          "redump_id": "106415",
+          "entry_id": "106415",
+          "provider": "redump",
+          "name": "Defender of the Crown II (Europe)",
+          "serial_raw": "CD32-3010",
+          "serials": [
+            "CD32-3010"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d75f00f7f27a97786ce949be41ed11940e27d7768555f6837e1683186ee8ada6",
+          "bytes": 23736,
+          "width": 320,
+          "height": 284,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 96186,
+              "lossy90": 23736
+            }
+          },
+          "kind": "cover_front",
+          "path": "CD32-3010/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Defender of the Crown II (Europe).png",
+              "source_sha256": "336eb2fcf68d885999ccb36631243896e7695cb68065f80b8bbb14499b31cb08",
+              "source_bytes": 142863,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 96186,
+                  "lossy90": 23736
+                }
+              },
+              "redump_id": "106415",
+              "dat_name": "Defender of the Crown II (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "e3151b410772a94362b138893ffc1c097a59db3e61fa99eeb984f76cc01b0cb4",
+          "bytes": 28856,
+          "width": 320,
+          "height": 200,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 95064,
+              "lossy90": 28856
+            }
+          },
+          "kind": "screenshot",
+          "path": "CD32-3010/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Defender of the Crown II (Europe).png",
+              "source_sha256": "86893a12b471c0c065858009913161a4c38111280dd6719c114815e017a7d599",
+              "source_bytes": 131323,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 95064,
+                  "lossy90": 28856
+                }
+              },
+              "redump_id": "106415",
+              "dat_name": "Defender of the Crown II (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CD32-3010"
+      ]
+    },
+    "CD32-7001": {
+      "serial": "CD32-7001",
+      "entries": [
+        {
+          "redump_id": "111325",
+          "entry_id": "111325",
+          "provider": "redump",
+          "name": "Insight Technology (Europe)",
+          "serial_raw": "CD32-7001",
+          "serials": [
+            "CD32-7001"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "d55c5cad910b1dbfdbe5ac2cb050e51afff5774950207d170c67b3108fea17e9",
+          "bytes": 22500,
+          "width": 320,
+          "height": 284,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 91776,
+              "lossy90": 22500
+            }
+          },
+          "kind": "cover_front",
+          "path": "CD32-7001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Insight - Technology (Europe).png",
+              "source_sha256": "1c6741acb92019d071291598d934bd16a2df18af1ded98ff03636863ac03ba94",
+              "source_bytes": 115640,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 91776,
+                  "lossy90": 22500
+                }
+              },
+              "redump_id": "111325",
+              "dat_name": "Insight Technology (Europe)",
+              "match": "title_separators_normalized"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "90ca376ade10146aa4b9c55d39693d3fb46c7fb7296bface6328f6d524cf229d",
+          "bytes": 10344,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 41632,
+              "lossy90": 10344
+            }
+          },
+          "kind": "screenshot",
+          "path": "CD32-7001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Insight Technology (Europe).png",
+              "source_sha256": "30f0d80f9d34b590d1a38b5caad7b6dd60628e588b35c353b80e1c78fe380844",
+              "source_bytes": 64994,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 41632,
+                  "lossy90": 10344
+                }
+              },
+              "redump_id": "111325",
+              "dat_name": "Insight Technology (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "9d2afef66d51df2e33b7c434a5969f51358a47b6d3f7c25b6e9c286023564a22",
+          "bytes": 18750,
+          "width": 320,
+          "height": 240,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 86220,
+              "lossy90": 18750
+            }
+          },
+          "kind": "title_screen",
+          "path": "CD32-7001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Insight Technology (Europe).png",
+              "source_sha256": "4e48b42fc98848a4c9bca789118da63362fa94deb077f9756ca4e644d78a6e5a",
+              "source_bytes": 110395,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 86220,
+                  "lossy90": 18750
+                }
+              },
+              "redump_id": "111325",
+              "dat_name": "Insight Technology (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CD32-7001"
+      ]
+    },
+    "CDRM-445900": {
+      "serial": "CDRM-445900",
+      "entries": [
+        {
+          "redump_id": "16957",
+          "entry_id": "16957",
+          "provider": "redump",
+          "name": "New Basics Electronic Cookbook, The - 1991a Edition (USA)",
+          "serial_raw": "CDRM-445900",
+          "serials": [
+            "CDRM-445900"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "e1320fc9e2b1b9156a07640898d11b59879ee3b07fa122e9a58969331f0036b9",
+          "bytes": 16002,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 30686,
+              "lossy90": 16002
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDRM-445900/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/New Basics Electronic Cookbook, The - 1991a Edition (USA).png",
+              "source_sha256": "011f5a4e70073ed1fdd6131e563684ecb28c8061952bd4629ab944ce3f1dfcd2",
+              "source_bytes": 56083,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 30686,
+                  "lossy90": 16002
+                }
+              },
+              "redump_id": "16957",
+              "dat_name": "New Basics Electronic Cookbook, The - 1991a Edition (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDRM-445900"
+      ]
+    },
+    "CDRM-446200": {
+      "serial": "CDRM-446200",
+      "entries": [
+        {
+          "redump_id": "14908",
+          "entry_id": "14908",
+          "provider": "redump",
+          "name": "American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)",
+          "serial_raw": "CDRM 446200",
+          "serials": [
+            "CDRM-446200"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "2c6beab57e2724799733872117bcbd002b369453d8d3ba5602360d6a73ce3dd4",
+          "bytes": 21918,
+          "width": 320,
+          "height": 315,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 109778,
+              "lossy90": 21918
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDRM-446200/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA).png",
+              "source_sha256": "201bf45a0f5f315d51a7f96a9309a2a4596c21d1c9c7b79c16db4bd5bea8ab94",
+              "source_bytes": 164397,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 109778,
+                  "lossy90": 21918
+                }
+              },
+              "redump_id": "14908",
+              "dat_name": "American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "83868df5467c2ed0684153cf895429c007c3348f650f7d95c05d2054749c8287",
+          "bytes": 13892,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 33278,
+              "lossy90": 13892
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDRM-446200/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA).png",
+              "source_sha256": "beb7978fcc9b780e1b2b7a6f2020963e4bfceeaa185e9bf11b0c610b40725355",
+              "source_bytes": 57758,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 33278,
+                  "lossy90": 13892
+                }
+              },
+              "redump_id": "14908",
+              "dat_name": "American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDRM-446200"
+      ]
+    },
+    "CDRM-735000": {
+      "serial": "CDRM-735000",
+      "entries": [
+        {
+          "redump_id": "16292",
+          "entry_id": "16292",
+          "provider": "redump",
+          "name": "Mud Puddle (USA) (En,Fr,De,Es,It)",
+          "serial_raw": "CDRM 735000",
+          "serials": [
+            "CDRM-735000"
+          ],
+          "category": "Educational",
+          "version": null
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "ca2594a5b7a8564675fe3ea81234a254b784e48351fa4eaef89068d1c344c99e",
+          "bytes": 16904,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 51674,
+              "lossy90": 16904
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDRM-735000/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Mud Puddle (USA) (En,Fr,De,Es,It).png",
+              "source_sha256": "0984edc9af604b3b8ba6c081fc39f413714e4ad65893d2801d6588c63c833392",
+              "source_bytes": 75954,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 51674,
+                  "lossy90": 16904
+                }
+              },
+              "redump_id": "16292",
+              "dat_name": "Mud Puddle (USA) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDRM-735000"
+      ]
+    },
+    "CDRM-735100": {
+      "serial": "CDRM-735100",
+      "entries": [
+        {
+          "redump_id": "16293",
+          "entry_id": "16293",
+          "provider": "redump",
+          "name": "Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)",
+          "serial_raw": "CDRM 735100",
+          "serials": [
+            "CDRM-735100"
+          ],
+          "category": "Educational",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "3d7f9eef69fcf293991f2a0242de38cd807cae6ed0f1b77f030f5cfb964fbcc8",
+          "bytes": 25878,
+          "width": 320,
+          "height": 320,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 111212,
+              "lossy90": 25878
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDRM-735100/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It).png",
+              "source_sha256": "eb3f41c43a656db81e1a9fbec941008b5eb969a529c663a1cfa337b708b655c8",
+              "source_bytes": 170200,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 111212,
+                  "lossy90": 25878
+                }
+              },
+              "redump_id": "16293",
+              "dat_name": "Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "ae1c000bf58a5ed4d2a63545400ef117fbddfbe277428dad63c8cee7fcb0ff38",
+          "bytes": 18400,
+          "width": 320,
+          "height": 204,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 48672,
+              "lossy90": 18400
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDRM-735100/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It).png",
+              "source_sha256": "74942641d0dffb34cc28f8a26dcc9db51504a93d738d72a55ca1b74e6f188f0a",
+              "source_bytes": 73574,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 48672,
+                  "lossy90": 18400
+                }
+              },
+              "redump_id": "16293",
+              "dat_name": "Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDRM-735100"
+      ]
+    },
+    "CDT-1001": {
+      "serial": "CDT-1001",
+      "entries": [
+        {
+          "redump_id": "3223",
+          "entry_id": "3223",
+          "provider": "redump",
+          "name": "Garden Fax - Indoor Plants (USA)",
+          "serial_raw": "CDT-1001",
+          "serials": [
+            "CDT-1001"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "screenshot": {
+          "sha256": "ad391298f9f996be773fa9d29a1f40ffbc35750f00f85f223b466b24be8a1cac",
+          "bytes": 25006,
+          "width": 320,
+          "height": 216,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 79006,
+              "lossy90": 25006
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-1001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Garden Fax - Indoor Plants (USA).png",
+              "source_sha256": "b65c7c8dee837918ce66b62d86d69ce9d6844be7213a2660717673feb02a95bf",
+              "source_bytes": 90522,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 79006,
+                  "lossy90": 25006
+                }
+              },
+              "redump_id": "3223",
+              "dat_name": "Garden Fax - Indoor Plants (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-1001"
+      ]
+    },
+    "CDT-1002": {
+      "serial": "CDT-1002",
+      "entries": [
+        {
+          "redump_id": "14997",
+          "entry_id": "14997",
+          "provider": "redump",
+          "name": "Garden Fax - Garden Plants (USA)",
+          "serial_raw": "CDT-1002",
+          "serials": [
+            "CDT-1002"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "faa3ab2b8da5af66c3d94e0bf6c711383bc1c058ad4af7d4be7aeeb5a18b6b76",
+          "bytes": 24606,
+          "width": 320,
+          "height": 320,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 106056,
+              "lossy90": 24606
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDT-1002/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Garden Fax - Garden Plants (USA).png",
+              "source_sha256": "9910aa711ef60e66fc044c022277703bd63a8b54c45e45b277bb95d2df89bdef",
+              "source_bytes": 175091,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 106056,
+                  "lossy90": 24606
+                }
+              },
+              "redump_id": "14997",
+              "dat_name": "Garden Fax - Garden Plants (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "2e2b8618419a50220fe40eb9b4fad91cc7c6b6a48d4f04084918011aef5e03ea",
+          "bytes": 10408,
+          "width": 320,
+          "height": 218,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 47382,
+              "lossy90": 10408
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-1002/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Garden Fax - Garden Plants (USA).png",
+              "source_sha256": "abfd24c82c0981056a0e1e14924994b61954b4d415cfb1986bc524e24dd78980",
+              "source_bytes": 65789,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 47382,
+                  "lossy90": 10408
+                }
+              },
+              "redump_id": "14997",
+              "dat_name": "Garden Fax - Garden Plants (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-1002"
+      ]
+    },
+    "CDT-1003": {
+      "serial": "CDT-1003",
+      "entries": [
+        {
+          "redump_id": "3231",
+          "entry_id": "3231",
+          "provider": "redump",
+          "name": "Garden Fax - Trees, Shrubs, Roses & Conifers (USA)",
+          "serial_raw": "CDT-1003",
+          "serials": [
+            "CDT-1003"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "7cd90fa2e408b8e2419ebe6ac83a8db0b5f2f4c4a993c468edccc3d84e11f096",
+          "bytes": 25094,
+          "width": 320,
+          "height": 320,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 110242,
+              "lossy90": 25094
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDT-1003/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Garden Fax - Trees, Shrubs, Roses & Conifers (USA).png",
+              "source_sha256": "d5771835e39d3ed29cda71e77afc71d789602ad73b3c2f9d97be879579cbdc47",
+              "source_bytes": 179864,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 110242,
+                  "lossy90": 25094
+                }
+              },
+              "redump_id": "3231",
+              "dat_name": "Garden Fax - Trees, Shrubs, Roses & Conifers (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "12aac33f11a9c01c42e7602060049ef197185031a8a8a62bfb826d4acadaccb9",
+          "bytes": 23544,
+          "width": 320,
+          "height": 216,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 76902,
+              "lossy90": 23544
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-1003/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Garden Fax - Trees, Shrubs, Roses & Conifers (USA).png",
+              "source_sha256": "3776d8857fed2de3be6bd2daef7d9a2924ead69cb695fda985a2dec95c646d2c",
+              "source_bytes": 89903,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 76902,
+                  "lossy90": 23544
+                }
+              },
+              "redump_id": "3231",
+              "dat_name": "Garden Fax - Trees, Shrubs, Roses & Conifers (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-1003"
+      ]
+    },
+    "CDT-1004": {
+      "serial": "CDT-1004",
+      "entries": [
+        {
+          "redump_id": "3224",
+          "entry_id": "3224",
+          "provider": "redump",
+          "name": "Garden Fax - Fruits, Vegetables & Herbs (USA)",
+          "serial_raw": "CDT-1004",
+          "serials": [
+            "CDT-1004"
+          ],
+          "category": "Multimedia",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "ef64613dfad02f56bb7d7515ea832f1722448660e6024513e76fa35903f5d4e8",
+          "bytes": 23162,
+          "width": 320,
+          "height": 320,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 107274,
+              "lossy90": 23162
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDT-1004/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Garden Fax - Fruits, Vegetables & Herbs (USA).png",
+              "source_sha256": "1c6e59b49aa4e0fe4b61e41bb5e681c1a599fa03d8cfbe3b3fa662e2b892adc5",
+              "source_bytes": 172529,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 107274,
+                  "lossy90": 23162
+                }
+              },
+              "redump_id": "3224",
+              "dat_name": "Garden Fax - Fruits, Vegetables & Herbs (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "628ed4114b375cae53039111e4b1eb5b6ac4577ff31af5b7917bc85defc5e60d",
+          "bytes": 17950,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 44950,
+              "lossy90": 17950
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-1004/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Garden Fax - Fruits, Vegetables & Herbs (USA).png",
+              "source_sha256": "e99e4e3064d9b93af6da1ee446c33702ca5a8f8f863d70ea7c00e8a472592447",
+              "source_bytes": 63443,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 44950,
+                  "lossy90": 17950
+                }
+              },
+              "redump_id": "3224",
+              "dat_name": "Garden Fax - Fruits, Vegetables & Herbs (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-1004"
+      ]
+    },
+    "CDT-2502": {
+      "serial": "CDT-2502",
+      "entries": [
+        {
+          "redump_id": "16704",
+          "entry_id": "16704",
+          "provider": "redump",
+          "name": "Bun for Barney, A (USA)",
+          "serial_raw": "CDT-2502",
+          "serials": [
+            "CDT-2502"
+          ],
+          "category": "Educational",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "a2c0e7603d0992a70bb1648008efe25867ffe8f86903b469f02ac4a98c8311d6",
+          "bytes": 28026,
+          "width": 320,
+          "height": 318,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 124254,
+              "lossy90": 28026
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDT-2502/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Bun for Barney, A (USA).png",
+              "source_sha256": "1b71edd6a1e792b542d76a8e6d87cf8d3acc96aa948b4ea2617e9505a70b6e85",
+              "source_bytes": 174167,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 124254,
+                  "lossy90": 28026
+                }
+              },
+              "redump_id": "16704",
+              "dat_name": "Bun for Barney, A (USA)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "d368e9fdab9a37491f2defae20b7f6f365f292ceeb95cc03d89d1b9c77e608b1",
+          "bytes": 28766,
+          "width": 320,
+          "height": 223,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 113454,
+              "lossy90": 28766
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-2502/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Bun for Barney, A (USA).png",
+              "source_sha256": "4dddef8c089e7846eea7845c3153eb83c54026e89f02e4c16963b043aa658d83",
+              "source_bytes": 152777,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 113454,
+                  "lossy90": 28766
+                }
+              },
+              "redump_id": "16704",
+              "dat_name": "Bun for Barney, A (USA)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-2502"
+      ]
+    },
+    "CDT-3001": {
+      "serial": "CDT-3001",
+      "entries": [
+        {
+          "redump_id": "24518",
+          "entry_id": "24518",
+          "provider": "redump",
+          "name": "Defender of the Crown (Europe)",
+          "serial_raw": "CDT-3001",
+          "serials": [
+            "CDT-3001"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "sha256": "aa3b708e8d13cbfba8b1893bb34431eb4209b8d922a3950eccc2a1513926427d",
+          "bytes": 38172,
+          "width": 320,
+          "height": 317,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 151942,
+              "lossy90": 38172
+            }
+          },
+          "kind": "cover_front",
+          "path": "CDT-3001/cover_front.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Defender of the Crown (Europe).png",
+              "source_sha256": "b1e2608fd1ee30551a917a7a26502dabbf2d51113999c5c7c0466449c7cc8a1e",
+              "source_bytes": 181403,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 151942,
+                  "lossy90": 38172
+                }
+              },
+              "redump_id": "24518",
+              "dat_name": "Defender of the Crown (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "screenshot": {
+          "sha256": "f109410dd50ad9d399681820f5ddf22bce4f2982dda5d3588859c93bdd171ade",
+          "bytes": 17104,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 67834,
+              "lossy90": 17104
+            }
+          },
+          "kind": "screenshot",
+          "path": "CDT-3001/screenshot.webp",
+          "sources": [
+            {
+              "source": "Named_Snaps/Defender of the Crown (Europe).png",
+              "source_sha256": "ec1c1b798ad1eccbe4a1729524dab6c35dc008b39c513e05a93e0efec9314628",
+              "source_bytes": 100425,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 67834,
+                  "lossy90": 17104
+                }
+              },
+              "redump_id": "24518",
+              "dat_name": "Defender of the Crown (Europe)",
+              "match": "exact"
+            }
+          ]
+        },
+        "title_screen": {
+          "sha256": "a89e9784a977db704ecc6848195bd18951833929092c9f30daeda361d696825c",
+          "bytes": 25214,
+          "width": 320,
+          "height": 240,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 92780,
+              "lossy90": 25214
+            }
+          },
+          "kind": "title_screen",
+          "path": "CDT-3001/title_screen.webp",
+          "sources": [
+            {
+              "source": "Named_Titles/Defender of the Crown (Europe).png",
+              "source_sha256": "2d751dedebff799763044c11f62072e9578b85ef1e7c38ef73ff7f6ebc237b38",
+              "source_bytes": 144152,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 92780,
+                  "lossy90": 25214
+                }
+              },
+              "redump_id": "24518",
+              "dat_name": "Defender of the Crown (Europe)",
+              "match": "exact"
+            }
+          ]
+        }
+      },
+      "serial_identifiers": [
+        "CDT-3001"
+      ]
+    }
+  }
+}
