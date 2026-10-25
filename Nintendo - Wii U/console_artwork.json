@@ -44,6 +44,29 @@
           "changes": "Original SVG, unchanged."
         }
       ]
+    },
+    "logo9": {
+      "sha256": "4567d3ed1ccdf27d003b34333ba329265edbe0d563d44da29d0404d7f7c9e3ce",
+      "bytes": 7491,
+      "width": 1000,
+      "height": 246,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 7491
+        }
+      },
+      "filename": "nintendo-mark.svg",
+      "source_sha256": "4567d3ed1ccdf27d003b34333ba329265edbe0d563d44da29d0404d7f7c9e3ce",
+      "path": "logo9.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\4567d3ed1ccdf27d003b34333ba329265edbe0d563d44da29d0404d7f7c9e3ce.bin",
+      "updated_at": "2026-10-25T08:09:27.799873+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
     }
   }
 }
