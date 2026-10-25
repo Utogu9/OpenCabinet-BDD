@@ -212,7 +212,8 @@
       },
       "serial_identifiers": [
         "DHSE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7191170"
     },
     "DMFE": {
       "serial": "DMFE",
@@ -574,6 +575,233 @@
       "serial_identifiers": [
         "USKV"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q7191170": {
+      "wikidata_id": "Q7191170",
+      "source_url": "https://www.wikidata.org/wiki/Q7191170",
+      "revision": 2529307639,
+      "modified": "2026-08-09T18:30:04Z",
+      "cached_at": "2026-10-25T05:38:08.809450+00:00",
+      "entity_sha256": "2bd79544209de5d4bb0a1b4b2391998361ee5695e563bc0c4c2d377a6d0f68fb",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Picture Perfect Hair Salon",
+        "mul": "Picture Perfect Hair Salon"
+      },
+      "short_descriptions": {
+        "en": "2009 video game",
+        "es": "videojuego de 2009"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2068658,
+              "id": "Q2068658"
+            },
+            "statement_id": "Q7191170$E8DCB3CA-FD8D-4DDE-9259-E826648B0623",
+            "rank": "normal",
+            "labels": {
+              "en": "505 Games",
+              "es": "505 Games",
+              "mul": "505 Games"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1610017,
+              "id": "Q1610017"
+            },
+            "statement_id": "Q7191170$53AD8168-0250-4033-8762-25F7854B62D0",
+            "rank": "normal",
+            "labels": {
+              "en": "simulation video game",
+              "es": "videojuego de simulación"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q7191170$3FC3DAF5-5770-49AD-8BC4-6FBD9769AB79",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "Q7191170$71F4363F-5EA0-4B09-B7C9-7670A8BE2A8D",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2009-11-23T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7191170$1C4C7E97-B0DF-4F58-B16B-6253F0F04C36",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 637178,
+              "id": "Q637178"
+            },
+            "statement_id": "Q7191170$C72F315C-822A-4FEB-AA47-3B21ADAA4BB4",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo DSi",
+              "es": "Nintendo DSi",
+              "mul": "Nintendo DSi"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

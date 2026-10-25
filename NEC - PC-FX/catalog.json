@@ -197,7 +197,8 @@
       },
       "serial_identifiers": [
         "FXHNX801"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2003101"
     },
     "FXHUD401": {
       "serial": "FXHUD401",
@@ -375,7 +376,8 @@
       },
       "serial_identifiers": [
         "FXHUD401"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11327906"
     },
     "FXHUD402": {
       "serial": "FXHUD402",
@@ -731,7 +733,8 @@
       },
       "serial_identifiers": [
         "FXHUD503"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11442504"
     },
     "FXHUD504": {
       "serial": "FXHUD504",
@@ -1583,7 +1586,8 @@
       },
       "serial_identifiers": [
         "FXNAV601"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5321259"
     },
     "FXNAV602": {
       "serial": "FXNAV602",
@@ -1939,7 +1943,8 @@
       },
       "serial_identifiers": [
         "FXNAV603"
-      ]
+      ],
+      "metadata_id": "wikidata:Q1254867"
     },
     "FXNAX601": {
       "serial": "FXNAX601",
@@ -3145,7 +3150,8 @@
       },
       "serial_identifiers": [
         "FXNHE505"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7317345"
     },
     "FXNHE507": {
       "serial": "FXNHE507",
@@ -3679,7 +3685,8 @@
       },
       "serial_identifiers": [
         "FXNHE509"
-      ]
+      ],
+      "metadata_id": "wikidata:Q111009175"
     },
     "FXNHE510": {
       "serial": "FXNHE510",
@@ -5814,7 +5821,8 @@
       },
       "serial_identifiers": [
         "FXNHE620"
-      ]
+      ],
+      "metadata_id": "wikidata:Q120335951"
     },
     "FXNHE621": {
       "serial": "FXNHE621",
@@ -7021,7 +7029,8 @@
       },
       "serial_identifiers": [
         "FXNHE627"
-      ]
+      ],
+      "metadata_id": "wikidata:Q120335952"
     },
     "FXNHE628": {
       "serial": "FXNHE628",
@@ -7850,7 +7859,8 @@
       },
       "serial_identifiers": [
         "FXNHE631"
-      ]
+      ],
+      "metadata_id": "wikidata:Q120335955"
     },
     "FXNHE632": {
       "serial": "FXNHE632",
@@ -9442,7 +9452,8 @@
       },
       "serial_identifiers": [
         "FXNHE739"
-      ]
+      ],
+      "metadata_id": "wikidata:Q120335949"
     },
     "FXNHE740": {
       "serial": "FXNHE740",
@@ -9620,7 +9631,8 @@
       },
       "serial_identifiers": [
         "FXNHE740"
-      ]
+      ],
+      "metadata_id": "wikidata:Q17192233"
     },
     "FXNHE741": {
       "serial": "FXNHE741",
@@ -9976,7 +9988,8 @@
       },
       "serial_identifiers": [
         "FXNHE743"
-      ]
+      ],
+      "metadata_id": "wikidata:Q17991435"
     },
     "FXNHE744": {
       "serial": "FXNHE744",
@@ -12536,7 +12549,2019 @@
       },
       "serial_identifiers": [
         "NAPR-1503"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5321259"
+    }
+  },
+  "metadata": {
+    "wikidata:Q2003101": {
+      "wikidata_id": "Q2003101",
+      "source_url": "https://www.wikidata.org/wiki/Q2003101",
+      "revision": 2547489344,
+      "modified": "2026-09-18T16:20:51Z",
+      "cached_at": "2026-10-25T05:33:51.601265+00:00",
+      "entity_sha256": "ea27a5e4ca01cc48384941de036b230f3f65f2d8ee2e1e5f8452905780625c24",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "First Kiss Story",
+        "mul": "First Kiss Story"
+      },
+      "short_descriptions": {
+        "en": "1998 video game",
+        "es": "videojuego de 1998"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5942495,
+              "id": "Q5942495"
+            },
+            "statement_id": "Q2003101$1013ABDB-B3D3-4792-9972-09E7532137B1",
+            "rank": "normal",
+            "labels": {
+              "en": "HuneX"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "q2003101$EE667F12-CD45-4F95-861D-837D51DD8725",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2003101$635A8783-CD69-4081-90F1-6871A1D9DF50",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1998-04-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2003101$B8A11C6C-F1F6-4D9E-AD6D-700D7A01BDD9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q2003101$995CF97B-8464-4EF4-99FE-C22351E42487",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q11327906": {
+      "wikidata_id": "Q11327906",
+      "source_url": "https://www.wikidata.org/wiki/Q11327906",
+      "revision": 2558789760,
+      "modified": "2026-10-19T13:20:35Z",
+      "cached_at": "2026-10-25T05:39:26.149498+00:00",
+      "entity_sha256": "57bc6493bf5361c9e5ec83516d4721ddae781509d04f7b9848b9d9532a80035d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "BATTLE HIT",
+        "mul": "BATTLE HIT"
+      },
+      "short_descriptions": {
+        "en": "1994 video game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q11327906$9411f7e3-2e8b-45f6-9443-a486d1efd17a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q11327906$d133c0a1-469d-4fb6-aa81-dc6d3017f078",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q11442504": {
+      "wikidata_id": "Q11442504",
+      "source_url": "https://www.wikidata.org/wiki/Q11442504",
+      "revision": 2529328992,
+      "modified": "2026-08-09T19:45:26Z",
+      "cached_at": "2026-10-25T05:39:33.932967+00:00",
+      "entity_sha256": "1d5bb4ccce500f9b3f2c6f106b7fb9869c5947e6ce28a7e9577f1d9f94ae4fd4",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Tengai Makyou: Dennou Karakuri Kakutouden",
+        "mul": "Tengai Makyou: Dennou Karakuri Kakutouden"
+      },
+      "short_descriptions": {
+        "en": "video game",
+        "es": "videojuego"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q11442504$25e30e46-66b7-4e2e-a017-e374c5ea2e52",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5321259": {
+      "wikidata_id": "Q5321259",
+      "source_url": "https://www.wikidata.org/wiki/Q5321259",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:26:09.787905+00:00",
+      "entity_sha256": "d96d8264ed9971e12f26e1147ec13558b2fb662b06b85255dad8932bd75cd954",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Dōkyūsei 2",
+        "mul": "Dōkyūsei 2"
+      },
+      "short_descriptions": {
+        "en": "1995 video game"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5323286,
+              "id": "Q5323286"
+            },
+            "statement_id": "Q5321259$ca8f33fd-4618-35a9-028e-07a163a3b584",
+            "rank": "normal",
+            "labels": {
+              "en": "ELF Corporation",
+              "es": "ELF Corporation"
+            }
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172067,
+              "id": "Q172067"
+            },
+            "statement_id": "Q5321259$EE495A88-3D99-4F18-B9FB-CAD4853C2043",
+            "rank": "normal",
+            "labels": {
+              "en": "hentai",
+              "es": "hentai"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1046788,
+              "id": "Q1046788"
+            },
+            "statement_id": "Q5321259$1CEDCA4A-3C91-4D26-A202-EA819092ACF7",
+            "rank": "normal",
+            "labels": {
+              "en": "eroge",
+              "es": "eroge"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "Q5321259$1B12935C-DB97-4CCC-B67B-720D8F21E843",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1323555,
+              "id": "Q1323555"
+            },
+            "statement_id": "Q5321259$ae3738a3-4e84-0938-1c19-18f3055ef795",
+            "rank": "normal",
+            "labels": {
+              "en": "bishōjo game",
+              "es": "videojuego bishōjo"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8018891,
+              "id": "Q8018891"
+            },
+            "statement_id": "Q5321259$8a711857-4bb3-70fb-63cc-1c65c4d7024b",
+            "rank": "normal",
+            "labels": {
+              "en": "romance adventure game",
+              "es": "videojuego de aventura romántica"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5321259$baa0418e-499c-f2e4-ff64-3e0acd728b2c",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q5321259$A7007BCE-04C3-431B-A98F-2D0C82D1C3FC",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q5321259$A8340DC5-DA01-4148-9CE5-4BB448082BE4",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q5321259$dd49294f-4488-0ab4-d6e4-dea9491627ff",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q5321259$175dc7ec-4ab1-d6de-696b-ac1af5d167a7",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 531896,
+              "id": "Q531896"
+            },
+            "statement_id": "Q5321259$f5b0f0ad-4e69-e48f-8c1f-ea51d0f1c3ec",
+            "rank": "normal",
+            "labels": {
+              "en": "FM Towns",
+              "es": "FM Towns"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200912,
+              "id": "Q200912"
+            },
+            "statement_id": "Q5321259$82535611-4d6b-986e-764a-5caaf877bdb2",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Saturn"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q5321259$21ba1330-4b18-e8f5-d041-4b7afa636a3f",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183259,
+              "id": "Q183259"
+            },
+            "statement_id": "Q5321259$c3357200-4feb-2f1a-a56e-5db423d7c40e",
+            "rank": "normal",
+            "labels": {
+              "en": "Super Nintendo Entertainment System",
+              "es": "Super Nintendo Entertainment System",
+              "mul": "Super Nintendo Entertainment System"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q1254867": {
+      "wikidata_id": "Q1254867",
+      "source_url": "https://www.wikidata.org/wiki/Q1254867",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:25:28.932725+00:00",
+      "entity_sha256": "cd1c5d3a2f8182082f6315b5ffe6787bdf6f925891c25831596c72db381f8b3b",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Dragon Knight 4",
+        "mul": "Dragon Knight 4"
+      },
+      "short_descriptions": {
+        "en": "1994 video game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5323286,
+              "id": "Q5323286"
+            },
+            "statement_id": "Q1254867$BEE6206A-AD9D-45A9-84CE-321097798164",
+            "rank": "normal",
+            "labels": {
+              "en": "ELF Corporation",
+              "es": "ELF Corporation"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1371744,
+              "id": "Q1371744"
+            },
+            "statement_id": "Q1254867$A8B2C543-D560-4188-88C7-AC4E7C4253DB",
+            "rank": "normal",
+            "labels": {
+              "en": "Banpresto",
+              "es": "Banpresto",
+              "mul": "バンプレスト"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1529437,
+              "id": "Q1529437"
+            },
+            "statement_id": "Q1254867$26E7D8C9-AFB4-4C76-A85F-0E8A7026C540",
+            "rank": "normal",
+            "labels": {
+              "en": "tactical role-playing game",
+              "es": "videojuego de rol táctico"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1046788,
+              "id": "Q1046788"
+            },
+            "statement_id": "Q1254867$D583A269-C124-4A71-8E1D-615729861C92",
+            "rank": "normal",
+            "labels": {
+              "en": "eroge",
+              "es": "eroge"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "Q1254867$296A1476-36E9-4A17-AC08-2C635AB10009",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q1254867$4D6F079A-BE01-45F1-9A70-915ECDCCD863",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-02-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1254867$B6179963-811D-4A98-9E25-8E9F2F8A6502",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q1254867$341BF957-C2F1-459B-B4B4-1EBB69969161",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q1254867$17DECCEF-4ADF-42BD-A7DF-47CE7E60AEB2",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183259,
+              "id": "Q183259"
+            },
+            "statement_id": "Q1254867$D79557BE-ED2B-4B57-B3CC-A3DDE877A244",
+            "rank": "normal",
+            "labels": {
+              "en": "Super Nintendo Entertainment System",
+              "es": "Super Nintendo Entertainment System",
+              "mul": "Super Nintendo Entertainment System"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q1254867$03199193-42ae-0e5c-65fc-cf766ea137d9",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q1254867$b7a555e5-47e3-14be-ca67-19e5823d6648",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q1254867$22c6724e-4a06-a056-9069-1f16e7c3eb6e",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1758277,
+              "id": "Q1758277"
+            },
+            "statement_id": "Q1254867$f0b47e28-48fc-5c10-1621-c9a7dcf954c9",
+            "rank": "normal",
+            "labels": {
+              "en": "Sharp X68000",
+              "es": "Sharp X68000"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7317345": {
+      "wikidata_id": "Q7317345",
+      "source_url": "https://www.wikidata.org/wiki/Q7317345",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:26:15.386607+00:00",
+      "entity_sha256": "3cb757151f66d2788a6eda3a10c4e1e379676e4491fa16bc82fe73da702d8f9a",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Return to Zork",
+        "mul": "Return to Zork"
+      },
+      "short_descriptions": {
+        "en": "1993 video game",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200491,
+              "id": "Q200491"
+            },
+            "statement_id": "Q7317345$A7ADDE14-7F0D-4EBC-B919-C09F71CDAF71",
+            "rank": "normal",
+            "labels": {
+              "mul": "Activision"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 742561,
+              "id": "Q742561"
+            },
+            "statement_id": "Q7317345$5D3D0F3A-EF23-426A-8D15-B857D88D35B9",
+            "rank": "normal",
+            "labels": {
+              "en": "Infocom",
+              "es": "Infocom",
+              "mul": "Infocom"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "q7317345$B422E5D7-3EE7-4B89-A87C-8EF5D721253E",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7317345$C3A6B111-0EBC-417C-813C-C4BF5E8C1A2C",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "9500159ae54931191f19b234ab0bcbe37471ba29",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "f1480c8590c65080946bd9dfbad4e77cab95b9af",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 337535,
+                          "id": "Q337535"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P1733": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1733",
+                      "hash": "2282b3c187e0cb5ac6b5fe3881beb194069b90e0",
+                      "datavalue": {
+                        "value": "585240",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "aa93ae53d633e0588e5ee0fd825e9e154f824188",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-10-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P1733",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-08-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7317345$A884FD01-93B0-401B-B02B-A8362A9C9191",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q7317345$F7B4A550-5DAC-4999-92B2-19AFE935ADA5",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q7317345$5018A555-3DD9-4C9A-A399-D13737297A0F",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q7317345$e100d444-4bcf-ee22-c241-7ec61ca16c5e",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13522376,
+              "id": "Q13522376"
+            },
+            "statement_id": "Q7317345$FBC18306-2C85-4610-9C80-75D976C5ECA3",
+            "rank": "normal",
+            "labels": {
+              "en": "Classic Mac OS",
+              "es": "Mac OS Classic",
+              "mul": "Classic Mac OS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q7317345$a54e94f9-a8b2-4dd4-b273-4a003c429925",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            },
+            "references": [
+              {
+                "hash": "9500159ae54931191f19b234ab0bcbe37471ba29",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "f1480c8590c65080946bd9dfbad4e77cab95b9af",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 337535,
+                          "id": "Q337535"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P1733": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1733",
+                      "hash": "2282b3c187e0cb5ac6b5fe3881beb194069b90e0",
+                      "datavalue": {
+                        "value": "585240",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "aa93ae53d633e0588e5ee0fd825e9e154f824188",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-10-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P1733",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q111009175": {
+      "wikidata_id": "Q111009175",
+      "source_url": "https://www.wikidata.org/wiki/Q111009175",
+      "revision": 2530537655,
+      "modified": "2026-08-12T19:06:26Z",
+      "cached_at": "2026-10-25T05:44:34.699149+00:00",
+      "entity_sha256": "5bb7f9ec56dbb697cfd8f6b80e42869b857388aca99f35e4cf714e151872b971",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Lunatic Dawn FX",
+        "mul": "Lunatic Dawn FX"
+      },
+      "short_descriptions": {
+        "en": "1995 video game"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2864821,
+              "id": "Q2864821"
+            },
+            "statement_id": "Q111009175$2c56daee-4d60-370a-7d62-70b36aa53c2c",
+            "rank": "normal",
+            "labels": {
+              "en": "Artdink",
+              "mul": "Artdink"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11509374,
+              "id": "Q11509374"
+            },
+            "statement_id": "Q111009175$e1ec0c76-4f07-cdd1-58f6-06ae9f595a9c",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC Home Electronics, Ltd."
+            }
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-11-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q111009175$ada2ed89-437a-5357-c3dd-7516298f9952",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q111009175$37a4e390-4453-2619-00ed-7ab37d5e2bd7",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q120335951": {
+      "wikidata_id": "Q120335951",
+      "source_url": "https://www.wikidata.org/wiki/Q120335951",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:26:50.096269+00:00",
+      "entity_sha256": "938eadf199c545fb1da63ef94ba8e0aa80260d7be0e35cd0881e947cbf94045a",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Boundary Gate: Daughter of Kingdom"
+      },
+      "short_descriptions": {
+        "en": "1997 video game",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11509374,
+              "id": "Q11509374"
+            },
+            "statement_id": "Q120335951$f9aa83b2-4ddc-9bab-b4e8-9bdf94357205",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC Home Electronics, Ltd."
+            }
+          }
+        ],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-01-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q120335951$b5c57aef-4d47-8c3c-029f-c2f103d8ca87",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "f91743f6a78f85d48171fce57c8387fd7b065d14",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1136902,
+                      "id": "Q1136902"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1997-07-17T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q120335951$98b96716-44e3-296b-0288-17260ef1f817",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "122f1799961920b31179987706ceb145b301ae1c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10677,
+                      "id": "Q10677"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q120335951$10b2f912-4dfa-8a64-1cb1-acb77d2e62da",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q120335951$42acd02d-4a22-75fc-df89-ddfd417c943c",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q120335952": {
+      "wikidata_id": "Q120335952",
+      "source_url": "https://www.wikidata.org/wiki/Q120335952",
+      "revision": 2539734672,
+      "modified": "2026-09-03T15:15:17Z",
+      "cached_at": "2026-10-25T05:45:23.489405+00:00",
+      "entity_sha256": "d7b91f3988d5fa9f251a8e83654a5b5b968d2ba7a841d6b6bc05f9331affe4b9",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Ruruli Ra Rura"
+      },
+      "short_descriptions": {
+        "en": "1998 video game",
+        "es": "videojuego de 1998"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11509374,
+              "id": "Q11509374"
+            },
+            "statement_id": "Q120335952$c1ece006-4804-1d59-f761-85346a3eba14",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC Home Electronics, Ltd."
+            }
+          }
+        ],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1998-02-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q120335952$83f52b46-434b-586d-d2c2-eccba3613e8c",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q120335952$6b46175f-4b6c-7917-5546-a7af78266b52",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q120335955": {
+      "wikidata_id": "Q120335955",
+      "source_url": "https://www.wikidata.org/wiki/Q120335955",
+      "revision": 2519012227,
+      "modified": "2026-07-18T07:34:07Z",
+      "cached_at": "2026-10-25T05:45:23.490405+00:00",
+      "entity_sha256": "6d44013715e608a16def4cf881cb7b111f599d105df65b0295856abd497e8d16",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Minimum Nanonic"
+      },
+      "short_descriptions": {
+        "en": "1997 video game",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 343568,
+              "id": "Q343568"
+            },
+            "statement_id": "Q120335955$bd2d6a29-462e-9157-6ca2-690d5bbe51e3",
+            "rank": "normal",
+            "labels": {
+              "en": "action-adventure game",
+              "es": "acción-aventura"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q120335955$9cc502db-42fa-9122-47c1-6880548b6ab6",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-10-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q120335955$7fa19b15-499a-7ab7-993a-dfbfa1b08c51",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q120335955$FF6FA2B8-CCA0-4639-98AB-31A7088865A2",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            },
+            "references": [
+              {
+                "hash": "04e9b1fdcbdbc797a15496f4e50c9bbafdf18114",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "018c52e72950eb78d8c9d43195b9d58875ea99b3",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-06-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "a2af3a71275b862fbfe9a1417f24a5f30b66f513",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/w/index.php?title=%E3%81%BF%E3%81%AB%E3%81%BE%E3%82%80%E3%81%AA%E3%81%AE%E3%81%AB%E3%81%A3%E3%81%8F&oldid=93495542",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q120335949": {
+      "wikidata_id": "Q120335949",
+      "source_url": "https://www.wikidata.org/wiki/Q120335949",
+      "revision": 2539736537,
+      "modified": "2026-09-03T15:21:08Z",
+      "cached_at": "2026-10-25T05:45:23.489405+00:00",
+      "entity_sha256": "dc37fac04ff549d3bb41c9405d9cd22c2984fc2ef8d682a30581b3f9a436a71d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Sparkling Feather"
+      },
+      "short_descriptions": {
+        "en": "1997 video game",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11509374,
+              "id": "Q11509374"
+            },
+            "statement_id": "Q120335949$d45f56f2-4c15-eed7-0ccc-278e56faa9e9",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC Home Electronics, Ltd."
+            }
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2454898,
+              "id": "Q2454898"
+            },
+            "statement_id": "Q120335949$d5370bd9-49fb-d902-8306-3ecdcb7ad2be",
+            "rank": "normal",
+            "labels": {
+              "en": "computer wargame",
+              "es": "videojuego de guerra"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-04-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q120335949$79522fe1-4c96-7e2a-b100-eb0a24e31db9",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q120335949$d55202e5-4923-d3a6-4744-5a6136ae53e1",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q17192233": {
+      "wikidata_id": "Q17192233",
+      "source_url": "https://www.wikidata.org/wiki/Q17192233",
+      "revision": 2558046114,
+      "modified": "2026-10-17T17:40:29Z",
+      "cached_at": "2026-10-25T05:40:23.398511+00:00",
+      "entity_sha256": "9eaab96841c5b3e57270442f4fe45e51f25163e0ca8208e9931ffaddb2058e6d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Albaria no Otome",
+        "mul": "Albaria no Otome"
+      },
+      "short_descriptions": {
+        "en": "1997 video game",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1049203,
+              "id": "Q1049203"
+            },
+            "statement_id": "Q17192233$3c712901-0f0b-410e-aff6-4709446b0e88",
+            "rank": "normal",
+            "labels": {
+              "en": "otome game",
+              "es": "Otome"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "Q17192233$b5e3b2c0-48c2-4341-6729-11a40ee8cbb2",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q17192233$8eaa400f-4fb7-410f-8c0a-d09a928cdc70",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q17192233$5f150dab-899f-44c5-b9c1-da34d521ef04",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q17991435": {
+      "wikidata_id": "Q17991435",
+      "source_url": "https://www.wikidata.org/wiki/Q17991435",
+      "revision": 2529202842,
+      "modified": "2026-08-09T12:15:24Z",
+      "cached_at": "2026-10-25T05:40:29.799240+00:00",
+      "entity_sha256": "115cf8105050af43c0d40db021b54508772b9817e2f0c60bf528b01a481d8fec",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Comic Road",
+        "mul": "Comic Road"
+      },
+      "short_descriptions": {
+        "en": "1997 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136902,
+              "id": "Q1136902"
+            },
+            "statement_id": "Q17991435$4c04dc11-4c96-622d-6ffb-20343f2c948e",
+            "rank": "normal",
+            "labels": {
+              "en": "PC-FX",
+              "es": "PC-FX",
+              "mul": "PC-FX"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }
