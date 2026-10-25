@@ -18,6 +18,18 @@ Sony - PlayStation/
 
 Artwork is converted to WebP by comparing lossless and quality 90 encodings and keeping the smaller result. Filenames such as `cover_front2.webp` identify distinct variants. Games with missing or ambiguous identifiers remain outside this published library. Coverage is incomplete.
 
+### Catalog structure
+
+Each console's `catalog.json` contains:
+
+- `system` and `schema_version`: the console name and catalog format version.
+- `games`: games indexed by serial or official title ID. Each game contains `entries` with its full release names and `images` with available media, paths, hashes and file details. An optional `metadata_id` links the game to a record in `metadata`.
+- `metadata`: shared game records keyed by source and identifier, such as `wikidata:Q15087581`. Records contain names (`labels`), brief descriptions (`short_descriptions`), and a `fields` dictionary with developers, publishers, genres, player counts, game modes, release dates and platforms, where available.
+- `metadata_sources`: metadata providers, credits and licenses.
+- `dat`, `source_policy`, `encoding` and `status`: the source DAT, processing policy, image encoding settings and catalog generation status.
+
+Different regional serials, revisions or discs can reference the same metadata record within a console. Metadata is optional and incomplete; empty field arrays indicate unavailable values. Records retain source links and qualifiers for facts specific to a region, platform or game mode.
+
 ### Contributing
 
 We recommend [OpenCabinet-BDD_Editor](https://github.com/Utogu9/OpenCabinet-BDD_Editor) to replace artwork, add image types and variants, or import PDF manuals. Download the Windows executable from its [Releases](https://github.com/Utogu9/OpenCabinet-BDD_Editor/releases/latest); Python is not required.
@@ -63,6 +75,7 @@ If the identifier, source or redistribution permission is uncertain, open an iss
 
 - Original images: [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) and its contributors. Its [credits](https://github.com/libretro-thumbnails/libretro-thumbnails#credits) acknowledge MobyGames, Fandom, volunteer contributors, photographers and scanners.
 - Game names and identifiers: [No-Intro / DAT-o-MATIC](https://datomatic.no-intro.org/) and [Redump](https://redump.info/).
+- Shared game metadata: [Wikidata](https://www.wikidata.org/) and its contributors. Its structured data is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); see [Wikidata's licensing policy](https://www.wikidata.org/wiki/Wikidata:Licensing). Source links are retained in the catalog records.
 - Game artwork and promotional materials originate from their respective developers and publishers. This project does not claim ownership of those materials or assign them a new license.
 
 This repository contains the published artwork and catalogues. Conversion scripts, source DAT archives, original libretro files, reports and private editor backups are not included.
@@ -82,6 +95,18 @@ Sony - PlayStation/
 ```
 
 Las imágenes se convierten a WebP comparando la codificación sin pérdida y con pérdida a calidad 90 y conservando el archivo más pequeño. Nombres como `cover_front2.webp` identifican variantes distintas. Los juegos con identificadores ausentes o ambiguos quedan fuera de esta biblioteca publicada. La cobertura es parcial.
+
+### Estructura del catálogo
+
+El `catalog.json` de cada consola contiene:
+
+- `system` y `schema_version`: nombre de la consola y versión del formato del catálogo.
+- `games`: juegos organizados por serial o ID oficial. Cada juego contiene `entries` con los nombres completos de sus ediciones e `images` con los medios disponibles, rutas, hashes y detalles de los archivos. El campo opcional `metadata_id` enlaza el juego con una ficha de `metadata`.
+- `metadata`: fichas compartidas identificadas por fuente e ID, como `wikidata:Q15087581`. Contienen nombres (`labels`), descripciones breves (`short_descriptions`) y un diccionario `fields` con desarrolladores, editores, géneros, cantidades de jugadores, modos de juego, fechas de lanzamiento y plataformas, cuando están disponibles.
+- `metadata_sources`: proveedores de metadatos, créditos y licencias.
+- `dat`, `source_policy`, `encoding` y `status`: DAT de origen, política de procesamiento, parámetros de codificación de imágenes y estado de generación del catálogo.
+
+Los seriales de distintas regiones, revisiones o discos pueden apuntar a la misma ficha de metadatos dentro de una consola. Los metadatos son opcionales y su cobertura es parcial; las listas de campos vacías indican valores no disponibles. Las fichas conservan los enlaces de procedencia y los calificadores de los datos específicos de una región, plataforma o modo de juego.
 
 ### Cómo contribuir
 
@@ -128,6 +153,7 @@ Si hay dudas sobre el identificador, la fuente o el permiso de redistribución, 
 
 - Imágenes originales: [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) y sus colaboradores. Sus [créditos](https://github.com/libretro-thumbnails/libretro-thumbnails#credits) reconocen a MobyGames, Fandom, colaboradores voluntarios, fotógrafos y personas que realizaron escaneos.
 - Nombres e identificadores de juegos: [No-Intro / DAT-o-MATIC](https://datomatic.no-intro.org/) y [Redump](https://redump.info/).
+- Metadatos compartidos de los juegos: [Wikidata](https://www.wikidata.org/) y sus colaboradores. Sus datos estructurados se publican bajo [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); consultá la [política de licencias de Wikidata](https://www.wikidata.org/wiki/Wikidata:Licensing). Los enlaces de procedencia se conservan en las fichas de los catálogos.
 - Las imágenes de los juegos y el material promocional provienen de sus respectivos desarrolladores y distribuidores. Este proyecto no reclama su propiedad ni les asigna una licencia nueva.
 
 Este repositorio contiene las imágenes y los catálogos publicados. No incluye los scripts de conversión, los DAT originales, los archivos originales de libretro, los informes ni los respaldos privados del editor.
