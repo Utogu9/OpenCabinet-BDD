@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Super Nintendo Entertainment System",
+  "images": {
+    "logo": {
+      "sha256": "527d62d0e2a8a7e0fd4ce0320fd8abde2de0eb8ba241777ec181466405400fee",
+      "bytes": 21509,
+      "width": 296,
+      "height": 74,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 21509
+        }
+      },
+      "filename": "7348b4699e361bf2970829dc98c17ab4c53fc3d8.svg",
+      "source_sha256": "527d62d0e2a8a7e0fd4ce0320fd8abde2de0eb8ba241777ec181466405400fee",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\527d62d0e2a8a7e0fd4ce0320fd8abde2de0eb8ba241777ec181466405400fee.bin",
+      "updated_at": "2026-10-25T07:19:57.095263+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q183259",
+          "wikidata_property": "P154",
+          "filename": "SNES logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:SNES_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/SNES_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Original uploaded by: Anomie",
+          "author_html": "Original uploaded by: <a href=\"https://en.wikipedia.org/wiki/User:Anomie\" class=\"extiw\" title=\"en:User:Anomie\">Anomie</a>",
+          "credit": "Own work based on: SNES logo.svg and English Wikipedia This vector image was created by converting the Encapsulated PostScript file available at Brands of the World ( view • download ). Remember not all content there is in general free, see Commons:Fair use for more. This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:SNES_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "7348b4699e361bf2970829dc98c17ab4c53fc3d8",
+          "commons_timestamp": "2008-01-06T21:33:17Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

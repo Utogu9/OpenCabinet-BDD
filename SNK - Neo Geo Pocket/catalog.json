@@ -1833,5 +1833,106 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Neo Geo Pocket",
+      "es": "Neo Geo Pocket"
+    },
+    "short_descriptions": {
+      "en": "handheld game console",
+      "es": "consola portátil"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1998-10-28T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q939881$e7f4ddda-489a-b115-ab4b-bbf5bc1f5cb0",
+          "rank": "normal",
+          "source": "wikidata:Q939881"
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1073880,
+            "id": "Q1073880"
+          },
+          "statement_id": "Q939881$51D421E5-F63E-4E89-838F-3C267440B17B",
+          "rank": "normal",
+          "source": "wikidata:Q939881",
+          "labels": {
+            "en": "SNK",
+            "es": "SNK"
+          },
+          "references": [
+            {
+              "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 177837,
+                        "id": "Q177837"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q939881",
+        "source_url": "https://www.wikidata.org/wiki/Q939881",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558365812,
+        "modified": "2026-10-18T11:38:43Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

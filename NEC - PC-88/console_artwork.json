@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "NEC - PC-88",
+  "images": {
+    "logo": {
+      "sha256": "b94210179b2976a38064c55890fb28fc5980571b74a28858d9988594f5006010",
+      "bytes": 4663,
+      "width": 1386,
+      "height": 180,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4663
+        }
+      },
+      "filename": "860ccb5d60df1db6dd772d708bcbe7282441b563.svg",
+      "source_sha256": "b94210179b2976a38064c55890fb28fc5980571b74a28858d9988594f5006010",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\b94210179b2976a38064c55890fb28fc5980571b74a28858d9988594f5006010.bin",
+      "updated_at": "2026-10-25T07:19:55.469132+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1338888",
+          "wikidata_property": "P154",
+          "filename": "PC8800 logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PC8800_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/PC8800_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Darklanlan",
+          "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Darklanlan\" title=\"User:Darklanlan\">Darklanlan</a>",
+          "credit": "Adverts in 1980s.",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PC8800_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "860ccb5d60df1db6dd772d708bcbe7282441b563",
+          "commons_timestamp": "2016-06-29T14:38:23Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

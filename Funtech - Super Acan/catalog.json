@@ -2043,5 +2043,98 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Super A'Can",
+      "es": "Super A'Can",
+      "mul": "Super A'Can"
+    },
+    "short_descriptions": {
+      "en": "home video game console"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1995-10-25T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q2475188$b669271e-46b7-f0c0-7941-a5c8dbceec9d",
+          "rank": "normal",
+          "source": "wikidata:Q2475188",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "f7d5331147aa02727408bad82db4d01702d3850b",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 865,
+                    "id": "Q865"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3041335,
+            "id": "Q3041335"
+          },
+          "statement_id": "Q2475188$1a977f66-472b-e53b-0707-bf6ca2aed9e4",
+          "rank": "normal",
+          "source": "wikidata:Q2475188",
+          "labels": {
+            "en": "Funtech Entertainment Corporation",
+            "mul": "Funtech Entertainment Corporation"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q2475188",
+        "source_url": "https://www.wikidata.org/wiki/Q2475188",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2548288879,
+        "modified": "2026-09-22T04:19:14Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

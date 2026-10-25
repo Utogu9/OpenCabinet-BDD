@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo DSi",
+  "images": {
+    "logo": {
+      "sha256": "b11d903eb030719a3c522dbb7f67533a6a8ccf115368184fb7949540006c85bd",
+      "bytes": 7722,
+      "width": 600,
+      "height": 97,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 7722
+        }
+      },
+      "filename": "eda7bf8422e729917cb4dd4461e6ed7c35e8b168.svg",
+      "source_sha256": "b11d903eb030719a3c522dbb7f67533a6a8ccf115368184fb7949540006c85bd",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\b11d903eb030719a3c522dbb7f67533a6a8ccf115368184fb7949540006c85bd.bin",
+      "updated_at": "2026-10-25T07:19:56.563764+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q637178",
+          "wikidata_property": "P154",
+          "filename": "Nintendo DSi logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Nintendo_DSi_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Nintendo_DSi_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Nintendo\" class=\"extiw\" title=\"en:Nintendo\">Nintendo</a>",
+          "credit": "Logo taken from this PDF version of the Nintendo DSi Instruction Booklet, available from nintendo.com .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Nintendo_DSi_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "eda7bf8422e729917cb4dd4461e6ed7c35e8b168",
+          "commons_timestamp": "2009-10-07T11:34:07Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

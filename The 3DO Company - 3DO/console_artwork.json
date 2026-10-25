@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "The 3DO Company - 3DO",
+  "images": {
+    "logo": {
+      "sha256": "f9c86243289a27f5eddc5e4fb479654a29d7862b0d30ecb7e3b7478072bcc45d",
+      "bytes": 4175,
+      "width": 210,
+      "height": 360,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4175
+        }
+      },
+      "filename": "6ed64efacd1348a2db108a3b27eb889b9644ca0d.svg",
+      "source_sha256": "f9c86243289a27f5eddc5e4fb479654a29d7862b0d30ecb7e3b7478072bcc45d",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f9c86243289a27f5eddc5e4fb479654a29d7862b0d30ecb7e3b7478072bcc45d.bin",
+      "updated_at": "2026-10-25T07:19:59.716093+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q229429",
+          "wikidata_property": "P154",
+          "filename": "3DO Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:3DO_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/3DO_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "unbekannt 3DO / Panasonic",
+          "author_html": "unbekannt<a href=\"https://de.wikipedia.org/wiki/3DO\" class=\"extiw\" title=\"de:3DO\">3DO</a>/<a href=\"https://de.wikipedia.org/wiki/Panasonic\" class=\"extiw\" title=\"de:Panasonic\">Panasonic</a>",
+          "credit": "Brandsoftheworld.com",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:3DO_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "6ed64efacd1348a2db108a3b27eb889b9644ca0d",
+          "commons_timestamp": "2016-04-30T22:39:32Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

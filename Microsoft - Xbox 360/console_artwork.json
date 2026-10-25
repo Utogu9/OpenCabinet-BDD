@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Microsoft - Xbox 360",
+  "images": {
+    "logo": {
+      "sha256": "377b2758fb51628f6ec78617dec9d01adc2aaaa8b648fe07d7d5b78c4c511a90",
+      "bytes": 17545,
+      "width": 167,
+      "height": 36,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 17545
+        }
+      },
+      "filename": "fae0d15441bf4fd1ffab7c3aeb92359d0ef6c735.svg",
+      "source_sha256": "377b2758fb51628f6ec78617dec9d01adc2aaaa8b648fe07d7d5b78c4c511a90",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\377b2758fb51628f6ec78617dec9d01adc2aaaa8b648fe07d7d5b78c4c511a90.bin",
+      "updated_at": "2026-10-25T07:19:55.438087+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q48263",
+          "wikidata_property": "P154",
+          "filename": "X Box 360 logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:X_Box_360_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/X_Box_360_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Xbox One",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Xbox_One\" class=\"extiw\" title=\"w:Xbox One\">Xbox One</a>",
+          "credit": "Own work",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:X_Box_360_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "fae0d15441bf4fd1ffab7c3aeb92359d0ef6c735",
+          "commons_timestamp": "2015-07-24T05:38:14Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

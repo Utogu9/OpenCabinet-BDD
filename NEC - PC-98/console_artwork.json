@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "NEC - PC-98",
+  "images": {
+    "logo": {
+      "sha256": "bffcab029e0aa8e1aa99c284efb951a94db0d3d7709731fa166963117d3eb103",
+      "bytes": 4464,
+      "width": 1386,
+      "height": 180,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4464
+        }
+      },
+      "filename": "e5cc598e9eba619605f62d08e772835677f881ea.svg",
+      "source_sha256": "bffcab029e0aa8e1aa99c284efb951a94db0d3d7709731fa166963117d3eb103",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\bffcab029e0aa8e1aa99c284efb951a94db0d3d7709731fa166963117d3eb103.bin",
+      "updated_at": "2026-10-25T07:19:55.482863+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q183505",
+          "wikidata_property": "P154",
+          "filename": "PC9800 logo 1982.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PC9800_logo_1982.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/PC9800_logo_1982.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Darklanlan",
+          "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Darklanlan\" title=\"User:Darklanlan\">Darklanlan</a>",
+          "credit": "Adverts in 1980s.",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PC9800_logo_1982.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "e5cc598e9eba619605f62d08e772835677f881ea",
+          "commons_timestamp": "2016-06-29T09:29:49Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

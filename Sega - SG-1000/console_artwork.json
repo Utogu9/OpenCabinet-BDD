@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - SG-1000",
+  "images": {
+    "logo": {
+      "sha256": "0eab6f1d6d9526c0bcbcf6ae3af09124a60050510a55ce5227fb12101b07f8ce",
+      "bytes": 6206,
+      "width": 200,
+      "height": 35,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6206
+        }
+      },
+      "filename": "3c7875f47c66073a7c8381d905e4f48613ecd922.svg",
+      "source_sha256": "0eab6f1d6d9526c0bcbcf6ae3af09124a60050510a55ce5227fb12101b07f8ce",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\0eab6f1d6d9526c0bcbcf6ae3af09124a60050510a55ce5227fb12101b07f8ce.bin",
+      "updated_at": "2026-10-25T07:19:57.980959+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1136956",
+          "wikidata_property": "P154",
+          "filename": "SG-1000 Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:SG-1000_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/SG-1000_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Trademarks and copyrights own by Sega Corporation (KK Sega)",
+          "author_html": "Trademarks and copyrights own by Sega Corporation (KK Sega)",
+          "credit": "Sega Corporation (KK Sega)",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:SG-1000_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "3c7875f47c66073a7c8381d905e4f48613ecd922",
+          "commons_timestamp": "2016-11-06T09:21:44Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

@@ -58107,5 +58107,339 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "SG-1000",
+      "es": "SG-1000",
+      "mul": "SG-1000"
+    },
+    "short_descriptions": {
+      "en": "home video game console developed by Sega",
+      "es": "videoconsola por Sega"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1983-07-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1136956$8feef4ea-4101-6bbe-cb63-5eab155918d6",
+          "rank": "normal",
+          "source": "wikidata:Q1136956",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "bb64a72a4ab0acda7abb856c238a4d05648b292b",
+              "snaks": {
+                "P248": [
+                  {
+                    "snaktype": "value",
+                    "property": "P248",
+                    "hash": "589a6dd1094f18ab34743f0f5c49c31d7ae4c096",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 11504965,
+                        "id": "Q11504965"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P1476": [
+                  {
+                    "snaktype": "value",
+                    "property": "P1476",
+                    "hash": "abcc619de5f3545f8c80137971770e9404f5494f",
+                    "datavalue": {
+                      "value": {
+                        "text": "本日新発売 売れっ子登場！",
+                        "language": "ja"
+                      },
+                      "type": "monolingualtext"
+                    },
+                    "datatype": "monolingualtext"
+                  }
+                ],
+                "P50": [
+                  {
+                    "snaktype": "value",
+                    "property": "P50",
+                    "hash": "b848faaa339a4ab2cba30141914b40187d7fb29f",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 122741,
+                        "id": "Q122741"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P1552": [
+                  {
+                    "snaktype": "value",
+                    "property": "P1552",
+                    "hash": "58d0cac49a0e62cabf203585e57063884d1552d7",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 37038,
+                        "id": "Q37038"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P304": [
+                  {
+                    "snaktype": "value",
+                    "property": "P304",
+                    "hash": "bce5545d8f766f456090c26b04db220228b7a146",
+                    "datavalue": {
+                      "value": "23",
+                      "type": "string"
+                    },
+                    "datatype": "string"
+                  }
+                ],
+                "P577": [
+                  {
+                    "snaktype": "value",
+                    "property": "P577",
+                    "hash": "17ab77072c3395aadccd48623e391bbe9927fdcd",
+                    "datavalue": {
+                      "value": {
+                        "time": "+1983-07-15T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P248",
+                "P1476",
+                "P50",
+                "P1552",
+                "P304",
+                "P577"
+              ]
+            },
+            {
+              "hash": "b94229366bbeb339cc50ab42d8c9f3f6fd8e50ca",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "22a71ea172d8eee041f1ffaf03f22a244df1a03e",
+                    "datavalue": {
+                      "value": "https://www.sega.jp/history/hard/column/column_01.html",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P123": [
+                  {
+                    "snaktype": "value",
+                    "property": "P123",
+                    "hash": "55fb8d872d9503b8fe18b9af3f696ebc69495584",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 122741,
+                        "id": "Q122741"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P518": [
+                  {
+                    "snaktype": "value",
+                    "property": "P518",
+                    "hash": "ced2eecd3690813d170cd821432a462501b97e80",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 37038,
+                        "id": "Q37038"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "af4a5f635313f3f50665464de384b75f484399ba",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-08-17T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P123",
+                "P518",
+                "P813"
+              ]
+            },
+            {
+              "hash": "fbb4cfcbb619e743e27554d5f4fb9682c288837f",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 177837,
+                        "id": "Q177837"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "254b5180d9a1b8ed8aef77096907aea73148079f",
+                    "datavalue": {
+                      "value": "https://ja.wikipedia.org/w/index.php?title=SG-1000&oldid=100850367#cite_note-dempa_19830715-7",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "af4a5f635313f3f50665464de384b75f484399ba",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-08-17T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656",
+                "P813"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "Q1136956$96b4f0f0-4ebb-7c80-66da-f81bbe656f89",
+          "rank": "normal",
+          "source": "wikidata:Q1136956",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1136956",
+        "source_url": "https://www.wikidata.org/wiki/Q1136956",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558361919,
+        "modified": "2026-10-18T11:18:54Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

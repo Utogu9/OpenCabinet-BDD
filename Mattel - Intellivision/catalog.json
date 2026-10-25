@@ -1223,5 +1223,278 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Intellivision",
+      "es": "Intellivision"
+    },
+    "short_descriptions": {
+      "en": "home video game console",
+      "es": "Consola de videojuegos lanzada en 1979"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1980-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1061441$9925d5f3-401f-26a5-7827-8ad370b2a75f",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1983-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1061441$33d8b845-4d4d-085a-c9c8-f4388357862a",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bafc41101c1ee80bdc4f74950906cad234407fb7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1981-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1061441$318c398e-4b0e-49d8-6265-7cd86dd05589",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "0a04593d08cbf7e3266dcb4ca0b01da704269a28",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 145,
+                    "id": "Q145"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1982-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1061441$1f33449f-41a3-8ebf-0cbc-1757822785b0",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "49f3cb79c2a12277f5f736f580c3f428338d5296",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 258,
+                    "id": "Q258"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "a15ed95482d52eea03d59e098dae9e31dafef9bd",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 183,
+                    "id": "Q183"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "0e14b091e4290b83034c405fdea4955fecb7f935",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 142,
+                    "id": "Q142"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1979-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1061441$4f1396d2-40ba-7ca2-269c-ea4cbc49ffa4",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "baf1fbc610b0c3215ce1a2733857842c6ba6af98",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43301,
+                    "id": "Q43301"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 596139,
+            "id": "Q596139"
+          },
+          "statement_id": "q1061441$1d1cfdf7-4b5f-9f47-a975-84052af73aff",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "labels": {
+            "en": "Mattel",
+            "es": "Mattel",
+            "mul": "Mattel"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 105741166,
+            "id": "Q105741166"
+          },
+          "statement_id": "Q1061441$ae3432db-4b47-6a23-6d95-4f77c00e13b3",
+          "rank": "normal",
+          "source": "wikidata:Q1061441",
+          "labels": {
+            "en": "INTV"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1061441",
+        "source_url": "https://www.wikidata.org/wiki/Q1061441",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2544842832,
+        "modified": "2026-09-13T03:31:13Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

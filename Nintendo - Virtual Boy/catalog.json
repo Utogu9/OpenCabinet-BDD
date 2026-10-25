@@ -9679,5 +9679,256 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Virtual Boy",
+      "es": "Virtual Boy",
+      "mul": "Virtual Boy"
+    },
+    "short_descriptions": {
+      "en": "table-top video game console developed by Nintendo",
+      "es": "consola de videojuegos"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1995-07-21T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q164651$a5ba54ca-4332-c55a-ab81-093e52ca45fc",
+          "rank": "normal",
+          "source": "wikidata:Q164651",
+          "qualifiers": {
+            "P17": [
+              {
+                "snaktype": "value",
+                "property": "P17",
+                "hash": "55178c20e031f1579d34d802f16f6b9951b631e1",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "7908f563cc790482a517407957a3e2c1fadeaab1",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "4d7696c95721968e1abf80fa654ecb17a3085f5e",
+                    "datavalue": {
+                      "value": "https://www.techspot.com/article/1085-nintendo-virtual-boy/",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1995-08-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q164651$a5ac48f4-40fc-f1d0-b5f1-4a7926a7e30c",
+          "rank": "normal",
+          "source": "wikidata:Q164651",
+          "qualifiers": {
+            "P17": [
+              {
+                "snaktype": "value",
+                "property": "P17",
+                "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "7908f563cc790482a517407957a3e2c1fadeaab1",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "4d7696c95721968e1abf80fa654ecb17a3085f5e",
+                    "datavalue": {
+                      "value": "https://www.techspot.com/article/1085-nintendo-virtual-boy/",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2633052,
+            "id": "Q2633052"
+          },
+          "statement_id": "Q164651$8A3F5830-3FC7-4993-99A3-2DF65979BD71",
+          "rank": "normal",
+          "source": "wikidata:Q164651",
+          "labels": {
+            "en": "Nintendo Research & Development 1",
+            "es": "Nintendo Research & Development 1",
+            "mul": "Nintendo Research & Development 1"
+          },
+          "references": [
+            {
+              "hash": "28254609dab05b6dc60ea018799772f360c77ff1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "1d70b99af28f7daed76d049841614b25daa947af",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Virtual_Boy&oldid=881674090",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q164651$704B8338-854D-4590-83C8-64A1BECFB239",
+          "rank": "normal",
+          "source": "wikidata:Q164651",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q164651",
+        "source_url": "https://www.wikidata.org/wiki/Q164651",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558272946,
+        "modified": "2026-10-18T05:44:36Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

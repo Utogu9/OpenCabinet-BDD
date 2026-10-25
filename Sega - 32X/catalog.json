@@ -23024,5 +23024,77 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "Sega 32X"
+    },
+    "short_descriptions": {
+      "en": "add-on for the Sega Genesis home video game console",
+      "es": "periférico para la videoconsola Mega Drive"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1994-11-21T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1063978$1bed1211-4614-f56e-c67a-a42b6b7d3969",
+          "rank": "normal",
+          "source": "wikidata:Q1063978"
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "q1063978$D931CCE1-F9C8-45A5-ABF1-740DE88DC225",
+          "rank": "normal",
+          "source": "wikidata:Q1063978",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1063978",
+        "source_url": "https://www.wikidata.org/wiki/Q1063978",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2539748690,
+        "modified": "2026-09-03T16:18:03Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

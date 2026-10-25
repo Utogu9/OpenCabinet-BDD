@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Game Boy",
+  "images": {
+    "logo": {
+      "sha256": "ff065980406f6691779c1f5a3e8f9c92ba5dfba30568ae0f2d945e5ab863dc5a",
+      "bytes": 2149,
+      "width": 1126,
+      "height": 197,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 2149
+        }
+      },
+      "filename": "74858f219a01ab88f5e9a9dedd3f455a05d82456.svg",
+      "source_sha256": "ff065980406f6691779c1f5a3e8f9c92ba5dfba30568ae0f2d945e5ab863dc5a",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\ff065980406f6691779c1f5a3e8f9c92ba5dfba30568ae0f2d945e5ab863dc5a.bin",
+      "updated_at": "2026-10-25T07:19:55.632900+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q186437",
+          "wikidata_property": "P154",
+          "filename": "Nintendo Game Boy Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Nintendo_Game_Boy_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nintendo_Game_Boy_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "http://www.arcade-gear.com/Games/Nintendo/Nintendo_Game_Boy.htm",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Nintendo_Game_Boy_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "74858f219a01ab88f5e9a9dedd3f455a05d82456",
+          "commons_timestamp": "2017-05-15T21:54:02Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

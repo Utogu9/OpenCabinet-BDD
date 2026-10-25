@@ -13465,5 +13465,80 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "NEC PC-9800 series",
+      "es": "NEC PC-9801"
+    },
+    "short_descriptions": {
+      "en": "series of PCs by NEC, sold primarily in Japan",
+      "es": "serie de computadoras de NEC"
+    },
+    "fields": {
+      "release_date": [],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 219203,
+            "id": "Q219203"
+          },
+          "statement_id": "Q183505$f0d1df77-4d16-0196-ec0f-88e1979fc5fa",
+          "rank": "normal",
+          "source": "wikidata:Q183505",
+          "labels": {
+            "en": "NEC",
+            "es": "NEC Corporation",
+            "mul": "NEC"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11509374,
+            "id": "Q11509374"
+          },
+          "statement_id": "Q183505$6644d36c-4d39-0b29-248e-b04d29d876e5",
+          "rank": "normal",
+          "source": "wikidata:Q183505",
+          "labels": {
+            "en": "NEC Home Electronics, Ltd."
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q183505",
+        "source_url": "https://www.wikidata.org/wiki/Q183505",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2521504840,
+        "modified": "2026-07-23T05:02:00Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

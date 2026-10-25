@@ -803,5 +803,97 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Nintendo DSi",
+      "es": "Nintendo DSi",
+      "mul": "Nintendo DSi"
+    },
+    "short_descriptions": {
+      "en": "handheld game console by Nintendo",
+      "es": "videoconsola portátil de Nintendo"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2008-11-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q637178$556c6757-4f7a-d461-a12d-f1dc1dc83083",
+          "rank": "normal",
+          "source": "wikidata:Q637178"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q637178$579538e7-4ce2-589f-c7be-17039c0aa36d",
+          "rank": "normal",
+          "source": "wikidata:Q637178",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          }
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q637178$014b984c-48f0-2d05-6c9e-07d110272a7b",
+          "rank": "normal",
+          "source": "wikidata:Q637178",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q637178",
+        "source_url": "https://www.wikidata.org/wiki/Q637178",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558274153,
+        "modified": "2026-10-18T05:47:50Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }
