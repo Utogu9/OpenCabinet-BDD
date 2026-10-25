@@ -105718,5 +105718,241 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Atari 2600",
+      "es": "Atari 2600",
+      "mul": "Atari 2600"
+    },
+    "short_descriptions": {
+      "en": "home video game console by Atari",
+      "es": "videoconsola de 1977"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1977-09-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q206261$06F329A0-813A-4121-913F-CB07D5B72304",
+          "rank": "normal",
+          "source": "wikidata:Q206261",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "5d389c2b1bf83e70b7b2b0549035da3f91218404",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "ef940cdf215e591c8386c1c190390b102b59f7eb",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/wiki/Atari_2600",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1979-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q206261$59c800bd-4dc7-f911-59d8-501718c30b3b",
+          "rank": "normal",
+          "source": "wikidata:Q206261",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "89510cf65b86e5b227ebb1261942c2ac57abc3d0",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 713750,
+                    "id": "Q713750"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1982-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q206261$3d260eeb-4884-9d55-ff37-20df882ff852",
+          "rank": "normal",
+          "source": "wikidata:Q206261",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "5d389c2b1bf83e70b7b2b0549035da3f91218404",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "ef940cdf215e591c8386c1c190390b102b59f7eb",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/wiki/Atari_2600",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 13409231,
+            "id": "Q13409231"
+          },
+          "statement_id": "Q206261$2d092cda-4738-4018-b216-6c0fb7be1967",
+          "rank": "normal",
+          "source": "wikidata:Q206261",
+          "labels": {
+            "en": "Atari, Inc.",
+            "es": "Atari, Inc.",
+            "mul": "Atari, Inc."
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q206261",
+        "source_url": "https://www.wikidata.org/wiki/Q206261",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2559947737,
+        "modified": "2026-10-23T10:38:53Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

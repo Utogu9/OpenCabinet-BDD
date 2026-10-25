@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "DOS",
+  "images": {
+    "logo": {
+      "sha256": "87f30829409a8369237652ee78ea506bc5eab9a0d9f9eabbeb746140e4109e26",
+      "bytes": 2736,
+      "width": 607,
+      "height": 773,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 2736
+        }
+      },
+      "filename": "a2a58ea4a70c2b0d39645c849e21e8c6484d8824.svg",
+      "source_sha256": "87f30829409a8369237652ee78ea506bc5eab9a0d9f9eabbeb746140e4109e26",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\87f30829409a8369237652ee78ea506bc5eab9a0d9f9eabbeb746140e4109e26.bin",
+      "updated_at": "2026-10-25T07:19:55.317210+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q47604",
+          "wikidata_property": "P154",
+          "filename": "MS-DOS logo 2.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:MS-DOS_logo_2.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/MS-DOS_logo_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Microsoft Corporation",
+          "author_html": "Microsoft Corporation",
+          "credit": "Own vectorization, based on File:MS-DOS logo.svg and https://winworldpc.com/res/img/screenshots/65c221f3d5319b6101b89243b4a0395ec9fe178e95dcb116adc85f0c86ec07d5.jpg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:MS-DOS_logo_2.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "a2a58ea4a70c2b0d39645c849e21e8c6484d8824",
+          "commons_timestamp": "2023-06-20T00:09:06Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

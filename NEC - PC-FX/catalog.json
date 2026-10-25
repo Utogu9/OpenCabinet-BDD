@@ -14563,5 +14563,149 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "PC-FX",
+      "es": "PC-FX",
+      "mul": "PC-FX"
+    },
+    "short_descriptions": {
+      "en": "home video game console released by NEC in 1994",
+      "es": "videoconsola de NEC"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1994-12-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1136902$d53f537a-4456-20c7-5b7a-ec7196e8a1ba",
+          "rank": "normal",
+          "source": "wikidata:Q1136902",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "ea0ebc5668329dabcff6ec48fc5f12d24307960f",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "9111e0a40ac9954c4d86cdc81fdf367d082d350c",
+                    "datavalue": {
+                      "value": "http://www.videogameconsolelibrary.com/pg90-pcfx.htm",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 219203,
+            "id": "Q219203"
+          },
+          "statement_id": "Q1136902$5EF1CF59-13AB-40BB-9F6A-E36E0DCFBAD1",
+          "rank": "normal",
+          "source": "wikidata:Q1136902",
+          "labels": {
+            "en": "NEC",
+            "es": "NEC Corporation",
+            "mul": "NEC"
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1136902",
+        "source_url": "https://www.wikidata.org/wiki/Q1136902",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558359280,
+        "modified": "2026-10-18T11:07:09Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

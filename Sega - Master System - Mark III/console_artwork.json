@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Master System - Mark III",
+  "images": {
+    "logo": {
+      "sha256": "987ca1aed5f0d03b4ce4b7b1dfc1d9f09a447c572164a06cd467ecfed9e74211",
+      "bytes": 27647,
+      "width": 230,
+      "height": 45,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 27647
+        }
+      },
+      "filename": "b8cb758d7045f9942ce35e9322fcf623970b1e9c.svg",
+      "source_sha256": "987ca1aed5f0d03b4ce4b7b1dfc1d9f09a447c572164a06cd467ecfed9e74211",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\987ca1aed5f0d03b4ce4b7b1dfc1d9f09a447c572164a06cd467ecfed9e74211.bin",
+      "updated_at": "2026-10-25T07:19:57.763987+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q209868",
+          "wikidata_property": "P154",
+          "filename": "Master System Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Master_System_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Master_System_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "All copyrights and trademarks owned by Sega Corporation (KK Sega)",
+          "author_html": "All copyrights and trademarks owned by Sega Corporation (KK Sega)",
+          "credit": "Unofficial, fan-made",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Master_System_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "b8cb758d7045f9942ce35e9322fcf623970b1e9c",
+          "commons_timestamp": "2012-09-17T18:47:31Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

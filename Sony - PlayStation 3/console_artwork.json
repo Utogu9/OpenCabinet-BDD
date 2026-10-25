@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation 3",
+  "images": {
+    "logo": {
+      "sha256": "a3681248e4a4d966b463524392f88edbc0a111f05c1a635e66a34e184624ef20",
+      "bytes": 6268,
+      "width": 667,
+      "height": 280,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6268
+        }
+      },
+      "filename": "275fe6af2631086d204672eadb3d13e778f3dd68.svg",
+      "source_sha256": "a3681248e4a4d966b463524392f88edbc0a111f05c1a635e66a34e184624ef20",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\a3681248e4a4d966b463524392f88edbc0a111f05c1a635e66a34e184624ef20.bin",
+      "updated_at": "2026-10-25T07:19:59.515856+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q10683",
+          "wikidata_property": "P154",
+          "filename": "PlayStation 3 logo (2009).svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PlayStation_3_logo_(2009).svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/PlayStation_3_logo_%282009%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sony Computer Entertainment",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Sony_Computer_Entertainment\" class=\"extiw\" title=\"en:Sony Computer Entertainment\">Sony Computer Entertainment</a>",
+          "credit": "Saturn - New PS3 Slim flyer (in Deutsch)",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PlayStation_3_logo_(2009).svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "275fe6af2631086d204672eadb3d13e778f3dd68",
+          "commons_timestamp": "2009-09-13T22:19:52Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

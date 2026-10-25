@@ -22668,5 +22668,184 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "es": "Neo Geo Pocket Color",
+      "mul": "Neo Geo Pocket Color"
+    },
+    "short_descriptions": {
+      "en": "handheld console"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1999-03-16T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1977455$56050419-40bf-986c-d6ce-73a905725217",
+          "rank": "normal",
+          "source": "wikidata:Q1977455",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1999-08-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1977455$747df099-4cc1-48f3-0a03-12be8840e516",
+          "rank": "normal",
+          "source": "wikidata:Q1977455",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1999-10-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1977455$dfafb9f7-46a7-1e22-727c-e645047cde75",
+          "rank": "normal",
+          "source": "wikidata:Q1977455",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 46,
+                    "id": "Q46"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1073880,
+            "id": "Q1073880"
+          },
+          "statement_id": "Q1977455$13DE528B-AD56-41E6-8018-DC2C3B45B73B",
+          "rank": "normal",
+          "source": "wikidata:Q1977455",
+          "labels": {
+            "en": "SNK",
+            "es": "SNK"
+          },
+          "references": [
+            {
+              "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 177837,
+                        "id": "Q177837"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1977455",
+        "source_url": "https://www.wikidata.org/wiki/Q1977455",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2528608467,
+        "modified": "2026-08-07T23:17:40Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

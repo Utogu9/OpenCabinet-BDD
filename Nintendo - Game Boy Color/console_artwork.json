@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Game Boy Color",
+  "images": {
+    "logo": {
+      "sha256": "a57eccb8956df00de7ec6032dbd65cefe9c0fddee15626754b33b9587d11def3",
+      "bytes": 8956,
+      "width": 577,
+      "height": 236,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 8956
+        }
+      },
+      "filename": "73a32cf1dd76ebef104101704f16fe512e31fd7d.svg",
+      "source_sha256": "a57eccb8956df00de7ec6032dbd65cefe9c0fddee15626754b33b9587d11def3",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\a57eccb8956df00de7ec6032dbd65cefe9c0fddee15626754b33b9587d11def3.bin",
+      "updated_at": "2026-10-25T07:19:55.880371+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q203992",
+          "wikidata_property": "P154",
+          "filename": "Game Boy Color logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Game_Boy_Color_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Game_Boy_Color_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nintendo\" class=\"extiw\" title=\"w:en:Nintendo\"><span title=\"Japanese multinational video game and consumer electronics company\">Nintendo</span></a></bdi>",
+          "credit": "Nintendo",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Game_Boy_Color_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "73a32cf1dd76ebef104101704f16fe512e31fd7d",
+          "commons_timestamp": "2014-12-31T14:03:31Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

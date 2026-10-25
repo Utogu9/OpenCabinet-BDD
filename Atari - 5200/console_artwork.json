@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Atari - 5200",
+  "images": {
+    "logo": {
+      "sha256": "d83453d9a978aa4dfe7bf8b2ca887e3ff9a9743e58c37d5f1766e2fe4da9bc42",
+      "bytes": 3372,
+      "width": 2670,
+      "height": 830,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3372
+        }
+      },
+      "filename": "8a4654c64ed76ffc0605f4a99dd348b0a85988f1.svg",
+      "source_sha256": "d83453d9a978aa4dfe7bf8b2ca887e3ff9a9743e58c37d5f1766e2fe4da9bc42",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\d83453d9a978aa4dfe7bf8b2ca887e3ff9a9743e58c37d5f1766e2fe4da9bc42.bin",
+      "updated_at": "2026-10-25T07:19:55.153882+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q743222",
+          "wikidata_property": "P154",
+          "filename": "Atari 5200 logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Atari_5200_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Atari_5200_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Atari, Inc.",
+          "author_html": "Atari, Inc.",
+          "credit": "Own vectorization, based on https://ia801702.us.archive.org/3/items/atari-5200-controller-box/Atari%205200%20Controller%20-%20Box%20Back.jpg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Atari_5200_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "8a4654c64ed76ffc0605f4a99dd348b0a85988f1",
+          "commons_timestamp": "2022-07-24T20:02:12Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

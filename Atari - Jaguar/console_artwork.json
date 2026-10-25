@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Atari - Jaguar",
+  "images": {
+    "logo": {
+      "sha256": "51a7e1b14c6f89647a3c1b2866db572b20ea25d720f7fe2f0fdeb82ca9f632b3",
+      "bytes": 15609,
+      "width": 3839,
+      "height": 1360,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 15609
+        }
+      },
+      "filename": "3172378e5a9427edae025ac0d6dfb8abf9332c09.svg",
+      "source_sha256": "51a7e1b14c6f89647a3c1b2866db572b20ea25d720f7fe2f0fdeb82ca9f632b3",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\51a7e1b14c6f89647a3c1b2866db572b20ea25d720f7fe2f0fdeb82ca9f632b3.bin",
+      "updated_at": "2026-10-25T07:19:55.191950+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q650601",
+          "wikidata_property": "P154",
+          "filename": "Atari Jaguar logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Atari_Jaguar_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atari_Jaguar_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "JustDanPatrick",
+          "author_html": "JustDanPatrick",
+          "credit": "https://atariage.com/forums/topic/205405-official-atari-jaguar-packaging-templates-available-here/ https://forums.launchbox-app.com/files/file/3402-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Atari_Jaguar_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "3172378e5a9427edae025ac0d6dfb8abf9332c09",
+          "commons_timestamp": "2022-05-18T16:33:09Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

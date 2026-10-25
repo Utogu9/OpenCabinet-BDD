@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation",
+  "images": {
+    "logo": {
+      "sha256": "ca766101d8e6b2a67ac7efa91d104e96322139b2748153cca6d19af449c253ee",
+      "bytes": 6725,
+      "width": 505,
+      "height": 99,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6725
+        }
+      },
+      "filename": "52f6fb6a6d654c9de48b08b2577bc008c7e01548.svg",
+      "source_sha256": "ca766101d8e6b2a67ac7efa91d104e96322139b2748153cca6d19af449c253ee",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\ca766101d8e6b2a67ac7efa91d104e96322139b2748153cca6d19af449c253ee.bin",
+      "updated_at": "2026-10-25T07:19:58.786960+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q10677",
+          "wikidata_property": "P154",
+          "filename": "PlayStation Wordmark.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PlayStation_Wordmark.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/PlayStation_Wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sony Computer Entertainment",
+          "author_html": "Sony Computer Entertainment",
+          "credit": "File:PS-b logo.png",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PlayStation_Wordmark.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "52f6fb6a6d654c9de48b08b2577bc008c7e01548",
+          "commons_timestamp": "2013-03-31T06:52:09Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

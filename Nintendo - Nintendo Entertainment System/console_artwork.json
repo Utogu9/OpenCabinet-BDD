@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo Entertainment System",
+  "images": {
+    "logo": {
+      "sha256": "477a10a6acc03fc2471df46dd7cbee8ee0a3ff92a592bd5331be294a0c347498",
+      "bytes": 15847,
+      "width": 139,
+      "height": 51,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 15847
+        }
+      },
+      "filename": "ba856c60048494e69daa1fd62b381927fdf44390.svg",
+      "source_sha256": "477a10a6acc03fc2471df46dd7cbee8ee0a3ff92a592bd5331be294a0c347498",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\477a10a6acc03fc2471df46dd7cbee8ee0a3ff92a592bd5331be294a0c347498.bin",
+      "updated_at": "2026-10-25T07:19:56.841684+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q172742",
+          "wikidata_property": "P154",
+          "filename": "NES logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:NES_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/NES_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "The original uploader was Anomie at English Wikipedia .",
+          "author_html": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Anomie\" class=\"extiw\" title=\"wikipedia:User:Anomie\">Anomie</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.",
+          "credit": "Transferred from en.wikipedia to Commons by Rocket000 using CommonsHelper .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:NES_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "ba856c60048494e69daa1fd62b381927fdf44390",
+          "commons_timestamp": "2025-11-09T17:13:31Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

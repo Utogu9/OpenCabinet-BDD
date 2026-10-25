@@ -468886,5 +468886,183 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "Sega Saturn"
+    },
+    "short_descriptions": {
+      "en": "home video game console",
+      "es": "videoconsola de sobremesa"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1994-11-22T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q200912$03A9E7D2-8787-4AEB-920F-11308EAB54CE",
+          "rank": "normal",
+          "source": "wikidata:Q200912",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1995-05-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q200912$33c9bdde-44cd-2f28-50b6-43a783db9eb9",
+          "rank": "normal",
+          "source": "wikidata:Q200912",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1995-07-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q200912$1fc6be9a-42f0-5a72-0c9c-f6618b5164e6",
+          "rank": "normal",
+          "source": "wikidata:Q200912",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 46,
+                    "id": "Q46"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "q200912$AA5439E9-FEB8-404F-9BA7-80BB9AFBD5B4",
+          "rank": "normal",
+          "source": "wikidata:Q200912",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q200912",
+        "source_url": "https://www.wikidata.org/wiki/Q200912",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558361725,
+        "modified": "2026-10-18T11:17:46Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

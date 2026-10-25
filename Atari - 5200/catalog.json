@@ -11150,5 +11150,163 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Atari 5200",
+      "es": "Atari 5200",
+      "mul": "Atari 5200"
+    },
+    "short_descriptions": {
+      "en": "home video game console",
+      "es": "videoconsola de 1982"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1982-11-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q743222$886AFBB2-BD31-490A-9873-A93C6F901D64",
+          "rank": "normal",
+          "source": "wikidata:Q743222",
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3627870,
+            "id": "Q3627870"
+          },
+          "statement_id": "Q743222$e8a68119-411d-2ee7-8879-2fc3b28f52c4",
+          "rank": "normal",
+          "source": "wikidata:Q743222",
+          "labels": {
+            "en": "Atari Corporation",
+            "es": "Atari Corporation",
+            "mul": "Atari Corporation"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 207922,
+            "id": "Q207922"
+          },
+          "statement_id": "Q743222$abfaf3d5-4655-3d0d-f85d-63fc846710df",
+          "rank": "normal",
+          "source": "wikidata:Q743222",
+          "labels": {
+            "en": "Atari",
+            "es": "Atari",
+            "mul": "Atari"
+          },
+          "references": [
+            {
+              "hash": "a52a7cc4de9c9e0c7d8a17842792f77902423408",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 206855,
+                        "id": "Q206855"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "5b9890c83e5a5084c1bd2aa1993f52601bac7593",
+                    "datavalue": {
+                      "value": "https://ru.wikipedia.org/?oldid=122407368",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q743222",
+        "source_url": "https://www.wikidata.org/wiki/Q743222",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558363115,
+        "modified": "2026-10-18T11:23:38Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

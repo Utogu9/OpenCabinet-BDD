@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Philips - CD-i",
+  "images": {
+    "logo": {
+      "sha256": "97af816155789018104fbd4bf856068c70a8e7f598f82b2704b6f85d2de12efd",
+      "bytes": 19000,
+      "width": 442,
+      "height": 326,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 19000
+        }
+      },
+      "filename": "c5bc80581681b415b197cd04d431494c0d62d84c.svg",
+      "source_sha256": "97af816155789018104fbd4bf856068c70a8e7f598f82b2704b6f85d2de12efd",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\97af816155789018104fbd4bf856068c70a8e7f598f82b2704b6f85d2de12efd.bin",
+      "updated_at": "2026-10-25T07:19:57.570927+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1023103",
+          "wikidata_property": "P154",
+          "filename": "CD-I Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:CD-I_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/CD-I_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Philips",
+          "author_html": "<a href=\"https://ru.wikipedia.org/wiki/Philips\" class=\"extiw\" title=\"ru:Philips\">Philips</a>",
+          "credit": "http://www.philips.com/",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:CD-I_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "c5bc80581681b415b197cd04d431494c0d62d84c",
+          "commons_timestamp": "2020-09-21T09:26:53Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

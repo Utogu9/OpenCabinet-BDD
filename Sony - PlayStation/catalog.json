@@ -2292173,5 +2292173,134 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "PlayStation"
+    },
+    "short_descriptions": {
+      "en": "1994 5th generation video game console by Sony Interactive Entertainment",
+      "es": "consola de videojuegos doméstica de Sony"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1994-12-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10677$da370ddd-41db-330f-3d0d-6ebe8b32dcf5",
+          "rank": "normal",
+          "source": "wikidata:Q10677"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "Q10677$CF809316-146F-4B43-8A04-1CC5530E91EF",
+          "rank": "normal",
+          "source": "wikidata:Q10677",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          },
+          "references": [
+            {
+              "hash": "8243207421c77bc28226e2c5ea217bdedbd688ae",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "c710cd9ab1a21352034f74005bdcc6df14344530",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PlayStation_(console)&oldid=882394766",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "q10677$92502674-3570-4BE7-8458-56F9F8480879",
+          "rank": "normal",
+          "source": "wikidata:Q10677",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q10677",
+        "source_url": "https://www.wikidata.org/wiki/Q10677",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558270598,
+        "modified": "2026-10-18T05:36:05Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

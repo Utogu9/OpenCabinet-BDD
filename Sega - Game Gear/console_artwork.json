@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Game Gear",
+  "images": {
+    "logo": {
+      "sha256": "9e31bed87ec5d047166254f111531cef99e0b289c3f7fca99bf48bee903cfa0b",
+      "bytes": 4896,
+      "width": 450,
+      "height": 65,
+      "alpha": false,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": true,
+        "reason": "smallest_webp",
+        "quality": 100,
+        "candidate_bytes": {
+          "lossless": 4896,
+          "lossy90": 9614
+        }
+      },
+      "filename": "18385820c7ebd4e2be88565939ebb4651537b4a3.png",
+      "source_sha256": "7de0d9520fd969a4c82875c6707959ccdea9756f8a6f5413a5a4f8a3b3534efa",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\7de0d9520fd969a4c82875c6707959ccdea9756f8a6f5413a5a4f8a3b3534efa.bin",
+      "updated_at": "2026-10-25T07:19:57.741891+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q751719",
+          "wikidata_property": "P154",
+          "filename": "Game Gear logo Sega.png",
+          "url": "https://commons.wikimedia.org/wiki/File:Game_Gear_logo_Sega.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Game_Gear_logo_Sega.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sega",
+          "author_html": "Sega",
+          "credit": "http://sega.jp/archive/segahard/gg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Game_Gear_logo_Sega.png#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "18385820c7ebd4e2be88565939ebb4651537b4a3",
+          "commons_timestamp": "2012-09-16T00:41:18Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

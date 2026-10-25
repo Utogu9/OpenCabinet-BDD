@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - GameCube",
+  "images": {
+    "logo": {
+      "sha256": "1ee4c66b25606cbfa983933a29136dca787044535b90017062556467980cb8d0",
+      "bytes": 11168,
+      "width": 400,
+      "height": 400,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 11168
+        }
+      },
+      "filename": "bd2a32e99e0f095de54765e69594be0cf101fc86.svg",
+      "source_sha256": "1ee4c66b25606cbfa983933a29136dca787044535b90017062556467980cb8d0",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\1ee4c66b25606cbfa983933a29136dca787044535b90017062556467980cb8d0.bin",
+      "updated_at": "2026-10-25T07:19:55.989368+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q182172",
+          "wikidata_property": "P154",
+          "filename": "GC Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:GC_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/GC_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Liblu",
+          "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Liblu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Liblu (page does not exist)\">Liblu</a>",
+          "credit": "Own work",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "attribution_required": true,
+          "restrictions": "",
+          "commons_sha1": "bd2a32e99e0f095de54765e69594be0cf101fc86",
+          "commons_timestamp": "2012-04-19T17:47:04Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

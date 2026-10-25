@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo DS",
+  "images": {
+    "logo": {
+      "sha256": "da3b4beaad583c631544fb3f378829a994052fea5a9ea9cde3bcdd5ec7f5cc92",
+      "bytes": 10949,
+      "width": 751,
+      "height": 116,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 10949
+        }
+      },
+      "filename": "d21178dafe99b8ee877ec2b73185ae444175f9fd.svg",
+      "source_sha256": "da3b4beaad583c631544fb3f378829a994052fea5a9ea9cde3bcdd5ec7f5cc92",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\da3b4beaad583c631544fb3f378829a994052fea5a9ea9cde3bcdd5ec7f5cc92.bin",
+      "updated_at": "2026-10-25T07:19:56.534981+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q170323",
+          "wikidata_property": "P154",
+          "filename": "Nintendo DS Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Nintendo_DS_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Nintendo_DS_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Nintendo\" class=\"extiw\" title=\"en:Nintendo\">Nintendo</a>",
+          "credit": "Logo taken from this PDF version of the Nintendo DS Instruction Booklet, available from nintendo.com .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Nintendo_DS_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "d21178dafe99b8ee877ec2b73185ae444175f9fd",
+          "commons_timestamp": "2009-11-05T10:11:49Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

@@ -508304,5 +508304,339 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Nintendo GameCube",
+      "es": "Nintendo GameCube",
+      "mul": "Nintendo GameCube"
+    },
+    "short_descriptions": {
+      "en": "sixth-generation home video game console by Nintendo",
+      "es": "videoconsola de 2001"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2001-09-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q182172$5F882C5C-5F0C-457C-B970-B1F79EAFE6D0",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "cc1aa3e8836b24f7adadaf37f7e71cd92d361ba0",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "416692ec5ffdc99e99405312e744e12ff9c6f9a6",
+                    "datavalue": {
+                      "value": "http://edition.cnn.com/2001/TECH/fun.games/08/24/gamecube.release.idg/",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+2001-11-18T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q182172$e741c5df-423c-ebea-7ea7-468c78967fe8",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "cf69c82cf96b0ac883ff184e4c2bca913d72b572",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "83022d3b51ebc9125da361b30975eaece7bee7b2",
+                    "datavalue": {
+                      "value": "http://news.cnet.com/2100-1040-276374.html",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+2002-05-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q182172$0b656cb9-442b-2db0-6a91-d3c4e8add559",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 46,
+                    "id": "Q46"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "3acb8e91b55ba57cad24196fbe0bfb4b8e7fae1c",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "67251098feca3f4f235fa4dfccf52f0dc6fc696c",
+                    "datavalue": {
+                      "value": "http://news.bbc.co.uk/1/hi/entertainment/1943247.stm",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+2002-05-17T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q182172$6aa2215c-4e88-acd2-bfad-d794bbb08235",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "080ac48e01e1496aef1a1016d6d870ce07032c0f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 408,
+                    "id": "Q408"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q182172$0F2255B6-84DF-4D41-90EC-DD98D86287FB",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "792b68b922c4edfe719d1bfb003176df9f3791a6",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "16a6dc36d0939797ea901be42d9b237bacc6d9ad",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=GameCube&oldid=882388662",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "q182172$5985F139-F14F-459F-9CD5-9CB1E48F8C60",
+          "rank": "normal",
+          "source": "wikidata:Q182172",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q182172",
+        "source_url": "https://www.wikidata.org/wiki/Q182172",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558273512,
+        "modified": "2026-10-18T05:46:11Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

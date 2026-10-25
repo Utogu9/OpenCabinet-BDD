@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Game Boy Advance",
+  "images": {
+    "logo": {
+      "sha256": "0f753b5e62eb1454b966c716a48db09ebae27a9d92dd0642a3b690e160366b00",
+      "bytes": 4031,
+      "width": 402,
+      "height": 47,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4031
+        }
+      },
+      "filename": "37ea6a2404729f2fac848ce55a6c39715293c068.svg",
+      "source_sha256": "0f753b5e62eb1454b966c716a48db09ebae27a9d92dd0642a3b690e160366b00",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\0f753b5e62eb1454b966c716a48db09ebae27a9d92dd0642a3b690e160366b00.bin",
+      "updated_at": "2026-10-25T07:19:55.819699+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q188642",
+          "wikidata_property": "P154",
+          "filename": "Game Boy Advance logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Game_Boy_Advance_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Game_Boy_Advance_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nuno Nogueira (Nmnogueira)",
+          "author_html": "Nuno Nogueira (Nmnogueira)",
+          "credit": "Transferred from en.wikipedia to Commons by Atomicbeachball using CommonsHelper .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Game_Boy_Advance_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "37ea6a2404729f2fac848ce55a6c39715293c068",
+          "commons_timestamp": "2017-05-15T21:33:54Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

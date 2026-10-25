@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Dreamcast",
+  "images": {
+    "logo": {
+      "sha256": "5b9e9db014e377f17908186d92f2cb08f22398dd11390e1bf930cfd520532105",
+      "bytes": 16018,
+      "width": 1000,
+      "height": 756,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 16018
+        }
+      },
+      "filename": "473be7db3057cd0628bb11170d262de82cd713b1.svg",
+      "source_sha256": "5b9e9db014e377f17908186d92f2cb08f22398dd11390e1bf930cfd520532105",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\5b9e9db014e377f17908186d92f2cb08f22398dd11390e1bf930cfd520532105.bin",
+      "updated_at": "2026-10-25T07:19:57.714722+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q184198",
+          "wikidata_property": "P154",
+          "filename": "Dreamcast logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Dreamcast_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dreamcast_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sega - Kenji Eno",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Sega\" class=\"extiw\" title=\"w:Sega\">Sega</a> - Kenji Eno",
+          "credit": "Transferred from the English Wikipedia",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Dreamcast_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "473be7db3057cd0628bb11170d262de82cd713b1",
+          "commons_timestamp": "2024-04-09T06:45:40Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

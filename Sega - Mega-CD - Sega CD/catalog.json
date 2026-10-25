@@ -125650,5 +125650,214 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "Sega CD/Mega CD"
+    },
+    "short_descriptions": {
+      "en": "add-on for the Sega Genesis/Mega Drive video game console",
+      "es": "periférico para la videoconsola Mega Drive"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1991-12-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1047516$dd3f312b-46a9-4162-952f-328782c2bc7a",
+          "rank": "normal",
+          "source": "wikidata:Q1047516",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1992-10-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1047516$9096c052-4ff0-2c41-ed43-338923fc2637",
+          "rank": "normal",
+          "source": "wikidata:Q1047516",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1993-04-19T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1047516$ccba7744-4b32-969a-cd2d-bee9ff72356e",
+          "rank": "normal",
+          "source": "wikidata:Q1047516",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "080ac48e01e1496aef1a1016d6d870ce07032c0f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 408,
+                    "id": "Q408"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1993-09-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1047516$bf4bb169-4f6a-a939-a2e0-719dd97494ec",
+          "rank": "normal",
+          "source": "wikidata:Q1047516",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "0e14b091e4290b83034c405fdea4955fecb7f935",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 142,
+                    "id": "Q142"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 8447,
+                        "id": "Q8447"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "q1047516$983e5c88-47c7-45c9-f558-7c438b1c9f5a",
+          "rank": "normal",
+          "source": "wikidata:Q1047516",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1047516",
+        "source_url": "https://www.wikidata.org/wiki/Q1047516",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558365141,
+        "modified": "2026-10-18T11:34:43Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

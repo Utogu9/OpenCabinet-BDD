@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Mega Drive - Genesis",
+  "images": {
+    "logo": {
+      "sha256": "5b38c91049eccfed675e02272894e1c14006d4917eae04528b66dcd58574d994",
+      "bytes": 5508,
+      "width": 176,
+      "height": 42,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 5508
+        }
+      },
+      "filename": "c563abb6d561407a4774f8826239d519cfba1723.svg",
+      "source_sha256": "5b38c91049eccfed675e02272894e1c14006d4917eae04528b66dcd58574d994",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\5b38c91049eccfed675e02272894e1c14006d4917eae04528b66dcd58574d994.bin",
+      "updated_at": "2026-10-25T07:19:57.906118+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q10676",
+          "wikidata_property": "P154",
+          "filename": "Sega genesis logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Sega_genesis_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sega_genesis_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "SEGA",
+          "author_html": "SEGA",
+          "credit": "Brandsoftheworld.com",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Sega_genesis_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "c563abb6d561407a4774f8826239d519cfba1723",
+          "commons_timestamp": "2015-05-25T00:18:20Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

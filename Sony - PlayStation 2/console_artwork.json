@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation 2",
+  "images": {
+    "logo": {
+      "sha256": "7041fee0b32b2b66f0cd1a477b5b93934babf13cc8f6f24192bfc71f4f68b4ad",
+      "bytes": 6696,
+      "width": 800,
+      "height": 239,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6696
+        }
+      },
+      "filename": "a885a9e3e636fa92973918db27d271bc5c890fc2.svg",
+      "source_sha256": "7041fee0b32b2b66f0cd1a477b5b93934babf13cc8f6f24192bfc71f4f68b4ad",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\7041fee0b32b2b66f0cd1a477b5b93934babf13cc8f6f24192bfc71f4f68b4ad.bin",
+      "updated_at": "2026-10-25T07:19:59.438908+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q10680",
+          "wikidata_property": "P154",
+          "filename": "PlayStation 2 logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PlayStation_2_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/PlayStation_2_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Ssolbergj at en.wikipedia",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/User:Ssolbergj\" class=\"extiw\" title=\"en:User:Ssolbergj\">Ssolbergj</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+          "credit": "Transferred from en.wikipedia to Commons.",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PlayStation_2_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "a885a9e3e636fa92973918db27d271bc5c890fc2",
+          "commons_timestamp": "2021-07-26T05:09:58Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

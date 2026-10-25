@@ -16,7 +16,9 @@ Sony - PlayStation/
   catalog.json
 ```
 
-Artwork is converted to WebP by comparing lossless and quality 90 encodings and keeping the smaller result. Filenames such as `cover_front2.webp` identify distinct variants. Games with missing or ambiguous identifiers remain outside this published library. Coverage is incomplete.
+Raster artwork is converted to WebP by comparing lossless and quality 90 encodings and keeping the smaller result. Console logos may retain their original SVG format. Filenames such as `cover_front2.webp` identify distinct variants. Games with missing or ambiguous identifiers remain outside this published library. Coverage is incomplete.
+
+Console artwork is stored at the console directory root (`logo.svg` or `logo.webp`, `render.webp`, `screenshot.webp`) and listed in `console_artwork.json`. See [console logo credits](LOGO-CREDITS.md) for sources, authors and licenses.
 
 ### Catalog structure
 
@@ -26,6 +28,7 @@ Each console's `catalog.json` contains:
 - `games`: games indexed by serial or official title ID. Each game contains `entries` with its full release names and `images` with available media, paths, hashes and file details. An optional `metadata_id` links the game to a record in `metadata`.
 - `metadata`: shared game records keyed by source and identifier, such as `wikidata:Q15087581`. Records contain names (`labels`), brief descriptions (`short_descriptions`), and a `fields` dictionary with developers, publishers, genres, player counts, game modes, release dates and platforms, where available.
 - `metadata_sources`: metadata providers, credits and licenses.
+- `console_metadata`: console names, brief descriptions, release dates, developers and manufacturers, where available. `sources` records their provenance and licenses.
 - `dat`, `source_policy`, `encoding` and `status`: the source DAT, processing policy, image encoding settings and catalog generation status.
 
 Different regional serials, revisions or discs can reference the same metadata record within a console. Metadata is optional and incomplete; empty field arrays indicate unavailable values. Records retain source links and qualifiers for facts specific to a region, platform or game mode.
@@ -63,9 +66,9 @@ Replace the example console with its exact folder name. You can select several c
 
 - Submit only media you are permitted to redistribute. State its source and the applicable permission or license. Making a scan or screenshot yourself does not automatically grant redistribution rights to the underlying artwork.
 - Do not submit images obtained through bulk scraping of commercial databases. Do not bypass access restrictions or remove watermarks.
-- For each image, generate two WebP candidates from the same original: **lossless** and **lossy with quality set to 90**. Keep the file with the smaller byte size; on a tie, keep the lossless version. Quality 90 is an encoder setting, not a target file size or a guaranteed percentage of retained quality. The recommended editor applies this rule automatically.
+- For each raster image, generate two WebP candidates from the same original: **lossless** and **lossy with quality set to 90**. Keep the file with the smaller byte size; on a tie, keep the lossless version. Quality 90 is an encoder setting, not a target file size or a guaranteed percentage of retained quality. The recommended editor applies this rule automatically. Console logos supplied as SVG may retain the original file.
 - Complete manuals may be submitted as PDF files, with the same source and permission requirements. The two-candidate WebP rule applies to images, not to PDF files.
-- Use the correct console and official serial or platform title ID folder, such as `Sony - PlayStation/SLUS-12345/`. Do not invent identifiers or use placeholders such as `!NONE`.
+- Use the correct console and official serial or platform title ID folder for game media, such as `Sony - PlayStation/SLUS-12345/`. Store console artwork at the console directory root. Do not invent identifiers or use placeholders such as `!NONE`.
 - Name images by type: `cover_front.webp`, `cover_back.webp`, `disc.webp`, etc. Distinct variants use `cover_front2.webp`, `cover_front3.webp`, etc.; byte-identical duplicates should not become variants.
 - Include the updated `catalog.json`. Leave editor backups, history, settings and temporary files out of the pull request.
 
@@ -94,7 +97,9 @@ Sony - PlayStation/
   catalog.json
 ```
 
-Las imágenes se convierten a WebP comparando la codificación sin pérdida y con pérdida a calidad 90 y conservando el archivo más pequeño. Nombres como `cover_front2.webp` identifican variantes distintas. Los juegos con identificadores ausentes o ambiguos quedan fuera de esta biblioteca publicada. La cobertura es parcial.
+Las imágenes raster se convierten a WebP comparando la codificación sin pérdida y con pérdida a calidad 90 y conservando el archivo más pequeño. Los logos de consolas pueden conservar su formato SVG original. Nombres como `cover_front2.webp` identifican variantes distintas. Los juegos con identificadores ausentes o ambiguos quedan fuera de esta biblioteca publicada. La cobertura es parcial.
+
+Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.webp`, `render.webp`, `screenshot.webp`) y se registran en `console_artwork.json`. Los [créditos de los logos](LOGO-CREDITS.md) indican fuentes, autores y licencias.
 
 ### Estructura del catálogo
 
@@ -104,6 +109,7 @@ El `catalog.json` de cada consola contiene:
 - `games`: juegos organizados por serial o ID oficial. Cada juego contiene `entries` con los nombres completos de sus ediciones e `images` con los medios disponibles, rutas, hashes y detalles de los archivos. El campo opcional `metadata_id` enlaza el juego con una ficha de `metadata`.
 - `metadata`: fichas compartidas identificadas por fuente e ID, como `wikidata:Q15087581`. Contienen nombres (`labels`), descripciones breves (`short_descriptions`) y un diccionario `fields` con desarrolladores, editores, géneros, cantidades de jugadores, modos de juego, fechas de lanzamiento y plataformas, cuando están disponibles.
 - `metadata_sources`: proveedores de metadatos, créditos y licencias.
+- `console_metadata`: nombres, descripciones breves, fechas de lanzamiento, desarrolladores y fabricantes de la consola, cuando están disponibles. `sources` registra su procedencia y licencias.
 - `dat`, `source_policy`, `encoding` y `status`: DAT de origen, política de procesamiento, parámetros de codificación de imágenes y estado de generación del catálogo.
 
 Los seriales de distintas regiones, revisiones o discos pueden apuntar a la misma ficha de metadatos dentro de una consola. Los metadatos son opcionales y su cobertura es parcial; las listas de campos vacías indican valores no disponibles. Las fichas conservan los enlaces de procedencia y los calificadores de los datos específicos de una región, plataforma o modo de juego.
@@ -141,9 +147,9 @@ Reemplazá la consola del ejemplo por el nombre exacto de su carpeta. Para selec
 
 - Aportá únicamente medios que tengas permiso para redistribuir. Indicá su fuente y el permiso o licencia aplicable. Hacer un escaneo o una captura propia no otorga automáticamente derechos de redistribución sobre las imágenes originales.
 - No se admiten imágenes obtenidas mediante scraping masivo de bases de datos comerciales. No eludas restricciones de acceso ni elimines marcas de agua.
-- Para cada imagen, generá dos candidatos WebP desde el mismo original: **sin pérdida (lossless)** y **con pérdida, con el parámetro de calidad en 90**. Conservá el archivo que pese menos en bytes; si empatan, conservá el de sin pérdida. Calidad 90 es un parámetro del codificador, no un tamaño de archivo objetivo ni un porcentaje garantizado de calidad conservada. El editor recomendado aplica esta regla automáticamente.
+- Para cada imagen raster, generá dos candidatos WebP desde el mismo original: **sin pérdida (lossless)** y **con pérdida, con el parámetro de calidad en 90**. Conservá el archivo que pese menos en bytes; si empatan, conservá el de sin pérdida. Calidad 90 es un parámetro del codificador, no un tamaño de archivo objetivo ni un porcentaje garantizado de calidad conservada. El editor recomendado aplica esta regla automáticamente. Los logos de consola aportados como SVG pueden conservar el archivo original.
 - Se admiten manuales completos en PDF, con los mismos requisitos de procedencia y permiso. La comparación de los dos WebP corresponde a las imágenes, no a los archivos PDF.
-- Usá la consola y la carpeta del serial o identificador oficial de plataforma correctos, por ejemplo `Sony - PlayStation/SLUS-12345/`. No inventes identificadores ni uses marcadores como `!NONE`.
+- Usá la consola y la carpeta del serial o identificador oficial de plataforma correctos para los medios de juegos, por ejemplo `Sony - PlayStation/SLUS-12345/`. Guardá las imágenes de consola en la raíz de la carpeta de esa consola. No inventes identificadores ni uses marcadores como `!NONE`.
 - Nombrá las imágenes por tipo: `cover_front.webp`, `cover_back.webp`, `disc.webp`, etc. Las variantes distintas usan `cover_front2.webp`, `cover_front3.webp`, etc.; los archivos idénticos byte por byte no deben generar variantes.
 - Incluí el `catalog.json` actualizado. Dejá fuera del pull request los respaldos, historial, configuración y archivos temporales del editor.
 

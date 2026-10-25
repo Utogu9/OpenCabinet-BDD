@@ -20,5 +20,120 @@
     "webp": "1.6.0"
   },
   "status": "complete",
-  "games": {}
+  "games": {},
+  "console_metadata": {
+    "labels": {
+      "en": "NEC PC-8800 series",
+      "es": "NEC PC-8801"
+    },
+    "short_descriptions": {
+      "en": "series of computers sold in Japan by NEC",
+      "es": "modelos de computadora"
+    },
+    "fields": {
+      "release_date": [],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 219203,
+            "id": "Q219203"
+          },
+          "statement_id": "Q1338888$D05F4949-F06C-4B61-A530-184DD48159EE",
+          "rank": "normal",
+          "source": "wikidata:Q1338888",
+          "labels": {
+            "en": "NEC",
+            "es": "NEC Corporation",
+            "mul": "NEC"
+          },
+          "references": [
+            {
+              "hash": "afc2acdfb06cad4d5d48d35d882963216321c362",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "b4778ab04243e053d7210a035de102570feaff98",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PC-8800_series&oldid=930070913",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 11509374,
+            "id": "Q11509374"
+          },
+          "statement_id": "q1338888$924dce00-4e62-f6f9-a305-ffd4f8cad35b",
+          "rank": "normal",
+          "source": "wikidata:Q1338888",
+          "labels": {
+            "en": "NEC Home Electronics, Ltd."
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1338888",
+        "source_url": "https://www.wikidata.org/wiki/Q1338888",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2540350953,
+        "modified": "2026-09-05T03:39:59Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
+  }
 }

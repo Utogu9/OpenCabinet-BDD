@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Wii U",
+  "images": {
+    "logo": {
+      "sha256": "81c1793106ae16bc5c16257a374a31ebbdccb0275e158a71f5132dd877c75179",
+      "bytes": 952,
+      "width": 94,
+      "height": 27,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 952
+        }
+      },
+      "filename": "4e8946f1feff1af548df2291b3905a828fc4c279.svg",
+      "source_sha256": "81c1793106ae16bc5c16257a374a31ebbdccb0275e158a71f5132dd877c75179",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\81c1793106ae16bc5c16257a374a31ebbdccb0275e158a71f5132dd877c75179.bin",
+      "updated_at": "2026-10-25T07:19:57.542888+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q56942",
+          "wikidata_property": "P154",
+          "filename": "WiiU.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:WiiU.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/WiiU.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "Extracted from Japanese Nintendo website",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:WiiU.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "4e8946f1feff1af548df2291b3905a828fc4c279",
+          "commons_timestamp": "2024-08-09T17:02:26Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

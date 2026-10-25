@@ -260445,5 +260445,190 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Nintendo 64",
+      "es": "Nintendo 64",
+      "mul": "Nintendo 64"
+    },
+    "short_descriptions": {
+      "en": "fifth-generation home video game console by Nintendo",
+      "es": "videoconsola de 1996 hecha por Nintendo"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1996-06-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q184839$26711033-4306-e19b-b7e9-a5233e710db5",
+          "rank": "normal",
+          "source": "wikidata:Q184839"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3877245,
+            "id": "Q3877245"
+          },
+          "statement_id": "Q184839$C36472FF-F414-401C-9312-DAAE9BC6D3A4",
+          "rank": "normal",
+          "source": "wikidata:Q184839",
+          "labels": {
+            "en": "Nintendo Integrated Research & Development",
+            "es": "Nintendo Integrated Research & Development"
+          },
+          "references": [
+            {
+              "hash": "0a39b3a89f339ea442f9597114f256317191a2b7",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "2ed4fa63495849aa88be94bb6cc73111d809dc78",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Nintendo_64&oldid=882388644",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 623459,
+            "id": "Q623459"
+          },
+          "statement_id": "Q184839$3e42745f-4639-d6bf-b9ba-fe18f35ee806",
+          "rank": "normal",
+          "source": "wikidata:Q184839",
+          "labels": {
+            "en": "Silicon Graphics",
+            "es": "Silicon Graphics",
+            "mul": "Silicon Graphics"
+          },
+          "references": [
+            {
+              "hash": "be8f1f15f8e8e7cb96488eb8a19fd02317adf911",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "c2bf19722461c82ce9242dca6c6cccf5bf2b2bb3",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/wiki/Nintendo_64",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "q184839$F653D623-A485-4057-AD0E-7D995A4AAA6C",
+          "rank": "normal",
+          "source": "wikidata:Q184839",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q184839",
+        "source_url": "https://www.wikidata.org/wiki/Q184839",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558273110,
+        "modified": "2026-10-18T05:45:00Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

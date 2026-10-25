@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Bandai - WonderSwan Color",
+  "images": {
+    "logo": {
+      "sha256": "f5bda7462133004c4757948a0ec7348fe9a3cdd788c807eb906b5e1e54f3e5d2",
+      "bytes": 5682,
+      "width": 2659,
+      "height": 2159,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 5682
+        }
+      },
+      "filename": "28496bf8ec20c8789f8bfa4183e15b0cca337322.svg",
+      "source_sha256": "f5bda7462133004c4757948a0ec7348fe9a3cdd788c807eb906b5e1e54f3e5d2",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f5bda7462133004c4757948a0ec7348fe9a3cdd788c807eb906b5e1e54f3e5d2.bin",
+      "updated_at": "2026-10-25T07:19:55.255881+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1048035",
+          "wikidata_property": "P154",
+          "filename": "Wonderswan-Color-Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Wonderswan-Color-Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Wonderswan-Color-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "JustDanPatrick",
+          "author_html": "JustDanPatrick",
+          "credit": "Wonderswan Color Product Box https://www.genkivideogames.com/wonderswan-color-crystal-orange-no-manual-bandai-bandai-hardware/swj777c1d https://forums.launchbox-app.com/files/file/3402-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Wonderswan-Color-Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "28496bf8ec20c8789f8bfa4183e15b0cca337322",
+          "commons_timestamp": "2022-05-18T16:06:52Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Microsoft - MSX",
+  "images": {
+    "logo": {
+      "sha256": "8a160f65330f5ff01430fe4454fe0495bd317014d94d706fc1a1028634305b1e",
+      "bytes": 3521,
+      "width": 512,
+      "height": 212,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3521
+        }
+      },
+      "filename": "ea506ae84a6011cb1331d406791d866ef717e0d1.svg",
+      "source_sha256": "8a160f65330f5ff01430fe4454fe0495bd317014d94d706fc1a1028634305b1e",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\8a160f65330f5ff01430fe4454fe0495bd317014d94d706fc1a1028634305b1e.bin",
+      "updated_at": "2026-10-25T07:19:55.341589+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q853547",
+          "wikidata_property": "P154",
+          "filename": "MSX-Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:MSX-Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MSX-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Unknown author Unknown author",
+          "author_html": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "credit": "http://de.wikipedia.org/wiki/Datei:MSX-Logo.svg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:MSX-Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "ea506ae84a6011cb1331d406791d866ef717e0d1",
+          "commons_timestamp": "2012-09-15T20:51:38Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

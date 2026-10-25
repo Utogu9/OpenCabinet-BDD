@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Commodore - CDTV",
+  "images": {
+    "logo": {
+      "sha256": "d2836a375000482e6f551022ec5927cb15de0aa74ebedef3ebaf07c277f4528b",
+      "bytes": 3476,
+      "width": 3839,
+      "height": 2397,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3476
+        }
+      },
+      "filename": "deb78208ff9cef0712e36f2d14655f1ed6aedad3.svg",
+      "source_sha256": "d2836a375000482e6f551022ec5927cb15de0aa74ebedef3ebaf07c277f4528b",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\d2836a375000482e6f551022ec5927cb15de0aa74ebedef3ebaf07c277f4528b.bin",
+      "updated_at": "2026-10-25T07:19:55.297201+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q955368",
+          "wikidata_property": "P154",
+          "filename": "CDTV01.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:CDTV01.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/CDTV01.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Commodore International",
+          "author_html": "<a href=\"https://en.wikipedia.org/wiki/Commodore_International\" class=\"extiw\" title=\"w:Commodore International\">Commodore International</a>",
+          "credit": "Vectorization by Dan Patrick",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:CDTV01.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "deb78208ff9cef0712e36f2d14655f1ed6aedad3",
+          "commons_timestamp": "2022-07-24T23:10:25Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

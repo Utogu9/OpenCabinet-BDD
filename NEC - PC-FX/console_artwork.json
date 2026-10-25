@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "NEC - PC-FX",
+  "images": {
+    "logo": {
+      "sha256": "c479eed09ee5acaa36f88a16ed97cd7881b21d29b4eba89a071f1e30d8fbda93",
+      "bytes": 6396,
+      "width": 283,
+      "height": 125,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6396
+        }
+      },
+      "filename": "21b022a56e63fe9e1c541cfa842cd48ccc8a9c10.svg",
+      "source_sha256": "c479eed09ee5acaa36f88a16ed97cd7881b21d29b4eba89a071f1e30d8fbda93",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\c479eed09ee5acaa36f88a16ed97cd7881b21d29b4eba89a071f1e30d8fbda93.bin",
+      "updated_at": "2026-10-25T07:19:55.497481+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1136902",
+          "wikidata_property": "P154",
+          "filename": "PC-FX textlogo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PC-FX_textlogo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/PC-FX_textlogo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Unknown author Unknown author /NEC",
+          "author_html": "Unknown author<span style=\"display: none;\">Unknown author</span>/NEC",
+          "credit": "fandom:logos:PC-FX",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PC-FX_textlogo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "21b022a56e63fe9e1c541cfa842cd48ccc8a9c10",
+          "commons_timestamp": "2025-06-21T02:38:49Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

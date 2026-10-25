@@ -52280,5 +52280,78 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "MS-DOS"
+    },
+    "short_descriptions": {
+      "en": "Microsoft operating system",
+      "es": "sistema operativo descontinuado desarrollado por Microsoft para x86"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1981-08-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q47604$6eecfc0e-448f-c9cb-8ab4-6bbce5045d2b",
+          "rank": "normal",
+          "source": "wikidata:Q47604"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2283,
+            "id": "Q2283"
+          },
+          "statement_id": "q47604$6e39746d-4ba1-9b84-2b13-fe44b550099e",
+          "rank": "normal",
+          "source": "wikidata:Q47604",
+          "labels": {
+            "en": "Microsoft",
+            "mul": "Microsoft"
+          }
+        }
+      ],
+      "manufacturer": []
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q47604",
+        "source_url": "https://www.wikidata.org/wiki/Q47604",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2559652621,
+        "modified": "2026-10-22T08:56:58Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

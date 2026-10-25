@@ -204916,5 +204916,138 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "PlayStation 3",
+      "es": "PlayStation 3",
+      "mul": "PlayStation 3"
+    },
+    "short_descriptions": {
+      "en": "video game console developed Sony Interactive Entertainment",
+      "es": "videoconsola desarrollada por Sony Interactive Enternaiment"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2006-11-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10683$d579a940-4a38-2295-cd10-0b0ec7261840",
+          "rank": "normal",
+          "source": "wikidata:Q10683"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "Q10683$F8AFB62D-A821-485D-85C6-2D50A9DDF8A1",
+          "rank": "normal",
+          "source": "wikidata:Q10683",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          },
+          "references": [
+            {
+              "hash": "957eed95bb54a8c5631da619ed1d79a4ea962587",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "affcef7a79a07499f6192a77634c5b15669a5e2a",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PlayStation_3&oldid=881354500",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "q10683$23DC033F-F334-4F96-BBEF-9A197374F28C",
+          "rank": "normal",
+          "source": "wikidata:Q10683",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q10683",
+        "source_url": "https://www.wikidata.org/wiki/Q10683",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558271067,
+        "modified": "2026-10-18T05:38:49Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

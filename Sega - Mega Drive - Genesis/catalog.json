@@ -529671,5 +529671,384 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "es": "Mega Drive",
+      "mul": "Sega Genesis/Mega Drive"
+    },
+    "short_descriptions": {
+      "en": "fourth-generation home video game console developed by Sega",
+      "es": "videoconsola de Sega"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1988-10-29T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10676$07b2f542-4943-7791-399e-8ffe7872a6f9",
+          "rank": "normal",
+          "source": "wikidata:Q10676",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "2892abb673b1f3fd979b7d70eed90cc48eb8760a",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "14bdc102cbacb7382358dece5a3d7d311923144b",
+                    "datavalue": {
+                      "value": "https://web.archive.org/web/20160322102327/http://sega-club.com/website/de/index.php?article_id=470",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P1476": [
+                  {
+                    "snaktype": "value",
+                    "property": "P1476",
+                    "hash": "cd3b9f418ea6111db56c00035ad99b8d1a553b9e",
+                    "datavalue": {
+                      "value": {
+                        "text": "Mega Drive History",
+                        "language": "de"
+                      },
+                      "type": "monolingualtext"
+                    },
+                    "datatype": "monolingualtext"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "a5cf3de4b5a9ed91df817cda02c15d4fff034b48",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-08-13T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ],
+                "P407": [
+                  {
+                    "snaktype": "value",
+                    "property": "P407",
+                    "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 188,
+                        "id": "Q188"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P1476",
+                "P813",
+                "P407"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1998-08-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10676$b38679c8-4b6c-2152-cf50-32675814842a",
+          "rank": "normal",
+          "source": "wikidata:Q10676",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "2892abb673b1f3fd979b7d70eed90cc48eb8760a",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "14bdc102cbacb7382358dece5a3d7d311923144b",
+                    "datavalue": {
+                      "value": "https://web.archive.org/web/20160322102327/http://sega-club.com/website/de/index.php?article_id=470",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P1476": [
+                  {
+                    "snaktype": "value",
+                    "property": "P1476",
+                    "hash": "cd3b9f418ea6111db56c00035ad99b8d1a553b9e",
+                    "datavalue": {
+                      "value": {
+                        "text": "Mega Drive History",
+                        "language": "de"
+                      },
+                      "type": "monolingualtext"
+                    },
+                    "datatype": "monolingualtext"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "a5cf3de4b5a9ed91df817cda02c15d4fff034b48",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-08-13T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ],
+                "P407": [
+                  {
+                    "snaktype": "value",
+                    "property": "P407",
+                    "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 188,
+                        "id": "Q188"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P1476",
+                "P813",
+                "P407"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1990-11-30T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10676$af65de32-4d80-8ad0-f581-02a554fe80ca",
+          "rank": "normal",
+          "source": "wikidata:Q10676",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "0a04593d08cbf7e3266dcb4ca0b01da704269a28",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 145,
+                    "id": "Q145"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "2892abb673b1f3fd979b7d70eed90cc48eb8760a",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "14bdc102cbacb7382358dece5a3d7d311923144b",
+                    "datavalue": {
+                      "value": "https://web.archive.org/web/20160322102327/http://sega-club.com/website/de/index.php?article_id=470",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P1476": [
+                  {
+                    "snaktype": "value",
+                    "property": "P1476",
+                    "hash": "cd3b9f418ea6111db56c00035ad99b8d1a553b9e",
+                    "datavalue": {
+                      "value": {
+                        "text": "Mega Drive History",
+                        "language": "de"
+                      },
+                      "type": "monolingualtext"
+                    },
+                    "datatype": "monolingualtext"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "a5cf3de4b5a9ed91df817cda02c15d4fff034b48",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-08-13T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ],
+                "P407": [
+                  {
+                    "snaktype": "value",
+                    "property": "P407",
+                    "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 188,
+                        "id": "Q188"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P1476",
+                "P813",
+                "P407"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "q10676$B53D6589-10E2-483B-AD3F-5E9502B24252",
+          "rank": "normal",
+          "source": "wikidata:Q10676",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q10676",
+        "source_url": "https://www.wikidata.org/wiki/Q10676",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2559380016,
+        "modified": "2026-10-20T21:38:05Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

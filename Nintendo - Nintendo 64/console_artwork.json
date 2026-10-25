@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo 64",
+  "images": {
+    "logo": {
+      "sha256": "31598d6801afa856c48dbe67a949fde1839dd36895e83f1434d1cee5b6c9acc3",
+      "bytes": 4017,
+      "width": 500,
+      "height": 72,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4017
+        }
+      },
+      "filename": "3989d55459d33bee2ac89e74fc8775fdab3c52cb.svg",
+      "source_sha256": "31598d6801afa856c48dbe67a949fde1839dd36895e83f1434d1cee5b6c9acc3",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\31598d6801afa856c48dbe67a949fde1839dd36895e83f1434d1cee5b6c9acc3.bin",
+      "updated_at": "2026-10-25T07:19:56.172969+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q184839",
+          "wikidata_property": "P154",
+          "filename": "Nintendo 64 wordmark.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Nintendo_64_wordmark.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Nintendo_64_wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Nintendo_64_wordmark.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "3989d55459d33bee2ac89e74fc8775fdab3c52cb",
+          "commons_timestamp": "2024-01-29T07:57:18Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

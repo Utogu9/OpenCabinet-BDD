@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "Bandai - WonderSwan",
+  "images": {
+    "logo": {
+      "sha256": "c35917f9ce6137819287a8cf4656f8a14e8836ef053fc9a1b71fe6eea7f015d0",
+      "bytes": 478,
+      "width": 242,
+      "height": 22,
+      "alpha": true,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": true,
+        "reason": "smallest_webp",
+        "quality": 100,
+        "candidate_bytes": {
+          "lossless": 478,
+          "lossy90": 2788
+        }
+      },
+      "filename": "a23c2b416c07bd7bcd3bb90334cf199b7b487e35.png",
+      "source_sha256": "7be986ba5b7c853a76d2cade34f8428c7acbac73b9f50eb4a488036ce5a77897",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\7be986ba5b7c853a76d2cade34f8428c7acbac73b9f50eb4a488036ce5a77897.bin",
+      "updated_at": "2026-10-25T07:19:55.227678+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1065792",
+          "wikidata_property": "P154",
+          "filename": "WonderSwan logo text.png",
+          "url": "https://commons.wikimedia.org/wiki/File:WonderSwan_logo_text.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WonderSwan_logo_text.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "JohnnyMrNinja",
+          "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:JohnnyMrNinja\" title=\"User:JohnnyMrNinja\">JohnnyMrNinja</a>",
+          "credit": "Bandai wonderswan logo",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:WonderSwan_logo_text.png#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "a23c2b416c07bd7bcd3bb90334cf199b7b487e35",
+          "commons_timestamp": "2011-01-26T09:01:37Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

@@ -6192,5 +6192,269 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "ColecoVision",
+      "mul": "ColecoVision"
+    },
+    "short_descriptions": {
+      "en": "1982 second generation home video-game console",
+      "es": "videoconsola de 1982"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1982-08-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1046862$5DA806C8-7398-4212-B788-46D439BF002D",
+          "rank": "normal",
+          "source": "wikidata:Q1046862",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            },
+            {
+              "hash": "66465b50819b038850dc32b1888e6e46bbf15876",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "cc157ac23932921ea37aa86ae4edbd19cdc28ec0",
+                    "datavalue": {
+                      "value": "https://archive.org/details/Coleco_ColecoVision_TOSEC_2012_04_23",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "f469730837084d36a81228a68a075916f44b88e3",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2018-01-11T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P813"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1983-07-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1046862$9c78645b-46fe-913e-a9e4-f0681f825218",
+          "rank": "normal",
+          "source": "wikidata:Q1046862",
+          "references": [
+            {
+              "hash": "b690ff91801b5fb2d4b088d17db9b46fc6e127b4",
+              "snaks": {
+                "P291": [
+                  {
+                    "snaktype": "value",
+                    "property": "P291",
+                    "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 46,
+                        "id": "Q46"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P291"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 954124,
+            "id": "Q954124"
+          },
+          "statement_id": "Q1046862$17925027-734E-49D8-9D5E-9632B6BECD46",
+          "rank": "normal",
+          "source": "wikidata:Q1046862",
+          "labels": {
+            "en": "Coleco",
+            "es": "Coleco"
+          },
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            },
+            {
+              "hash": "66465b50819b038850dc32b1888e6e46bbf15876",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "cc157ac23932921ea37aa86ae4edbd19cdc28ec0",
+                    "datavalue": {
+                      "value": "https://archive.org/details/Coleco_ColecoVision_TOSEC_2012_04_23",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "f469730837084d36a81228a68a075916f44b88e3",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2018-01-11T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P813"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1046862",
+        "source_url": "https://www.wikidata.org/wiki/Q1046862",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558365549,
+        "modified": "2026-10-18T11:37:04Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Pokemon Mini",
+  "images": {
+    "logo": {
+      "sha256": "f42ad3cd81e5dbe9b78c32ad143d14788d7bd11a764e5acf6d60a176246ae0f3",
+      "bytes": 7032,
+      "width": 207,
+      "height": 33,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 7032
+        }
+      },
+      "filename": "0bb9c6c54619198acad6c08c0e0aea48b5f9aaa8.svg",
+      "source_sha256": "f42ad3cd81e5dbe9b78c32ad143d14788d7bd11a764e5acf6d60a176246ae0f3",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f42ad3cd81e5dbe9b78c32ad143d14788d7bd11a764e5acf6d60a176246ae0f3.bin",
+      "updated_at": "2026-10-25T07:19:56.870292+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1759168",
+          "wikidata_property": "P154",
+          "filename": "Pokemon mini logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Pokemon_mini_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Pokemon_mini_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "Vorlage [1] Vorlage gedreht [2] Gelbe Farbe [3]",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Pokemon_mini_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "0bb9c6c54619198acad6c08c0e0aea48b5f9aaa8",
+          "commons_timestamp": "2015-03-15T09:04:06Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

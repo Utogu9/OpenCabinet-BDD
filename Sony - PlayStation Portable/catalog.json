@@ -543200,5 +543200,218 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "PlayStation Portable",
+      "es": "PlayStation Portable",
+      "mul": "PlayStation Portable"
+    },
+    "short_descriptions": {
+      "en": "handheld game console by Sony",
+      "es": "videoconsola portátil de la empresa Sony Computer Entertainment"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2004-12-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q170325$61893b0d-43ae-b09d-3338-e76bef8bf3e1",
+          "rank": "normal",
+          "source": "wikidata:Q170325",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+2005-03-24T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q170325$c967f4ad-4209-197b-b943-46f75bf04f4c",
+          "rank": "normal",
+          "source": "wikidata:Q170325",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+2005-09-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q170325$9a767051-4d76-c7df-b445-d62bd703627e",
+          "rank": "normal",
+          "source": "wikidata:Q170325",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "98c57839e98965b2c1897c23ea1276c9ab79bec0",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 458,
+                    "id": "Q458"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "Q170325$55CBC613-C5BC-45E5-9071-BF06B2CC4C09",
+          "rank": "normal",
+          "source": "wikidata:Q170325",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          },
+          "references": [
+            {
+              "hash": "80848938d571e50e2f46b47ce603668b3d5c63cb",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "4b8e3467fd273e306c939014f7d1613df94f3af8",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PlayStation_Portable&oldid=882855162",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "q170325$79b7c335-4481-af55-bba8-d443631f3311",
+          "rank": "normal",
+          "source": "wikidata:Q170325",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q170325",
+        "source_url": "https://www.wikidata.org/wiki/Q170325",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558271030,
+        "modified": "2026-10-18T05:38:32Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }
