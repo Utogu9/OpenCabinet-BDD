@@ -1613,7 +1613,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN005"
-      ]
+      ],
+      "metadata_id": "wikidata:Q136750387"
     },
     "SWJ-BAN006": {
       "serial": "SWJ-BAN006",
@@ -1970,7 +1971,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN006"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3459373"
     },
     "SWJ-BAN007": {
       "serial": "SWJ-BAN007",
@@ -2497,7 +2499,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN008"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3197897"
     },
     "SWJ-BAN009": {
       "serial": "SWJ-BAN009",
@@ -3478,7 +3481,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN00D"
-      ]
+      ],
+      "metadata_id": "wikidata:Q1153454"
     },
     "SWJ-BAN00E": {
       "serial": "SWJ-BAN00E",
@@ -4454,7 +4458,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN011"
-      ]
+      ],
+      "metadata_id": "wikidata:Q6738619"
     },
     "SWJ-BAN012": {
       "serial": "SWJ-BAN012",
@@ -4848,7 +4853,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN013"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7355494"
     },
     "SWJ-BAN014": {
       "serial": "SWJ-BAN014",
@@ -5266,7 +5272,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN015"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3317604"
     },
     "SWJ-BAN017": {
       "serial": "SWJ-BAN017",
@@ -6023,7 +6030,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN01B"
-      ]
+      ],
+      "metadata_id": "wikidata:Q4985960"
     },
     "SWJ-BAN01C": {
       "serial": "SWJ-BAN01C",
@@ -8476,7 +8484,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN027"
-      ]
+      ],
+      "metadata_id": "wikidata:Q136499943"
     },
     "SWJ-BAN028": {
       "serial": "SWJ-BAN028",
@@ -8862,7 +8871,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN029"
-      ]
+      ],
+      "metadata_id": "wikidata:Q139889556"
     },
     "SWJ-BAN02A": {
       "serial": "SWJ-BAN02A",
@@ -9846,7 +9856,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN030"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3459377"
     },
     "SWJ-BAN032": {
       "serial": "SWJ-BAN032",
@@ -10203,7 +10214,8 @@
       },
       "serial_identifiers": [
         "SWJ-BAN032"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3027774"
     },
     "SWJ-BAN033": {
       "serial": "SWJ-BAN033",
@@ -14903,7 +14915,8 @@
       },
       "serial_identifiers": [
         "SWJ-DTE002"
-      ]
+      ],
+      "metadata_id": "wikidata:Q116372395"
     },
     "SWJ-HAL002": {
       "serial": "SWJ-HAL002",
@@ -15297,7 +15310,8 @@
       },
       "serial_identifiers": [
         "SWJ-JLC001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5521500"
     },
     "SWJ-JLC002": {
       "serial": "SWJ-JLC002",
@@ -15892,7 +15906,8 @@
       },
       "serial_identifiers": [
         "SWJ-KDK001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7334680"
     },
     "SWJ-KDX001": {
       "serial": "SWJ-KDX001",
@@ -18417,7 +18432,8 @@
       },
       "serial_identifiers": [
         "SWJ-KNM001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q41385150"
     },
     "SWJ-LAY001": {
       "serial": "SWJ-LAY001",
@@ -19981,7 +19997,8 @@
       },
       "serial_identifiers": [
         "SWJ-NHB001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q611289"
     },
     "SWJ-OMM001": {
       "serial": "SWJ-OMM001",
@@ -22868,7 +22885,8 @@
       },
       "serial_identifiers": [
         "SWJ-SUN002"
-      ]
+      ],
+      "metadata_id": "wikidata:Q220665"
     },
     "SWJ-SUN003": {
       "serial": "SWJ-SUN003",
@@ -23463,7 +23481,8 @@
       },
       "serial_identifiers": [
         "SWJ-TAT001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q24833528"
     },
     "SWJ-TMY001": {
       "serial": "SWJ-TMY001",
@@ -23850,6 +23869,5022 @@
       "serial_identifiers": [
         "SWJ-YKE001"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q136750387": {
+      "wikidata_id": "Q136750387",
+      "source_url": "https://www.wikidata.org/wiki/Q136750387",
+      "revision": 2559950025,
+      "modified": "2026-10-23T10:51:33Z",
+      "cached_at": "2026-10-25T05:46:55.744607+00:00",
+      "entity_sha256": "6df035d3e6c519b516ef3265c99fa53d721fbb52109a26c944f07088a7bc2c19",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Digital Monster Ver. WonderSwan"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q136750387$66b53e07-4719-ac5d-20d0-4ee889bb9cc6",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            }
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-03-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q136750387$0192041f-4f37-77bd-a54c-1a48102e462d",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q136750387$c6b7ff73-4b14-c181-6fad-02ad0d909700",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3459373": {
+      "wikidata_id": "Q3459373",
+      "source_url": "https://www.wikidata.org/wiki/Q3459373",
+      "revision": 2518600246,
+      "modified": "2026-07-17T11:23:50Z",
+      "cached_at": "2026-10-25T05:35:49.901112+00:00",
+      "entity_sha256": "da0904e985fbe75e73371df0d2036d9c98308d0e2f1644b8babfc1902f65d388",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "SD Gundam: Emotional Jam",
+        "mul": "SD Gundam: Emotional Jam"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3459373$72DFA9AA-D00C-4448-82CF-5EBF7CF929C8",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3459373$B5B80D84-E60D-48E1-8995-2177319B5F84",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 744038,
+              "id": "Q744038"
+            },
+            "statement_id": "Q3459373$61F14046-5476-4427-AE64-4C275DB44275",
+            "rank": "normal",
+            "labels": {
+              "en": "role-playing video game",
+              "es": "videojuego de rol"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3459373$0c25e4a6-40fa-daa0-8f5d-76aabce3f124",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q3459373$27b29cf5-4094-e17b-f8a5-8b60c31f7670",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3197897": {
+      "wikidata_id": "Q3197897",
+      "source_url": "https://www.wikidata.org/wiki/Q3197897",
+      "revision": 2518599986,
+      "modified": "2026-07-17T11:23:09Z",
+      "cached_at": "2026-10-25T05:35:29.362164+00:00",
+      "entity_sha256": "e4b0f32584ba6e823008d11e4c81b46f323a3c23e222c806ef726b6088ad7242",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Kaze no Klonoa: Moonlight Museum",
+        "es": "Klonoa: Moonlight Museum",
+        "mul": "Kaze no Klonoa: Moonlight Museum"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 309996,
+              "id": "Q309996"
+            },
+            "statement_id": "Q3197897$9E99551A-DE54-47D6-B5C2-58DCF2E02BFB",
+            "rank": "normal",
+            "labels": {
+              "en": "Namco",
+              "es": "Namco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 309996,
+              "id": "Q309996"
+            },
+            "statement_id": "Q3197897$E6F64086-F87D-435F-B04E-38719AC9BBEF",
+            "rank": "normal",
+            "labels": {
+              "en": "Namco",
+              "es": "Namco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q3197897$9C75DC44-2D69-4876-9998-0A62B55141DE",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3197897$C295F0C3-4073-41F2-9147-21F8165771E8",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-05-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3197897$A50019EB-F271-4067-B670-930C11A2B4CF",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q3197897$2F9FE474-EF0C-49A1-99C8-30F69E949C13",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q1153454": {
+      "wikidata_id": "Q1153454",
+      "source_url": "https://www.wikidata.org/wiki/Q1153454",
+      "revision": 2529814089,
+      "modified": "2026-08-11T00:30:52Z",
+      "cached_at": "2026-10-25T05:33:09.233718+00:00",
+      "entity_sha256": "8ffe52faae016b9198a344fa1e0b7419e576c8bd4802aeec6533b8bb7fe76a92",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Tekken Card Challenge",
+        "es": "Tekken Card Challenge",
+        "mul": "Tekken Card Challenge"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 309996,
+              "id": "Q309996"
+            },
+            "statement_id": "Q1153454$7D6507F8-7EC2-4B82-B378-100EC3A74EF0",
+            "rank": "normal",
+            "labels": {
+              "en": "Namco",
+              "es": "Namco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "3662c761b9d8a90a7ddc21bfcc0a51fa0a6da48f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "144c124b73f210a59b1c0f40f091505e3626aaee",
+                      "datavalue": {
+                        "value": "https://tekken.fandom.com/wiki/Tekken_Card_Challenge",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 309996,
+              "id": "Q309996"
+            },
+            "statement_id": "Q1153454$E6495433-5367-4E2F-AAD3-C46CA8A16744",
+            "rank": "normal",
+            "labels": {
+              "en": "Namco",
+              "es": "Namco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1194689,
+              "id": "Q1194689"
+            },
+            "statement_id": "Q1153454$93D3B36D-A46E-4E5F-90A2-E4F82D4C50D9",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai Namco Entertainment",
+              "es": "Bandai Namco Entertainment",
+              "mul": "Bandai Namco Entertainment"
+            },
+            "references": [
+              {
+                "hash": "3662c761b9d8a90a7ddc21bfcc0a51fa0a6da48f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "144c124b73f210a59b1c0f40f091505e3626aaee",
+                      "datavalue": {
+                        "value": "https://tekken.fandom.com/wiki/Tekken_Card_Challenge",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 846224,
+              "id": "Q846224"
+            },
+            "statement_id": "Q1153454$B342AA0B-32EA-4421-9CD1-1B0D166E7472",
+            "rank": "normal",
+            "labels": {
+              "en": "fighting game",
+              "es": "videojuego de lucha"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "q1153454$2E130B19-DAB8-4962-AE48-9FC454AFCB91",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q1153454$BAF7B53B-6E69-4A56-B588-373F94472E3F",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-06-17T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1153454$E8403735-F6BD-4A65-86EB-072E525D5804",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q1153454$FFB66CA2-C53D-4DE5-A0BA-4EEDC93B3EF0",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q6738619": {
+      "wikidata_id": "Q6738619",
+      "source_url": "https://www.wikidata.org/wiki/Q6738619",
+      "revision": 2519119386,
+      "modified": "2026-07-18T13:55:32Z",
+      "cached_at": "2026-10-25T05:37:55.151846+00:00",
+      "entity_sha256": "ac7b1383c25f030ed047ba2609fc141329bfaacf8814593550b29d9d24c30f08",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Makaimura for WonderSwan",
+        "mul": "Makaimura for WonderSwan"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14428,
+              "id": "Q14428"
+            },
+            "statement_id": "Q6738619$0BE74E23-C589-40EB-BF99-D7C0A5493B05",
+            "rank": "normal",
+            "labels": {
+              "en": "Capcom",
+              "es": "Capcom",
+              "mul": "Capcom"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q6738619$BF5F3338-7A0B-4F30-9FAF-24F5EF28C92C",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q6738619$6800ACF7-6203-4CC7-AF57-1C91C8CE339A",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q6738619$1185F476-C3DE-4389-A8BB-5B38A644B7DB",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q6738619$f77105cc-6ea1-4f3a-8352-b90e6b7c0e80",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q6738619$E0A637F9-CBDE-48A7-9010-7CC4A1DB7D34",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7355494": {
+      "wikidata_id": "Q7355494",
+      "source_url": "https://www.wikidata.org/wiki/Q7355494",
+      "revision": 2558796961,
+      "modified": "2026-10-19T13:43:20Z",
+      "cached_at": "2026-10-25T05:38:17.638536+00:00",
+      "entity_sha256": "037eef0bd37ba99f2b22dabfc802d7899b2a952e047c7c222036826feb95f4ef",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Rockman & Forte Mirai kara no Chōsensha",
+        "es": "Rockman & Forte: Mirai kara no Chōsensha",
+        "mul": "Rockman & Forte Mirai kara no Chōsensha"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14428,
+              "id": "Q14428"
+            },
+            "statement_id": "Q7355494$C37D9C5E-7429-4FD0-AE75-46404AF8AFB6",
+            "rank": "normal",
+            "labels": {
+              "en": "Capcom",
+              "es": "Capcom",
+              "mul": "Capcom"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1194689,
+              "id": "Q1194689"
+            },
+            "statement_id": "Q7355494$AFACEF22-85B1-4C47-961B-974F0DE9477F",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai Namco Entertainment",
+              "es": "Bandai Namco Entertainment",
+              "mul": "Bandai Namco Entertainment"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q7355494$D72BB88B-766F-4697-BE99-110EF6FFB3EF",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7355494$4FD014BC-5DD1-43B0-83E5-65E50C812087",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-10-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7355494$C96D2161-6FE0-42F7-8094-E2CA67CA2EFB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q7355494$912CC53C-5431-42B3-8F59-FB793CDE8118",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3317604": {
+      "wikidata_id": "Q3317604",
+      "source_url": "https://www.wikidata.org/wiki/Q3317604",
+      "revision": 2558050000,
+      "modified": "2026-10-17T18:01:12Z",
+      "cached_at": "2026-10-25T05:35:41.100988+00:00",
+      "entity_sha256": "97bd0d071fe4746d23a0bd651c8bef1d0561fb06e3759b7a09d11d374f3e95c5",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Mobile Suit Gundam: MSVS",
+        "mul": "Mobile Suit Gundam: MSVS"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3317604$1913121B-C172-447D-BF69-8E1981F1944A",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3317604$2570676C-610D-4AB8-847B-A0661A40B6A3",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 472055,
+              "id": "Q472055"
+            },
+            "statement_id": "Q3317604$1C26B2CC-2638-498D-8204-D35C7D841244",
+            "rank": "normal",
+            "labels": {
+              "en": "strategy video game",
+              "es": "videojuego de estrategia"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3317604$8aad8c88-45e0-737f-47f4-9058dc32ce5b",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q3317604$0d225b1d-4b95-e557-4e7d-b7fb71bb0cfa",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q4985960": {
+      "wikidata_id": "Q4985960",
+      "source_url": "https://www.wikidata.org/wiki/Q4985960",
+      "revision": 2519007885,
+      "modified": "2026-07-18T07:02:39Z",
+      "cached_at": "2026-10-25T05:36:57.813195+00:00",
+      "entity_sha256": "f41fc12d4cc99209c79c35af1505d5cc0d76dc97d8ecb6051ce61f262db5e18d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Buffers Evolution",
+        "mul": "Buffers Evolution"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q4985960$b9315c62-4406-22e4-4b64-166c0a289ae9",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q4985960$7550C66B-FC72-4575-A99A-3422F56ED178",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q4985960$747d8864-7081-4981-8700-53c2c70ae3ef",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q4985960$4f313f8e-9580-4efb-b61b-987cf913a821",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q136499943": {
+      "wikidata_id": "Q136499943",
+      "source_url": "https://www.wikidata.org/wiki/Q136499943",
+      "revision": 2539666554,
+      "modified": "2026-09-03T09:47:27Z",
+      "cached_at": "2026-10-25T05:46:54.557588+00:00",
+      "entity_sha256": "b968728db7caafae949e7b31336162366feecb26e4c2e4d3f5666d5eaeea8d1a",
+      "license": "CC0-1.0",
+      "labels": {
+        "mul": "Detective Conan: The Western Detective's Greatest Crisis!?"
+      },
+      "short_descriptions": {
+        "en": "2000 video game",
+        "es": "videojuego de 2000"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q136499943$b1d879ae-4f66-9382-7b55-f87d8e6c7124",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11321455,
+              "id": "Q11321455"
+            },
+            "statement_id": "Q136499943$40e971e9-4403-59ca-ff44-9d50157d6adb",
+            "rank": "normal",
+            "labels": {
+              "en": "Tomcat System"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q136499943$6373ca41-44d4-74b3-deb5-76b3feddf60a",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "Q136499943$041f3c5b-4e19-c497-f9b6-f005b5d37137",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q136499943$b996606a-4c68-1a4c-bafe-da92205e9033",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2000-07-27T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q136499943$d3d749ca-465d-ab4e-19bf-ebf58bf5a219",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q136499943$39f2c195-40ef-aa25-8452-52f0fe1207ed",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q139889556": {
+      "wikidata_id": "Q139889556",
+      "source_url": "https://www.wikidata.org/wiki/Q139889556",
+      "revision": 2539736049,
+      "modified": "2026-09-03T15:19:40Z",
+      "cached_at": "2026-10-25T05:47:12.379455+00:00",
+      "entity_sha256": "7c245513477ab4616a9f0505bd9ae0a56f9040cd19a7bfb7a95c6f2e5591ef86",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Slither Link",
+        "mul": "Slither Link"
+      },
+      "short_descriptions": {
+        "en": "2000 video game",
+        "es": "videojuego de 2000"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11321455,
+              "id": "Q11321455"
+            },
+            "statement_id": "Q139889556$e40ae4e3-4efe-1989-0194-c6fa047668de",
+            "rank": "normal",
+            "labels": {
+              "en": "Tomcat System"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q139889556$7340ce0b-42b8-8653-2f39-86695dc0cfca",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 967591,
+              "id": "Q967591"
+            },
+            "statement_id": "Q139889556$fd45dca4-4101-8a7d-8dcb-3521a574ccc5",
+            "rank": "normal",
+            "labels": {
+              "en": "Nikoli",
+              "es": "Nikoli"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 54767,
+              "id": "Q54767"
+            },
+            "statement_id": "Q139889556$84fd5e8c-4ce6-4ce2-a24f-fd880f0c5fce",
+            "rank": "normal",
+            "labels": {
+              "en": "puzzle video game",
+              "es": "videojuego de lógica"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2000-04-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q139889556$155fd57d-4e42-1fd9-d925-0a514153ce18",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q139889556$14cac023-4f63-2ba6-8345-936d4b571fc3",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3459377": {
+      "wikidata_id": "Q3459377",
+      "source_url": "https://www.wikidata.org/wiki/Q3459377",
+      "revision": 2518609371,
+      "modified": "2026-07-17T11:47:19Z",
+      "cached_at": "2026-10-25T05:35:49.901112+00:00",
+      "entity_sha256": "c26ecc68aceacb84af7692dfdcb16745219b434bc6e828fe3c6f5fccefc72636",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "SD Gundam: G Generation - Gather Beat",
+        "mul": "SD Gundam: G Generation - Gather Beat"
+      },
+      "short_descriptions": {
+        "en": "2000 video game",
+        "es": "videojuego de 2000"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3459377$6464F63C-23B9-4D1F-BE0D-CAD212CDC8F1",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3459377$0E35DCD9-E027-4312-BA66-C6669F96B07C",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 472055,
+              "id": "Q472055"
+            },
+            "statement_id": "Q3459377$1369FFB4-91CD-4347-A4F6-85E75D456514",
+            "rank": "normal",
+            "labels": {
+              "en": "strategy video game",
+              "es": "videojuego de estrategia"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2000-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3459377$4e126fbd-4afc-c3b6-44f2-90dbf400986a",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q3459377$5cdbf052-4f61-5f3c-a56a-5b451af822d0",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3027774": {
+      "wikidata_id": "Q3027774",
+      "source_url": "https://www.wikidata.org/wiki/Q3027774",
+      "revision": 2529815600,
+      "modified": "2026-08-11T00:35:22Z",
+      "cached_at": "2026-10-25T05:35:13.649015+00:00",
+      "entity_sha256": "72f477c916d86fb8943b0897939f73ef359eb1da2e449161e66e786c0e680998",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Digimon Adventure 02: Tag Tamers",
+        "mul": "Digimon Adventure 02: Tag Tamers"
+      },
+      "short_descriptions": {
+        "en": "2000 video game",
+        "es": "videojuego de 2000"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3027774$14F3820B-8AD7-4702-B5D1-BA5BCCF1B6FB",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3027774$C4BC7ED4-57B0-48BB-BA9A-AB27FB84B750",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 744038,
+              "id": "Q744038"
+            },
+            "statement_id": "q3027774$FD6744DE-EDEE-4CFB-9531-8FFA0BAD1806",
+            "rank": "normal",
+            "labels": {
+              "en": "role-playing video game",
+              "es": "videojuego de rol"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3027774$6DD412EC-155F-4742-899A-77726D94E922",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2000-08-03T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3027774$12A037CF-515F-4638-A0E1-F9554A46420B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q3027774$70306B75-2965-4366-A416-F48012C15931",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q116372395": {
+      "wikidata_id": "Q116372395",
+      "source_url": "https://www.wikidata.org/wiki/Q116372395",
+      "revision": 2519084958,
+      "modified": "2026-07-18T12:13:01Z",
+      "cached_at": "2026-10-25T05:45:11.843229+00:00",
+      "entity_sha256": "ac7cd8c13d4485c16c2d6e4f9520d90e5173f863a54110294ce9b45a827ec96c",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Magical Drop for WonderSwan",
+        "mul": "Magical Drop for WonderSwan"
+      },
+      "short_descriptions": {
+        "en": "video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q116372395$85c1c33e-4fdd-3d1b-84af-c6e55d0cd1b6",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5521500": {
+      "wikidata_id": "Q5521500",
+      "source_url": "https://www.wikidata.org/wiki/Q5521500",
+      "revision": 2558051460,
+      "modified": "2026-10-17T18:08:18Z",
+      "cached_at": "2026-10-25T05:37:28.633043+00:00",
+      "entity_sha256": "ff2655fee1f3093077eb55c0dc77bad1742fcd8597711ac2a3f95ce4503b18d2",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Ganso JaJaMaru-kun",
+        "mul": "Ganso JaJaMaru-kun"
+      },
+      "short_descriptions": {
+        "en": "1999 video game",
+        "es": "videojuego de 1999"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1344080,
+              "id": "Q1344080"
+            },
+            "statement_id": "Q5521500$CDB15B1B-8544-4BFF-B2ED-361832C9DE81",
+            "rank": "normal",
+            "labels": {
+              "en": "Jaleco",
+              "es": "Jaleco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 270948,
+              "id": "Q270948"
+            },
+            "statement_id": "q5521500$8101B1DC-FA5A-4AE6-B935-B6246C088E05",
+            "rank": "normal",
+            "labels": {
+              "en": "action game",
+              "es": "videojuego de acción"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q5521500$0A02C287-F7F6-4C96-9B4A-A2952CE63ABE",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-04-15T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5521500$E53DCBE8-5803-4ABE-B603-6D672A6568AD",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q5521500$77F68A76-D8A1-4742-95F2-F0B7B639E27C",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7334680": {
+      "wikidata_id": "Q7334680",
+      "source_url": "https://www.wikidata.org/wiki/Q7334680",
+      "revision": 2547510273,
+      "modified": "2026-09-18T17:36:25Z",
+      "cached_at": "2026-10-25T05:38:16.077822+00:00",
+      "entity_sha256": "2cf0860e93cab2899a630a87df66d931589abf2f9b14a3035f1de12d36d8736c",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Ring: Infinity",
+        "mul": "Ring: Infinity"
+      },
+      "short_descriptions": {
+        "en": "2000 video game",
+        "es": "videojuego de 2000"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054765,
+              "id": "Q1054765"
+            },
+            "statement_id": "Q7334680$2B4FFB4E-E64E-47CC-93D7-6F82DF871B61",
+            "rank": "normal",
+            "labels": {
+              "en": "Kadokawa Shoten",
+              "es": "Kadokawa Shōten"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054765,
+              "id": "Q1054765"
+            },
+            "statement_id": "Q7334680$18622162-F6F8-45BB-803F-FDE70716F48D",
+            "rank": "normal",
+            "labels": {
+              "en": "Kadokawa Shoten",
+              "es": "Kadokawa Shōten"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "q7334680$CFC6C3E6-B813-4826-A810-34B3678FE964",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7334680$81762795-2E79-454F-8D5D-2612BC7AD7A5",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2000-08-10T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7334680$60C043C7-63E1-4BED-A304-60AD02908D8D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q7334680$31BB8154-3618-4C41-B93E-2B8BF978A02D",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q41385150": {
+      "wikidata_id": "Q41385150",
+      "source_url": "https://www.wikidata.org/wiki/Q41385150",
+      "revision": 2519493100,
+      "modified": "2026-07-19T04:37:34Z",
+      "cached_at": "2026-10-25T05:41:42.043009+00:00",
+      "entity_sha256": "c58ac21cb6f01969d10bc114d3bd03abdecc25e30164f99da59cfdd86e1c30ff",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Beatmania for WonderSwan",
+        "mul": "Beatmania for WonderSwan"
+      },
+      "short_descriptions": {
+        "es": "videojuego de 1999",
+        "en": "1999 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 584105,
+              "id": "Q584105"
+            },
+            "statement_id": "Q41385150$abd26f6f-7ad3-4fd4-b7c2-565b1170fa95",
+            "rank": "normal",
+            "labels": {
+              "en": "music video game",
+              "es": "videojuego de música"
+            },
+            "references": [
+              {
+                "hash": "c456dc5cd2117249948c288206ff3f8b1bf574f0",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e17507043402fe54ae6c4d65cc51f46cec987de9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8449,
+                          "id": "Q8449"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1999-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q41385150$9c918346-27cb-4fe3-9c88-6d5908caea3f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c456dc5cd2117249948c288206ff3f8b1bf574f0",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e17507043402fe54ae6c4d65cc51f46cec987de9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8449,
+                          "id": "Q8449"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q41385150$64ef314e-639a-44d7-ae72-d71ce3754c6b",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            },
+            "references": [
+              {
+                "hash": "c456dc5cd2117249948c288206ff3f8b1bf574f0",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e17507043402fe54ae6c4d65cc51f46cec987de9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8449,
+                          "id": "Q8449"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q611289": {
+      "wikidata_id": "Q611289",
+      "source_url": "https://www.wikidata.org/wiki/Q611289",
+      "revision": 2521507718,
+      "modified": "2026-07-23T05:28:11Z",
+      "cached_at": "2026-10-25T05:32:23.349882+00:00",
+      "entity_sha256": "01427bdb900f54b366353fb130ed1855e850998e6992c0fcfd6540581e87da3e",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Crazy Climber",
+        "es": "Crazy Climber",
+        "mul": "Crazy Climber"
+      },
+      "short_descriptions": {
+        "en": "1980 video game",
+        "es": "videojuego de 1980"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1637338,
+              "id": "Q1637338"
+            },
+            "statement_id": "Q611289$D8917456-3582-4FF4-961D-638458FFB0D0",
+            "rank": "normal",
+            "labels": {
+              "en": "Nichibutsu",
+              "es": "Nihon Bussan"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c5a306e52d150ede237ff492208da3c55acdd620",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 192851,
+                      "id": "Q192851"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6279033,
+              "id": "Q6279033"
+            },
+            "statement_id": "Q611289$031edf5f-4a90-e6f0-f264-e04e3ab49fa2",
+            "rank": "normal",
+            "labels": {
+              "en": "Jorudan",
+              "es": "Jorudan"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c5a306e52d150ede237ff492208da3c55acdd620",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 192851,
+                      "id": "Q192851"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11326720,
+              "id": "Q11326720"
+            },
+            "statement_id": "Q611289$6D88B42F-9904-4E41-A102-A0B18957446A",
+            "rank": "normal",
+            "labels": {
+              "en": "Hamster Corporation",
+              "es": "HAMSTER",
+              "mul": "Hamster Corporation"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c960f2b9cef2c7313b480675ce8099f5970dfdb7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8079,
+                      "id": "Q8079"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "2e31cb0a82f44474a5c42bb159a94cc48633fffd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 19610114,
+                      "id": "Q19610114"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "33b09c200f075ccaeda157f9f5e0a0baa0a654cf",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5014725,
+                      "id": "Q5014725"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1637338,
+              "id": "Q1637338"
+            },
+            "statement_id": "Q611289$38edacc7-4d35-ec3a-270b-9f33e6ce771a",
+            "rank": "normal",
+            "labels": {
+              "en": "Nichibutsu",
+              "es": "Nihon Bussan"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c5a306e52d150ede237ff492208da3c55acdd620",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 192851,
+                      "id": "Q192851"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q611289$9B5DA4A4-FBC7-42E8-9838-9D2C36DC9ED0",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "Q611289$7F2902BE-93F1-4AE4-90DD-0A88B085B7D3",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q611289$D44114A2-8ADF-4003-93C4-037EF667E774",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1980-11-10T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$63ce4cba-42e0-fba6-4d55-ac390c1f9d01",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c5a306e52d150ede237ff492208da3c55acdd620",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 192851,
+                      "id": "Q192851"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1986-12-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$3ccc40f8-489c-722b-3edd-fde4294e2696",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "1088d6ccb4b00cc60491953882d9fd70819e492a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 172742,
+                      "id": "Q172742"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+2010-02-23T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$DD217A9B-FE3B-4A67-82BA-172AA4824C82",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c960f2b9cef2c7313b480675ce8099f5970dfdb7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8079,
+                      "id": "Q8079"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+2014-05-15T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$bc373d20-4de0-f843-8a73-af421cf9b891",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "33b09c200f075ccaeda157f9f5e0a0baa0a654cf",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5014725,
+                      "id": "Q5014725"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1433": [
+                {
+                  "snaktype": "value",
+                  "property": "P1433",
+                  "hash": "7433a5dec95c7a9da973f4b9e29f0697df965c88",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16485509,
+                      "id": "Q16485509"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+2018-02-18T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$fe90546e-49c4-58ae-3cc1-448473090881",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "2e31cb0a82f44474a5c42bb159a94cc48633fffd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 19610114,
+                      "id": "Q19610114"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1433": [
+                {
+                  "snaktype": "value",
+                  "property": "P1433",
+                  "hash": "7433a5dec95c7a9da973f4b9e29f0697df965c88",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16485509,
+                      "id": "Q16485509"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+2007-12-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q611289$60BA409E-630B-44FE-B91D-87C385D1FD06",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "c960f2b9cef2c7313b480675ce8099f5970dfdb7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8079,
+                      "id": "Q8079"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "33e71e5fbbff794527d89533dcffc847db4a79cf",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "718af99fa1c40226d0b9bebf16f226d0152f520c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2026-05-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 206261,
+              "id": "Q206261"
+            },
+            "statement_id": "Q611289$C082AB8B-4AF2-4F7E-B971-EB1DB39B266A",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari 2600",
+              "es": "Atari 2600",
+              "mul": "Atari 2600"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172742,
+              "id": "Q172742"
+            },
+            "statement_id": "Q611289$BA3A365A-0C1F-4448-A644-7BDACE60B68B",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Entertainment System",
+              "es": "Nintendo Entertainment System",
+              "mul": "Nintendo Entertainment System"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 192851,
+              "id": "Q192851"
+            },
+            "statement_id": "Q611289$ea91738a-4e2b-e587-7676-ecc9a3db9c7d",
+            "rank": "normal",
+            "labels": {
+              "en": "arcade video game machine",
+              "es": "arcade"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5014725,
+              "id": "Q5014725"
+            },
+            "statement_id": "Q611289$8a64beca-4ef8-c5d1-8fc3-ac251f387339",
+            "rank": "normal",
+            "labels": {
+              "es": "PlayStation 4",
+              "mul": "PlayStation 4"
+            },
+            "qualifiers": {
+              "P1433": [
+                {
+                  "snaktype": "value",
+                  "property": "P1433",
+                  "hash": "7433a5dec95c7a9da973f4b9e29f0697df965c88",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16485509,
+                      "id": "Q16485509"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19610114,
+              "id": "Q19610114"
+            },
+            "statement_id": "Q611289$81bd13e6-4703-0a15-2ad1-33b8f8340d4d",
+            "rank": "normal",
+            "labels": {
+              "mul": "Nintendo Switch"
+            },
+            "qualifiers": {
+              "P1433": [
+                {
+                  "snaktype": "value",
+                  "property": "P1433",
+                  "hash": "7433a5dec95c7a9da973f4b9e29f0697df965c88",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16485509,
+                      "id": "Q16485509"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8079,
+              "id": "Q8079"
+            },
+            "statement_id": "Q611289$dc2e9ab9-4cd7-e1a7-bf2a-a0d8ce2971c5",
+            "rank": "normal",
+            "labels": {
+              "en": "Wii",
+              "es": "Wii",
+              "mul": "Wii"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q611289$de2e48f9-430e-95a3-17f8-4b2630c93eeb",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q220665": {
+      "wikidata_id": "Q220665",
+      "source_url": "https://www.wikidata.org/wiki/Q220665",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:25:13.351741+00:00",
+      "entity_sha256": "1540ef93c8eba48ce66839da9555312635448a4da7122ec8283aff4e43fbc45c",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Space Invaders",
+        "es": "Space Invaders",
+        "mul": "Space Invaders"
+      },
+      "short_descriptions": {
+        "en": "1978 fixed shooter video game",
+        "es": "videojuego de 1978"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054844,
+              "id": "Q1054844"
+            },
+            "statement_id": "Q220665$67975152-C859-4B55-A810-1EC13DD0CCAB",
+            "rank": "normal",
+            "labels": {
+              "en": "Taito",
+              "es": "Taito",
+              "mul": "Taito"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054844,
+              "id": "Q1054844"
+            },
+            "statement_id": "Q220665$F7211BE2-39D1-4F39-B0BB-0BB22856771F",
+            "rank": "normal",
+            "labels": {
+              "en": "Taito",
+              "es": "Taito",
+              "mul": "Taito"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 149947,
+              "id": "Q149947"
+            },
+            "statement_id": "Q220665$d104c44f-4eec-4a17-4bba-0857b6ca9e9a",
+            "rank": "normal",
+            "labels": {
+              "en": "Midway Games",
+              "es": "Midway Games",
+              "mul": "Midway Games"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044478,
+              "id": "Q1044478"
+            },
+            "statement_id": "Q220665$80c0f059-40fb-a66f-68d0-080c5733d8d4",
+            "rank": "normal",
+            "labels": {
+              "en": "shoot 'em up",
+              "es": "shoot 'em up",
+              "mul": "shoot 'em up"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q220665$E9501E94-1D5D-4B1B-81CC-2A9190D7E83C",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "Q220665$be6a0662-4ef8-3c22-372c-61761f10b133",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1978-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q220665$3CCC3A74-4540-46BC-AC55-64C7FD5E7868",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1990-03-02T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q220665$AD11198E-9A51-4F37-9070-E87F7AC934F7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5f7388eb88e55f309166357928e4000a6ef75e90",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "f18da537ad3882885d2a294679a13bd82924b499",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 20056333,
+                          "id": "Q20056333"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1985-04-17T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q220665$CA2EDE13-C61D-4131-BE23-201CCDF29C6C",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "1088d6ccb4b00cc60491953882d9fd70819e492a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 172742,
+                      "id": "Q172742"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 184839,
+              "id": "Q184839"
+            },
+            "statement_id": "q220665$23C92072-2C93-4FFE-AD8A-87AD44F8A66C",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo 64",
+              "es": "Nintendo 64",
+              "mul": "Nintendo 64"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 188642,
+              "id": "Q188642"
+            },
+            "statement_id": "q220665$59044C1B-B365-468A-B40A-BC22D9CB4DB6",
+            "rank": "normal",
+            "labels": {
+              "mul": "Game Boy Advance"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 206261,
+              "id": "Q206261"
+            },
+            "statement_id": "Q220665$44CA342A-0C9A-4C11-8898-D73E9A6385FF",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari 2600",
+              "es": "Atari 2600",
+              "mul": "Atari 2600"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 743222,
+              "id": "Q743222"
+            },
+            "statement_id": "Q220665$C1A19538-012E-42EF-8067-EC035EFEAFD7",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari 5200",
+              "es": "Atari 5200",
+              "mul": "Atari 5200"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23882,
+              "id": "Q23882"
+            },
+            "statement_id": "Q220665$481D712C-8466-4581-9F76-B878CA6FAFF4",
+            "rank": "normal",
+            "labels": {
+              "en": "ZX Spectrum",
+              "es": "Sinclair ZX Spectrum",
+              "mul": "ZX Spectrum"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q220665$B28E8834-5DC7-419F-AB73-40C8FD1E4F3F",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q220665$2D412597-B226-4C7B-A382-6BD39859F40E",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172742,
+              "id": "Q172742"
+            },
+            "statement_id": "Q220665$A3EF81DC-A75C-46CB-A104-20F068A8305B",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Entertainment System",
+              "es": "Nintendo Entertainment System",
+              "mul": "Nintendo Entertainment System"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183259,
+              "id": "Q183259"
+            },
+            "statement_id": "Q220665$7392B5DE-80D2-4417-9589-97C4FE2682D4",
+            "rank": "normal",
+            "labels": {
+              "en": "Super Nintendo Entertainment System",
+              "es": "Super Nintendo Entertainment System",
+              "mul": "Super Nintendo Entertainment System"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 853547,
+              "id": "Q853547"
+            },
+            "statement_id": "Q220665$101C1CAC-63A9-46C9-B8B9-D0BC5ABA15BF",
+            "rank": "normal",
+            "labels": {
+              "en": "MSX",
+              "es": "MSX",
+              "mul": "MSX"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q220665$9E31B0DD-3DF9-4A95-8824-BC4C1E0F5136",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "276baa12184f57b8d56776af443f8c7491b473f2",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "1e43f2bc0e8590e3d909a53bd5521106860ddf40",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 55155271,
+                          "id": "Q55155271"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 99775,
+              "id": "Q99775"
+            },
+            "statement_id": "Q220665$F167C134-735D-43A3-AC5A-5FE74A040D06",
+            "rank": "normal",
+            "labels": {
+              "en": "Commodore 64",
+              "es": "Commodore 64",
+              "mul": "Commodore 64"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170325,
+              "id": "Q170325"
+            },
+            "statement_id": "Q220665$2D04D110-7AD6-43FA-B749-12E9B47A9B15",
+            "rank": "normal",
+            "labels": {
+              "en": "PlayStation Portable",
+              "es": "PlayStation Portable",
+              "mul": "PlayStation Portable"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 186437,
+              "id": "Q186437"
+            },
+            "statement_id": "Q220665$3A481972-ED50-4F25-8CAB-6329E4C551D4",
+            "rank": "normal",
+            "labels": {
+              "en": "Game Boy",
+              "es": "Game Boy",
+              "mul": "Game Boy"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 203992,
+              "id": "Q203992"
+            },
+            "statement_id": "Q220665$7787277C-259E-4C51-BD40-A4525F5A3037",
+            "rank": "normal",
+            "labels": {
+              "en": "Game Boy Color",
+              "es": "Game Boy Color"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1136956,
+              "id": "Q1136956"
+            },
+            "statement_id": "Q220665$f0063008-4bfc-5842-de61-3214f430cc8d",
+            "rank": "normal",
+            "labels": {
+              "en": "SG-1000",
+              "es": "SG-1000",
+              "mul": "SG-1000"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 48493,
+              "id": "Q48493"
+            },
+            "statement_id": "Q220665$5D1FB20B-4164-4847-837F-F18436450909",
+            "rank": "normal",
+            "labels": {
+              "mul": "iOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 192851,
+              "id": "Q192851"
+            },
+            "statement_id": "Q220665$c5756543-4a9d-cbb5-770c-defda2516602",
+            "rank": "normal",
+            "labels": {
+              "en": "arcade video game machine",
+              "es": "arcade"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1797918,
+              "id": "Q1797918"
+            },
+            "statement_id": "Q220665$bf72d86a-47d4-efd3-8a6a-55ef8e9f3ca5",
+            "rank": "normal",
+            "labels": {
+              "en": "handheld electronic game",
+              "es": "Brick Game",
+              "mul": "gierki elektroniczne"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5249798,
+              "id": "Q5249798"
+            },
+            "statement_id": "Q220665$d3facc9e-4a59-d5fe-b872-e89cc446f045",
+            "rank": "normal",
+            "labels": {
+              "en": "dedicated console",
+              "es": "consola dedicada"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 178794,
+              "id": "Q178794"
+            },
+            "statement_id": "Q220665$188dc40f-454f-8b2f-98ba-cbba6aa0d005",
+            "rank": "normal",
+            "labels": {
+              "en": "watch",
+              "es": "reloj"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 31087,
+              "id": "Q31087"
+            },
+            "statement_id": "Q220665$941a5c37-48f6-0a4c-df3d-d9fbbc3fff7c",
+            "rank": "normal",
+            "labels": {
+              "en": "calculator",
+              "es": "calculadora"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q220665$09b97d93-41f8-0e85-bd8a-8366edbab47e",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2416874,
+              "id": "Q2416874"
+            },
+            "statement_id": "Q220665$33b96a2a-40dc-bf34-691e-896422689744",
+            "rank": "normal",
+            "labels": {
+              "en": "Pelican VG Pocket"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1121542,
+              "id": "Q1121542"
+            },
+            "statement_id": "Q220665$36c84d0f-47b6-6a03-8c6a-1f4ffd91af9b",
+            "rank": "normal",
+            "labels": {
+              "en": "mobile game",
+              "es": "videojuego para móviles"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q24833528": {
+      "wikidata_id": "Q24833528",
+      "source_url": "https://www.wikidata.org/wiki/Q24833528",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:26:32.550957+00:00",
+      "entity_sha256": "70774b8c8fbc066fc768efe29f33b815f0af8ce35fc3de5e736a5492fdd136da",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Densha de Go!",
+        "mul": "Densha de Go!"
+      },
+      "short_descriptions": {
+        "en": "1997 video game",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054844,
+              "id": "Q1054844"
+            },
+            "statement_id": "Q24833528$7c398e3e-43b2-120b-aeef-188d570ecfb7",
+            "rank": "normal",
+            "labels": {
+              "en": "Taito",
+              "es": "Taito",
+              "mul": "Taito"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054844,
+              "id": "Q1054844"
+            },
+            "statement_id": "Q24833528$196a358a-4ed2-671e-0efb-e952dcb9137d",
+            "rank": "normal",
+            "labels": {
+              "en": "Taito",
+              "es": "Taito",
+              "mul": "Taito"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1610017,
+              "id": "Q1610017"
+            },
+            "statement_id": "Q24833528$e894faf8-7c9a-4d44-b2db-b4cfbdfd44b6",
+            "rank": "normal",
+            "labels": {
+              "en": "simulation video game",
+              "es": "videojuego de simulación"
+            },
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q24833528$3753E8FE-9A99-4FEE-B6C5-626AF6911866",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q24833528$8e0aff6f-7f18-4fe7-a73c-af886e0705c3",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            },
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 192851,
+              "id": "Q192851"
+            },
+            "statement_id": "Q24833528$26edd3b2-4a67-8166-3d52-41f29fc868b1",
+            "rank": "normal",
+            "labels": {
+              "en": "arcade video game machine",
+              "es": "arcade"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200912,
+              "id": "Q200912"
+            },
+            "statement_id": "Q24833528$f1162531-4650-33df-3a97-4f36805d2948",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Saturn"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q24833528$2745ace4-4a5d-4cf8-d388-3088bfa637d9",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065792,
+              "id": "Q1065792"
+            },
+            "statement_id": "Q24833528$de732d13-4b5e-82ea-28e6-779cfb9e3062",
+            "rank": "normal",
+            "labels": {
+              "en": "WonderSwan",
+              "es": "WonderSwan"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

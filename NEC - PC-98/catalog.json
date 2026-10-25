@@ -838,7 +838,8 @@
       },
       "serial_identifiers": [
         "21D-2031"
-      ]
+      ],
+      "metadata_id": "wikidata:Q189784"
     },
     "21D-2032": {
       "serial": "21D-2032",
@@ -1077,7 +1078,8 @@
       },
       "serial_identifiers": [
         "21D-2038"
-      ]
+      ],
+      "metadata_id": "wikidata:Q1123896"
     },
     "21D-2039": {
       "serial": "21D-2039",
@@ -2806,7 +2808,8 @@
       },
       "serial_identifiers": [
         "ASCII-003"
-      ]
+      ],
+      "metadata_id": "wikidata:Q1010780"
     },
     "AYPIO-001": {
       "serial": "AYPIO-001",
@@ -5200,7 +5203,8 @@
       },
       "serial_identifiers": [
         "IDES-022"
-      ]
+      ],
+      "metadata_id": "wikidata:Q6985683"
     },
     "JSGH-60106": {
       "serial": "JSGH-60106",
@@ -6551,7 +6555,8 @@
       },
       "serial_identifiers": [
         "NW10105030"
-      ]
+      ],
+      "metadata_id": "wikidata:Q20712180"
     },
     "NW10105040": {
       "serial": "NW10105040",
@@ -7409,7 +7414,8 @@
       },
       "serial_identifiers": [
         "RA710"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2632560"
     },
     "RCR-2": {
       "serial": "RCR-2",
@@ -8443,7 +8449,8 @@
       },
       "serial_identifiers": [
         "TGL-951215"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11257692"
     },
     "UDC-102": {
       "serial": "UDC-102",
@@ -9261,6 +9268,4202 @@
       "serial_identifiers": [
         "X04-67430"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q189784": {
+      "wikidata_id": "Q189784",
+      "source_url": "https://www.wikidata.org/wiki/Q189784",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:25:10.736678+00:00",
+      "entity_sha256": "18965d4b7c6aca19787498dbba29132c2c5ed6fcdc12ea15a73e8f2579df5c08",
+      "license": "CC0-1.0",
+      "labels": {
+        "es": "Doom",
+        "mul": "Doom"
+      },
+      "short_descriptions": {
+        "en": "1993 first-person shooter video game developed by id Software",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 204474,
+              "id": "Q204474"
+            },
+            "statement_id": "q189784$b1b0cbcd-4c72-11a0-be47-85b8cccc4187",
+            "rank": "normal",
+            "labels": {
+              "es": "id Software",
+              "mul": "id Software"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1058704,
+              "id": "Q1058704"
+            },
+            "statement_id": "Q189784$2086816f-42b3-78cb-f332-55997bb3e359",
+            "rank": "normal",
+            "labels": {
+              "en": "Nerve Software"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e7341737dd9253cc83e3866384ed7ff5969cbe94",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48263,
+                      "id": "Q48263"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P437": [
+                {
+                  "snaktype": "value",
+                  "property": "P437",
+                  "hash": "f9236afa39444ad69be7efe47f3a9e888d6081d2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 54820071,
+                      "id": "Q54820071"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 930354,
+              "id": "Q930354"
+            },
+            "statement_id": "q189784$12560ac2-4378-324b-34d5-6538f17882cc",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari, Inc.",
+              "es": "GT Interactive Software",
+              "mul": "Atari, Inc."
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "0b7430c76aa932002363740d965c9f0a5cd61191",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1406,
+                      "id": "Q1406"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "76eeb194835031131d368d81160be9e5d72af2dd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200912,
+                      "id": "Q200912"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200491,
+              "id": "Q200491"
+            },
+            "statement_id": "Q189784$2d2542b4-4fff-8b4d-ca33-d277eb6ab048",
+            "rank": "normal",
+            "labels": {
+              "mul": "Activision"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9c41ba5837b7c27bf9cc6dd62315c7dfe689574",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188642,
+                      "id": "Q188642"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 207922,
+              "id": "Q207922"
+            },
+            "statement_id": "Q189784$da149d05-4086-b6f7-700c-c0af4ff9d2fb",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari",
+              "es": "Atari",
+              "mul": "Atari"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "f3e921ffbc256bea6abd52ecb6fae11c824d8840",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 650601,
+                      "id": "Q650601"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 122741,
+              "id": "Q122741"
+            },
+            "statement_id": "Q189784$312d4f1b-4599-89a1-8759-16f520cab469",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9db2a954c2d77bc7f5850347153492e35a838e7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1063978,
+                      "id": "Q1063978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1403157,
+              "id": "Q1403157"
+            },
+            "statement_id": "Q189784$11bcc1e0-467f-f85f-e46a-e5dac00d744a",
+            "rank": "normal",
+            "labels": {
+              "en": "WMS Industries",
+              "es": "WMS Industries",
+              "mul": "WMS Industries"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "122f1799961920b31179987706ceb145b301ae1c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10677,
+                      "id": "Q10677"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1408498,
+              "id": "Q1408498"
+            },
+            "statement_id": "Q189784$7f75ce60-4087-9bb8-188b-dddbd4e0e0af",
+            "rank": "normal",
+            "labels": {
+              "en": "Ocean Software",
+              "es": "Ocean Software"
+            },
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "1b4816db1cb015555e912bfee318515678a6c27a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2729044,
+                      "id": "Q2729044"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 185029,
+              "id": "Q185029"
+            },
+            "statement_id": "q189784$0b6b225f-453b-2566-38cd-65d9c4fc1b17",
+            "rank": "normal",
+            "labels": {
+              "en": "first-person shooter",
+              "es": "disparos en primera persona"
+            },
+            "references": [
+              {
+                "hash": "71a8d68eb29f74dafd1b58f76d026afd6859e432",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "82bd779a1bfdfd50ffdf9d9ab898986f494aedc1",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Doom_(1993_video_game)&oldid=1280180041#External_links",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 27670585,
+              "id": "Q27670585"
+            },
+            "statement_id": "Q189784$744b1bd4-4fea-2764-683e-a41d26e6e13f",
+            "rank": "normal",
+            "labels": {
+              "en": "science fiction video game",
+              "es": "videojuego de ciencia ficción"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11338014,
+              "id": "Q11338014"
+            },
+            "statement_id": "Q189784$1BD0C366-E8CC-4718-AA1B-96269665E5F1",
+            "rank": "normal",
+            "labels": {
+              "en": "horror video game",
+              "es": "videojuego de terror"
+            },
+            "references": [
+              {
+                "hash": "71a8d68eb29f74dafd1b58f76d026afd6859e432",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "82bd779a1bfdfd50ffdf9d9ab898986f494aedc1",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Doom_(1993_video_game)&oldid=1280180041#External_links",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15613992,
+              "id": "Q15613992"
+            },
+            "statement_id": "Q189784$2c9f753b-467d-e3bc-aa17-3a2c43a99741",
+            "rank": "normal",
+            "labels": {
+              "en": "arcade",
+              "es": "arcade"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "q189784$FC38F0F5-A23E-453D-BB22-F81B952A64D3",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q189784$98F20F9E-7D16-47D8-8C4B-7C447E447DBD",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1758804,
+              "id": "Q1758804"
+            },
+            "statement_id": "q189784$d76e0469-431c-9077-f45e-b31045443a44",
+            "rank": "normal",
+            "labels": {
+              "en": "co-op mode",
+              "es": "modo cooperativo"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-12-10T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$B2B3E99A-4EB4-4219-83E5-ED4A6972CD76",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "f25ff56537a6192fa85f8cce5bbe3d800947edd1",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 47604,
+                      "id": "Q47604"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1993-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$0f370f33-4153-5db5-dd9b-c0e6545e0036",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "f25ff56537a6192fa85f8cce5bbe3d800947edd1",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 47604,
+                      "id": "Q47604"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1994-11-14T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$c5132d50-4cd1-dc9a-db18-92501079bbcc",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9db2a954c2d77bc7f5850347153492e35a838e7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1063978,
+                      "id": "Q1063978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1994-11-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$cff36495-4446-eb30-a7d0-5c667acf26bf",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9db2a954c2d77bc7f5850347153492e35a838e7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1063978,
+                      "id": "Q1063978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$2fac4a2e-4778-a6dd-f7a9-a4b87f9a15e9",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "dfb6efa1e0832b752a01c21d75ef58b4868d5211",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 45256,
+                      "id": "Q45256"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9db2a954c2d77bc7f5850347153492e35a838e7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1063978,
+                      "id": "Q1063978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1994-11-28T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$99dbd141-4b1b-94b8-b700-55d308767435",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "f3e921ffbc256bea6abd52ecb6fae11c824d8840",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 650601,
+                      "id": "Q650601"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1994-12-03T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$b4c99a84-4ea2-62e4-af25-ceb95ad1ff68",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9db2a954c2d77bc7f5850347153492e35a838e7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1063978,
+                      "id": "Q1063978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-09-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$f3db1e06-4560-9151-8b35-622f7bfacc33",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-10-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$a3eda2cf-4b66-2c3b-76bb-d55d44a5e9b4",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-11-16T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$02df26bc-48e6-1d5b-95d4-6dc15e18d638",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "122f1799961920b31179987706ceb145b301ae1c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10677,
+                      "id": "Q10677"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-12-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$563029ed-42e5-b328-1ed2-ec6e44e6930b",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "122f1799961920b31179987706ceb145b301ae1c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10677,
+                      "id": "Q10677"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1996-03-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$0a8925ae-4a81-afb8-ad8b-4aed40da8c2b",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1996-04-19T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$76002f08-4665-09d3-a70a-185e094571b3",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "122f1799961920b31179987706ceb145b301ae1c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10677,
+                      "id": "Q10677"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1996-04-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$edfa9f90-4331-315d-9f8e-b2e384e31c62",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "87476dc805f4a8e21ceb14d37bc58c6c43033b3d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 229429,
+                      "id": "Q229429"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1996-08-20T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$cd8fb923-402b-b165-d365-e4e7df85fffd",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "0b7430c76aa932002363740d965c9f0a5cd61191",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1406,
+                      "id": "Q1406"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$19324cbe-48f3-ab48-c253-8ebb51fb5541",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "87476dc805f4a8e21ceb14d37bc58c6c43033b3d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 229429,
+                      "id": "Q229429"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1997-03-31T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$1a06b88c-4dfc-1450-fce4-ebbb2356836d",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "76eeb194835031131d368d81160be9e5d72af2dd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200912,
+                      "id": "Q200912"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1997-07-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$dec2f11a-4f80-3497-d7a8-8e2fdddaa0b3",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "76eeb194835031131d368d81160be9e5d72af2dd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200912,
+                      "id": "Q200912"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1997-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$679cb968-4ce2-ac9d-8087-aeffbf25bac9",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "76eeb194835031131d368d81160be9e5d72af2dd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200912,
+                      "id": "Q200912"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+2001-10-28T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$38e88bef-4a66-5bda-5149-72e59eb40c15",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9c41ba5837b7c27bf9cc6dd62315c7dfe689574",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188642,
+                      "id": "Q188642"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+2001-11-16T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$7d41860a-4bc6-7606-001a-3381242d32c7",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e9c41ba5837b7c27bf9cc6dd62315c7dfe689574",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188642,
+                      "id": "Q188642"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+2006-09-27T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$1304f243-45cc-2c89-5c8c-480f2378f85b",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e7341737dd9253cc83e3866384ed7ff5969cbe94",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48263,
+                      "id": "Q48263"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P437": [
+                {
+                  "snaktype": "value",
+                  "property": "P437",
+                  "hash": "f9236afa39444ad69be7efe47f3a9e888d6081d2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 54820071,
+                      "id": "Q54820071"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P123": [
+                {
+                  "snaktype": "value",
+                  "property": "P123",
+                  "hash": "61e2cfb48d92fbceff198152122a72f1c654baf0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200491,
+                      "id": "Q200491"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+2006-09-28T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$c1c9024f-4bd7-7bfa-ea64-7c72b5911a09",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e7341737dd9253cc83e3866384ed7ff5969cbe94",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48263,
+                      "id": "Q48263"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P437": [
+                {
+                  "snaktype": "value",
+                  "property": "P437",
+                  "hash": "f9236afa39444ad69be7efe47f3a9e888d6081d2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 54820071,
+                      "id": "Q54820071"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P123": [
+                {
+                  "snaktype": "value",
+                  "property": "P123",
+                  "hash": "61e2cfb48d92fbceff198152122a72f1c654baf0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 200491,
+                      "id": "Q200491"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+2012-01-18T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$e4b5ba1c-4dad-a57c-1856-8b877984364f",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "e7341737dd9253cc83e3866384ed7ff5969cbe94",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48263,
+                      "id": "Q48263"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P437": [
+                {
+                  "snaktype": "value",
+                  "property": "P437",
+                  "hash": "f9236afa39444ad69be7efe47f3a9e888d6081d2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 54820071,
+                      "id": "Q54820071"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P123": [
+                {
+                  "snaktype": "value",
+                  "property": "P123",
+                  "hash": "f2f44cff48cf439e54f135ac33a3d8a880de13ad",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 684425,
+                      "id": "Q684425"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-04-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$f0d082f1-4b64-db87-ef37-432a1d9bd3db",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "0b7430c76aa932002363740d965c9f0a5cd61191",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1406,
+                      "id": "Q1406"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "fa179a496565a369e77a611cd3fd6e83d333d776",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "f1480c8590c65080946bd9dfbad4e77cab95b9af",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 337535,
+                          "id": "Q337535"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "4782fe4860241d3c4e67c8f728e96719db91957b",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q189784$816c05dd-4670-8d54-5557-35add70cf4de",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 46,
+                      "id": "Q46"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "87476dc805f4a8e21ceb14d37bc58c6c43033b3d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 229429,
+                      "id": "Q229429"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 188642,
+              "id": "Q188642"
+            },
+            "statement_id": "q189784$BDD343B6-F893-4BA1-8ADD-A97E5277F6AC",
+            "rank": "normal",
+            "labels": {
+              "mul": "Game Boy Advance"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1353312,
+              "id": "Q1353312"
+            },
+            "statement_id": "q189784$a6bbdf30-42bf-8556-da02-34b77a37172a",
+            "rank": "normal",
+            "labels": {
+              "en": "RiscPC",
+              "mul": "Risc PC"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 229429,
+              "id": "Q229429"
+            },
+            "statement_id": "Q189784$AF2EC3CA-C403-4529-9D81-8E8DD4821822",
+            "rank": "normal",
+            "labels": {
+              "en": "3DO",
+              "es": "3DO Interactive Multiplayer",
+              "mul": "3DO"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 388,
+              "id": "Q388"
+            },
+            "statement_id": "Q189784$CA95C568-F206-4A32-B9FC-2330CED4B865",
+            "rank": "normal",
+            "labels": {
+              "en": "Linux",
+              "mul": "Linux"
+            },
+            "qualifiers": {
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "765bc91069166f680b7099edf5063f8bbd1f2f3e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1994-09-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "3053d12be1819b58d117d9c526fcaa72bd4404ba",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "0ca4282447f77cbb4eddfe570483600544b76027",
+                      "datavalue": {
+                        "value": "https://tech-insider.org/linux/research/1994/0909-f.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 132020,
+              "id": "Q132020"
+            },
+            "statement_id": "Q189784$ECB2D536-7AE4-4EA5-8726-05823CF052E4",
+            "rank": "normal",
+            "labels": {
+              "mul": "Xbox"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q189784$C48CC7F0-C137-4D9E-9CF9-0E53232F6523",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183259,
+              "id": "Q183259"
+            },
+            "statement_id": "Q189784$51FECA9F-46E5-4BD4-A9C0-27AE0E41C5FD",
+            "rank": "normal",
+            "labels": {
+              "en": "Super Nintendo Entertainment System",
+              "es": "Super Nintendo Entertainment System",
+              "mul": "Super Nintendo Entertainment System"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10676,
+              "id": "Q10676"
+            },
+            "statement_id": "Q189784$3E4CAB13-0E6C-4BD3-852D-FBFA441A8E17",
+            "rank": "normal",
+            "labels": {
+              "es": "Mega Drive",
+              "mul": "Sega Genesis/Mega Drive"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q189784$581A8A8D-8FFB-4533-83F7-691B3EC732AA",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "276baa12184f57b8d56776af443f8c7491b473f2",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "1e43f2bc0e8590e3d909a53bd5521106860ddf40",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 55155271,
+                          "id": "Q55155271"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 471094,
+              "id": "Q471094"
+            },
+            "statement_id": "Q189784$3ED6D54B-F639-4AE2-AD9C-FFB89A6951CB",
+            "rank": "normal",
+            "labels": {
+              "en": "Amiga 1200",
+              "es": "Commodore Amiga 1200",
+              "mul": "Amiga 1200"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q189784$7BCD49BB-3AF3-4BCB-968B-35C3B527E21C",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 48263,
+              "id": "Q48263"
+            },
+            "statement_id": "Q189784$ceb469e9-47fe-1b93-9b9d-a1f8efc986aa",
+            "rank": "normal",
+            "labels": {
+              "mul": "Xbox 360"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10683,
+              "id": "Q10683"
+            },
+            "statement_id": "Q189784$d65c8e45-4ace-8398-877b-0e65c8723a11",
+            "rank": "normal",
+            "labels": {
+              "en": "PlayStation 3",
+              "es": "PlayStation 3",
+              "mul": "PlayStation 3"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200912,
+              "id": "Q200912"
+            },
+            "statement_id": "Q189784$27e0fb1a-4b17-e533-44a8-0efc974ada4c",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Saturn"
+            },
+            "references": [
+              {
+                "hash": "276baa12184f57b8d56776af443f8c7491b473f2",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "1e43f2bc0e8590e3d909a53bd5521106860ddf40",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 55155271,
+                          "id": "Q55155271"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 48493,
+              "id": "Q48493"
+            },
+            "statement_id": "Q189784$BC329094-CE3E-44BE-AB69-FF01234923FE",
+            "rank": "normal",
+            "labels": {
+              "mul": "iOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 650601,
+              "id": "Q650601"
+            },
+            "statement_id": "Q189784$768c3f16-4a1e-7d39-428d-7bebeeefa925",
+            "rank": "normal",
+            "labels": {
+              "en": "Atari Jaguar",
+              "es": "Atari Jaguar"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14116,
+              "id": "Q14116"
+            },
+            "statement_id": "Q189784$9305ffaf-4d36-e892-b572-e4421695a622",
+            "rank": "normal",
+            "labels": {
+              "en": "macOS",
+              "mul": "macOS"
+            },
+            "references": [
+              {
+                "hash": "c740588f3412772d02e626583551f1e4b7697aca",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "804cabe60fc9b42ab48450e4d4553e3e1bb98862",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 2374285,
+                          "id": "Q2374285"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 627611,
+              "id": "Q627611"
+            },
+            "statement_id": "Q189784$ed3ffa62-47ca-26bf-4315-9c8c174d79d4",
+            "rank": "normal",
+            "labels": {
+              "en": "IRIX",
+              "es": "IRIX",
+              "mul": "IRIX"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14646,
+              "id": "Q14646"
+            },
+            "statement_id": "Q189784$33568c9e-4899-06d7-728f-0c6f07e657db",
+            "rank": "normal",
+            "labels": {
+              "en": "Solaris",
+              "es": "Solaris",
+              "mul": "Solaris"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1063978,
+              "id": "Q1063978"
+            },
+            "statement_id": "Q189784$7a44ec3b-488b-e08e-010a-6baf157b5977",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega 32X"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19610114,
+              "id": "Q19610114"
+            },
+            "statement_id": "Q189784$3cc875e6-4a59-ce32-9f62-4944f3076d57",
+            "rank": "normal",
+            "labels": {
+              "mul": "Nintendo Switch"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13522376,
+              "id": "Q13522376"
+            },
+            "statement_id": "Q189784$9C445268-FB74-4B5B-BE84-DC57528F1B1A",
+            "rank": "normal",
+            "labels": {
+              "en": "Classic Mac OS",
+              "es": "Mac OS Classic",
+              "mul": "Classic Mac OS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 94,
+              "id": "Q94"
+            },
+            "statement_id": "Q189784$11034673-0205-4CE0-B7BA-44D35807E0EE",
+            "rank": "normal",
+            "labels": {
+              "en": "Android",
+              "mul": "Android"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 47604,
+              "id": "Q47604"
+            },
+            "statement_id": "Q189784$10176bcf-4bc8-8620-6d77-74ebc199fc08",
+            "rank": "normal",
+            "labels": {
+              "mul": "MS-DOS"
+            },
+            "references": [
+              {
+                "hash": "4a3e2dd8cc2a70eb48d93cb6e4cbab1d2e31b678",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "d18022ec15ff6fbb017b9a9589d1f96da6cbe36f",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=124594927",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5014725,
+              "id": "Q5014725"
+            },
+            "statement_id": "Q189784$e92ca38e-49ca-f589-dd0a-579fec32d7cf",
+            "rank": "normal",
+            "labels": {
+              "es": "PlayStation 4",
+              "mul": "PlayStation 4"
+            },
+            "references": [
+              {
+                "hash": "4a3e2dd8cc2a70eb48d93cb6e4cbab1d2e31b678",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "d18022ec15ff6fbb017b9a9589d1f96da6cbe36f",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=124594927",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13361286,
+              "id": "Q13361286"
+            },
+            "statement_id": "Q189784$25f3c318-4390-16cc-9f14-4eaee6c0b3ec",
+            "rank": "normal",
+            "labels": {
+              "mul": "Xbox One"
+            },
+            "references": [
+              {
+                "hash": "4a3e2dd8cc2a70eb48d93cb6e4cbab1d2e31b678",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "d18022ec15ff6fbb017b9a9589d1f96da6cbe36f",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=124594927",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q189784$ec3e917d-4f1e-9ef4-9ce8-2b809146ec20",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            },
+            "references": [
+              {
+                "hash": "4a3e2dd8cc2a70eb48d93cb6e4cbab1d2e31b678",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "d18022ec15ff6fbb017b9a9589d1f96da6cbe36f",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=124594927",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 41357,
+              "id": "Q41357"
+            },
+            "statement_id": "Q189784$bcbd0df9-4778-8850-1e4a-4de537694dc4",
+            "rank": "normal",
+            "labels": {
+              "en": "Acorn Archimedes",
+              "es": "Acorn Archimedes",
+              "mul": "Acorn Archimedes"
+            },
+            "references": [
+              {
+                "hash": "4a3e2dd8cc2a70eb48d93cb6e4cbab1d2e31b678",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "d18022ec15ff6fbb017b9a9589d1f96da6cbe36f",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=124594927",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 113245462,
+              "id": "Q113245462"
+            },
+            "statement_id": "Q189784$99318e6e-4b49-c36c-ad5b-708786818e2f",
+            "rank": "normal",
+            "labels": {
+              "en": "Flipper Zero",
+              "mul": "Flipper Zero"
+            },
+            "qualifiers": {
+              "P1552": [
+                {
+                  "snaktype": "value",
+                  "property": "P1552",
+                  "hash": "dc3534dba89235d5fd1256e13e1f0b18ba3dd443",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 712144,
+                      "id": "Q712144"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "14b4cbf9473d5c77420b57acfb0db59a88fc0cdf",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "485b73d786722a0fdcce4bbdb33241d28d5cfa9d",
+                      "datavalue": {
+                        "value": "https://www.vice.com/en/article/qjkjxw/you-can-now-play-doom-in-the-tamagotchi-like-hacking-device",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 831367,
+              "id": "Q831367"
+            },
+            "statement_id": "Q189784$a80ccd17-46e0-cec7-1e09-ea2db791f286",
+            "rank": "normal",
+            "labels": {
+              "en": "NeXTSTEP",
+              "es": "NEXTSTEP",
+              "mul": "NeXTSTEP"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 189794,
+              "id": "Q189794"
+            },
+            "statement_id": "Q189784$d7dc0537-42de-c24c-cb97-68c045a4a8d1",
+            "rank": "normal",
+            "labels": {
+              "mul": "OS/2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q1123896": {
+      "wikidata_id": "Q1123896",
+      "source_url": "https://www.wikidata.org/wiki/Q1123896",
+      "revision": 2550888938,
+      "modified": "2026-09-29T14:20:44Z",
+      "cached_at": "2026-10-25T05:33:03.424524+00:00",
+      "entity_sha256": "c6b6cd7fbf036de2d082245ec9695f63d3491a95984c5bbe0a0c4d20b8a3ff58",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "True Love",
+        "es": "True Love",
+        "mul": "True Love"
+      },
+      "short_descriptions": {
+        "en": "Japanese erotic visual novel",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5431587,
+              "id": "Q5431587"
+            },
+            "statement_id": "Q1123896$e17f52d6-4a96-256c-7c4c-e1229425048a",
+            "rank": "normal",
+            "labels": {
+              "mul": "Fakku"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5010050,
+              "id": "Q5010050"
+            },
+            "statement_id": "Q1123896$d4856f35-403d-ed06-d506-377345b7102d",
+            "rank": "normal",
+            "labels": {
+              "en": "CD Bros."
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "q1123896$DD1E8665-6332-4EFE-B8D6-3868B18EB2AA",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1046788,
+              "id": "Q1046788"
+            },
+            "statement_id": "Q1123896$22143483-8FF4-44BC-8A40-52A039425B12",
+            "rank": "normal",
+            "labels": {
+              "en": "eroge",
+              "es": "eroge"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 85422949,
+              "id": "Q85422949"
+            },
+            "statement_id": "Q1123896$A52AE2D2-66FE-41A5-BD80-5BB223B4018F",
+            "rank": "normal",
+            "labels": {
+              "en": "video game with LGBT character",
+              "es": "videojuego con personajes LGBT"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q1123896$6FBC9962-1346-48DF-AA7D-1F45E1AF6E78",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-06-09T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1123896$768A3DCA-3CD4-4A62-A157-1FDBCB42B8AB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q1123896$0A5B1888-C20B-4375-8720-6B24DA8A6F41",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            },
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q1123896$82a4e178-40a9-0b36-b6fd-9db1b59bc842",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q1010780": {
+      "wikidata_id": "Q1010780",
+      "source_url": "https://www.wikidata.org/wiki/Q1010780",
+      "revision": 2518473006,
+      "modified": "2026-07-17T04:40:25Z",
+      "cached_at": "2026-10-25T05:32:55.972542+00:00",
+      "entity_sha256": "472dea478af187581c759aadabcea67a4fe116bc0ffdb235ba9674356f01942c",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Giten Megami Tensei: Tokyo Mokushiroku",
+        "mul": "Giten Megami Tensei: Tokyo Mokushiroku"
+      },
+      "short_descriptions": {
+        "en": "role-paying video game, published by ASCII, initially released in 1997",
+        "es": "videojuego de 1997"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 780528,
+              "id": "Q780528"
+            },
+            "statement_id": "Q1010780$f0f0b58b-4650-c177-6e94-7430d00c0918",
+            "rank": "normal",
+            "labels": {
+              "mul": "Atlus"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 297303,
+              "id": "Q297303"
+            },
+            "statement_id": "Q1010780$b33fc0a3-43eb-4a60-0e72-8380be9c60e6",
+            "rank": "normal",
+            "labels": {
+              "en": "ASCII Corporation",
+              "es": "ASCII Corporation"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 744038,
+              "id": "Q744038"
+            },
+            "statement_id": "Q1010780$0ca16a59-471e-d24a-1599-c4c4eb09a8fb",
+            "rank": "normal",
+            "labels": {
+              "en": "role-playing video game",
+              "es": "videojuego de rol"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q1010780$7dceb44f-437f-1f25-edcd-1fa4b849ec50",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1997-04-04T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1010780$bc3a9738-42c1-7f77-1ed1-5206ad8afd09",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "dad4cb1a723895e02aa50b3d34b72e136c98f0bd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183505,
+                      "id": "Q183505"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1999-12-22T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1010780$6b845595-42d1-b7b1-f954-620148050ad1",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "0b7430c76aa932002363740d965c9f0a5cd61191",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1406,
+                      "id": "Q1406"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q1010780$84f6f5c8-4380-9c12-36d5-bf11e1c5a377",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q1010780$3dcb106d-44a2-625f-daa3-d637fbe7ac1d",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q6985683": {
+      "wikidata_id": "Q6985683",
+      "source_url": "https://www.wikidata.org/wiki/Q6985683",
+      "revision": 2547488680,
+      "modified": "2026-09-18T16:18:23Z",
+      "cached_at": "2026-10-25T05:38:03.010565+00:00",
+      "entity_sha256": "6410c13083542254a98d5184d42c19ea1253698fb2df1544e2212dc92cb0f95b",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Necronomicon",
+        "es": "Necronomicon",
+        "mul": "Necronomicon"
+      },
+      "short_descriptions": {
+        "en": "1994 video game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "q6985683$64705C1A-D11A-4B87-A099-784007A37862",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "Q6985683$dd53c10a-482d-0593-017f-6f45e4a58c36",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1046788,
+              "id": "Q1046788"
+            },
+            "statement_id": "Q6985683$83caee78-4cb6-3ce0-41fd-6aa6dfe8e1a8",
+            "rank": "normal",
+            "labels": {
+              "en": "eroge",
+              "es": "eroge"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q6985683$75F8B464-C1BF-4219-B317-9DBB2DF33A65",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-06-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q6985683$F6F9BBFB-BBD1-469D-B622-F4C8011896ED",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 531896,
+              "id": "Q531896"
+            },
+            "statement_id": "Q6985683$A0419659-E5C7-4388-BE4A-0063DAE905B9",
+            "rank": "normal",
+            "labels": {
+              "en": "FM Towns",
+              "es": "FM Towns"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q6985683$39435889-40a0-b790-e334-d8d31b3753e8",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q20712180": {
+      "wikidata_id": "Q20712180",
+      "source_url": "https://www.wikidata.org/wiki/Q20712180",
+      "revision": 2547478922,
+      "modified": "2026-09-18T15:47:50Z",
+      "cached_at": "2026-10-25T05:40:46.290298+00:00",
+      "entity_sha256": "382a2015aad8cd2fdb74a62b7f3c058a27ee338e505c11eeb339c3912a90da01",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Brandish",
+        "mul": "Brandish"
+      },
+      "short_descriptions": {
+        "en": "1991 video game",
+        "es": "videojuego de 1991"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1142226,
+              "id": "Q1142226"
+            },
+            "statement_id": "Q20712180$FDD80A34-DE05-47C8-B95F-8D720FF243B3",
+            "rank": "normal",
+            "labels": {
+              "mul": "Nihon Falcom"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1422746,
+              "id": "Q1422746"
+            },
+            "statement_id": "Q20712180$77281CFF-C97C-413D-8FCF-9EFB31FADC0E",
+            "rank": "normal",
+            "labels": {
+              "en": "action role-playing game",
+              "es": "videojuego de rol de acción"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q20712180$C95D857A-DD23-41BF-A30E-7C978683D511",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1991-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q20712180$A1E5066B-2657-49A5-AA7B-C24D980F5BBB",
+            "rank": "normal"
+          },
+          {
+            "value": {
+              "time": "+1994-06-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q20712180$B0EF59A9-2FAC-4195-AB1C-81CF105E80B0",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          },
+          {
+            "value": {
+              "time": "+1995-02-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 10,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q20712180$6E12EBBD-8EED-4099-8228-E7551D9822A2",
+            "rank": "normal",
+            "qualifiers": {
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "abeb239479a081a0cc571b3a75b09662c72d0b01",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183259,
+                      "id": "Q183259"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1406,
+              "id": "Q1406"
+            },
+            "statement_id": "Q20712180$F63F2FB1-15D9-4416-A38A-F63740E193C3",
+            "rank": "normal",
+            "labels": {
+              "en": "Microsoft Windows",
+              "mul": "Microsoft Windows"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170325,
+              "id": "Q170325"
+            },
+            "statement_id": "Q20712180$ff7221cd-4da5-4b42-9e6f-8266176a2f6c",
+            "rank": "normal",
+            "labels": {
+              "en": "PlayStation Portable",
+              "es": "PlayStation Portable",
+              "mul": "PlayStation Portable"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183259,
+              "id": "Q183259"
+            },
+            "statement_id": "Q20712180$c166ff9f-4858-49e7-0ffe-677990647f6f",
+            "rank": "normal",
+            "labels": {
+              "en": "Super Nintendo Entertainment System",
+              "es": "Super Nintendo Entertainment System",
+              "mul": "Super Nintendo Entertainment System"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 841252,
+              "id": "Q841252"
+            },
+            "statement_id": "Q20712180$65d38bd6-4b5f-e09a-d03b-d9245ec1b8ab",
+            "rank": "normal",
+            "labels": {
+              "en": "TurboDuo",
+              "es": "PC Engine Duo"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q20712180$ed42165a-477f-bc22-439b-a25cfe2164d8",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2632560": {
+      "wikidata_id": "Q2632560",
+      "source_url": "https://www.wikidata.org/wiki/Q2632560",
+      "revision": null,
+      "modified": null,
+      "cached_at": "2026-10-25T05:25:42.285445+00:00",
+      "entity_sha256": "209a97b45ce6cb342675f1a1d6875caa884ef5a66c659b723879d2b32907a2cd",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Policenauts",
+        "es": "Policenauts",
+        "mul": "Policenauts"
+      },
+      "short_descriptions": {
+        "en": "1994 adventure game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 45700,
+              "id": "Q45700"
+            },
+            "statement_id": "Q2632560$6B53B874-C3E7-416F-BBBA-75160341CF49",
+            "rank": "normal",
+            "labels": {
+              "en": "Konami",
+              "es": "Konami",
+              "mul": "Konami"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 45700,
+              "id": "Q45700"
+            },
+            "statement_id": "Q2632560$44D79A44-EA39-408C-BF3B-D427EC66127A",
+            "rank": "normal",
+            "labels": {
+              "en": "Konami",
+              "es": "Konami",
+              "mul": "Konami"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "Q2632560$E8426D90-9558-4E4D-AC3F-694B4EF7662A",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 689445,
+              "id": "Q689445"
+            },
+            "statement_id": "Q2632560$19864E82-AE44-407C-A37D-494BC76D4ABD",
+            "rank": "normal",
+            "labels": {
+              "en": "visual novel",
+              "es": "novela visual"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q2632560$4F0CD4E1-9DCD-4EE6-B942-2127D2A84B1B",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-07-29T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2632560$A75C1FC0-9B76-4284-9BE5-C3ED105B9B13",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1995-09-29T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2632560$2C7D8C7C-2AD1-4080-AEDE-04407C80EC0E",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P400": [
+                {
+                  "snaktype": "value",
+                  "property": "P400",
+                  "hash": "87476dc805f4a8e21ceb14d37bc58c6c43033b3d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 229429,
+                      "id": "Q229429"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 229429,
+              "id": "Q229429"
+            },
+            "statement_id": "Q2632560$04F5F01B-6F30-43C7-B9A8-F73B3486C726",
+            "rank": "normal",
+            "labels": {
+              "en": "3DO",
+              "es": "3DO Interactive Multiplayer",
+              "mul": "3DO"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10677,
+              "id": "Q10677"
+            },
+            "statement_id": "Q2632560$9FE310D8-4FB2-4633-8653-A8A331D7D418",
+            "rank": "normal",
+            "labels": {
+              "mul": "PlayStation"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200912,
+              "id": "Q200912"
+            },
+            "statement_id": "Q2632560$b9228fc7-4cd4-a9f9-00c9-efb80ba61d6f",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Saturn"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q2632560$e5a264d4-4bb5-0d55-c215-48fd0b6cdba2",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q11257692": {
+      "wikidata_id": "Q11257692",
+      "source_url": "https://www.wikidata.org/wiki/Q11257692",
+      "revision": 2558048137,
+      "modified": "2026-10-17T17:51:45Z",
+      "cached_at": "2026-10-25T05:39:13.830990+00:00",
+      "entity_sha256": "8e088e6853f3136952ad4f3e11615be923237160d12ed9e40b46fab2a4355c46",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Appare-den: Fukuryū no Shō"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 744038,
+              "id": "Q744038"
+            },
+            "statement_id": "Q11257692$21D6DD5E-39EB-42C8-BB99-737748D70DAB",
+            "rank": "normal",
+            "labels": {
+              "en": "role-playing video game",
+              "es": "videojuego de rol"
+            },
+            "references": [
+              {
+                "hash": "8111b53db053aa517b552d2892a0b43b24bc7ecf",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "43acc5022aea8170003a6edeefb9785019b52e87",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-04-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "21e2d670ef6b915dca15dc2fff3615a851fcff19",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/w/index.php?title=%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E4%BC%9D-%E4%BC%8F%E9%BE%8D%E3%81%AE%E7%AB%A0-&oldid=99714459",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q11257692$dfafec8c-41bf-82f4-6f2b-234614aeac64",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-12-08T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q11257692$b39ad322-44d2-8735-b7ac-4ca6c75ab762",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183505,
+              "id": "Q183505"
+            },
+            "statement_id": "Q11257692$b7e2e7b1-7921-4091-b6d4-f5d0c71a8770",
+            "rank": "normal",
+            "labels": {
+              "en": "NEC PC-9800 series",
+              "es": "NEC PC-9801"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }
