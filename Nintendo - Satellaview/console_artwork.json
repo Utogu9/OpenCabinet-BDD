@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Satellaview",
+  "images": {
+    "logo": {
+      "sha256": "69d48e7ea3e871e196d93925b9a132925ef86776122fe11b9b39e457ab06406d",
+      "bytes": 24108,
+      "width": 628,
+      "height": 107,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 24108
+        }
+      },
+      "filename": "64760c88cd436f660b27beebca0d22421490ad7f.svg",
+      "source_sha256": "69d48e7ea3e871e196d93925b9a132925ef86776122fe11b9b39e457ab06406d",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\69d48e7ea3e871e196d93925b9a132925ef86776122fe11b9b39e457ab06406d.bin",
+      "updated_at": "2026-10-25T07:19:56.881803+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1193565",
+          "wikidata_property": "P154",
+          "filename": "Satellaview logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Satellaview_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Satellaview_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo Company Limited",
+          "author_html": "Nintendo Company Limited",
+          "credit": "Nintendo Company Limited",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Satellaview_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "",
+          "commons_sha1": "64760c88cd436f660b27beebca0d22421490ad7f",
+          "commons_timestamp": "2020-01-19T02:33:03Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

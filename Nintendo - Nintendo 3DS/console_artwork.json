@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo 3DS",
+  "images": {
+    "logo": {
+      "sha256": "59248bcb34dabb0ffcbe9f12e9304e69a26300e4f0257fa42b89dae2c60d99ad",
+      "bytes": 2590,
+      "width": 132,
+      "height": 16,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 2590
+        }
+      },
+      "filename": "4ff887c52e6cee3024d97cc8ae1eb6ff55afb1c8.svg",
+      "source_sha256": "59248bcb34dabb0ffcbe9f12e9304e69a26300e4f0257fa42b89dae2c60d99ad",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\59248bcb34dabb0ffcbe9f12e9304e69a26300e4f0257fa42b89dae2c60d99ad.bin",
+      "updated_at": "2026-10-25T07:19:56.109765+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q203597",
+          "wikidata_property": "P154",
+          "filename": "Nintendo 3DS logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Nintendo_3DS_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nintendo_3DS_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nintendo\" class=\"extiw\" title=\"w:en:Nintendo\"><span title=\"Japanese multinational video game and consumer electronics company\">Nintendo</span></a>\n</bdi>",
+          "credit": "https://www.nintendo.co.jp/common/v2/img/ncommon/_common/logo/3ds.svg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Nintendo_3DS_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "4ff887c52e6cee3024d97cc8ae1eb6ff55afb1c8",
+          "commons_timestamp": "2023-02-15T20:31:06Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

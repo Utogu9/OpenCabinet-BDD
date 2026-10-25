@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Mattel - Intellivision",
+  "images": {
+    "logo": {
+      "sha256": "6fbcaeb38864d30fe7e203e180afe8a67282b82b5ec58f258ff3ae965252d78c",
+      "bytes": 16859,
+      "width": 6414,
+      "height": 1011,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 16859
+        }
+      },
+      "filename": "ec8a3f78cd5581ee247c0048fdd594a417d95de5.svg",
+      "source_sha256": "6fbcaeb38864d30fe7e203e180afe8a67282b82b5ec58f258ff3ae965252d78c",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\6fbcaeb38864d30fe7e203e180afe8a67282b82b5ec58f258ff3ae965252d78c.bin",
+      "updated_at": "2026-10-25T07:19:55.330078+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1061441",
+          "wikidata_property": "P154",
+          "filename": "Intellivision-logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Intellivision-logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Intellivision-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Mattel Electronics",
+          "author_html": "Mattel Electronics",
+          "credit": "This vector image was created by converting the Encapsulated PostScript file available at Brands of the World ( view • download ). Remember not all content there is in general free, see Commons:Fair use for more. This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Intellivision-logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "ec8a3f78cd5581ee247c0048fdd594a417d95de5",
+          "commons_timestamp": "2022-06-10T19:09:17Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

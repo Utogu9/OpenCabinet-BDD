@@ -4804,5 +4804,162 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "es": "PlayStation 4",
+      "mul": "PlayStation 4"
+    },
+    "short_descriptions": {
+      "en": "Sony's fourth home video game console, part of the eighth generation of consoles",
+      "es": "videoconsola de Sony"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2013-11-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q5014725$28982CB7-083D-4ED6-8287-8AF21F294FA0",
+          "rank": "normal",
+          "source": "wikidata:Q5014725",
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "Q5014725$B9B5AF38-3311-4FA2-805A-191EDED30C12",
+          "rank": "normal",
+          "source": "wikidata:Q5014725",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          },
+          "references": [
+            {
+              "hash": "cb93595de917a9a27dfb338ef603b27c67c37077",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "aec0e9c0ed7f6d4bc948d9fdc26ef08fedfb0608",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PlayStation_4&oldid=882770904",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "q5014725$F7DB337F-F07F-43E4-9F2E-39AD7EA1A657",
+          "rank": "normal",
+          "source": "wikidata:Q5014725",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q5014725",
+        "source_url": "https://www.wikidata.org/wiki/Q5014725",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558271367,
+        "modified": "2026-10-18T05:40:18Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

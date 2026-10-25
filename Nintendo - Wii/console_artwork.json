@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Wii",
+  "images": {
+    "logo": {
+      "sha256": "f7890d3a836e3cca1b81aea8cf28ffd4b3f5015ff3ae10ce15282650ecac1702",
+      "bytes": 1709,
+      "width": 301,
+      "height": 131,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 1709
+        }
+      },
+      "filename": "93e300320ce87ba6cd07f454b7591c4a6127dd34.svg",
+      "source_sha256": "f7890d3a836e3cca1b81aea8cf28ffd4b3f5015ff3ae10ce15282650ecac1702",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f7890d3a836e3cca1b81aea8cf28ffd4b3f5015ff3ae10ce15282650ecac1702.bin",
+      "updated_at": "2026-10-25T07:19:57.482837+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q8079",
+          "wikidata_property": "P154",
+          "filename": "Wii.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Wii.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wii.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nintendo\" class=\"extiw\" title=\"w:en:Nintendo\"><span title=\"Japanese multinational video game and consumer electronics company\">Nintendo</span></a></bdi>",
+          "credit": "Extracted from https://www.nintendo.com/consumer/downloads/WiiChEng.pdf",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Wii.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "93e300320ce87ba6cd07f454b7591c4a6127dd34",
+          "commons_timestamp": "2024-04-28T18:46:25Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

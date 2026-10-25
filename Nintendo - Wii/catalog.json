@@ -1396951,5 +1396951,201 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Wii",
+      "es": "Wii",
+      "mul": "Wii"
+    },
+    "short_descriptions": {
+      "en": "seventh-generation home video game console by Nintendo",
+      "es": "videoconsola producida por Nintendo"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2006-11-19T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q8079$CDFEBE65-67E3-49D1-B8EF-D5F0FB229941",
+          "rank": "normal",
+          "source": "wikidata:Q8079",
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q8079$F75F4098-FA61-4A40-8140-6F382E941F8F",
+          "rank": "normal",
+          "source": "wikidata:Q8079",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "7973a00cc9e801952d5ac0e2d5c5d166055be282",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "89ed4243dafa33ce58c86cfa654fb80ec4bcb48e",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Wii&oldid=882296574",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 463094,
+            "id": "Q463094"
+          },
+          "statement_id": "Q8079$4f520510-4712-a5d7-9705-ca222efd3139",
+          "rank": "normal",
+          "source": "wikidata:Q8079",
+          "labels": {
+            "mul": "Foxconn"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q8079$735e895f-4bb0-6e05-c0ca-6ccc714741dc",
+          "rank": "normal",
+          "source": "wikidata:Q8079",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 206855,
+                        "id": "Q206855"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q8079",
+        "source_url": "https://www.wikidata.org/wiki/Q8079",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558274030,
+        "modified": "2026-10-18T05:47:36Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

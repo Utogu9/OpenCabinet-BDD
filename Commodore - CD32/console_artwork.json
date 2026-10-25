@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Commodore - CD32",
+  "images": {
+    "logo": {
+      "sha256": "e4b80d01ad81d7d8e59637f8fd2529c713e12827c11e62e0124783c20e56c52f",
+      "bytes": 9728,
+      "width": 3839,
+      "height": 501,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 9728
+        }
+      },
+      "filename": "8b02b45bb2c20a6a1f64f3a837609b24c3812b7f.svg",
+      "source_sha256": "e4b80d01ad81d7d8e59637f8fd2529c713e12827c11e62e0124783c20e56c52f",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\e4b80d01ad81d7d8e59637f8fd2529c713e12827c11e62e0124783c20e56c52f.bin",
+      "updated_at": "2026-10-25T07:19:55.284972+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q695161",
+          "wikidata_property": "P154",
+          "filename": "Amigacd32-logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Amigacd32-logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Amigacd32-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Commodore International",
+          "author_html": "Commodore International",
+          "credit": "Vectorization by Dan Patrick",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Amigacd32-logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "8b02b45bb2c20a6a1f64f3a837609b24c3812b7f",
+          "commons_timestamp": "2022-07-24T22:39:21Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

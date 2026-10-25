@@ -2456355,5 +2456355,171 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "mul": "PlayStation 2"
+    },
+    "short_descriptions": {
+      "en": "Sony's second home video game console, part of the sixth generation of consoles",
+      "es": "consola de videojuegos de sexta generación fabricada por primera vez por Sony en 2000"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2000-03-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q10680$5f3f8237-472e-67b9-011c-9e31888da994",
+          "rank": "normal",
+          "source": "wikidata:Q10680",
+          "references": [
+            {
+              "hash": "0806956ee6166cf1c750e51a9332c7286501d770",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "6d91cddb0d5900c3cb136e7b3111ad2dbdc9f3ac",
+                    "datavalue": {
+                      "value": "https://www.xataka.com/videojuegos/hace-24-anos-se-lanzo-ps2-era-potente-que-japon-no-queria-exportarla-que-se-usara-para-armamento-militar",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 41187,
+            "id": "Q41187"
+          },
+          "statement_id": "Q10680$A848CB8A-CFAC-4900-A0B5-F3A4D0BCBEA2",
+          "rank": "normal",
+          "source": "wikidata:Q10680",
+          "labels": {
+            "en": "Sony Group",
+            "es": "Sony",
+            "mul": "Sony Group"
+          },
+          "references": [
+            {
+              "hash": "244d24841cf2df24fdff065492f52b0c29c92e09",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "4cd7bea975216ea9785e137897e9988d7cfbded2",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=PlayStation_2&oldid=880749634",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "Q10680$B5451703-94BD-41D7-B61C-DE6108459CD7",
+          "rank": "normal",
+          "source": "wikidata:Q10680",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 18594,
+            "id": "Q18594"
+          },
+          "statement_id": "q10680$2750A363-09C0-4512-AD8A-3E9ED37A950A",
+          "rank": "normal",
+          "source": "wikidata:Q10680",
+          "labels": {
+            "en": "Sony Interactive Entertainment",
+            "es": "Sony Interactive Entertainment",
+            "mul": "Sony Interactive Entertainment"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q10680",
+        "source_url": "https://www.wikidata.org/wiki/Q10680",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558270816,
+        "modified": "2026-10-18T05:37:25Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

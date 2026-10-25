@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "SNK - Neo Geo Pocket",
+  "images": {
+    "logo": {
+      "sha256": "a8e0664d8e0c3583f0d44f3dfe74beabe1b345f85c410bd94c9a907110674176",
+      "bytes": 47186,
+      "width": 1024,
+      "height": 1331,
+      "alpha": true,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": false,
+        "reason": "smallest_webp",
+        "quality": 90,
+        "candidate_bytes": {
+          "lossless": 60052,
+          "lossy90": 47186
+        }
+      },
+      "filename": "ec35ff6c6090fa1eb38426329e7c1c70648cac29.png",
+      "source_sha256": "8c590bb01c079120dfb8295b6728777aada167e18edf7288513cd8e677eacb8c",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\8c590bb01c079120dfb8295b6728777aada167e18edf7288513cd8e677eacb8c.bin",
+      "updated_at": "2026-10-25T07:19:57.583597+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q939881",
+          "wikidata_property": "P154",
+          "filename": "SNK NeoGeo Pocket logo.png",
+          "url": "https://commons.wikimedia.org/wiki/File:SNK_NeoGeo_Pocket_logo.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/SNK_NeoGeo_Pocket_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Mizunoryu",
+          "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Mizunoryu\" title=\"User:Mizunoryu\">Mizunoryu</a>",
+          "credit": "Own work",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:SNK_NeoGeo_Pocket_logo.png#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "ec35ff6c6090fa1eb38426329e7c1c70648cac29",
+          "commons_timestamp": "2009-07-14T14:25:26Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

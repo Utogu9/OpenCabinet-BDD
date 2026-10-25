@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Coleco - ColecoVision",
+  "images": {
+    "logo": {
+      "sha256": "43346c010923fe6b202f879d6c86cdec5ce01984d2b26815ee649862667c2045",
+      "bytes": 6973,
+      "width": 782,
+      "height": 256,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6973
+        }
+      },
+      "filename": "8c11ff78a04318ce8903c079a84cf8d54ad7ce73.svg",
+      "source_sha256": "43346c010923fe6b202f879d6c86cdec5ce01984d2b26815ee649862667c2045",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\43346c010923fe6b202f879d6c86cdec5ce01984d2b26815ee649862667c2045.bin",
+      "updated_at": "2026-10-25T07:19:55.272913+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1046862",
+          "wikidata_property": "P154",
+          "filename": "COLECO VISION LOGO.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:COLECO_VISION_LOGO.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/COLECO_VISION_LOGO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Coleco",
+          "author_html": "Coleco",
+          "credit": "https://en.wikipedia.org/wiki/File:COLECO_VISION_LOGO.svg",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:COLECO_VISION_LOGO.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "8c11ff78a04318ce8903c079a84cf8d54ad7ce73",
+          "commons_timestamp": "2013-12-12T09:32:48Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

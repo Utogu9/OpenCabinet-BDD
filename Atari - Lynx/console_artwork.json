@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Atari - Lynx",
+  "images": {
+    "logo": {
+      "sha256": "9a5003d5c32866af22286a3cdf0e6b47e0e0e21867767030d2597f75a820ff51",
+      "bytes": 1418,
+      "width": 3840,
+      "height": 431,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 1418
+        }
+      },
+      "filename": "514af8bea0e05f026f0466cf1be57bc5cde5ff2e.svg",
+      "source_sha256": "9a5003d5c32866af22286a3cdf0e6b47e0e0e21867767030d2597f75a820ff51",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\9a5003d5c32866af22286a3cdf0e6b47e0e0e21867767030d2597f75a820ff51.bin",
+      "updated_at": "2026-10-25T07:19:55.208966+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q753657",
+          "wikidata_property": "P154",
+          "filename": "Atari Lynx logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Atari_Lynx_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Atari_Lynx_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Original: Atari Vector: Dan Patrick",
+          "author_html": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\">Atari</div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a rel=\"nofollow\" class=\"external text\" href=\"https://forums.launchbox-app.com/files/file/3402-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/\">Dan Patrick</a></div>",
+          "credit": "Own work",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Atari_Lynx_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "514af8bea0e05f026f0466cf1be57bc5cde5ff2e",
+          "commons_timestamp": "2022-07-24T20:27:03Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

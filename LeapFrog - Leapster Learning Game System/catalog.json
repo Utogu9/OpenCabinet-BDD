@@ -170,5 +170,143 @@
         "500-12098-A"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Leapster",
+      "es": "Leapster"
+    },
+    "short_descriptions": {
+      "en": "educational handheld game console"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+2003-10-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q6509976$c7ea565c-4f02-9aa4-bb47-2aaa688440d0",
+          "rank": "normal",
+          "source": "wikidata:Q6509976",
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 6509896,
+            "id": "Q6509896"
+          },
+          "statement_id": "Q6509976$B0B25652-659B-41A6-AADE-5CF2B096B3D5",
+          "rank": "normal",
+          "source": "wikidata:Q6509976",
+          "labels": {
+            "en": "LeapFrog Enterprises",
+            "es": "LeapFrog Enterprises"
+          },
+          "references": [
+            {
+              "hash": "64599b60d545dea6d50e0e300c463fdbbe100b66",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "cf0c5518311b2b7d2b1f21562ff344032015c2ed",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Leapster&oldid=880748747",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q6509976",
+        "source_url": "https://www.wikidata.org/wiki/Q6509976",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2549142503,
+        "modified": "2026-09-25T02:31:48Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

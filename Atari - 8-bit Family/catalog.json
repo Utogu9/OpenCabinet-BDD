@@ -30,5 +30,144 @@
     "webp": "1.6.0"
   },
   "status": "complete",
-  "games": {}
+  "games": {},
+  "console_metadata": {
+    "labels": {
+      "en": "Atari 8-bit family",
+      "es": "Familia Atari de 8 bits"
+    },
+    "short_descriptions": {
+      "en": "series of home computers introduced in 1979",
+      "es": "serie de computadoras de 8 bits"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1979-11-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q249075$f65d8d90-41dd-5d45-a495-cc38f03a03a2",
+          "rank": "normal",
+          "source": "wikidata:Q249075"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 207922,
+            "id": "Q207922"
+          },
+          "statement_id": "Q249075$6d5e974d-4161-6650-378c-2dedb933c48c",
+          "rank": "normal",
+          "source": "wikidata:Q249075",
+          "labels": {
+            "en": "Atari",
+            "es": "Atari",
+            "mul": "Atari"
+          },
+          "qualifiers": {
+            "P585": [
+              {
+                "snaktype": "value",
+                "property": "P585",
+                "hash": "21ce2394cef40d7e380a249ee1911d6efa38d1af",
+                "datavalue": {
+                  "value": {
+                    "time": "+1979-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 206855,
+                        "id": "Q206855"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 207922,
+            "id": "Q207922"
+          },
+          "statement_id": "q249075$4F68506C-1311-48E0-91DF-65BCF17F8580",
+          "rank": "normal",
+          "source": "wikidata:Q249075",
+          "labels": {
+            "en": "Atari",
+            "es": "Atari",
+            "mul": "Atari"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q249075",
+        "source_url": "https://www.wikidata.org/wiki/Q249075",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2560343123,
+        "modified": "2026-10-24T16:28:18Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
+  }
 }

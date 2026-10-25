@@ -220978,5 +220978,155 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Game Boy Color",
+      "es": "Game Boy Color"
+    },
+    "short_descriptions": {
+      "en": "handheld Nintendo video game console introduced in 1998",
+      "es": "consola de videojuegos"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1998-10-21T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q203992$9b31a474-4d9a-a68a-7ce9-05cc13708712",
+          "rank": "normal",
+          "source": "wikidata:Q203992",
+          "references": [
+            {
+              "hash": "536c8b85a8fd14ed0a1168b9f549fd77a718f4e0",
+              "snaks": {
+                "P854": [
+                  {
+                    "snaktype": "value",
+                    "property": "P854",
+                    "hash": "64721f6eec438fc1b7fa5fd240954bcb0e3b0a48",
+                    "datavalue": {
+                      "value": "https://www.nintendo.co.jp/n02/dmg/hardware/color/index.html",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3877252,
+            "id": "Q3877252"
+          },
+          "statement_id": "Q203992$7EA48269-CE30-46EC-9B0D-541979474040",
+          "rank": "normal",
+          "source": "wikidata:Q203992",
+          "labels": {
+            "en": "Nintendo Research & Engineering Department"
+          },
+          "references": [
+            {
+              "hash": "28f64d2e6f6aa17b3b4a95c0b31cffe0cdcae59b",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "ff8835c4afec4e11add3790bd84eb9fea5a3d39a",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Game_Boy_Color&oldid=882394926",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "q203992$61A199A5-BD67-43C3-AE26-9AED7E7EAE4B",
+          "rank": "normal",
+          "source": "wikidata:Q203992",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q203992",
+        "source_url": "https://www.wikidata.org/wiki/Q203992",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558273311,
+        "modified": "2026-10-18T05:45:32Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

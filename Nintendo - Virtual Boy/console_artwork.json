@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Virtual Boy",
+  "images": {
+    "logo": {
+      "sha256": "5f6e6b8ee94ee43164a3314f97af45915419c66228e180cb9063dfa5fbc7d1cb",
+      "bytes": 3681,
+      "width": 354,
+      "height": 89,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3681
+        }
+      },
+      "filename": "1fe302cd5be692c5e614413ea98f09fc0f94b33e.svg",
+      "source_sha256": "5f6e6b8ee94ee43164a3314f97af45915419c66228e180cb9063dfa5fbc7d1cb",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\5f6e6b8ee94ee43164a3314f97af45915419c66228e180cb9063dfa5fbc7d1cb.bin",
+      "updated_at": "2026-10-25T07:19:57.127836+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q164651",
+          "wikidata_property": "P154",
+          "filename": "Virtualboy logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Virtualboy_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Virtualboy_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "selbst mit Inkscape erstellt; Vorlage",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Virtualboy_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "1fe302cd5be692c5e614413ea98f09fc0f94b33e",
+          "commons_timestamp": "2011-02-07T12:18:18Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation 4",
+  "images": {
+    "logo": {
+      "sha256": "87461dabda8d02fac30168eac20578bcc9ca83c5792157b620a66aacae6dc89c",
+      "bytes": 18883,
+      "width": 503,
+      "height": 105,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 18883
+        }
+      },
+      "filename": "203add81f035cb5785862ff4a9094d18b3a814eb.svg",
+      "source_sha256": "87461dabda8d02fac30168eac20578bcc9ca83c5792157b620a66aacae6dc89c",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\87461dabda8d02fac30168eac20578bcc9ca83c5792157b620a66aacae6dc89c.bin",
+      "updated_at": "2026-10-25T07:19:59.530529+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q5014725",
+          "wikidata_property": "P154",
+          "filename": "PlayStation 4 logo and wordmark.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PlayStation_4_logo_and_wordmark.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/PlayStation_4_logo_and_wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sony Computer Entertainment",
+          "author_html": "Sony Computer Entertainment",
+          "credit": "http://www.scei.co.jp/corporate/release/pdf/130221a_e.pdf",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PlayStation_4_logo_and_wordmark.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "203add81f035cb5785862ff4a9094d18b3a814eb",
+          "commons_timestamp": "2013-06-11T20:30:40Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

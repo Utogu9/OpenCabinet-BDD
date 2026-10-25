@@ -1609,5 +1609,152 @@
         "TEST"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "64DD",
+      "es": "Nintendo 64DD"
+    },
+    "short_descriptions": {
+      "en": "Nintendo 64 add-on",
+      "es": "periférico para la videoconsola Nintendo 64"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1999-12-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q253044$ce3a185d-41b8-0200-99e6-72425f7d6143",
+          "rank": "normal",
+          "source": "wikidata:Q253044",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q253044$E96D1109-D946-4A61-A5AC-7C38E3ADAEFA",
+          "rank": "normal",
+          "source": "wikidata:Q253044",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "95db9982cf31c4c88c7a7d9f08ca8152af1aa96b",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "deaf26c7fd231fd1643155065a2259bcc1638da2",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=64DD&oldid=882788859",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "q253044$47FDA29E-F32B-4B74-971D-87D48AB2858F",
+          "rank": "normal",
+          "source": "wikidata:Q253044",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q253044",
+        "source_url": "https://www.wikidata.org/wiki/Q253044",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2551381115,
+        "modified": "2026-09-30T16:17:02Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

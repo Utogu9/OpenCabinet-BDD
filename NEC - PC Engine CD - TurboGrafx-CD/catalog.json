@@ -83276,5 +83276,51 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "es": "CD-ROM2",
+      "mul": "TurboGrafx-CD"
+    },
+    "short_descriptions": {
+      "es": "periférico para la videoconsola PC Engine",
+      "en": "add-on for the PC Engine video game console"
+    },
+    "fields": {
+      "release_date": [],
+      "developer": [],
+      "manufacturer": []
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q10854461",
+        "source_url": "https://www.wikidata.org/wiki/Q10854461",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2544773010,
+        "modified": "2026-09-12T23:12:05Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "es",
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

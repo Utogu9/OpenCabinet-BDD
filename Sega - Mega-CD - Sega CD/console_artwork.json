@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Mega-CD - Sega CD",
+  "images": {
+    "logo": {
+      "sha256": "dc2d46e0ddf09e0fc81e144fec8e1aea4e28e28ae3a109930c2e309b6e3d6079",
+      "bytes": 5771,
+      "width": 951,
+      "height": 132,
+      "alpha": false,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 5771
+        }
+      },
+      "filename": "5b903e17bf70fc26e77327da1a4cb818a027546d.svg",
+      "source_sha256": "dc2d46e0ddf09e0fc81e144fec8e1aea4e28e28ae3a109930c2e309b6e3d6079",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\dc2d46e0ddf09e0fc81e144fec8e1aea4e28e28ae3a109930c2e309b6e3d6079.bin",
+      "updated_at": "2026-10-25T07:19:57.945574+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1047516",
+          "wikidata_property": "P154",
+          "filename": "Sega CD Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Sega_CD_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sega_CD_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Stephan Sokolow ( ssokolow )",
+          "author_html": "Stephan Sokolow (<a href=\"//commons.wikimedia.org/w/index.php?title=User:SSokolow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:SSokolow (page does not exist)\">ssokolow</a>)",
+          "credit": "Own work",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Sega_CD_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "5b903e17bf70fc26e77327da1a4cb818a027546d",
+          "commons_timestamp": "2016-06-12T06:45:56Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}
