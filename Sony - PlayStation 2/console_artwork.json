@@ -44,6 +44,29 @@
           "changes": "Original SVG, unchanged."
         }
       ]
+    },
+    "logo2": {
+      "sha256": "f0012b6ce70c3f7c8769d8cb03340949b71d64ea39af75e13c3ae847be191e6c",
+      "bytes": 745,
+      "width": 24,
+      "height": 24,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 745
+        }
+      },
+      "filename": "playstation.svg",
+      "source_sha256": "f0012b6ce70c3f7c8769d8cb03340949b71d64ea39af75e13c3ae847be191e6c",
+      "path": "logo2.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f0012b6ce70c3f7c8769d8cb03340949b71d64ea39af75e13c3ae847be191e6c.bin",
+      "updated_at": "2026-10-25T08:08:37.079744+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
     }
   }
 }

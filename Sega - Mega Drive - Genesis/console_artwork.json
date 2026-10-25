@@ -44,6 +44,29 @@
           "changes": "Original SVG, unchanged."
         }
       ]
+    },
+    "logo9": {
+      "sha256": "891a2813f122d07ab200e2cd11d3d6b42818f59536e039d765767568c647f871",
+      "bytes": 4179,
+      "width": 300,
+      "height": 100,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 4179
+        }
+      },
+      "filename": "sega-mark.svg",
+      "source_sha256": "891a2813f122d07ab200e2cd11d3d6b42818f59536e039d765767568c647f871",
+      "path": "logo9.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\891a2813f122d07ab200e2cd11d3d6b42818f59536e039d765767568c647f871.bin",
+      "updated_at": "2026-10-25T08:11:16.933306+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
     }
   }
 }

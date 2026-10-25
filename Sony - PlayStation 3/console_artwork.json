@@ -44,6 +44,29 @@
           "changes": "Original SVG, unchanged."
         }
       ]
+    },
+    "logo8": {
+      "sha256": "a6cb96c429dc66502c43bfe0107244df05e8d871dbdbde6fe79b7c3171dc399b",
+      "bytes": 8109,
+      "width": 386,
+      "height": 207,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 8109
+        }
+      },
+      "filename": "bluray-mark.svg",
+      "source_sha256": "a6cb96c429dc66502c43bfe0107244df05e8d871dbdbde6fe79b7c3171dc399b",
+      "path": "logo8.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\a6cb96c429dc66502c43bfe0107244df05e8d871dbdbde6fe79b7c3171dc399b.bin",
+      "updated_at": "2026-10-25T08:04:01.278921+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
     }
   }
 }
