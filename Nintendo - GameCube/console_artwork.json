@@ -44,6 +44,52 @@
           "changes": "Original SVG, unchanged."
         }
       ]
+    },
+    "logo2": {
+      "sha256": "58a3a5d786d8a30dae02c0d99835a6bf3c2f026f6cc009d20a0062f79adbddd2",
+      "bytes": 12905,
+      "width": 3840,
+      "height": 866,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 12905
+        }
+      },
+      "filename": "gamecube-logo.svg",
+      "source_sha256": "58a3a5d786d8a30dae02c0d99835a6bf3c2f026f6cc009d20a0062f79adbddd2",
+      "path": "logo2.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\58a3a5d786d8a30dae02c0d99835a6bf3c2f026f6cc009d20a0062f79adbddd2.bin",
+      "updated_at": "2026-10-25T08:01:34.076780+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
+    },
+    "logo3": {
+      "sha256": "35274a9b1f1f18000733a9af66f57099428040422d57c6bd40c0a4ddc4114aa4",
+      "bytes": 416,
+      "width": 24,
+      "height": 24,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 416
+        }
+      },
+      "filename": "gamecube-mark.svg",
+      "source_sha256": "35274a9b1f1f18000733a9af66f57099428040422d57c6bd40c0a4ddc4114aa4",
+      "path": "logo3.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\35274a9b1f1f18000733a9af66f57099428040422d57c6bd40c0a4ddc4114aa4.bin",
+      "updated_at": "2026-10-25T08:01:47.900569+00:00",
+      "manual": true,
+      "format": "SVG",
+      "extension": "svg"
     }
   }
 }
