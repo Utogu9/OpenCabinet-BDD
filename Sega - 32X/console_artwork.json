@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sega - 32X",
+  "images": {
+    "logo": {
+      "sha256": "d57c9e1733ae686e593811bfeb216a62cb9a22401016d31c94e3d7a2dcd4085b",
+      "bytes": 17351,
+      "width": 340,
+      "height": 121,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 17351
+        }
+      },
+      "filename": "5be05613d3e30d23aefbfc73e7c9e020c3454c71.svg",
+      "source_sha256": "d57c9e1733ae686e593811bfeb216a62cb9a22401016d31c94e3d7a2dcd4085b",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\d57c9e1733ae686e593811bfeb216a62cb9a22401016d31c94e3d7a2dcd4085b.bin",
+      "updated_at": "2026-10-25T07:19:57.616757+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1063978",
+          "wikidata_property": "P154",
+          "filename": "Sega 32X logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Sega_32X_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sega_32X_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sega",
+          "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sega\" class=\"extiw\" title=\"w:en:Sega\"><span title=\"Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings\">Sega</span></a></bdi>",
+          "credit": "Sega",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Sega_32X_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "5be05613d3e30d23aefbfc73e7c9e020c3454c71",
+          "commons_timestamp": "2017-07-26T00:00:25Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

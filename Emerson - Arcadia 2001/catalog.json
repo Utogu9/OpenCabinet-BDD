@@ -224,5 +224,292 @@
         "20"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Arcadia 2001",
+      "es": "Arcadia 2001"
+    },
+    "short_descriptions": {
+      "en": "second-generation home video game console"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1982-05-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1196518$040fbe50-485d-4d90-0208-660de780d039",
+          "rank": "normal",
+          "source": "wikidata:Q1196518",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P123": [
+              {
+                "snaktype": "value",
+                "property": "P123",
+                "hash": "20d14dfd51aa8584e3cc57fbc8ccbfdd950c538a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 596685,
+                    "id": "Q596685"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P1476": [
+              {
+                "snaktype": "value",
+                "property": "P1476",
+                "hash": "608f93635ef05c0f7306f8544149349e75e4d01b",
+                "datavalue": {
+                  "value": {
+                    "text": "Arcadia 2001",
+                    "language": "en"
+                  },
+                  "type": "monolingualtext"
+                },
+                "datatype": "monolingualtext"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "2eb5dfce6bd415de8cf0ca522ed15ad529ce7ee3",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "4319e981c8cfc63ee6d29d8b6b0da086cee2207c",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Arcadia_2001&oldid=1233656903",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "ceb1c59f4713577cf4a4b0dba1fa25e5a246a6f7",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-07-28T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656",
+                "P813"
+              ]
+            }
+          ]
+        },
+        {
+          "value": {
+            "time": "+1983-03-25T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1196518$4951cd47-4f88-05b6-64aa-a24c8a40bc90",
+          "rank": "normal",
+          "source": "wikidata:Q1196518",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P123": [
+              {
+                "snaktype": "value",
+                "property": "P123",
+                "hash": "c59aee20cd78d9c2686840e34b62e4f0e5afd16f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 507269,
+                    "id": "Q507269"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ],
+            "P1476": [
+              {
+                "snaktype": "value",
+                "property": "P1476",
+                "hash": "c1b55dfe6c651ff6be650037b7c8c2d48991c62b",
+                "datavalue": {
+                  "value": {
+                    "text": "アルカディア",
+                    "language": "ja"
+                  },
+                  "type": "monolingualtext"
+                },
+                "datatype": "monolingualtext"
+              }
+            ]
+          },
+          "references": [
+            {
+              "hash": "af191bc77170b3f8905a8b8356e5b165d17949b8",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 177837,
+                        "id": "Q177837"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "e09879c564d9a5792d94b901e477b10fff585bc5",
+                    "datavalue": {
+                      "value": "https://ja.wikipedia.org/w/index.php?title=アルカディア_(ゲーム機)&oldid=101211912#アルカディア_(バンダイ)",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ],
+                "P813": [
+                  {
+                    "snaktype": "value",
+                    "property": "P813",
+                    "hash": "a4d98c4e5548e53733a37846668c7e9a98673833",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2024-07-25T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656",
+                "P813"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [],
+      "manufacturer": []
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1196518",
+        "source_url": "https://www.wikidata.org/wiki/Q1196518",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2518222114,
+        "modified": "2026-07-16T16:09:37Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

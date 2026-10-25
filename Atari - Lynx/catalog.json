@@ -24831,5 +24831,217 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Atari Lynx",
+      "es": "Atari Lynx",
+      "mul": "Atari Lynx"
+    },
+    "short_descriptions": {
+      "en": "handheld game console developed by Atari Corporation and Epyx",
+      "es": "consola portátil"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1989-09-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q753657$7ed03a32-454d-152f-e2ee-4a58407eac91",
+          "rank": "normal",
+          "source": "wikidata:Q753657",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30,
+                    "id": "Q30"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1990-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q753657$468dddb0-44a6-6063-f75c-df20966993f1",
+          "rank": "normal",
+          "source": "wikidata:Q753657",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "548e20e9f59d661d6b409bea2e0126141a2cbc34",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 46,
+                    "id": "Q46"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1990-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q753657$edb00940-4fc1-58cf-3a3d-bf0b122ab572",
+          "rank": "normal",
+          "source": "wikidata:Q753657",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 1347787,
+            "id": "Q1347787"
+          },
+          "statement_id": "Q753657$4E4BF153-2EFF-4B80-BB22-2C85D97A5DA8",
+          "rank": "normal",
+          "source": "wikidata:Q753657",
+          "labels": {
+            "en": "Epyx",
+            "es": "Epyx"
+          },
+          "references": [
+            {
+              "hash": "0515e078988e34af0bee71ee76e86d16f49b443f",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "44964c1843701f4b90c138f8fc8c759b3db8e6c9",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Atari_Lynx&oldid=882171607",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3627870,
+            "id": "Q3627870"
+          },
+          "statement_id": "Q753657$3fb4d6c6-443d-c6e5-f28c-3a44fbdbae07",
+          "rank": "normal",
+          "source": "wikidata:Q753657",
+          "labels": {
+            "en": "Atari Corporation",
+            "es": "Atari Corporation",
+            "mul": "Atari Corporation"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q753657",
+        "source_url": "https://www.wikidata.org/wiki/Q753657",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558363300,
+        "modified": "2026-10-18T11:24:42Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

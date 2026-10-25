@@ -260,5 +260,57 @@
         "GDS-0020B"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Naomi 2",
+      "es": "Naomi 2"
+    },
+    "fields": {
+      "release_date": [],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 122741,
+            "id": "Q122741"
+          },
+          "statement_id": "Q843916$f79b9635-4e51-654b-5c6d-3b5202a07503",
+          "rank": "normal",
+          "source": "wikidata:Q843916",
+          "labels": {
+            "mul": "Sega"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q843916",
+        "source_url": "https://www.wikidata.org/wiki/Q843916",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2522672519,
+        "modified": "2026-07-25T21:46:45Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

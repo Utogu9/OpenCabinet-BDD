@@ -493,5 +493,118 @@
         "VIDEOPAC+ 1"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Philips Videopac+ G7400",
+      "es": "Philips Videopac+ G7400"
+    },
+    "short_descriptions": {
+      "en": "third-generation home video game console released by Philips"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1983-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q7185533$9312caff-49e9-dd9f-9f24-439141cd84e7",
+          "rank": "normal",
+          "source": "wikidata:Q7185533"
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170416,
+            "id": "Q170416"
+          },
+          "statement_id": "Q7185533$3335DB36-3233-4F1A-BE8C-C4E56352C099",
+          "rank": "normal",
+          "source": "wikidata:Q7185533",
+          "labels": {
+            "en": "Koninklijke Philips NV",
+            "es": "Philips",
+            "mul": "Koninklijke Philips Electronics N.V."
+          },
+          "references": [
+            {
+              "hash": "6c0e4869cc10bbbbfba68371427acd7fbfcaa490",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "9d71977b03f1732986c8570a73d16a1157059870",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Philips_Videopac+_G7400&oldid=877391149",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q7185533",
+        "source_url": "https://www.wikidata.org/wiki/Q7185533",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2350068348,
+        "modified": "2025-05-19T04:17:39Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

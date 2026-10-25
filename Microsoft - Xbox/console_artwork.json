@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Microsoft - Xbox",
+  "images": {
+    "logo": {
+      "sha256": "cac6d5a2680b00cbae965d70f0137e4323ec1a61d31c0c96f7fd63bd1eab5a5b",
+      "bytes": 16498,
+      "width": 711,
+      "height": 242,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 16498
+        }
+      },
+      "filename": "2ce780ab9db3b931241e50285ce0c1f9d761414b.svg",
+      "source_sha256": "cac6d5a2680b00cbae965d70f0137e4323ec1a61d31c0c96f7fd63bd1eab5a5b",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\cac6d5a2680b00cbae965d70f0137e4323ec1a61d31c0c96f7fd63bd1eab5a5b.bin",
+      "updated_at": "2026-10-25T07:19:55.421135+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q132020",
+          "wikidata_property": "P154",
+          "filename": "Xbox Logo 2001.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Xbox_Logo_2001.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Xbox_Logo_2001.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Microsoft",
+          "author_html": "Microsoft",
+          "credit": "Logopedia",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Xbox_Logo_2001.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "2ce780ab9db3b931241e50285ce0c1f9d761414b",
+          "commons_timestamp": "2026-06-03T01:57:13Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

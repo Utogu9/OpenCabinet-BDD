@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Atari - 7800",
+  "images": {
+    "logo": {
+      "sha256": "f49a29b31ddf4ec50600d895a1c1600642fde926d673b41e882bbbeb3c578865",
+      "bytes": 3213,
+      "width": 3416,
+      "height": 776,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3213
+        }
+      },
+      "filename": "f9eb523e4ea9d1517fc9678c20343b8e969bee0b.svg",
+      "source_sha256": "f49a29b31ddf4ec50600d895a1c1600642fde926d673b41e882bbbeb3c578865",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\f49a29b31ddf4ec50600d895a1c1600642fde926d673b41e882bbbeb3c578865.bin",
+      "updated_at": "2026-10-25T07:19:55.174834+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q753600",
+          "wikidata_property": "P154",
+          "filename": "Atari 7800 logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Atari_7800_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Atari_7800_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Atari, Inc.",
+          "author_html": "Atari, Inc.",
+          "credit": "Vectorization by Dan Patrick",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Atari_7800_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "f9eb523e4ea9d1517fc9678c20343b8e969bee0b",
+          "commons_timestamp": "2022-07-24T18:43:13Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation Portable",
+  "images": {
+    "logo": {
+      "sha256": "69169de8e634fbc7b038bf4ce8a79f3e96862999dfb2c5a973e9a3d36024aa38",
+      "bytes": 28705,
+      "width": 753,
+      "height": 231,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 28705
+        }
+      },
+      "filename": "d4c9f2e7a39bdef89759c3891ad9e4806c8a2a63.svg",
+      "source_sha256": "69169de8e634fbc7b038bf4ce8a79f3e96862999dfb2c5a973e9a3d36024aa38",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\69169de8e634fbc7b038bf4ce8a79f3e96862999dfb2c5a973e9a3d36024aa38.bin",
+      "updated_at": "2026-10-25T07:19:59.668101+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q170325",
+          "wikidata_property": "P154",
+          "filename": "PSP Logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PSP_Logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/PSP_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Afrank99 @ German Wikipedia",
+          "author_html": "<a href=\"https://de.wikipedia.org/wiki/User:Afrank99\" class=\"extiw\" title=\"de:User:Afrank99\">Afrank99 @ German Wikipedia</a>",
+          "credit": "PlaystationPortable-Logo.svg @ German Wikipedia",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PSP_Logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "d4c9f2e7a39bdef89759c3891ad9e4806c8a2a63",
+          "commons_timestamp": "2009-07-18T11:53:59Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

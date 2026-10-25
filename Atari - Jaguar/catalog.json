@@ -21989,5 +21989,216 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Atari Jaguar",
+      "es": "Atari Jaguar"
+    },
+    "short_descriptions": {
+      "en": "Fifth-generation home video game console by Atari",
+      "es": "consola de videojuegos doméstica de quinta generación de Atari"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1993-11-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q650601$03C51795-A657-4920-857F-04E28224E77D",
+          "rank": "normal",
+          "source": "wikidata:Q650601",
+          "references": [
+            {
+              "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3627870,
+            "id": "Q3627870"
+          },
+          "statement_id": "Q650601$21B7ECD8-4615-4D67-9FF1-6331A7EF35F9",
+          "rank": "normal",
+          "source": "wikidata:Q650601",
+          "labels": {
+            "en": "Atari Corporation",
+            "es": "Atari Corporation",
+            "mul": "Atari Corporation"
+          },
+          "references": [
+            {
+              "hash": "a8cf79757248f1bc0b493a4bdaffb367da6aaa6f",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "f0b24e58dac7cdfe981d8d2f175b5e5dc101cb17",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Atari_Jaguar&oldid=879743110",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 3627870,
+            "id": "Q3627870"
+          },
+          "statement_id": "Q650601$e6d2c921-4f17-4bd1-fe33-013362a59cd6",
+          "rank": "normal",
+          "source": "wikidata:Q650601",
+          "labels": {
+            "en": "Atari Corporation",
+            "es": "Atari Corporation",
+            "mul": "Atari Corporation"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 207922,
+            "id": "Q207922"
+          },
+          "statement_id": "Q650601$1571a123-44bf-9cf7-cbc1-2653eee649f0",
+          "rank": "normal",
+          "source": "wikidata:Q650601",
+          "labels": {
+            "en": "Atari",
+            "es": "Atari",
+            "mul": "Atari"
+          },
+          "references": [
+            {
+              "hash": "c48d1d14871ba423aa3ccb5d78d1ae563773338e",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 206855,
+                        "id": "Q206855"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "8abfbde81c03c2341862325220259ded400eb893",
+                    "datavalue": {
+                      "value": "https://ru.wikipedia.org/?oldid=122950869",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q650601",
+        "source_url": "https://www.wikidata.org/wiki/Q650601",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558363259,
+        "modified": "2026-10-18T11:24:25Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

@@ -3390,5 +3390,83 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Amiga CD32",
+      "es": "AmigaCD32",
+      "mul": "Amiga CD32"
+    },
+    "short_descriptions": {
+      "en": "home video game console developed by Commodore",
+      "es": "el videogame"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1993-09-17T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q695161$6fdb3154-4832-b5c3-ed33-fa63a4e2972d",
+          "rank": "normal",
+          "source": "wikidata:Q695161"
+        }
+      ],
+      "developer": [],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 208305,
+            "id": "Q208305"
+          },
+          "statement_id": "Q695161$f7db4fec-49bf-2047-fdd8-0ddc577289e4",
+          "rank": "normal",
+          "source": "wikidata:Q695161",
+          "labels": {
+            "en": "Commodore International",
+            "es": "Commodore International",
+            "mul": "Commodore International"
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q695161",
+        "source_url": "https://www.wikidata.org/wiki/Q695161",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2558365651,
+        "modified": "2026-10-18T11:37:42Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

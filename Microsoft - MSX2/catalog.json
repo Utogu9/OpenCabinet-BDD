@@ -30,5 +30,51 @@
     "webp": "1.6.0"
   },
   "status": "complete",
-  "games": {}
+  "games": {},
+  "console_metadata": {
+    "labels": {
+      "en": "MSX 2",
+      "es": "MSX 2",
+      "mul": "MSX 2"
+    },
+    "short_descriptions": {
+      "en": "second version of the MSX home computer standard"
+    },
+    "fields": {
+      "release_date": [],
+      "developer": [],
+      "manufacturer": []
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q11232203",
+        "source_url": "https://www.wikidata.org/wiki/Q11232203",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2352230738,
+        "modified": "2025-05-25T13:46:10Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Atari - 2600",
+  "images": {
+    "logo": {
+      "sha256": "eda8a5e5c9e1f031a88cb17d85f30137154f023fb83fdb08994707f80c9704bf",
+      "bytes": 3347,
+      "width": 2670,
+      "height": 833,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 3347
+        }
+      },
+      "filename": "6274fc434c14f646e32894735f78a978a6d2da46.svg",
+      "source_sha256": "eda8a5e5c9e1f031a88cb17d85f30137154f023fb83fdb08994707f80c9704bf",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\eda8a5e5c9e1f031a88cb17d85f30137154f023fb83fdb08994707f80c9704bf.bin",
+      "updated_at": "2026-10-25T07:19:55.132820+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q206261",
+          "wikidata_property": "P154",
+          "filename": "Atari2600logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Atari2600logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Atari2600logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Atari, Inc.",
+          "author_html": "Atari, Inc.",
+          "credit": "Vectorization by Dan Patrick",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Atari2600logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "6274fc434c14f646e32894735f78a978a6d2da46",
+          "commons_timestamp": "2022-07-24T19:53:37Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

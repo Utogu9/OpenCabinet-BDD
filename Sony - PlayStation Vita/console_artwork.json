@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Sony - PlayStation Vita",
+  "images": {
+    "logo": {
+      "sha256": "c8745c0dd5a8f657539c4c7c9af6999c7f49259c7f0cf4f4e2593cbac9b80725",
+      "bytes": 7329,
+      "width": 800,
+      "height": 230,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 7329
+        }
+      },
+      "filename": "66a0ccffc47cd708befd5d8460d9be68ffd644df.svg",
+      "source_sha256": "c8745c0dd5a8f657539c4c7c9af6999c7f49259c7f0cf4f4e2593cbac9b80725",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\c8745c0dd5a8f657539c4c7c9af6999c7f49259c7f0cf4f4e2593cbac9b80725.bin",
+      "updated_at": "2026-10-25T07:19:59.685999+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q188808",
+          "wikidata_property": "P154",
+          "filename": "PlayStation Vita logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:PlayStation_Vita_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PlayStation_Vita_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sony Computer Entertainment (vectorization: Tokyoship , Cbabb7 )",
+          "author_html": "Sony Computer Entertainment (vectorization:<a href=\"//commons.wikimedia.org/wiki/User:Tokyoship\" title=\"User:Tokyoship\">Tokyoship</a>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:Cbabb7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cbabb7 (page does not exist)\">Cbabb7</a>)",
+          "credit": "http://www.scei.co.jp/corporate/release/110607a_e.html",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:PlayStation_Vita_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "66a0ccffc47cd708befd5d8460d9be68ffd644df",
+          "commons_timestamp": "2012-03-03T16:01:07Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

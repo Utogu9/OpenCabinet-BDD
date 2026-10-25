@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Nintendo 64DD",
+  "images": {
+    "logo": {
+      "sha256": "720faf3d169d35514c8ff226629f4b92ff777e3e2c4dc9ba3bc461c612317c16",
+      "bytes": 6190,
+      "width": 139,
+      "height": 42,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 6190
+        }
+      },
+      "filename": "7e98e33dd9606004dc158d56c00a50e47963f3fc.svg",
+      "source_sha256": "720faf3d169d35514c8ff226629f4b92ff777e3e2c4dc9ba3bc461c612317c16",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\720faf3d169d35514c8ff226629f4b92ff777e3e2c4dc9ba3bc461c612317c16.bin",
+      "updated_at": "2026-10-25T07:19:56.187632+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q253044",
+          "wikidata_property": "P154",
+          "filename": "64DD logo (1999).svg",
+          "url": "https://commons.wikimedia.org/wiki/File:64DD_logo_(1999).svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/64DD_logo_%281999%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "Nintendo",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:64DD_logo_(1999).svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "7e98e33dd9606004dc158d56c00a50e47963f3fc",
+          "commons_timestamp": "2019-05-15T23:30:54Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

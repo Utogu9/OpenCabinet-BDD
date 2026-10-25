@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "Sega - Naomi",
+  "images": {
+    "logo": {
+      "sha256": "0ecda91cc6c9f28871ca0e0365e67992772ea1fd489f9f7d3a2021f6c2276611",
+      "bytes": 6492,
+      "width": 609,
+      "height": 136,
+      "alpha": true,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": true,
+        "reason": "smallest_webp",
+        "quality": 100,
+        "candidate_bytes": {
+          "lossless": 6492,
+          "lossy90": 7148
+        }
+      },
+      "filename": "0430bc5d2855261aac91d9d85e18e5c2197ef178.png",
+      "source_sha256": "052f808334d9c257cf0a6f3ed7b4a1cbef3fb4c8c3be4c3b3f67e37246fa8149",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\052f808334d9c257cf0a6f3ed7b4a1cbef3fb4c8c3be4c3b3f67e37246fa8149.bin",
+      "updated_at": "2026-10-25T07:19:57.958618+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1369174",
+          "wikidata_property": "P154",
+          "filename": "Sega NAOMI logo.png",
+          "url": "https://commons.wikimedia.org/wiki/File:Sega_NAOMI_logo.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sega_NAOMI_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Sega",
+          "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sega\" class=\"extiw\" title=\"w:en:Sega\"><span title=\"Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings\">Sega</span></a></bdi>",
+          "credit": "https://logos.fandom.com/wiki/Sega_NAOMI",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Sega_NAOMI_logo.png#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "0430bc5d2855261aac91d9d85e18e5c2197ef178",
+          "commons_timestamp": "2021-04-14T23:21:37Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

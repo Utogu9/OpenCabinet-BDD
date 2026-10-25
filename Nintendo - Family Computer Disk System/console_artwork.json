@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "Nintendo - Family Computer Disk System",
+  "images": {
+    "logo": {
+      "sha256": "c5feb64265eb03fc9c794bec46c3ed4fe5e00c55bec7bd12b5662501bff09a9f",
+      "bytes": 2274,
+      "width": 596,
+      "height": 161,
+      "alpha": true,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": true,
+        "reason": "smallest_webp",
+        "quality": 100,
+        "candidate_bytes": {
+          "lossless": 2274,
+          "lossy90": 8828
+        }
+      },
+      "filename": "db0b8d0bd5d74839f614abfb5b9619ceac945b3b.png",
+      "source_sha256": "656fa86cc10b24b0459c9cdb09cb072e047178b7ebc7ff9df70c0a7a37b69f2d",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\656fa86cc10b24b0459c9cdb09cb072e047178b7ebc7ff9df70c0a7a37b69f2d.bin",
+      "updated_at": "2026-10-25T07:19:55.522780+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q135321",
+          "wikidata_property": "P154",
+          "filename": "Family Computer Disk System logo.png",
+          "url": "https://commons.wikimedia.org/wiki/File:Family_Computer_Disk_System_logo.png",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Family_Computer_Disk_System_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Nintendo",
+          "author_html": "Nintendo",
+          "credit": "https://emulator.games/roms/nintendo-famicom-disk-system/bios-family-computer-disk-system-rev-1/",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Family_Computer_Disk_System_logo.png#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "db0b8d0bd5d74839f614abfb5b9619ceac945b3b",
+          "commons_timestamp": "2018-09-16T05:23:51Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

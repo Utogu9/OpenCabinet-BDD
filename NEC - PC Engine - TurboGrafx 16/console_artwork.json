@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "system": "NEC - PC Engine - TurboGrafx 16",
+  "images": {
+    "logo": {
+      "sha256": "affe25c791f670d7fafe9994dc43ac31b6f20ccce2ddce500e75f9ed8246cb0b",
+      "bytes": 22692,
+      "width": 200,
+      "height": 286,
+      "alpha": false,
+      "compression": {
+        "policy": "smallest-lossless-or-lossy90-v2",
+        "lossless": false,
+        "reason": "smallest_webp",
+        "quality": 90,
+        "candidate_bytes": {
+          "lossless": 77212,
+          "lossy90": 22692
+        }
+      },
+      "filename": "d9d2bb7f2104f2d4e255e8b9c251ca41ebf971b7.jpg",
+      "source_sha256": "924a26f29eda41e05cf8a5929bb29f43f6240a3c231095630c2172999aaea0e7",
+      "path": "logo.webp",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\924a26f29eda41e05cf8a5929bb29f43f6240a3c231095630c2172999aaea0e7.bin",
+      "updated_at": "2026-10-25T07:19:55.455904+00:00",
+      "manual": false,
+      "format": "WEBP",
+      "extension": "webp",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1057377",
+          "wikidata_property": "P154",
+          "filename": "TurboGrafx16logo.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:TurboGrafx16logo.jpg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/TurboGrafx16logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Hudson Soft, NEC",
+          "author_html": "Hudson Soft, NEC",
+          "credit": "http://retroshop.pt/",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:TurboGrafx16logo.jpg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "d9d2bb7f2104f2d4e255e8b9c251ca41ebf971b7",
+          "commons_timestamp": "2019-05-19T18:00:26Z",
+          "changes": "Converted from the original raster image to WebP."
+        }
+      ]
+    }
+  }
+}

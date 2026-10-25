@@ -1081,5 +1081,173 @@
         "BSMC-ZX3J-JPN"
       ]
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Satellaview",
+      "es": "Satellaview"
+    },
+    "short_descriptions": {
+      "es": "periférico para la consola Super Famicom",
+      "en": "add-on for the video game console Super Famicom"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1995-04-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1193565$96927049-4239-e7dc-5565-e65739b828d1",
+          "rank": "normal",
+          "source": "wikidata:Q1193565"
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 2668532,
+            "id": "Q2668532"
+          },
+          "statement_id": "Q1193565$136915A8-E1A8-4130-BD24-04DC98CC4B88",
+          "rank": "normal",
+          "source": "wikidata:Q1193565",
+          "labels": {
+            "en": "Nintendo Research & Development 2",
+            "es": "Nintendo Research & Development 2"
+          },
+          "references": [
+            {
+              "hash": "feb19d8818b2bbb78cd571345b8d3fae154d47b9",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "ee646942f5236262e46a66b6615e035ccad1c4e0",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Satellaview&oldid=880984033",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 8093,
+            "id": "Q8093"
+          },
+          "statement_id": "Q1193565$77223CD6-B38C-49AC-911B-7A1F7923FE86",
+          "rank": "normal",
+          "source": "wikidata:Q1193565",
+          "labels": {
+            "en": "Nintendo",
+            "mul": "Nintendo"
+          },
+          "references": [
+            {
+              "hash": "feb19d8818b2bbb78cd571345b8d3fae154d47b9",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "ee646942f5236262e46a66b6615e035ccad1c4e0",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Satellaview&oldid=880984033",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1193565",
+        "source_url": "https://www.wikidata.org/wiki/Q1193565",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2522367884,
+        "modified": "2026-07-25T03:16:18Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "es",
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }

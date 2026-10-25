@@ -20,5 +20,212 @@
     "webp": "1.6.0"
   },
   "status": "complete",
-  "games": {}
+  "games": {},
+  "console_metadata": {
+    "labels": {
+      "en": "Sharp X68000",
+      "es": "Sharp X68000"
+    },
+    "short_descriptions": {
+      "en": "Japanese home computer created by Sharp Corporation"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1987-00-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 9,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q1758277$93c7cb83-44f8-c49d-9229-8736964ca45e",
+          "rank": "normal",
+          "source": "wikidata:Q1758277",
+          "references": [
+            {
+              "hash": "c48d1d14871ba423aa3ccb5d78d1ae563773338e",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 206855,
+                        "id": "Q206855"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "8abfbde81c03c2341862325220259ded400eb893",
+                    "datavalue": {
+                      "value": "https://ru.wikipedia.org/?oldid=122950869",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 53227,
+            "id": "Q53227"
+          },
+          "statement_id": "Q1758277$D4A70F3E-6B14-483D-AF25-8A3F29AC9B8D",
+          "rank": "normal",
+          "source": "wikidata:Q1758277",
+          "labels": {
+            "en": "Sharp Corporation",
+            "es": "Sharp Corporation",
+            "mul": "Sharp Corporation"
+          },
+          "references": [
+            {
+              "hash": "c0c79cf770411db68cbfa22c640c776381a418ba",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "3f92e993f0de506d48994c68a4e4daaf71422dae",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=X68000&oldid=857439822",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 53227,
+            "id": "Q53227"
+          },
+          "statement_id": "Q1758277$28410093-EDE1-4AC9-92DE-C434F27AB081",
+          "rank": "normal",
+          "source": "wikidata:Q1758277",
+          "labels": {
+            "en": "Sharp Corporation",
+            "es": "Sharp Corporation",
+            "mul": "Sharp Corporation"
+          },
+          "references": [
+            {
+              "hash": "c0c79cf770411db68cbfa22c640c776381a418ba",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "3f92e993f0de506d48994c68a4e4daaf71422dae",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=X68000&oldid=857439822",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q1758277",
+        "source_url": "https://www.wikidata.org/wiki/Q1758277",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2548288951,
+        "modified": "2026-09-22T04:19:29Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es"
+          ],
+          "short_descriptions": [
+            "en"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
+  }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "system": "SNK - Neo Geo Pocket Color",
+  "images": {
+    "logo": {
+      "sha256": "d5db69133f7e27cd7fc355ad4bd91fb11b9fffd027379091a705fe11745cb021",
+      "bytes": 20094,
+      "width": 1028,
+      "height": 293,
+      "alpha": true,
+      "compression": {
+        "policy": "original-svg-v1",
+        "lossless": true,
+        "candidate_bytes": {
+          "original_svg": 20094
+        }
+      },
+      "filename": "df1dbfe51698870b1c8e30e272fd32bcc487ee43.svg",
+      "source_sha256": "d5db69133f7e27cd7fc355ad4bd91fb11b9fffd027379091a705fe11745cb021",
+      "path": "logo.svg",
+      "kind": "logo",
+      "original_blob": "manual\\blobs\\d5db69133f7e27cd7fc355ad4bd91fb11b9fffd027379091a705fe11745cb021.bin",
+      "updated_at": "2026-10-25T07:19:57.601696+00:00",
+      "manual": false,
+      "format": "SVG",
+      "extension": "svg",
+      "sources": [
+        {
+          "provider": "Wikimedia Commons",
+          "wikidata_id": "Q1977455",
+          "wikidata_property": "P154",
+          "filename": "Neo Geo Pocket Color logo.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Neo_Geo_Pocket_Color_logo.svg",
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Neo_Geo_Pocket_Color_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Namcokid47",
+          "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Namcokid47\" title=\"User:Namcokid47\">Namcokid47</a>",
+          "credit": "SNK Corporation",
+          "license": "Public domain",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Neo_Geo_Pocket_Color_logo.svg#Licensing",
+          "attribution_required": false,
+          "restrictions": "trademarked",
+          "commons_sha1": "df1dbfe51698870b1c8e30e272fd32bcc487ee43",
+          "commons_timestamp": "2020-02-10T03:48:11Z",
+          "changes": "Original SVG, unchanged."
+        }
+      ]
+    }
+  }
+}

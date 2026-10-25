@@ -14150,5 +14150,264 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
+  },
+  "console_metadata": {
+    "labels": {
+      "en": "Magnavox Odyssey 2",
+      "es": "Magnavox Odyssey²",
+      "mul": "Magnavox Odyssey 2"
+    },
+    "short_descriptions": {
+      "en": "home video game console developed by Philips",
+      "es": "videoconsola"
+    },
+    "fields": {
+      "release_date": [
+        {
+          "value": {
+            "time": "+1978-12-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q576932$92ac6585-47d4-b95f-07a2-85cf0fa3ff6c",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "6cffd53ff83a52a767610219715b55d44f0c1e08",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1037632,
+                    "id": "Q1037632"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1979-02-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q576932$5f962e7f-459c-c0db-78bd-8892afb48d2b",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49,
+                    "id": "Q49"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1982-09-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q576932$ab73313b-4947-df0a-f1c3-4d6abd746900",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17,
+                    "id": "Q17"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        },
+        {
+          "value": {
+            "time": "+1983-05-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement_id": "Q576932$f9a7765a-4a88-be86-5b1f-d0ea10e50ec5",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "qualifiers": {
+            "P291": [
+              {
+                "snaktype": "value",
+                "property": "P291",
+                "hash": "bafc41101c1ee80bdc4f74950906cad234407fb7",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          }
+        }
+      ],
+      "developer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 630670,
+            "id": "Q630670"
+          },
+          "statement_id": "Q576932$5B486322-352A-4872-89B8-8EFA1EA40827",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "labels": {
+            "en": "Magnavox",
+            "es": "Magnavox",
+            "mul": "Magnavox"
+          },
+          "references": [
+            {
+              "hash": "c361b49bbc1cd4a3defae802433f1ad1cd3d68d8",
+              "snaks": {
+                "P143": [
+                  {
+                    "snaktype": "value",
+                    "property": "P143",
+                    "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                    "datavalue": {
+                      "value": {
+                        "entity-type": "item",
+                        "numeric-id": 328,
+                        "id": "Q328"
+                      },
+                      "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                  }
+                ],
+                "P4656": [
+                  {
+                    "snaktype": "value",
+                    "property": "P4656",
+                    "hash": "6f2c55530e569180453079b0bd4348f685b67cda",
+                    "datavalue": {
+                      "value": "https://en.wikipedia.org/w/index.php?title=Magnavox_Odyssey²&oldid=940219488",
+                      "type": "string"
+                    },
+                    "datatype": "url"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P143",
+                "P4656"
+              ]
+            }
+          ]
+        }
+      ],
+      "manufacturer": [
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 630670,
+            "id": "Q630670"
+          },
+          "statement_id": "q576932$42fd7757-40e2-25dc-83ff-94bdb8f9400f",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "labels": {
+            "en": "Magnavox",
+            "es": "Magnavox",
+            "mul": "Magnavox"
+          }
+        },
+        {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 170416,
+            "id": "Q170416"
+          },
+          "statement_id": "q576932$3e93fdd0-468f-17d3-61d6-449466741ea0",
+          "rank": "normal",
+          "source": "wikidata:Q576932",
+          "labels": {
+            "en": "Koninklijke Philips NV",
+            "es": "Philips",
+            "mul": "Koninklijke Philips Electronics N.V."
+          }
+        }
+      ]
+    },
+    "sources": {
+      "wikidata": {
+        "wikidata_id": "Q576932",
+        "source_url": "https://www.wikidata.org/wiki/Q576932",
+        "license": "CC0-1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "revision": 2548990958,
+        "modified": "2026-09-24T09:30:56Z",
+        "downloaded_at": "2026-10-25T06:58:01.983466+00:00",
+        "properties": {
+          "release_date": "P577",
+          "developer": "P178",
+          "manufacturer": "P176"
+        },
+        "imported_keys": {
+          "labels": [
+            "en",
+            "es",
+            "mul"
+          ],
+          "short_descriptions": [
+            "en",
+            "es"
+          ],
+          "fields": [
+            "release_date",
+            "developer",
+            "manufacturer"
+          ]
+        }
+      }
+    }
   }
 }
