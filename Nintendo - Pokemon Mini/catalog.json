@@ -6143,7 +6143,8 @@
       },
       "serial_identifiers": [
         "MSTP"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11339091"
     },
     "MTAJ": {
       "serial": "MTAJ",
@@ -6638,6 +6639,245 @@
       "serial_identifiers": [
         "MZ2J"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q11339091": {
+      "wikidata_id": "Q11339091",
+      "source_url": "https://www.wikidata.org/wiki/Q11339091",
+      "revision": 2547508828,
+      "modified": "2026-09-18T17:31:19Z",
+      "cached_at": "2026-10-25T05:39:30.187190+00:00",
+      "entity_sha256": "acbe54aac6155bf8a8ea6b2058453bfbaa9c4fba6515bfe9c921c1e0efa25364",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Pokémon Tetris",
+        "mul": "Pokémon Tetris"
+      },
+      "short_descriptions": {
+        "en": "2002 video game",
+        "es": "videojuego de 2002"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q11339091$A60CF50E-C523-4A20-BB06-50E9B9850FA3",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "qualifiers": {
+              "P1683": [
+                {
+                  "snaktype": "value",
+                  "property": "P1683",
+                  "hash": "64ed2a1d0f20a9dc37be0c230f625b7994e057ad",
+                  "datavalue": {
+                    "value": {
+                      "text": "The Pokémon Mini (officially stylized as Pokémon mini) is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokémon media franchise.",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a13153b7610aa0046c35bce635aa1c52aed38e6e",
+                "snaks": {
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "68a99ad550b080b963bba1841422a6e4077a0a5f",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Tetris",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q11339091$C190288B-29B1-44A7-B08C-51B06BAE5816",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 54767,
+              "id": "Q54767"
+            },
+            "statement_id": "Q11339091$47CDF3EC-5578-47E9-83E8-FEEB760D51BD",
+            "rank": "normal",
+            "labels": {
+              "en": "puzzle video game",
+              "es": "videojuego de lógica"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q11339091$F1821678-4B32-46D0-A76B-86EB00DD95AC",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+2002-03-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q11339091$5968aad5-48b4-48db-694d-b305d9c0029f",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1759168,
+              "id": "Q1759168"
+            },
+            "statement_id": "Q11339091$cc8042e8-4d03-b6b7-d3bb-4851025d420b",
+            "rank": "normal",
+            "labels": {
+              "en": "Pokémon Mini",
+              "es": "Pokémon mini"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

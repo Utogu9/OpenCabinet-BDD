@@ -322,7 +322,8 @@
       },
       "serial_identifiers": [
         "VGPJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3090756"
     },
     "VH2E": {
       "serial": "VH2E",
@@ -500,7 +501,8 @@
       },
       "serial_identifiers": [
         "VH2E"
-      ]
+      ],
+      "metadata_id": "wikidata:Q17222394"
     },
     "VH2J": {
       "serial": "VH2J",
@@ -868,7 +870,8 @@
       },
       "serial_identifiers": [
         "VH3E"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3285995"
     },
     "VH3J": {
       "serial": "VH3J",
@@ -1046,7 +1049,8 @@
       },
       "serial_identifiers": [
         "VH3J"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3285995"
     },
     "VIMJ": {
       "serial": "VIMJ",
@@ -1185,7 +1189,8 @@
       },
       "serial_identifiers": [
         "VIMJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3151583"
     },
     "VJBE": {
       "serial": "VJBE",
@@ -1363,7 +1368,8 @@
       },
       "serial_identifiers": [
         "VJBE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q903406"
     },
     "VJBJ": {
       "serial": "VJBJ",
@@ -1692,7 +1698,8 @@
       },
       "serial_identifiers": [
         "VJVJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2745920"
     },
     "VMCJ": {
       "serial": "VMCJ",
@@ -1987,7 +1994,8 @@
       },
       "serial_identifiers": [
         "VMCJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2215664"
     },
     "VMTJ": {
       "serial": "VMTJ",
@@ -2282,7 +2290,8 @@
       },
       "serial_identifiers": [
         "VMTJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2698314"
     },
     "VNFE": {
       "serial": "VNFE",
@@ -2460,7 +2469,8 @@
       },
       "serial_identifiers": [
         "VNFE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3284748"
     },
     "VPBE": {
       "serial": "VPBE",
@@ -2828,7 +2838,8 @@
       },
       "serial_identifiers": [
         "VREE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3284225"
     },
     "VREJ": {
       "serial": "VREJ",
@@ -3006,7 +3017,8 @@
       },
       "serial_identifiers": [
         "VREJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3284225"
     },
     "VSDJ": {
       "serial": "VSDJ",
@@ -3184,7 +3196,8 @@
       },
       "serial_identifiers": [
         "VSDJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3280765"
     },
     "VSPJ": {
       "serial": "VSPJ",
@@ -3323,7 +3336,8 @@
       },
       "serial_identifiers": [
         "VSPJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q10373619"
     },
     "VSSJ": {
       "serial": "VSSJ",
@@ -3501,7 +3515,8 @@
       },
       "serial_identifiers": [
         "VSSJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q764619"
     },
     "VTBJ": {
       "serial": "VTBJ",
@@ -3796,7 +3811,8 @@
       },
       "serial_identifiers": [
         "VTBJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3284969"
     },
     "VTRJ": {
       "serial": "VTRJ",
@@ -4242,7 +4258,8 @@
       },
       "serial_identifiers": [
         "VVBJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3281358"
     },
     "VVFJ": {
       "serial": "VVFJ",
@@ -4381,7 +4398,8 @@
       },
       "serial_identifiers": [
         "VVFJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3281170"
     },
     "VVGE": {
       "serial": "VVGE",
@@ -4559,7 +4577,8 @@
       },
       "serial_identifiers": [
         "VVGE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3110156"
     },
     "VVGJ": {
       "serial": "VVGJ",
@@ -4749,7 +4768,8 @@
       },
       "serial_identifiers": [
         "VVGJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3110156"
     },
     "VVPE": {
       "serial": "VVPE",
@@ -4927,7 +4947,8 @@
       },
       "serial_identifiers": [
         "VVPE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2741636"
     },
     "VVPJ": {
       "serial": "VVPJ",
@@ -5373,7 +5394,8 @@
       },
       "serial_identifiers": [
         "VWCJ"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2212108"
     },
     "VWEE": {
       "serial": "VWEE",
@@ -5512,7 +5534,4150 @@
       },
       "serial_identifiers": [
         "VWEE"
-      ]
+      ],
+      "metadata_id": "wikidata:Q140157483"
+    }
+  },
+  "metadata": {
+    "wikidata:Q3090756": {
+      "wikidata_id": "Q3090756",
+      "source_url": "https://www.wikidata.org/wiki/Q3090756",
+      "revision": 2547484548,
+      "modified": "2026-09-18T16:04:39Z",
+      "cached_at": "2026-10-25T05:35:19.861124+00:00",
+      "entity_sha256": "115314c2d53fbd09624fa0c851f96d652b7fead64c5d49aa96c60a237cd05c9d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Galactic Pinball",
+        "es": "Galactic Pinball",
+        "mul": "Galactic Pinball"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 150001,
+              "id": "Q150001"
+            },
+            "statement_id": "Q3090756$16350E9A-83E3-4C03-94C2-1BA96D253094",
+            "rank": "normal",
+            "labels": {
+              "en": "Intelligent Systems",
+              "es": "Intelligent Systems",
+              "mul": "Intelligent Systems"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3090756$FD6FFB5C-6AFA-4EBD-9008-4392737BE92D",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3177954,
+              "id": "Q3177954"
+            },
+            "statement_id": "q3090756$3C18EBEF-259B-4C78-AFE1-B33B64FEA66B",
+            "rank": "normal",
+            "labels": {
+              "en": "pinball video game"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3090756$B35B6040-D6E7-4CA4-81BE-D52BF91C5BF7",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-07-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3090756$0A53F7C2-C8B9-4B9B-B41F-88C39ECDDC25",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1995-08-14T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3090756$4e5d7ab2-4a2a-09d3-9fcf-3d894baf581b",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "93c986254392ae2e30c520c9a333479f563f11f7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49,
+                      "id": "Q49"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3090756$E078FC3C-B91A-4518-92BD-E53BA20F9F98",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q17222394": {
+      "wikidata_id": "Q17222394",
+      "source_url": "https://www.wikidata.org/wiki/Q17222394",
+      "revision": 2559195510,
+      "modified": "2026-10-20T11:27:05Z",
+      "cached_at": "2026-10-25T05:40:26.041070+00:00",
+      "entity_sha256": "a137323dca1b548364bf3077f6606fae00b9fb798a5afeca8c56a9b0351c8e3f",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Panic Bomber",
+        "es": "Panic Bomber",
+        "mul": "Panic Bomber"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10308060,
+              "id": "Q10308060"
+            },
+            "statement_id": "Q17222394$25298eba-07e3-431c-b223-f721b7e831d5",
+            "rank": "normal",
+            "labels": {
+              "en": "falling block puzzle game"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 54767,
+              "id": "Q54767"
+            },
+            "statement_id": "Q17222394$8425D87C-E136-4E41-BFD7-4B175BB2D08B",
+            "rank": "normal",
+            "labels": {
+              "en": "puzzle video game",
+              "es": "videojuego de lógica"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q17222394$8C393AD9-F9EF-4268-97B0-22E65043EDE0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q17222394$9c4380e4-43d0-fcf1-a241-e667531e2384",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3285995": {
+      "wikidata_id": "Q3285995",
+      "source_url": "https://www.wikidata.org/wiki/Q3285995",
+      "revision": 2529316599,
+      "modified": "2026-08-09T18:59:27Z",
+      "cached_at": "2026-10-25T05:35:38.180873+00:00",
+      "entity_sha256": "d03b69b94c0f123b15e54e001bd03f809b3b87ff6a7bbcffddf130ade4f141c9",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Vertical Force",
+        "es": "Vertical Force",
+        "mul": "Vertical Force"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1049502,
+              "id": "Q1049502"
+            },
+            "statement_id": "Q3285995$CD626C4C-8BFC-4B0A-8344-DE4150B515FF",
+            "rank": "normal",
+            "labels": {
+              "en": "Hudson Soft",
+              "es": "Hudson Soft",
+              "mul": "Hudson Soft"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3285995$E7E636A7-131F-49A1-93CA-77721D33633C",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044478,
+              "id": "Q1044478"
+            },
+            "statement_id": "q3285995$425E9871-470F-4583-B3E7-9022E4278CBE",
+            "rank": "normal",
+            "labels": {
+              "en": "shoot 'em up",
+              "es": "shoot 'em up",
+              "mul": "shoot 'em up"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3285995$3D6520AC-B438-416A-9088-96840486601A",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-08-12T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3285995$0EC9EE40-766D-4094-88B4-EC4FDA7EB559",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3285995$20D41DA5-B526-482E-AAFF-89386E47D21B",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3151583": {
+      "wikidata_id": "Q3151583",
+      "source_url": "https://www.wikidata.org/wiki/Q3151583",
+      "revision": 2525953868,
+      "modified": "2026-08-02T01:24:51Z",
+      "cached_at": "2026-10-25T05:35:24.487457+00:00",
+      "entity_sha256": "bf360f01bfbc16cd4903553fb8820854d06c93fb583902e6464d75614bdea2b4",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Innsmouth no Yakata",
+        "mul": "Innsmouth no Yakata"
+      },
+      "short_descriptions": {
+        "en": "1995 horror video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 185029,
+              "id": "Q185029"
+            },
+            "statement_id": "q3151583$ADBB9032-71C1-4AD7-BF4C-A092D7A406D5",
+            "rank": "normal",
+            "labels": {
+              "en": "first-person shooter",
+              "es": "disparos en primera persona"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11338014,
+              "id": "Q11338014"
+            },
+            "statement_id": "Q3151583$efdb4ab2-4dab-17ee-b363-13921e2bc7ba",
+            "rank": "normal",
+            "labels": {
+              "en": "horror video game",
+              "es": "videojuego de terror"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3151583$7B52D464-000E-495D-8C5B-291DC420AD6A",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-10-13T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3151583$2abca42c-4db2-8942-b6f2-5f10e6245c41",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3151583$C1009122-0AB2-4458-A1F0-74C38F9FCEF3",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "qualifiers": {
+              "P1683": [
+                {
+                  "snaktype": "value",
+                  "property": "P1683",
+                  "hash": "89edf2f98ef4ed88d898a6f40a6ff3f802df2b63",
+                  "datavalue": {
+                    "value": {
+                      "text": "Akin to all other Virtual Boy games, it uses a red-and-black color scheme and projects two slightly different images in each eye hole to simulate depth.",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "9072cb4aacd325d0b26f265630a0ad6eccd16e6f",
+                "snaks": {
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "c7c3fc450b5b45e3fe766d48f7a0b9f331744f3f",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/wiki/Innsmouth_no_Yakata",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q903406": {
+      "wikidata_id": "Q903406",
+      "source_url": "https://www.wikidata.org/wiki/Q903406",
+      "revision": 2559195870,
+      "modified": "2026-10-20T11:28:04Z",
+      "cached_at": "2026-10-25T05:32:46.684135+00:00",
+      "entity_sha256": "08050e04d0e3fa93e764ab3f7a576e24a26cf8391f993b668640052367a3d5f2",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Jack Bros.",
+        "es": "Jack Bros.",
+        "mul": "Jack Bros."
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 780528,
+              "id": "Q780528"
+            },
+            "statement_id": "Q903406$654B4CBB-511F-4C04-9874-429104B8F92C",
+            "rank": "normal",
+            "labels": {
+              "mul": "Atlus"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 780528,
+              "id": "Q780528"
+            },
+            "statement_id": "Q903406$DF5FC327-F4B8-4BEC-B8BE-4BDE2E12CE6A",
+            "rank": "normal",
+            "labels": {
+              "mul": "Atlus"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 270948,
+              "id": "Q270948"
+            },
+            "statement_id": "q903406$6CC3937B-4FFF-4AC3-B9FE-C1FF07CE47D7",
+            "rank": "normal",
+            "labels": {
+              "en": "action game",
+              "es": "videojuego de acción"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 105702814,
+              "id": "Q105702814"
+            },
+            "statement_id": "Q903406$1637C82B-9495-4647-B7A6-4510FFD8E1EC",
+            "rank": "normal",
+            "labels": {
+              "en": "halloween video game"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q903406$EF291825-587B-4D9C-9DCC-4F7E2E324ED6",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-09-29T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q903406$3AEE49F0-5BBB-4185-9AA9-84DBC7B3D9DD",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q903406$5274387F-1CA2-407C-94BE-FD88E0FD5238",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2745920": {
+      "wikidata_id": "Q2745920",
+      "source_url": "https://www.wikidata.org/wiki/Q2745920",
+      "revision": 2558051163,
+      "modified": "2026-10-17T18:06:42Z",
+      "cached_at": "2026-10-25T05:34:53.897116+00:00",
+      "entity_sha256": "cefcd8694a0e0944819b3fc840aec4cd8ee1547938fb9c9ffc07972c4a67ad3b",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Virtual Lab",
+        "es": "Virtual Lab",
+        "mul": "Virtual Lab"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 54767,
+              "id": "Q54767"
+            },
+            "statement_id": "q2745920$4E8ECC87-3FA4-41D9-82D9-AB143A81C851",
+            "rank": "normal",
+            "labels": {
+              "en": "puzzle video game",
+              "es": "videojuego de lógica"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2745920$7A9507A0-27CD-4AC1-92F6-2671DBB05112",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-12-08T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2745920$0508B3FA-09BA-40FB-B884-8A561FFBC3D8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q2745920$1442F544-206F-43FF-B9A1-3D3B41CD9CF6",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2215664": {
+      "wikidata_id": "Q2215664",
+      "source_url": "https://www.wikidata.org/wiki/Q2215664",
+      "revision": 2557254566,
+      "modified": "2026-10-15T09:54:53Z",
+      "cached_at": "2026-10-25T05:34:06.500214+00:00",
+      "entity_sha256": "25189dcd2b2c452c77e1f899eeea74a0072c995c9af1b6edbae13cbd1f39ec45",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Mario Clash",
+        "es": "Mario Clash",
+        "mul": "Mario Clash"
+      },
+      "short_descriptions": {
+        "en": "1995 video game released by Nintendo for the virtual boy",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2633052,
+              "id": "Q2633052"
+            },
+            "statement_id": "Q2215664$3E7D59AC-5336-4260-82EE-FB9F5C8DCAA1",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Research & Development 1",
+              "es": "Nintendo Research & Development 1",
+              "mul": "Nintendo Research & Development 1"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q2215664$3B17BE53-80F9-45C9-AA7C-4495FD8E1E07",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q2215664$436005D8-0FC2-4FAE-A22D-39DF83E67F74",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 270948,
+              "id": "Q270948"
+            },
+            "statement_id": "q2215664$B638C05D-68DC-4677-AEE3-CC9F50885749",
+            "rank": "normal",
+            "labels": {
+              "en": "action game",
+              "es": "videojuego de acción"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2215664$C36CE86E-6330-4AF7-B54F-3C6AB8F23E2A",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-09-28T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2215664$B03DBCBD-FF59-480F-B30F-F4D926160618",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q2215664$2087FA87-8C24-4C6A-A286-2D843BD8E2C9",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2698314": {
+      "wikidata_id": "Q2698314",
+      "source_url": "https://www.wikidata.org/wiki/Q2698314",
+      "revision": 2555522002,
+      "modified": "2026-10-10T06:25:52Z",
+      "cached_at": "2026-10-25T05:34:45.271833+00:00",
+      "entity_sha256": "1c0fd16d73fbe275e282a682a163ddae510087dbab97ee03842b14d4abf5a1ed",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Mario's Tennis",
+        "es": "Mario's Tennis",
+        "mul": "Mario's Tennis"
+      },
+      "short_descriptions": {
+        "en": "1995 sports game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2633052,
+              "id": "Q2633052"
+            },
+            "statement_id": "Q2698314$F3A15739-3776-4257-910F-B09C9B2AE76A",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Research & Development 1",
+              "es": "Nintendo Research & Development 1",
+              "mul": "Nintendo Research & Development 1"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q2698314$830654AA-24C6-4456-92F2-528466934FB3",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 61793886,
+              "id": "Q61793886"
+            },
+            "statement_id": "q2698314$9ADAE0CC-B30A-4420-B7AF-0B1C4473B75D",
+            "rank": "normal",
+            "labels": {
+              "en": "tennis video game"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2698314$667A817E-1239-429B-AD7C-9759317160C7",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-07-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2698314$9389A9B1-A0CC-4B20-A688-7A6A62DD1FE4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q2698314$B24821FF-E9D9-4473-8649-EECE3F4F945F",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3284748": {
+      "wikidata_id": "Q3284748",
+      "source_url": "https://www.wikidata.org/wiki/Q3284748",
+      "revision": 2549452094,
+      "modified": "2026-09-26T00:27:57Z",
+      "cached_at": "2026-10-25T05:35:38.176829+00:00",
+      "entity_sha256": "3023fbc3c82f7a7ad9e9d084929f0290613f455c86bdce3a5422d38486c7c828",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Nester's Funky Bowling",
+        "es": "Nester's Funky Bowling",
+        "mul": "Nester's Funky Bowling"
+      },
+      "short_descriptions": {
+        "en": "1996 video game",
+        "es": "videojuego de 1996"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3877245,
+              "id": "Q3877245"
+            },
+            "statement_id": "Q3284748$9EB797BF-8B85-437B-8860-12FD93001026",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Integrated Research & Development",
+              "es": "Nintendo Integrated Research & Development"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3284748$3BED0C7A-FDAA-49A0-AD84-28D5373684BA",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 868217,
+              "id": "Q868217"
+            },
+            "statement_id": "q3284748$EC79F36B-1D3E-4EFA-B5AA-B14277A000D9",
+            "rank": "normal",
+            "labels": {
+              "en": "sports video game",
+              "es": "videojuego de deportes"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "q3284748$E7D5DC95-7E15-4EB1-AF90-9B72D2FFD9C0",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3284748$51DB9753-BD32-4EBB-B073-2E522D97C284",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1996-02-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3284748$38CD2FB9-12F1-49CD-AEA5-9E2CA2B28350",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3284748$53DA0A69-7105-495F-9877-B8374266E16A",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3284225": {
+      "wikidata_id": "Q3284225",
+      "source_url": "https://www.wikidata.org/wiki/Q3284225",
+      "revision": 2540369049,
+      "modified": "2026-09-05T05:13:43Z",
+      "cached_at": "2026-10-25T05:35:36.799355+00:00",
+      "entity_sha256": "7bc866ab40c2e0f3c7d07aa6a12b84bd64f527c0f28dbc540732fcd378c23967",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Red Alarm",
+        "es": "Red Alarm",
+        "mul": "Red Alarm"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3030624,
+              "id": "Q3030624"
+            },
+            "statement_id": "Q3284225$135DEEED-0111-4955-814D-B9442DED7A28",
+            "rank": "normal",
+            "labels": {
+              "mul": "D Wonderland Inc."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3284225$55EDC3ED-045C-482D-97E1-9A6A5C69E578",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044478,
+              "id": "Q1044478"
+            },
+            "statement_id": "q3284225$1B1BB1B8-F3C1-4B62-B7CE-A6C75FB56CC8",
+            "rank": "normal",
+            "labels": {
+              "en": "shoot 'em up",
+              "es": "shoot 'em up",
+              "mul": "shoot 'em up"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3284225$7DDE615A-2915-463A-A9D4-E4136D1405D6",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-08-14T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3284225$78F8836E-0669-4B11-91DC-A1F00DDB6380",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3284225$61C8A7B3-51D7-4D6E-961A-B2846235CAA7",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3280765": {
+      "wikidata_id": "Q3280765",
+      "source_url": "https://www.wikidata.org/wiki/Q3280765",
+      "revision": 2518459174,
+      "modified": "2026-07-17T04:00:11Z",
+      "cached_at": "2026-10-25T05:35:33.951322+00:00",
+      "entity_sha256": "86d9264e1367faedaae3a6eae57cbd50ebcaaa797f6d0e6c4e2c3afef083fbb9",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "SD Gundam Dimension War",
+        "es": "SD Gundam: Dimension War",
+        "mul": "SD Gundam Dimension War"
+      },
+      "short_descriptions": {
+        "en": "1995 tactical role-playing video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3280765$CC7A0884-5714-41FD-AAC2-2949F93A0D02",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507269,
+              "id": "Q507269"
+            },
+            "statement_id": "Q3280765$7AFC0319-7339-4E4F-A893-524A401E836D",
+            "rank": "normal",
+            "labels": {
+              "en": "Bandai",
+              "es": "Bandai"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2176159,
+              "id": "Q2176159"
+            },
+            "statement_id": "q3280765$094395C7-C33A-4740-8ACC-4FE7E7A8C6B8",
+            "rank": "normal",
+            "labels": {
+              "en": "turn-based strategy video game",
+              "es": "videojuego de estrategia por turnos"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1529437,
+              "id": "Q1529437"
+            },
+            "statement_id": "Q3280765$9556F260-ACEE-4850-ABDF-C1007D1C5B6C",
+            "rank": "normal",
+            "labels": {
+              "en": "tactical role-playing game",
+              "es": "videojuego de rol táctico"
+            },
+            "references": [
+              {
+                "hash": "cc7fa739be889d173c074ea17f81c3c09d589ea7",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "cc1e01984cafbbab5a4dbc14cea851187d56a8bb",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-10-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "a0e93ee3a77df1c6d5502ace7a59c84f34404e35",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=SD_Gundam_Dimension_War&oldid=1147413762",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3280765$ADB4136F-DF6E-4630-968B-57BFF4D3150E",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-12-22T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3280765$9bcbf7ec-4c4e-a636-1392-b9a01e9c0b57",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3280765$248305eb-4db2-4d06-a44c-04ecad4d6ec5",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q10373619": {
+      "wikidata_id": "Q10373619",
+      "source_url": "https://www.wikidata.org/wiki/Q10373619",
+      "revision": 2525954410,
+      "modified": "2026-08-02T01:26:35Z",
+      "cached_at": "2026-10-25T05:39:03.960640+00:00",
+      "entity_sha256": "7cddaddf76d5a91aa8967295e6f4d0102f7a99327f7a77fb58ae016ea42ccf82",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Space Invaders Virtual Collection",
+        "mul": "Space Invaders Virtual Collection"
+      },
+      "short_descriptions": {
+        "en": "1995 compilation video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96146284,
+              "id": "Q96146284"
+            },
+            "statement_id": "Q10373619$0898bcb4-831e-40e8-b7e9-5f5a7064883d",
+            "rank": "normal",
+            "labels": {
+              "en": "fixed shooter"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q10373619$5992ca26-4705-0cfe-8008-b03951e5c1aa",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q764619": {
+      "wikidata_id": "Q764619",
+      "source_url": "https://www.wikidata.org/wiki/Q764619",
+      "revision": 2547506366,
+      "modified": "2026-09-18T17:21:50Z",
+      "cached_at": "2026-10-25T05:32:34.840226+00:00",
+      "entity_sha256": "0463c66848cded78c0bc80c6adcd8fd1337205d64777db8efb7ee892f1598c3f",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Space Squash",
+        "es": "Space Squash",
+        "mul": "Space Squash"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11321455,
+              "id": "Q11321455"
+            },
+            "statement_id": "Q764619$CED0E9D1-AAA3-4290-B08C-6F466A747480",
+            "rank": "normal",
+            "labels": {
+              "en": "Tomcat System"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 868217,
+              "id": "Q868217"
+            },
+            "statement_id": "q764619$C6F15FBC-DE2D-474E-8216-F1CC2DBDA761",
+            "rank": "normal",
+            "labels": {
+              "en": "sports video game",
+              "es": "videojuego de deportes"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 121023939,
+              "id": "Q121023939"
+            },
+            "statement_id": "Q764619$7a480a3b-4bdf-1f6e-1033-a81e12a395d6",
+            "rank": "normal",
+            "labels": {
+              "en": "squash video game"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q764619$00C0B777-803D-4055-B603-3E2656AD4275",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q764619$61D1B2CB-BD5A-4B22-9266-EC6722C5F9C9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q764619$79b44b94-48ae-9429-1819-9ccaca09c304",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3284969": {
+      "wikidata_id": "Q3284969",
+      "source_url": "https://www.wikidata.org/wiki/Q3284969",
+      "revision": 2559195357,
+      "modified": "2026-10-20T11:26:44Z",
+      "cached_at": "2026-10-25T05:35:38.177873+00:00",
+      "entity_sha256": "6275051e970a97ede675cac7f875068a0182f4e08d2922393bfac03938e33338",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Teleroboxer",
+        "es": "Teleroboxer",
+        "mul": "Teleroboxer"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2633052,
+              "id": "Q2633052"
+            },
+            "statement_id": "Q3284969$98E4116F-C284-4BCA-8A09-8E7112322FE3",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Research & Development 1",
+              "es": "Nintendo Research & Development 1",
+              "mul": "Nintendo Research & Development 1"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3284969$85AABBF4-07DB-4502-8C94-98993E1414C5",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3177953,
+              "id": "Q3177953"
+            },
+            "statement_id": "q3284969$33D81A47-396D-4CFB-8EDF-7EEF1121EB88",
+            "rank": "normal",
+            "labels": {
+              "en": "boxing video game",
+              "es": "videojuego de boxeo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3284969$A93F5ADB-3ECF-4C73-9BA6-DEB85A053312",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-07-21T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3284969$7FB11FC8-ED63-43D3-96B3-903CBBB0775B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3284969$C67489F8-3592-4A19-9D57-0404141499CD",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3281358": {
+      "wikidata_id": "Q3281358",
+      "source_url": "https://www.wikidata.org/wiki/Q3281358",
+      "revision": 2518459211,
+      "modified": "2026-07-17T04:00:23Z",
+      "cached_at": "2026-10-25T05:35:35.530910+00:00",
+      "entity_sha256": "9935f8b4ed0ff663c82027342bc395152c6f7e90df4d4c2090120b4749889808",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Virtual Bowling",
+        "es": "Virtual Bowling",
+        "mul": "Virtual Bowling"
+      },
+      "short_descriptions": {
+        "en": "1995 video game for the Virtual Boy",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 868217,
+              "id": "Q868217"
+            },
+            "statement_id": "q3281358$A8AD0EDE-339F-4433-9160-42C3E1ACCC75",
+            "rank": "normal",
+            "labels": {
+              "en": "sports video game",
+              "es": "videojuego de deportes"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 61719251,
+              "id": "Q61719251"
+            },
+            "statement_id": "Q3281358$278bfb33-43e6-2882-fc99-90f93c92ae40",
+            "rank": "normal",
+            "labels": {
+              "en": "bowling video game"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3281358$427A6A0D-576C-403B-BEC6-E3B0C65A2DE8",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-12-22T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3281358$47f01f7b-46a1-d768-507c-8e834eee62b5",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3281358$fce969ac-40a7-2710-7f15-c432db02de87",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3281170": {
+      "wikidata_id": "Q3281170",
+      "source_url": "https://www.wikidata.org/wiki/Q3281170",
+      "revision": 2518459209,
+      "modified": "2026-07-17T04:00:22Z",
+      "cached_at": "2026-10-25T05:35:35.530910+00:00",
+      "entity_sha256": "8601ad844e2da353f7107e079775ef752a023b8178458f7371c36aa117eae011",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Virtual Fishing",
+        "es": "Virtual Fishing",
+        "mul": "Virtual Fishing"
+      },
+      "short_descriptions": {
+        "en": "1995 video game on virtual boy",
+        "es": "videojuego de 1995 sobre virtual boy"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2659812,
+              "id": "Q2659812"
+            },
+            "statement_id": "Q3281170$20C43C83-45BE-4A1F-A243-85F3FD12BBA6",
+            "rank": "normal",
+            "labels": {
+              "en": "Pack-In-Video",
+              "es": "Pack-In-Video"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2659812,
+              "id": "Q2659812"
+            },
+            "statement_id": "Q3281170$6ECD188C-6A55-40A0-A725-83F8F3398B71",
+            "rank": "normal",
+            "labels": {
+              "en": "Pack-In-Video",
+              "es": "Pack-In-Video"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16935625,
+              "id": "Q16935625"
+            },
+            "statement_id": "q3281170$8B3AA642-87DE-4057-BB32-2BCFDD661350",
+            "rank": "normal",
+            "labels": {
+              "en": "fishing video game",
+              "es": "Videojuego de pesca"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3281170$4FDF7769-2588-4F98-8756-61F73119B32F",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-10-06T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3281170$6691cfcd-440e-ac41-898d-35ff441a7ce1",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            }
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3281170$cdff4a0d-4050-6b14-7bab-c8b1c3bca3aa",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3110156": {
+      "wikidata_id": "Q3110156",
+      "source_url": "https://www.wikidata.org/wiki/Q3110156",
+      "revision": 2518459525,
+      "modified": "2026-07-17T04:01:11Z",
+      "cached_at": "2026-10-25T05:35:21.310098+00:00",
+      "entity_sha256": "3760f5f943c25073edc92e17d154fbbcbb947afff4c6007c58fcef8ee4f39194",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Golf",
+        "es": "Golf",
+        "mul": "Golf"
+      },
+      "short_descriptions": {
+        "en": "golf game for the Virtual Boy",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3030624,
+              "id": "Q3030624"
+            },
+            "statement_id": "Q3110156$73D7B931-36F6-44EF-BEBC-73D203A5D433",
+            "rank": "normal",
+            "labels": {
+              "mul": "D Wonderland Inc."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q3110156$9E062BA0-255A-476D-B28D-6A90816A740C",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 868217,
+              "id": "Q868217"
+            },
+            "statement_id": "q3110156$42AE8E4E-A43E-4334-83EE-4EB2A1E572F7",
+            "rank": "normal",
+            "labels": {
+              "en": "sports video game",
+              "es": "videojuego de deportes"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q3110156$BBDF6CB9-30A8-44AD-91EB-AC40267B24FF",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-08-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3110156$3169AE9C-F58A-4279-9CFC-4FBEBC6B419E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q3110156$AA385103-64D1-4A80-9B47-748C1FEA82B6",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2741636": {
+      "wikidata_id": "Q2741636",
+      "source_url": "https://www.wikidata.org/wiki/Q2741636",
+      "revision": 2559195653,
+      "modified": "2026-10-20T11:27:24Z",
+      "cached_at": "2026-10-25T05:34:52.293209+00:00",
+      "entity_sha256": "cb01283fb34388b4ec00175fb2c9fb176a75b137fa9c5fc25f46300c5d22e2c8",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Virtual League Baseball",
+        "mul": "Virtual League Baseball"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 174561,
+              "id": "Q174561"
+            },
+            "statement_id": "Q2741636$CB48C820-0A2F-468D-81D7-72F875129D06",
+            "rank": "normal",
+            "labels": {
+              "en": "Kemco",
+              "es": "Kemco"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 174561,
+              "id": "Q174561"
+            },
+            "statement_id": "Q2741636$13FF5C43-E123-4815-B27C-95C3BE47A358",
+            "rank": "normal",
+            "labels": {
+              "en": "Kemco",
+              "es": "Kemco"
+            },
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 62019045,
+              "id": "Q62019045"
+            },
+            "statement_id": "q2741636$26916597-34B9-4E1E-90BB-43D7F2C3DE63",
+            "rank": "normal",
+            "labels": {
+              "en": "baseball video game"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2741636$E99A9F44-FB5A-48C0-A3EC-804A94F172D0",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-09-11T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2741636$283EC5BB-673A-403E-9B76-BB995CDC5460",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q2741636$AE62110B-88C7-48DB-802F-3D95606B6451",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2212108": {
+      "wikidata_id": "Q2212108",
+      "source_url": "https://www.wikidata.org/wiki/Q2212108",
+      "revision": 2559196038,
+      "modified": "2026-10-20T11:28:24Z",
+      "cached_at": "2026-10-25T05:34:06.498217+00:00",
+      "entity_sha256": "1021a6da7ad0f046a34cd11e436f7634d3fe14a7705ec15e2a4f5cd15ad7ddc2",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Virtual Boy Wario Land",
+        "es": "Virtual Boy Wario Land",
+        "mul": "Virtual Boy Wario Land"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego de 1995"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2633052,
+              "id": "Q2633052"
+            },
+            "statement_id": "Q2212108$B566F9B4-33ED-4398-96E2-072AB5046232",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo Research & Development 1",
+              "es": "Nintendo Research & Development 1",
+              "mul": "Nintendo Research & Development 1"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8093,
+              "id": "Q8093"
+            },
+            "statement_id": "Q2212108$F4746EB9-127C-4790-AB88-49B50F4F7080",
+            "rank": "normal",
+            "labels": {
+              "en": "Nintendo",
+              "mul": "Nintendo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 828322,
+              "id": "Q828322"
+            },
+            "statement_id": "q2212108$EC2F6877-3495-451E-A49D-6C3B0C56580D",
+            "rank": "normal",
+            "labels": {
+              "en": "platform game",
+              "es": "videojuego de plataformas"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2212108$E314A08A-F492-47F7-876C-F958F8960C44",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-11-27T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2212108$D08FFF6C-63B8-4BE4-843D-9A41DD137D3F",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "d030038c836f9ed0d37c69cb8c389d689ebeb05a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 30,
+                      "id": "Q30"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "time": "+1995-12-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2212108$cae5f570-4659-ed4d-9b96-ce151935b474",
+            "rank": "normal",
+            "qualifiers": {
+              "P291": [
+                {
+                  "snaktype": "value",
+                  "property": "P291",
+                  "hash": "bb32394d31503e16b2eca63379d79b080de13059",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17,
+                      "id": "Q17"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q2212108$69C842A7-5D39-4449-9F3F-2868EC6460F7",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q140157483": {
+      "wikidata_id": "Q140157483",
+      "source_url": "https://www.wikidata.org/wiki/Q140157483",
+      "revision": 2539741094,
+      "modified": "2026-09-03T15:36:36Z",
+      "cached_at": "2026-10-25T05:47:12.381455+00:00",
+      "entity_sha256": "80d17d83adf3cb72bd06db4a8516bdcc1ef5ed74efc1f0098ca56687761e3e7d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Waterworld",
+        "mul": "Waterworld"
+      },
+      "short_descriptions": {
+        "en": "waterworld (VB 1995 video game)"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 164651,
+              "id": "Q164651"
+            },
+            "statement_id": "Q140157483$43c34e9d-48f1-9c81-ad2e-7edf9593b9e4",
+            "rank": "normal",
+            "labels": {
+              "en": "Virtual Boy",
+              "es": "Virtual Boy",
+              "mul": "Virtual Boy"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

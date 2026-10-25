@@ -18905,7 +18905,8 @@
       },
       "serial_identifiers": [
         "HCD5071"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11610960"
     },
     "HCD5076": {
       "serial": "HCD5076",
@@ -21729,7 +21730,8 @@
       },
       "serial_identifiers": [
         "HE CD2001"
-      ]
+      ],
+      "metadata_id": "wikidata:Q129567305"
     },
     "HE4002": {
       "serial": "HE4002",
@@ -39291,7 +39293,8 @@
       },
       "serial_identifiers": [
         "MRCD2002"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11315022"
     },
     "MRCD3003": {
       "serial": "MRCD3003",
@@ -39509,7 +39512,8 @@
       },
       "serial_identifiers": [
         "MRCD3003"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11315022"
     },
     "MWCD2001": {
       "serial": "MWCD2001",
@@ -49703,7 +49707,8 @@
       },
       "serial_identifiers": [
         "NSCD 1006"
-      ]
+      ],
+      "metadata_id": "wikidata:Q11281407"
     },
     "NSCD 2009": {
       "serial": "NSCD 2009",
@@ -53402,7 +53407,8 @@
       },
       "serial_identifiers": [
         "NXCD2012"
-      ]
+      ],
+      "metadata_id": "wikidata:Q128996032"
     },
     "NXCD2013": {
       "serial": "NXCD2013",
@@ -55894,7 +55900,8 @@
       },
       "serial_identifiers": [
         "NXCD3026"
-      ]
+      ],
+      "metadata_id": "wikidata:Q17218424"
     },
     "NXCD3027": {
       "serial": "NXCD3027",
@@ -66048,7 +66055,8 @@
       },
       "serial_identifiers": [
         "TGXCD1007"
-      ]
+      ],
+      "metadata_id": "wikidata:Q55616596"
     },
     "TGXCD1008": {
       "serial": "TGXCD1008",
@@ -66238,7 +66246,8 @@
       },
       "serial_identifiers": [
         "TGXCD1008"
-      ]
+      ],
+      "metadata_id": "wikidata:Q106201302"
     },
     "TGXCD1010": {
       "serial": "TGXCD1010",
@@ -68210,7 +68219,8 @@
       },
       "serial_identifiers": [
         "TGXCD1021"
-      ]
+      ],
+      "metadata_id": "wikidata:Q124128282"
     },
     "TGXCD1024": {
       "serial": "TGXCD1024",
@@ -69721,7 +69731,8 @@
       },
       "serial_identifiers": [
         "TGXCD1035"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7335449"
     },
     "TGXCD1036": {
       "serial": "TGXCD1036",
@@ -73488,7 +73499,8 @@
       },
       "serial_identifiers": [
         "TJCD0006"
-      ]
+      ],
+      "metadata_id": "wikidata:Q106201302"
     },
     "TJCD0007": {
       "serial": "TJCD0007",
@@ -77331,7 +77343,8 @@
       },
       "serial_identifiers": [
         "TJCD2027"
-      ]
+      ],
+      "metadata_id": "wikidata:Q56290788"
     },
     "TJCD2028": {
       "serial": "TJCD2028",
@@ -80154,7 +80167,8 @@
       },
       "serial_identifiers": [
         "TJCD9004"
-      ]
+      ],
+      "metadata_id": "wikidata:Q55616596"
     },
     "TMCD2001": {
       "serial": "TMCD2001",
@@ -81500,7 +81514,8 @@
       },
       "serial_identifiers": [
         "WTG990301"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5174069"
     },
     "WTG990801": {
       "serial": "WTG990801",
@@ -81691,6 +81706,1575 @@
       "serial_identifiers": [
         "WTG990801"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q11610960": {
+      "wikidata_id": "Q11610960",
+      "source_url": "https://www.wikidata.org/wiki/Q11610960",
+      "revision": 2529304731,
+      "modified": "2026-08-09T18:21:15Z",
+      "cached_at": "2026-10-25T05:39:40.464835+00:00",
+      "entity_sha256": "d73f503fab05692d7f1419cce7f9eec7163558351b8dad8a353dd916f55996ed",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Seiya Monogatari: Anearth Fantasy Stories",
+        "mul": "Seiya Monogatari: Anearth Fantasy Stories"
+      },
+      "short_descriptions": {
+        "en": "1995 video game",
+        "es": "videojuego"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q11610960$607330f2-4f2d-d214-1e39-18ee997f6c67",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 200912,
+              "id": "Q200912"
+            },
+            "statement_id": "Q11610960$dfc8ca18-45b3-447d-c6b5-aeb4198f166b",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Saturn"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q129567305": {
+      "wikidata_id": "Q129567305",
+      "source_url": "https://www.wikidata.org/wiki/Q129567305",
+      "revision": 2518057022,
+      "modified": "2026-07-16T06:49:51Z",
+      "cached_at": "2026-10-25T05:46:32.965825+00:00",
+      "entity_sha256": "1b19e2d620aed5e2a9f5aa27faea89e412bcb68a4ae6910312036a3229ef09bf",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Metamor Jupiter"
+      },
+      "short_descriptions": {
+        "en": "1993 side-scrolling shooter video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96146141,
+              "id": "Q96146141"
+            },
+            "statement_id": "Q129567305$ae2556b6-4b80-5d18-8b3d-5756f5cabf41",
+            "rank": "normal",
+            "labels": {
+              "en": "horizontally scrolling shooter"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q129567305$f016bc10-4d75-7844-a6f8-d4317a42d6af",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q11315022": {
+      "wikidata_id": "Q11315022",
+      "source_url": "https://www.wikidata.org/wiki/Q11315022",
+      "revision": 2529304613,
+      "modified": "2026-08-09T18:20:46Z",
+      "cached_at": "2026-10-25T05:39:23.076917+00:00",
+      "entity_sha256": "99459a1e587171a0d08eaedfc749dfb536462f7ece36366e35320c98a8eb8668",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Zero4 Champ II",
+        "mul": "Zero4 Champ II"
+      },
+      "short_descriptions": {
+        "en": "1993 video game",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 860750,
+              "id": "Q860750"
+            },
+            "statement_id": "Q11315022$cdc2a0a8-2e95-4534-9fd7-f82452ff91a9",
+            "rank": "normal",
+            "labels": {
+              "en": "racing video game",
+              "es": "carreras"
+            },
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q11315022$39a9e7a1-55ed-42bb-8e95-4e34c0bd61a4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q11315022$6d1aab18-4494-e959-bd11-63fd95774e6f",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q11281407": {
+      "wikidata_id": "Q11281407",
+      "source_url": "https://www.wikidata.org/wiki/Q11281407",
+      "revision": 2547502733,
+      "modified": "2026-09-18T17:08:23Z",
+      "cached_at": "2026-10-25T05:39:16.471340+00:00",
+      "entity_sha256": "0278a926c98106c8031a6eb05e76c95be2e08350b401826261ddb5af04067f9a",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Ranma ½: Toraware no Hanayome",
+        "mul": "Ranma ½: Toraware no Hanayome"
+      },
+      "short_descriptions": {
+        "en": "1991 video game",
+        "es": "videojuego de 1991"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11319816,
+              "id": "Q11319816"
+            },
+            "statement_id": "Q11281407$d3f532e9-44f3-6dfd-fd5e-93c010d7ea99",
+            "rank": "normal",
+            "labels": {
+              "en": "TENKY",
+              "es": "Tenky"
+            },
+            "references": [
+              {
+                "hash": "f2cf88fc6a4f5cf99c6e97a25a88da80ec786f98",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "e9d3c4ceb2d916d482f081f12af526fa810f622e",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/?oldid=88216121",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6782763,
+              "id": "Q6782763"
+            },
+            "statement_id": "Q11281407$365f6958-494e-7825-9acd-b1b67df3ed04",
+            "rank": "normal",
+            "labels": {
+              "en": "Nippon Computer Systems"
+            },
+            "references": [
+              {
+                "hash": "f2cf88fc6a4f5cf99c6e97a25a88da80ec786f98",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "e9d3c4ceb2d916d482f081f12af526fa810f622e",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/?oldid=88216121",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23916,
+              "id": "Q23916"
+            },
+            "statement_id": "Q11281407$062c27be-4551-3e01-3c53-a6415eca2994",
+            "rank": "normal",
+            "labels": {
+              "en": "adventure video game",
+              "es": "videojuego de aventura"
+            },
+            "references": [
+              {
+                "hash": "f2cf88fc6a4f5cf99c6e97a25a88da80ec786f98",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "e9d3c4ceb2d916d482f081f12af526fa810f622e",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/?oldid=88216121",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1991-12-06T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q11281407$a6e6b1b7-446f-0699-7dd3-b5d9698d986d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f2cf88fc6a4f5cf99c6e97a25a88da80ec786f98",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "e9d3c4ceb2d916d482f081f12af526fa810f622e",
+                      "datavalue": {
+                        "value": "https://ja.wikipedia.org/?oldid=88216121",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q11281407$f692846c-482b-7388-7da8-b9a74ea6c38f",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q128996032": {
+      "wikidata_id": "Q128996032",
+      "source_url": "https://www.wikidata.org/wiki/Q128996032",
+      "revision": 2518058031,
+      "modified": "2026-07-16T06:54:41Z",
+      "cached_at": "2026-10-25T05:46:31.337079+00:00",
+      "entity_sha256": "5faf9ecf7228810bcbf5888d10417913ae576b75175d5c38617d79b66e99eee2",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Alzadick",
+        "mul": "Alzadick"
+      },
+      "short_descriptions": {
+        "en": "1992 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96146237,
+              "id": "Q96146237"
+            },
+            "statement_id": "Q128996032$74c1f2e9-47e2-a6c7-e2c5-c82c66e0e753",
+            "rank": "normal",
+            "labels": {
+              "en": "vertically scrolling shooter"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q128996032$c5456780-45a2-999b-fb5f-bb4692e2c7ef",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q17218424": {
+      "wikidata_id": "Q17218424",
+      "source_url": "https://www.wikidata.org/wiki/Q17218424",
+      "revision": 2529315677,
+      "modified": "2026-08-09T18:56:26Z",
+      "cached_at": "2026-10-25T05:40:26.037072+00:00",
+      "entity_sha256": "f224d144bdeda527b8f071bcf5db637ec61bba188686178ab87a00c6dbee97dd",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Quiz de Gakuensai",
+        "mul": "Quiz de Gakuensai"
+      },
+      "short_descriptions": {
+        "en": "1993 video game",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q17218424$36b332bd-a1b5-46bc-8305-0823f65e65e1",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q17218424$ce71ec67-4e37-de72-067b-3b29f995bbd6",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q55616596": {
+      "wikidata_id": "Q55616596",
+      "source_url": "https://www.wikidata.org/wiki/Q55616596",
+      "revision": 2549478640,
+      "modified": "2026-09-26T01:58:30Z",
+      "cached_at": "2026-10-25T05:42:06.611897+00:00",
+      "entity_sha256": "9b1e1f44bbc02a9ea5dff77fbc68ddf1fa8e05bdfb548ebbbbb0624ea444bae0",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Last Alert",
+        "es": "Last Alert",
+        "mul": "Last Alert"
+      },
+      "short_descriptions": {
+        "en": "1990 video game",
+        "es": "videojuego"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 60480500,
+              "id": "Q60480500"
+            },
+            "statement_id": "Q55616596$2236A5A8-3D41-468C-82BF-94BE8F7ED314",
+            "rank": "normal",
+            "labels": {
+              "en": "run and gun"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q55616596$f9e4cd55-6617-4a31-b0b3-0d6169a22fcc",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q106201302": {
+      "wikidata_id": "Q106201302",
+      "source_url": "https://www.wikidata.org/wiki/Q106201302",
+      "revision": 2549478162,
+      "modified": "2026-09-26T01:56:47Z",
+      "cached_at": "2026-10-25T05:43:52.371711+00:00",
+      "entity_sha256": "ec426309cfd556a9462856cdbf22721f57c231e54f07965398dd1823eee800d8",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Final Zone II",
+        "mul": "Final Zone II"
+      },
+      "short_descriptions": {
+        "en": "1990 run and gun video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3177903,
+              "id": "Q3177903"
+            },
+            "statement_id": "Q106201302$1C5E4D0F-0E0F-4970-BCED-81FA08A061B9",
+            "rank": "normal",
+            "labels": {
+              "en": "Telenet Japan",
+              "es": "Telenet Japan"
+            },
+            "references": [
+              {
+                "hash": "32152839bbba67d183d5914e5f41c4e53e4907d8",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "70e1cbb701ecc7cd8e5ca8c28eed43ec7fae9380",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "cf57be1aa42db21472cdce01131e9349fc198b8c",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Final_Zone_II&oldid=1090565194",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044478,
+              "id": "Q1044478"
+            },
+            "statement_id": "Q106201302$CE52A3E0-2575-484D-9C2C-A1EDE20BDC73",
+            "rank": "normal",
+            "labels": {
+              "en": "shoot 'em up",
+              "es": "shoot 'em up",
+              "mul": "shoot 'em up"
+            },
+            "references": [
+              {
+                "hash": "32152839bbba67d183d5914e5f41c4e53e4907d8",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "70e1cbb701ecc7cd8e5ca8c28eed43ec7fae9380",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "cf57be1aa42db21472cdce01131e9349fc198b8c",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Final_Zone_II&oldid=1090565194",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q106201302$14ec7c85-4c55-f54e-e205-e9939c2eb784",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q124128282": {
+      "wikidata_id": "Q124128282",
+      "source_url": "https://www.wikidata.org/wiki/Q124128282",
+      "revision": 2521482656,
+      "modified": "2026-07-23T02:20:41Z",
+      "cached_at": "2026-10-25T05:46:08.781380+00:00",
+      "entity_sha256": "cd86452285ad1ef440b6e756f0612fe9c00aaee8578d0f987099ad40ecc55153",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Shape Shifter",
+        "mul": "Shape Shifter"
+      },
+      "short_descriptions": {
+        "en": "1992 video game developed by ICOM Simulations"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 979198,
+              "id": "Q979198"
+            },
+            "statement_id": "Q124128282$073209f9-4cd3-c544-2fc6-532548834e00",
+            "rank": "normal",
+            "labels": {
+              "en": "ICOM Simulations",
+              "es": "ICOM Simulations"
+            }
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1202628,
+              "id": "Q1202628"
+            },
+            "statement_id": "Q124128282$bb27a159-43b6-7763-7bc5-aeeeefc05906",
+            "rank": "normal",
+            "labels": {
+              "en": "Victor Entertainment",
+              "es": "JVC Kenwood Victor Entertainment",
+              "mul": "Victor Entertainment"
+            }
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q124128282$d7c19f7c-49ce-a09c-bcbb-442ba5d17ca9",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7335449": {
+      "wikidata_id": "Q7335449",
+      "source_url": "https://www.wikidata.org/wiki/Q7335449",
+      "revision": 2529310845,
+      "modified": "2026-08-09T18:40:54Z",
+      "cached_at": "2026-10-25T05:38:16.078822+00:00",
+      "entity_sha256": "adb3f77e78836968fd7fa7232da1e37f1e8e861c71414a2e4ff5eb1239969d52",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Riot Zone",
+        "mul": "Riot Zone"
+      },
+      "short_descriptions": {
+        "en": "1993 video game",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7989503,
+              "id": "Q7989503"
+            },
+            "statement_id": "Q7335449$CEF88AA3-F5D4-4FA1-BB93-7FC106046A0E",
+            "rank": "normal",
+            "labels": {
+              "en": "Westone Bit Entertainment"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1049502,
+              "id": "Q1049502"
+            },
+            "statement_id": "Q7335449$70967104-2BE0-46FC-995D-C30A8ADF8815",
+            "rank": "normal",
+            "labels": {
+              "en": "Hudson Soft",
+              "es": "Hudson Soft",
+              "mul": "Hudson Soft"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 401831,
+              "id": "Q401831"
+            },
+            "statement_id": "q7335449$E7C6551F-D0A4-4F6B-8E94-F67B3C7AFEA4",
+            "rank": "normal",
+            "labels": {
+              "en": "beat 'em up",
+              "es": "beat 'em up"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 270948,
+              "id": "Q270948"
+            },
+            "statement_id": "q7335449$E84F4D8F-96D8-481A-A71C-F7BE65F92F7A",
+            "rank": "normal",
+            "labels": {
+              "en": "action game",
+              "es": "videojuego de acción"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7335449$75A0EAB4-D287-495B-A158-E84C2852DFB9",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-02-26T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7335449$177486B1-8B2A-4A38-B826-5C3D10E0E0E3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q7335449$35a302e9-fdb5-4a9d-8449-d990ad1873b1",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q56290788": {
+      "wikidata_id": "Q56290788",
+      "source_url": "https://www.wikidata.org/wiki/Q56290788",
+      "revision": 2519724103,
+      "modified": "2026-07-19T16:16:01Z",
+      "cached_at": "2026-10-25T05:42:11.055756+00:00",
+      "entity_sha256": "fdb2e451d0c9bb141a613ccd72e5d3c1183ea91d154723bfd0618b3f45623cfd",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Pop'n Magic",
+        "mul": "Pop'n Magic"
+      },
+      "short_descriptions": {
+        "en": "PC Engine CD game",
+        "es": "videojuego de 1992"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1992-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q56290788$1530e0b8-af01-467d-b9ec-16163295f8e9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q56290788$1317bda9-8d9b-444d-a30f-9ba1e4915a9c",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5174069": {
+      "wikidata_id": "Q5174069",
+      "source_url": "https://www.wikidata.org/wiki/Q5174069",
+      "revision": 2547488496,
+      "modified": "2026-09-18T16:17:41Z",
+      "cached_at": "2026-10-25T05:37:05.681645+00:00",
+      "entity_sha256": "c613cd4a638aaf7434bb80dcd86f6859d70fea5f447cbcbbb491dcb2fe65bed9",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Cosmic Fantasy 2",
+        "mul": "Cosmic Fantasy 2"
+      },
+      "short_descriptions": {
+        "en": "1991 video game",
+        "es": "videojuego de 1991"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3177903,
+              "id": "Q3177903"
+            },
+            "statement_id": "Q5174069$3B20FCFA-4A00-40F7-BBAC-29B56434008F",
+            "rank": "normal",
+            "labels": {
+              "en": "Telenet Japan",
+              "es": "Telenet Japan"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3569933,
+              "id": "Q3569933"
+            },
+            "statement_id": "Q5174069$6620D4F4-D20C-4E38-A8E4-4F5E78DEE7D9",
+            "rank": "normal",
+            "labels": {
+              "en": "Working Designs",
+              "es": "Working Designs",
+              "mul": "Working Designs"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 744038,
+              "id": "Q744038"
+            },
+            "statement_id": "q5174069$8F3BFF78-098F-461B-B5AE-BED2B35A2CDE",
+            "rank": "normal",
+            "labels": {
+              "en": "role-playing video game",
+              "es": "videojuego de rol"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q5174069$EC012C18-B33D-466C-AC7A-5A46910E1FC2",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1991-04-05T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5174069$D9506301-0C11-483B-92D3-2630C3DA7736",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854461,
+              "id": "Q10854461"
+            },
+            "statement_id": "Q5174069$ac3c39a0-7280-4e44-bede-d95be7508950",
+            "rank": "normal",
+            "labels": {
+              "es": "CD-ROM2",
+              "mul": "TurboGrafx-CD"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

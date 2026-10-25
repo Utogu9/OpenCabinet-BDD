@@ -759,7 +759,8 @@
       },
       "serial_identifiers": [
         "837-12905A"
-      ]
+      ],
+      "metadata_id": "wikidata:Q60611812"
     },
     "AHPC-6076": {
       "serial": "AHPC-6076",
@@ -3220,7 +3221,8 @@
       },
       "serial_identifiers": [
         "HPC-6010-00"
-      ]
+      ],
+      "metadata_id": "wikidata:Q2302675"
     },
     "HPC-6010-01": {
       "serial": "HPC-6010-01",
@@ -6511,7 +6513,8 @@
       },
       "serial_identifiers": [
         "HPC-6032-00"
-      ]
+      ],
+      "metadata_id": "wikidata:Q141571877"
     },
     "HPC-6033-02": {
       "serial": "HPC-6033-02",
@@ -20819,7 +20822,8 @@
       },
       "serial_identifiers": [
         "MK-49023-05"
-      ]
+      ],
+      "metadata_id": "wikidata:Q1963241"
     },
     "MK-49023-09": {
       "serial": "MK-49023-09",
@@ -39230,6 +39234,606 @@
       "serial_identifiers": [
         "T-255040-00"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q60611812": {
+      "wikidata_id": "Q60611812",
+      "source_url": "https://www.wikidata.org/wiki/Q60611812",
+      "revision": 2518471779,
+      "modified": "2026-07-17T04:36:50Z",
+      "cached_at": "2026-10-25T05:42:21.362785+00:00",
+      "entity_sha256": "1ce41f7bddd5d8dda126f75c4783d8efeb5bf0ff1cb16520dbfc4eb8f299ede5",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Jeulgeoun Deuraibeu Model 837-12905A",
+        "mul": "Jeulgeoun Deuraibeu Model 837-12905A"
+      },
+      "short_descriptions": {
+        "en": "Sega Pico Game ; 199? Samsung",
+        "es": "videojuego de 1996"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20716,
+              "id": "Q20716"
+            },
+            "statement_id": "Q60611812$791171ef-4063-333b-09ae-a6ceb0f4a8c6",
+            "rank": "normal",
+            "labels": {
+              "en": "Samsung Group",
+              "mul": "Samsung"
+            }
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1996-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q60611812$1fea0b7a-44a9-9813-30d9-4bba4369d6e0",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1374482,
+              "id": "Q1374482"
+            },
+            "statement_id": "Q60611812$e347890e-41d2-9791-9ca5-434b1da57ccf",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Pico"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q2302675": {
+      "wikidata_id": "Q2302675",
+      "source_url": "https://www.wikidata.org/wiki/Q2302675",
+      "revision": 2558052199,
+      "modified": "2026-10-17T18:11:50Z",
+      "cached_at": "2026-10-25T05:34:12.556114+00:00",
+      "entity_sha256": "2a84bc7e9594bd8d0f52bfc872d9abb1232b01b9707cfab0f55a7db5128f5f6d",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Sonic the Hedgehog's Gameworld",
+        "es": "Sonic the Hedgehog's Gameworld",
+        "mul": "Sonic the Hedgehog's Gameworld"
+      },
+      "short_descriptions": {
+        "en": "1994 video game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4807758,
+              "id": "Q4807758"
+            },
+            "statement_id": "Q2302675$917BA5BA-96A9-4FD0-A923-0D5A9EE372BB",
+            "rank": "normal",
+            "labels": {
+              "en": "Aspect",
+              "es": "Aspect"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 122741,
+              "id": "Q122741"
+            },
+            "statement_id": "Q2302675$84CA2678-7000-4992-8609-718563100380",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1153173,
+              "id": "Q1153173"
+            },
+            "statement_id": "Q2302675$0CF8F1BF-71C4-4D0C-87C4-62FCF47DBA77",
+            "rank": "normal",
+            "labels": {
+              "en": "educational entertainment",
+              "es": "entretenimiento educativo"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q2302675$631631C9-A2E0-4ED3-B618-58999E9A54AD",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q2302675$041B8CA5-8B24-429F-908C-0477B5F8BD18",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1374482,
+              "id": "Q1374482"
+            },
+            "statement_id": "Q2302675$22145744-B812-4421-8EF0-84E8D708A60C",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Pico"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q141571877": {
+      "wikidata_id": "Q141571877",
+      "source_url": "https://www.wikidata.org/wiki/Q141571877",
+      "revision": 2560518073,
+      "modified": "2026-10-25T02:37:34Z",
+      "cached_at": "2026-10-25T05:47:23.983815+00:00",
+      "entity_sha256": "4d079e37537188267674da5a8ac8568d4396ebb30a4453ac1ca61378f18dfe7e",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "LEGO Fun to Build"
+      },
+      "short_descriptions": {
+        "en": "1995 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1153173,
+              "id": "Q1153173"
+            },
+            "statement_id": "Q141571877$92cd4cd6-45fe-b9b1-ba35-02cdc6c38d1b",
+            "rank": "normal",
+            "labels": {
+              "en": "educational entertainment",
+              "es": "entretenimiento educativo"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1995-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q141571877$1758f00e-4de0-09e7-db01-100b637e4986",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1374482,
+              "id": "Q1374482"
+            },
+            "statement_id": "Q141571877$3b1f2473-4868-3c2c-24df-1f64f93e7b71",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Pico"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q1963241": {
+      "wikidata_id": "Q1963241",
+      "source_url": "https://www.wikidata.org/wiki/Q1963241",
+      "revision": 2547503028,
+      "modified": "2026-09-18T17:10:04Z",
+      "cached_at": "2026-10-25T05:33:46.284363+00:00",
+      "entity_sha256": "4fff289da289c52f11aa2425489440e1395e737b26e8f51169e0c914e01548d5",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Tails and the Music Maker",
+        "es": "Tails and the Music Maker",
+        "mul": "Tails and the Music Maker"
+      },
+      "short_descriptions": {
+        "en": "1994 video game",
+        "es": "videojuego de 1994"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 262292,
+              "id": "Q262292"
+            },
+            "statement_id": "Q1963241$C04C8853-6133-4A7B-8C7D-AD7FF1A915A1",
+            "rank": "normal",
+            "labels": {
+              "en": "Appaloosa Interactive",
+              "es": "Appaloosa Interactive"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 49,
+              "id": "Q49"
+            },
+            "statement_id": "Q1963241$063B51DC-8FAD-4E57-8D91-4D1CE243DE0F",
+            "rank": "normal",
+            "labels": {
+              "en": "North America",
+              "es": "América del Norte"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 584105,
+              "id": "Q584105"
+            },
+            "statement_id": "q1963241$441F20D0-11E6-4B1A-8118-9E33373DD9F9",
+            "rank": "normal",
+            "labels": {
+              "en": "music video game",
+              "es": "videojuego de música"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q1963241$1C20020C-32FD-4ACE-A632-09B13E22B129",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1994-12-05T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q1963241$86EC225B-61E5-469E-BCA4-27651A6A2BD9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1374482,
+              "id": "Q1374482"
+            },
+            "statement_id": "Q1963241$9B1EE153-CFDF-4EB3-BBC8-0A6B236304EB",
+            "rank": "normal",
+            "labels": {
+              "mul": "Sega Pico"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

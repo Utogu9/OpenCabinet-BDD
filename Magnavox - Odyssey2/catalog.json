@@ -424,7 +424,8 @@
       },
       "serial_identifiers": [
         "AA9423"
-      ]
+      ],
+      "metadata_id": "wikidata:Q48893702"
     },
     "AA9424": {
       "serial": "AA9424",
@@ -1036,7 +1037,8 @@
       },
       "serial_identifiers": [
         "AA9428"
-      ]
+      ],
+      "metadata_id": "wikidata:Q16267856"
     },
     "AC9400": {
       "serial": "AC9400",
@@ -1632,7 +1634,8 @@
       },
       "serial_identifiers": [
         "AC9406"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3406938"
     },
     "AC9412": {
       "serial": "AC9412",
@@ -1864,7 +1867,8 @@
       },
       "serial_identifiers": [
         "AC9412"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3402275"
     },
     "AC9414": {
       "serial": "AC9414",
@@ -2696,7 +2700,8 @@
       },
       "serial_identifiers": [
         "AC9432"
-      ]
+      ],
+      "metadata_id": "wikidata:Q139967955"
     },
     "AC9435": {
       "serial": "AC9435",
@@ -2889,7 +2894,8 @@
       },
       "serial_identifiers": [
         "AC9435"
-      ]
+      ],
+      "metadata_id": "wikidata:Q652549"
     },
     "AC9436": {
       "serial": "AC9436",
@@ -3971,7 +3977,8 @@
       },
       "serial_identifiers": [
         "AC9441"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7619024"
     },
     "AC9442": {
       "serial": "AC9442",
@@ -4173,7 +4180,8 @@
       },
       "serial_identifiers": [
         "AC9442"
-      ]
+      ],
+      "metadata_id": "wikidata:Q6322915"
     },
     "AC9443": {
       "serial": "AC9443",
@@ -4571,7 +4579,8 @@
       },
       "serial_identifiers": [
         "AC9447"
-      ]
+      ],
+      "metadata_id": "wikidata:Q101959095"
     },
     "AJ9401": {
       "serial": "AJ9401",
@@ -5979,7 +5988,8 @@
       },
       "serial_identifiers": [
         "AJ9411"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5174063"
     },
     "AK9413": {
       "serial": "AK9413",
@@ -7144,7 +7154,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 10"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5580554"
     },
     "VIDEOPAC 11": {
       "serial": "VIDEOPAC 11",
@@ -7349,7 +7360,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 11"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5174063"
     },
     "VIDEOPAC 12": {
       "serial": "VIDEOPAC 12",
@@ -7542,7 +7554,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 12"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3402275"
     },
     "VIDEOPAC 14": {
       "serial": "VIDEOPAC 14",
@@ -7743,7 +7756,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 14"
-      ]
+      ],
+      "metadata_id": "wikidata:Q5618728"
     },
     "VIDEOPAC 15": {
       "serial": "VIDEOPAC 15",
@@ -7948,7 +7962,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 15"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7413085"
     },
     "VIDEOPAC 16": {
       "serial": "VIDEOPAC 16",
@@ -9115,7 +9130,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 20"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7619024"
     },
     "VIDEOPAC 22": {
       "serial": "VIDEOPAC 22",
@@ -9333,7 +9349,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 22"
-      ]
+      ],
+      "metadata_id": "wikidata:Q16267856"
     },
     "VIDEOPAC 23": {
       "serial": "VIDEOPAC 23",
@@ -9921,7 +9938,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 27"
-      ]
+      ],
+      "metadata_id": "wikidata:Q48893702"
     },
     "VIDEOPAC 29": {
       "serial": "VIDEOPAC 29",
@@ -10508,7 +10526,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 34"
-      ]
+      ],
+      "metadata_id": "wikidata:Q16655495"
     },
     "VIDEOPAC 35": {
       "serial": "VIDEOPAC 35",
@@ -10942,7 +10961,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 37"
-      ]
+      ],
+      "metadata_id": "wikidata:Q139967955"
     },
     "VIDEOPAC 38": {
       "serial": "VIDEOPAC 38",
@@ -11147,7 +11167,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 38"
-      ]
+      ],
+      "metadata_id": "wikidata:Q652549"
     },
     "VIDEOPAC 4": {
       "serial": "VIDEOPAC 4",
@@ -11567,7 +11588,8 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 44"
-      ]
+      ],
+      "metadata_id": "wikidata:Q6322915"
     },
     "VIDEOPAC 6": {
       "serial": "VIDEOPAC 6",
@@ -11961,7 +11983,2172 @@
       },
       "serial_identifiers": [
         "VIDEOPAC 9"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3406938"
+    }
+  },
+  "metadata": {
+    "wikidata:Q48893702": {
+      "wikidata_id": "Q48893702",
+      "source_url": "https://www.wikidata.org/wiki/Q48893702",
+      "revision": 2518398033,
+      "modified": "2026-07-17T00:13:09Z",
+      "cached_at": "2026-10-25T05:41:51.355999+00:00",
+      "entity_sha256": "4e884d2756c11c4a92c7013ab14ba2e4dc6820c2bedf7ea2f62d3969013c7a16",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Electronic Table Soccer",
+        "es": "Cuadro electronico de futbol",
+        "mul": "Electronic Table Soccer"
+      },
+      "short_descriptions": {
+        "en": "1980 video game",
+        "es": "videojuego de 1980"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1478420,
+              "id": "Q1478420"
+            },
+            "statement_id": "Q48893702$01C62A27-6475-43C4-A276-004690546E4B",
+            "rank": "normal",
+            "labels": {
+              "en": "association football video game",
+              "es": "videojuego de fútbol"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1980-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q48893702$a0dfdc7d-4811-a83d-54bf-9e7b3af58ce2",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q48893702$67a97369-4262-26f0-4b61-984903832110",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q16267856": {
+      "wikidata_id": "Q16267856",
+      "source_url": "https://www.wikidata.org/wiki/Q16267856",
+      "revision": 2547495407,
+      "modified": "2026-09-18T16:43:14Z",
+      "cached_at": "2026-10-25T05:40:13.758900+00:00",
+      "entity_sha256": "2bc93c2d3046d14c879be4d38ea628968986dbcf2d367c2a0332882ec6312501",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Space Monster",
+        "mul": "Space Monster"
+      },
+      "short_descriptions": {
+        "en": "1980 video game",
+        "es": "videojuego de 1980"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q16267856$9931B16A-774C-4181-9C34-BBC4C40DB05D",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96146284,
+              "id": "Q96146284"
+            },
+            "statement_id": "Q16267856$ecbd8160-a3b3-4f82-a78e-1906fea68dc6",
+            "rank": "normal",
+            "labels": {
+              "en": "fixed shooter"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q16267856$5EBBB2B2-6160-4461-8FB5-6F94AC2AE88B",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1980-12-31T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q16267856$477FA73A-821E-4A3F-B096-38EC182F5BDC",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q16267856$FA185745-563E-44CD-A476-3F6BAB22A423",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3406938": {
+      "wikidata_id": "Q3406938",
+      "source_url": "https://www.wikidata.org/wiki/Q3406938",
+      "revision": 2523612662,
+      "modified": "2026-07-27T20:34:07Z",
+      "cached_at": "2026-10-25T05:35:47.287778+00:00",
+      "entity_sha256": "a63cefd04f4995743e9a0f05d83d445e80189f50eb048fbdbc06d1a1e6ff3c85",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Computer Programmer",
+        "mul": "Computer Programmer"
+      },
+      "short_descriptions": {
+        "en": "1978 video game",
+        "es": "videojuego de 1978"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1224999,
+              "id": "Q1224999"
+            },
+            "statement_id": "Q3406938$7739F970-8DB6-492E-BC79-F191E1C5C40F",
+            "rank": "normal",
+            "labels": {
+              "en": "educational video game",
+              "es": "videojuego educativo"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1978-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3406938$d5a41140-40a4-f6af-48cf-e9af9add7a2e",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q3406938$efaf4531-441e-2a7e-8b7b-afcf2019eac2",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q3402275": {
+      "wikidata_id": "Q3402275",
+      "source_url": "https://www.wikidata.org/wiki/Q3402275",
+      "revision": 2558050025,
+      "modified": "2026-10-17T18:01:20Z",
+      "cached_at": "2026-10-25T05:35:47.285778+00:00",
+      "entity_sha256": "bdf256c44d49b128ea591afc95e4c2a27921aa9231bf4cf34bf04f01947e87ae",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Take the Money and Run",
+        "es": "Coja el dinero y huya",
+        "mul": "Take the Money and Run"
+      },
+      "short_descriptions": {
+        "en": "1978 video game",
+        "es": "videojuego de 1978"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1978-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3402275$6474B2FE-6486-4313-91EE-BFC265376F81",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q3402275$f0a479e3-4f24-4eea-0cb2-5b435977d430",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q139967955": {
+      "wikidata_id": "Q139967955",
+      "source_url": "https://www.wikidata.org/wiki/Q139967955",
+      "revision": 2539729327,
+      "modified": "2026-09-03T14:59:10Z",
+      "cached_at": "2026-10-25T05:47:12.380455+00:00",
+      "entity_sha256": "35b895bd20451296d6bfef1c5f17691de8ac40d6cb30d26c4fd755955c359b59",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Monkeyshines!"
+      },
+      "short_descriptions": {
+        "en": "1981 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q139967955$adcada57-4f6b-0dde-7507-592e213beb74",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q652549": {
+      "wikidata_id": "Q652549",
+      "source_url": "https://www.wikidata.org/wiki/Q652549",
+      "revision": 2558047815,
+      "modified": "2026-10-17T17:50:02Z",
+      "cached_at": "2026-10-25T05:32:26.950037+00:00",
+      "entity_sha256": "dc117945e8498f4d0db014f84c56414e47fa108ac652fc7705ebc00f155cee87",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Munchkin",
+        "es": "Munchkin",
+        "mul": "Munchkin"
+      },
+      "short_descriptions": {
+        "en": "1981 video game",
+        "es": "videojuego de 1981"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 630670,
+              "id": "Q630670"
+            },
+            "statement_id": "Q652549$280AB893-F09C-450C-9639-93DCAB0C6011",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox",
+              "es": "Magnavox",
+              "mul": "Magnavox"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q652549$ec2b270e-4cb4-85ca-4d45-cbc057a18c07",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13717398,
+              "id": "Q13717398"
+            },
+            "statement_id": "Q652549$5562D8D6-101C-4AAF-8574-73DB9ECCE08D",
+            "rank": "normal",
+            "labels": {
+              "en": "maze video game",
+              "es": "videojuego de laberintos"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q652549$33F45ADC-D7AE-40DF-A57A-D6FBBBD33A83",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            },
+            "references": [
+              {
+                "hash": "47849bc2c2ccea9df5e11e3caedea9e976b5b852",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "339edfc21671253124e287f58f656e492a4b0840",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Supermampfer&oldid=188200357",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1981-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q652549$B865F81A-430E-4021-B775-B7CC931A8B38",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q652549$0CBBC664-830E-4C71-B510-CE9DA5A14988",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7619024": {
+      "wikidata_id": "Q7619024",
+      "source_url": "https://www.wikidata.org/wiki/Q7619024",
+      "revision": 2547503880,
+      "modified": "2026-09-18T17:14:27Z",
+      "cached_at": "2026-10-25T05:38:30.381174+00:00",
+      "entity_sha256": "54495bd25414d99833eadc84942a5c90202a3466ac94030340daccdac39a9638",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Stone Sling",
+        "mul": "Stone Sling"
+      },
+      "short_descriptions": {
+        "en": "1981 video game",
+        "es": "videojuego de 1981"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q7619024$08DA1CEC-EB99-46EC-A8C3-AEF9459C9565",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q7619024$8EACA5D3-4BB2-4831-826B-D4ABAAEC1FDA",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 472055,
+              "id": "Q472055"
+            },
+            "statement_id": "Q7619024$21D1BE87-B64F-4CAB-A71C-00A988E71894",
+            "rank": "normal",
+            "labels": {
+              "en": "strategy video game",
+              "es": "videojuego de estrategia"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "q7619024$EC16BDD1-69A5-40E7-9FB8-D26B0B1DB9D7",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7619024$07FE118E-5F83-47EB-9453-8579AC0C35EC",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1981-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7619024$B684FF55-4BA5-4D62-9780-D36631C0FC8E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q7619024$8F1CC7C9-5D9B-4942-A94A-3B9754E00F8A",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q6322915": {
+      "wikidata_id": "Q6322915",
+      "source_url": "https://www.wikidata.org/wiki/Q6322915",
+      "revision": 2558795045,
+      "modified": "2026-10-19T13:37:44Z",
+      "cached_at": "2026-10-25T05:37:46.302571+00:00",
+      "entity_sha256": "542569590d17943a31c6a4ace8446c57ed73be946ee73c6b7a697372345de766",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "K.C.'s Krazy Chase!",
+        "es": "La Caza Loca",
+        "mul": "K.C.'s Krazy Chase!"
+      },
+      "short_descriptions": {
+        "en": "1982 video game",
+        "es": "videojuego de 1982"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 630670,
+              "id": "Q630670"
+            },
+            "statement_id": "Q6322915$F4B0135A-4245-47B7-9E39-22D260655B7D",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox",
+              "es": "Magnavox",
+              "mul": "Magnavox"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13717398,
+              "id": "Q13717398"
+            },
+            "statement_id": "Q6322915$23FD85F2-9F12-47DC-97C2-2BFB1F1F98A1",
+            "rank": "normal",
+            "labels": {
+              "en": "maze video game",
+              "es": "videojuego de laberintos"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1982-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q6322915$F58D6F7E-E953-4626-82BF-595559246D24",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q6322915$48f98e48-ea30-4e48-b684-0a5faedfd43c",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q101959095": {
+      "wikidata_id": "Q101959095",
+      "source_url": "https://www.wikidata.org/wiki/Q101959095",
+      "revision": 2549456093,
+      "modified": "2026-09-26T00:44:11Z",
+      "cached_at": "2026-10-25T05:43:36.730203+00:00",
+      "entity_sha256": "14c7c45ec6e5021fed9c377d5dbd7128c4a218f1f4eb1f6a6bacb827b3ef33a1",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Killer Bees!",
+        "mul": "Killer Bees!"
+      },
+      "short_descriptions": {
+        "en": "1983 video game"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q101959095$baab7f2d-4a2c-183e-cea5-f20c8adf7d93",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5174063": {
+      "wikidata_id": "Q5174063",
+      "source_url": "https://www.wikidata.org/wiki/Q5174063",
+      "revision": 2558794685,
+      "modified": "2026-10-19T13:37:04Z",
+      "cached_at": "2026-10-25T05:37:05.680636+00:00",
+      "entity_sha256": "cf227c009b0b42107a691f3236346542993f9b4e314201b7dc1160050b30f6d5",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Cosmic Conflict",
+        "es": "Guerra Espacial",
+        "mul": "Cosmic Conflict"
+      },
+      "short_descriptions": {
+        "en": "1978 video game",
+        "es": "videojuego de 1978"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q5174063$34C53DB6-3CE7-4106-9270-871421CEABCC",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q5174063$5F281910-DC90-4F1D-8ACE-49283EE115C9",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 185029,
+              "id": "Q185029"
+            },
+            "statement_id": "Q5174063$dcbd8145-eb24-4690-8fc5-e8b2f8cf04b1",
+            "rank": "normal",
+            "labels": {
+              "en": "first-person shooter",
+              "es": "disparos en primera persona"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q5174063$0D1ACCCB-198B-491A-BF37-6E7F8F03102F",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1978-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5174063$3028A02F-DAB0-4579-8B5E-FEE398729544",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q5174063$22DBC37A-7B58-423C-B07E-61F27C8ECD51",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5580554": {
+      "wikidata_id": "Q5580554",
+      "source_url": "https://www.wikidata.org/wiki/Q5580554",
+      "revision": 2518397440,
+      "modified": "2026-07-17T00:11:20Z",
+      "cached_at": "2026-10-25T05:37:31.594298+00:00",
+      "entity_sha256": "435067cb7f135e531ebe7518c10c8f51212d86b845bb85ff6faeeda6e35eddf7",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Golf",
+        "mul": "Golf"
+      },
+      "short_descriptions": {
+        "en": "1979 Videopac game",
+        "es": "videojuego de 1979"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 630670,
+              "id": "Q630670"
+            },
+            "statement_id": "Q5580554$E9D9C9AC-C56F-4D51-B260-18B73AEDE243",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox",
+              "es": "Magnavox",
+              "mul": "Magnavox"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1979-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5580554$763D44A0-543E-4D1D-8B79-96592100371A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q5580554$1A4B4055-7669-465C-8812-3A74AB4FA949",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q5618728": {
+      "wikidata_id": "Q5618728",
+      "source_url": "https://www.wikidata.org/wiki/Q5618728",
+      "revision": 2558790712,
+      "modified": "2026-10-19T13:24:43Z",
+      "cached_at": "2026-10-25T05:37:33.092730+00:00",
+      "entity_sha256": "95b2db3bacf513245e84e2c1f16ea4b7c9d9b251f923654329b90fa6ea51295e",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Gunfighter",
+        "es": "Gunfighter",
+        "mul": "Gunfighter"
+      },
+      "short_descriptions": {
+        "en": "1978 video game",
+        "es": "videojuego de 1978"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q5618728$310D3403-9542-40E6-8C92-B26CBA62775F",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q5618728$8438FECA-00E2-4C7E-BF2F-DDEBA7E3C9D5",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1978-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q5618728$51F00B60-B799-4E9C-A6FC-91B9A1838181",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q5618728$245904ED-DC37-4794-B7EF-596847167EB2",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q7413085": {
+      "wikidata_id": "Q7413085",
+      "source_url": "https://www.wikidata.org/wiki/Q7413085",
+      "revision": 2519161162,
+      "modified": "2026-07-18T15:37:07Z",
+      "cached_at": "2026-10-25T05:38:20.857915+00:00",
+      "entity_sha256": "550f37aa4cff48c3f687ccc7c2eea9184a5b880e33f52263296facc0bb8cf243",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Samurai",
+        "mul": "Samurai"
+      },
+      "short_descriptions": {
+        "en": "Videopac game",
+        "es": "videojuego de 1979"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q7413085$DDE6159B-D453-4C93-8933-D93678F49FB6",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170416,
+              "id": "Q170416"
+            },
+            "statement_id": "Q7413085$EDE0F527-F8FC-4084-9C26-5EDE9D60CF5A",
+            "rank": "normal",
+            "labels": {
+              "en": "Koninklijke Philips NV",
+              "es": "Philips",
+              "mul": "Koninklijke Philips Electronics N.V."
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 472055,
+              "id": "Q472055"
+            },
+            "statement_id": "q7413085$94259355-D030-4490-BFA4-19CAED747B7A",
+            "rank": "normal",
+            "labels": {
+              "en": "strategy video game",
+              "es": "videojuego de estrategia"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "q7413085$D4B82854-4A85-4AEF-B251-E4A70BF520DB",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7413085$707DF117-D065-4063-AA3C-67B0527BA18D",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1979-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7413085$FEDBEB30-DFE3-4D34-A014-7BA8AFF349DC",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q7413085$1202FB60-000E-440C-8323-4A889033B3BF",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    },
+    "wikidata:Q16655495": {
+      "wikidata_id": "Q16655495",
+      "source_url": "https://www.wikidata.org/wiki/Q16655495",
+      "revision": 2547502948,
+      "modified": "2026-09-18T17:09:34Z",
+      "cached_at": "2026-10-25T05:40:15.553221+00:00",
+      "entity_sha256": "206e6e969413658298d75e9b3b59e945c44865705d27ae9720be703f66a5f540",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Satellite Attack",
+        "es": "Los satelites nos atacan",
+        "mul": "Satellite Attack"
+      },
+      "short_descriptions": {
+        "en": "1981 video game",
+        "es": "videojuego de 1981"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044478,
+              "id": "Q1044478"
+            },
+            "statement_id": "Q16655495$8f36708c-499e-dfb7-07dc-690500aa4da3",
+            "rank": "normal",
+            "labels": {
+              "en": "shoot 'em up",
+              "es": "shoot 'em up",
+              "mul": "shoot 'em up"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1981-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q16655495$F3AC85EA-499E-40E0-BB8F-1A45B4D26493",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576932,
+              "id": "Q576932"
+            },
+            "statement_id": "Q16655495$734b29ae-4acc-d76d-4b50-7cc90486c83d",
+            "rank": "normal",
+            "labels": {
+              "en": "Magnavox Odyssey 2",
+              "es": "Magnavox Odyssey²",
+              "mul": "Magnavox Odyssey 2"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

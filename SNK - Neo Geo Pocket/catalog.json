@@ -1173,7 +1173,8 @@
       },
       "serial_identifiers": [
         "0008"
-      ]
+      ],
+      "metadata_id": "wikidata:Q3471296"
     },
     "0009": {
       "serial": "0009",
@@ -1708,6 +1709,129 @@
       "serial_identifiers": [
         "0014"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q3471296": {
+      "wikidata_id": "Q3471296",
+      "source_url": "https://www.wikidata.org/wiki/Q3471296",
+      "revision": 2545880090,
+      "modified": "2026-09-14T23:41:16Z",
+      "cached_at": "2026-10-25T05:35:51.303569+00:00",
+      "entity_sha256": "31ae9cd3a1aed2917cb371e2897782f6e0fe5765e7990e094c728941c0fa6fc7",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Samurai Shodown!",
+        "es": "Samurai Shodown!",
+        "mul": "Samurai Shodown!"
+      },
+      "short_descriptions": {
+        "en": "1998 video game",
+        "es": "videojuego de 1998"
+      },
+      "fields": {
+        "developer": [],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1044563,
+              "id": "Q1044563"
+            },
+            "statement_id": "Q3471296$08b54de9-47c1-9e63-0344-f2f72d360307",
+            "rank": "normal",
+            "labels": {
+              "en": "SNK",
+              "es": "SNK",
+              "mul": "SNK"
+            }
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 846224,
+              "id": "Q846224"
+            },
+            "statement_id": "Q3471296$72f4d98a-4109-ab0b-01f1-7af30503e89e",
+            "rank": "normal",
+            "labels": {
+              "en": "fighting game",
+              "es": "videojuego de lucha"
+            }
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "Q3471296$774ed29e-4ea9-2bfd-10c3-75d2c5c35865",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6895044,
+              "id": "Q6895044"
+            },
+            "statement_id": "Q3471296$1172358c-4e0e-1f2f-f24b-0c460b91e26b",
+            "rank": "normal",
+            "labels": {
+              "en": "multiplayer video game",
+              "es": "multijugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1998-12-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q3471296$23ff03f3-4003-fa23-c091-0b5b65e38f06",
+            "rank": "normal"
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 939881,
+              "id": "Q939881"
+            },
+            "statement_id": "Q3471296$b0897255-49b3-f06b-7be0-9324833b0ac8",
+            "rank": "normal",
+            "labels": {
+              "en": "Neo Geo Pocket",
+              "es": "Neo Geo Pocket"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }

@@ -376,7 +376,8 @@
       },
       "serial_identifiers": [
         "F-002"
-      ]
+      ],
+      "metadata_id": "wikidata:Q7418064"
     },
     "F-003": {
       "serial": "F-003",
@@ -1802,6 +1803,245 @@
       "serial_identifiers": [
         "F-011"
       ]
+    }
+  },
+  "metadata": {
+    "wikidata:Q7418064": {
+      "wikidata_id": "Q7418064",
+      "source_url": "https://www.wikidata.org/wiki/Q7418064",
+      "revision": 2549448213,
+      "modified": "2026-09-26T00:13:03Z",
+      "cached_at": "2026-10-25T05:38:20.858915+00:00",
+      "entity_sha256": "aafcb052b27a00cc09694de7219cdb8a950aac3eb20a2dc912e183a95d202e2a",
+      "license": "CC0-1.0",
+      "labels": {
+        "en": "Sango Fighter",
+        "mul": "Sango Fighter"
+      },
+      "short_descriptions": {
+        "en": "1993 video game",
+        "es": "videojuego de 1993"
+      },
+      "fields": {
+        "developer": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7130437,
+              "id": "Q7130437"
+            },
+            "statement_id": "Q7418064$89CAA830-2F3F-4A6D-B8CE-A900F8585237",
+            "rank": "normal",
+            "labels": {
+              "en": "Panda Entertainment"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "publisher": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7130437,
+              "id": "Q7130437"
+            },
+            "statement_id": "Q7418064$3A335ED6-74D0-4247-BE88-F6264044B54A",
+            "rank": "normal",
+            "labels": {
+              "en": "Panda Entertainment"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "genre": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 846224,
+              "id": "Q846224"
+            },
+            "statement_id": "q7418064$79E9CF43-66D3-4BA4-8AE2-11D1257CA203",
+            "rank": "normal",
+            "labels": {
+              "en": "fighting game",
+              "es": "videojuego de lucha"
+            },
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "max_players": [],
+        "min_players": [],
+        "game_mode": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 208850,
+              "id": "Q208850"
+            },
+            "statement_id": "q7418064$EFBFD48B-03C1-4887-85B6-C099089F38B4",
+            "rank": "normal",
+            "labels": {
+              "en": "single-player video game",
+              "es": "un jugador"
+            }
+          }
+        ],
+        "release_date": [
+          {
+            "value": {
+              "time": "+1993-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "statement_id": "Q7418064$D47B1603-821C-4D80-86D2-A462937C16BB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "platform": [
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 170434,
+              "id": "Q170434"
+            },
+            "statement_id": "Q7418064$4368DC28-D00A-4AFC-ABAD-ECB435FC802D",
+            "rank": "normal",
+            "labels": {
+              "en": "DOS",
+              "es": "DOS",
+              "mul": "DOS"
+            }
+          },
+          {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2475188,
+              "id": "Q2475188"
+            },
+            "statement_id": "Q7418064$6d9f2409-41ee-cb5b-78cd-d9842047c6ee",
+            "rank": "normal",
+            "labels": {
+              "en": "Super A'Can",
+              "es": "Super A'Can",
+              "mul": "Super A'Can"
+            }
+          }
+        ]
+      },
+      "scope_note": "Game-level facts; not verified for each region, port, revision or physical edition. Player counts retain original qualifiers and do not imply local simultaneous players."
+    }
+  },
+  "metadata_sources": {
+    "wikidata": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "Shared game-level facts. Keep original platform/region qualifiers; these are not verified facts for each physical edition."
     }
   }
 }
