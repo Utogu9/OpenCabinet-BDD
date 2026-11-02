@@ -18,6 +18,16 @@ Raster artwork is converted to WebP by comparing lossless and quality 90 encodin
 
 Console artwork is stored at the console directory root (`logo.svg` or `logo.webp`, `render.webp`, `screenshot.webp`) and listed in `console_artwork.json`. See [console logo credits](LOGO-CREDITS.md) for sources, authors and licenses.
 
+## Console repositories
+
+[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) is maintained in a separate repository and linked here as a Git submodule. After cloning this repository, download that console with:
+
+```bash
+git submodule update --init --depth 1 -- "Nintendo - Switch"
+```
+
+Submit changes for this console to its own repository. Other consoles remain regular directories in this repository.
+
 ## Catalog structure
 
 Each console's `catalog.json` contains:
