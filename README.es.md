@@ -18,6 +18,16 @@ Las imágenes raster se convierten a WebP comparando la codificación sin pérdi
 
 Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.webp`, `render.webp`, `screenshot.webp`) y se registran en `console_artwork.json`. Los [créditos de los logos](LOGO-CREDITS.md) indican fuentes, autores y licencias.
 
+## Repositorios de consolas
+
+[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) se mantiene en un repositorio separado y se enlaza aquí como submódulo de Git. Después de clonar este repositorio, descargá esa consola con:
+
+```bash
+git submodule update --init --depth 1 -- "Nintendo - Switch"
+```
+
+Enviá los cambios de esta consola a su propio repositorio. Las demás consolas siguen siendo carpetas normales de este repositorio.
+
 ## Estructura del catálogo
 
 El `catalog.json` de cada consola contiene:
