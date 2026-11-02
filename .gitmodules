@@ -1,3 +1,6 @@
 [submodule "Nintendo - Switch"]
 	path = Nintendo - Switch
 	url = https://github.com/Utogu9/Nintendo_-_Switch.git
+[submodule "Sega - Dreamcast"]
+	path = Sega - Dreamcast
+	url = https://github.com/Utogu9/Sega_-_Dreamcast.git
