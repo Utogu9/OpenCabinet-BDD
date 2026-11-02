@@ -20,13 +20,14 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 
 ## Repositorios de consolas
 
-[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) se mantiene en un repositorio separado y se enlaza aquí como submódulo de Git. Después de clonar este repositorio, descargá esa consola con:
+[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) y [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast) se mantienen en repositorios separados y se enlazan aquí como submódulos de Git. Después de clonar este repositorio, descargá cada consola con:
 
 ```bash
 git submodule update --init --depth 1 -- "Nintendo - Switch"
+git submodule update --init --depth 1 -- "Sega - Dreamcast"
 ```
 
-Enviá los cambios de esta consola a su propio repositorio. Las demás consolas siguen siendo carpetas normales de este repositorio.
+Enviá los cambios de estas consolas a sus respectivos repositorios. Las demás consolas siguen siendo carpetas normales de este repositorio.
 
 ## Estructura del catálogo
 
