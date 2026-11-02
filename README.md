@@ -20,13 +20,14 @@ Console artwork is stored at the console directory root (`logo.svg` or `logo.web
 
 ## Console repositories
 
-[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) is maintained in a separate repository and linked here as a Git submodule. After cloning this repository, download that console with:
+[Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch) and [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast) are maintained in separate repositories and linked here as Git submodules. After cloning this repository, download either console with:
 
 ```bash
 git submodule update --init --depth 1 -- "Nintendo - Switch"
+git submodule update --init --depth 1 -- "Sega - Dreamcast"
 ```
 
-Submit changes for this console to its own repository. Other consoles remain regular directories in this repository.
+Submit changes for these consoles to their respective repositories. Other consoles remain regular directories in this repository.
 
 ## Catalog structure
 
