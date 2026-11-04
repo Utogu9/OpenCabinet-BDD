@@ -4,3 +4,12 @@
 [submodule "Sega - Dreamcast"]
 	path = Sega - Dreamcast
 	url = https://github.com/Utogu9/Sega_-_Dreamcast.git
+[submodule "Sony - PlayStation 3"]
+	path = Sony - PlayStation 3
+	url = https://github.com/Utogu9/Sony_-_PlayStation_3.git
+[submodule "Sega - Mega Drive - Genesis"]
+	path = Sega - Mega Drive - Genesis
+	url = https://github.com/Utogu9/Sega_-_Mega_Drive_-_Genesis.git
+[submodule "Nintendo - Switch 2"]
+	path = Nintendo - Switch 2
+	url = https://github.com/Utogu9/Nintendo_-_Switch_2.git
