@@ -13,3 +13,6 @@
 [submodule "Nintendo - Switch 2"]
 	path = Nintendo - Switch 2
 	url = https://github.com/Utogu9/Nintendo_-_Switch_2.git
+[submodule "Sega - Saturn"]
+	path = Sega - Saturn
+	url = https://github.com/Utogu9/Sega_-_Saturn.git

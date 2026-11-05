@@ -25,6 +25,7 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 - [Sony - PlayStation 3](https://github.com/Utogu9/Sony_-_PlayStation_3)
 - [Sega - Mega Drive - Genesis](https://github.com/Utogu9/Sega_-_Mega_Drive_-_Genesis)
 - [Nintendo - Switch 2](https://github.com/Utogu9/Nintendo_-_Switch_2)
+- [Sega - Saturn](https://github.com/Utogu9/Sega_-_Saturn)
 
 Las siguientes consolas se mantienen en repositorios separados y se enlazan aquí como submódulos de Git. Después de clonar este repositorio, descargá las consolas que necesites con:
 
@@ -34,6 +35,7 @@ git submodule update --init --depth 1 -- "Sega - Dreamcast"
 git submodule update --init --depth 1 -- "Sony - PlayStation 3"
 git submodule update --init --depth 1 -- "Sega - Mega Drive - Genesis"
 git submodule update --init --depth 1 -- "Nintendo - Switch 2"
+git submodule update --init --depth 1 -- "Sega - Saturn"
 ```
 
 Enviá los cambios de estas consolas a sus respectivos repositorios. Las demás consolas siguen siendo carpetas normales de este repositorio.
