@@ -4,14 +4,14 @@
 
 Imágenes de videojuegos organizadas por plataforma y serial comercial o identificador oficial de la plataforma.
 
-Cada consola contiene un `catalog.json` que relaciona los identificadores con los nombres completos, regiones, revisiones, imágenes disponibles, hashes y procedencia. Las rutas de las imágenes son relativas a la carpeta de la consola.
+Cada consola contiene un `catalog.json` o `catalog.sqlite` que relaciona los identificadores con los nombres completos, regiones, revisiones, imágenes disponibles, hashes y procedencia. Las rutas de las imágenes son relativas a la carpeta de la consola.
 
 ```text
 Sony - PlayStation/
   SLUS-12345/
     cover_front.webp
     disc.webp
-  catalog.json
+  catalog.sqlite
 ```
 
 Las imágenes raster se convierten a WebP comparando la codificación sin pérdida y con pérdida a calidad 90 y conservando el archivo más pequeño. Los logos de consolas pueden conservar su formato SVG original. Nombres como `cover_front2.webp` identifican variantes distintas. Los juegos con identificadores ausentes o ambiguos quedan fuera de esta biblioteca publicada. La cobertura es parcial.
@@ -22,6 +22,8 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
+- [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
+- [Sony - PlayStation 2](https://github.com/Utogu9/Sony_-_PlayStation_2)
 - [Sony - PlayStation 3](https://github.com/Utogu9/Sony_-_PlayStation_3)
 - [Sega - Mega Drive - Genesis](https://github.com/Utogu9/Sega_-_Mega_Drive_-_Genesis)
 - [Nintendo - Switch 2](https://github.com/Utogu9/Nintendo_-_Switch_2)
@@ -32,6 +34,8 @@ Las siguientes consolas se mantienen en repositorios separados y se enlazan aqu�
 ```bash
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
+git submodule update --init --depth 1 -- "Sony - PlayStation"
+git submodule update --init --depth 1 -- "Sony - PlayStation 2"
 git submodule update --init --depth 1 -- "Sony - PlayStation 3"
 git submodule update --init --depth 1 -- "Sega - Mega Drive - Genesis"
 git submodule update --init --depth 1 -- "Nintendo - Switch 2"
@@ -42,7 +46,7 @@ Enviá los cambios de estas consolas a sus respectivos repositorios. Las demás 
 
 ## Estructura del catálogo
 
-El `catalog.json` de cada consola contiene:
+PlayStation y PlayStation 2 usan `catalog.sqlite`, un catálogo SQLite normalizado (versión de almacenamiento 2) compatible con OpenCabinet-BDD_Editor v1.5.1 o posterior. Las otras consolas conservan `catalog.json`. Ambos formatos contienen la misma información lógica; lo siguiente describe la estructura JSON:
 
 - `system` y `schema_version`: nombre de la consola y versión del formato del catálogo.
 - `games`: juegos organizados por serial o ID oficial. Cada juego contiene `entries` con los nombres completos de sus ediciones e `images` con los medios disponibles, rutas, hashes y detalles de los archivos. El campo opcional `metadata_id` enlaza el juego con una ficha de `metadata`.
@@ -58,7 +62,7 @@ Los seriales de distintas regiones, revisiones o discos pueden apuntar a la mism
 Recomendamos [OpenCabinet-BDD_Editor](https://github.com/Utogu9/OpenCabinet-BDD_Editor) para reemplazar imágenes, agregar tipos y variantes o importar manuales CBZ y crearlos desde imágenes. Descargá el ejecutable de Windows desde sus [Releases](https://github.com/Utogu9/OpenCabinet-BDD_Editor/releases/latest); no requiere Python.
 
 1. Hacé un fork de este repositorio en GitHub y cloná tu fork. Podés descargar toda la biblioteca o usar una clonación parcial con sparse checkout para descargar únicamente las consolas que quieras modificar; los comandos están debajo.
-2. Abrí el editor y seleccioná la carpeta de tu repositorio local, que contiene las carpetas de las consolas y sus `catalog.json`.
+2. Abrí el editor y seleccioná la carpeta de tu repositorio local, que contiene las carpetas de las consolas y sus `catalog.json` o `catalog.sqlite`.
 3. Buscá el juego por título o identificador oficial e importá los cambios. El editor optimiza las imágenes a WebP y actualiza el catálogo.
 4. Revisá los medios y las entradas del catálogo modificados. Creá un commit con esos archivos y abrí un pull request explicando qué cambiaste y de dónde provienen los medios.
 5. Completá la lista de verificación de medios de la plantilla antes de enviar el pull request.
@@ -90,7 +94,7 @@ Reemplazá la consola del ejemplo por el nombre exacto de su carpeta. Para selec
 - Los manuales completos usan archivos CBZ llamados `manual.cbz`, `manual2.cbz`, etc., con los mismos requisitos de procedencia y permiso. Convertí cada página directamente a **WebP al 90 %**, sin generar una alternativa sin pérdida, y ajustala a un máximo de **3840 píxeles de ancho por 2160 de alto**, conservando proporciones y sin ampliar las imágenes más pequeñas. Guardá las páginas en orden de lectura como `0001.webp`, `0002.webp`, etc. La herramienta **IMG a CBZ** del editor aplica estas reglas; los CBZ importados se validan y conservan sin recompresión.
 - Usá la consola y la carpeta del serial o identificador oficial de plataforma correctos para los medios de juegos, por ejemplo `Sony - PlayStation/SLUS-12345/`. Guardá las imágenes de consola en la raíz de la carpeta de esa consola. No inventes identificadores ni uses marcadores como `!NONE`.
 - Nombrá las imágenes por tipo: `cover_front.webp`, `cover_back.webp`, `disc.webp`, etc. Las variantes distintas usan `cover_front2.webp`, `cover_front3.webp`, etc.; los archivos idénticos byte por byte no deben generar variantes.
-- Incluí el `catalog.json` actualizado. Dejá fuera del pull request los respaldos, historial, configuración y archivos temporales del editor.
+- Incluí el `catalog.json` o `catalog.sqlite` actualizado, manteniendo el formato existente de la consola. Dejá fuera del pull request los respaldos, historial, configuración y archivos temporales del editor.
 
 Si hay dudas sobre el identificador, la fuente o el permiso de redistribución, abrí un issue con la información disponible antes de subir los medios. Las contribuciones pueden rechazarse cuando no se pueda establecer su procedencia o permiso.
 
