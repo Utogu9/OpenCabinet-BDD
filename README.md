@@ -4,14 +4,14 @@
 
 Game artwork organized by platform and commercial serial or official platform title ID.
 
-Each platform contains a `catalog.json` mapping identifiers to full game names, regions, revisions, available artwork, hashes and provenance. Image paths are relative to their platform directory.
+Each platform contains a `catalog.json` or `catalog.sqlite` mapping identifiers to full game names, regions, revisions, available artwork, hashes and provenance. Image paths are relative to their platform directory.
 
 ```text
 Sony - PlayStation/
   SLUS-12345/
     cover_front.webp
     disc.webp
-  catalog.json
+  catalog.sqlite
 ```
 
 Raster artwork is converted to WebP by comparing lossless and quality 90 encodings and keeping the smaller result. Console logos may retain their original SVG format. Filenames such as `cover_front2.webp` identify distinct variants. Games with missing or ambiguous identifiers remain outside this published library. Coverage is incomplete.
@@ -22,6 +22,8 @@ Console artwork is stored at the console directory root (`logo.svg` or `logo.web
 
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
+- [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
+- [Sony - PlayStation 2](https://github.com/Utogu9/Sony_-_PlayStation_2)
 - [Sony - PlayStation 3](https://github.com/Utogu9/Sony_-_PlayStation_3)
 - [Sega - Mega Drive - Genesis](https://github.com/Utogu9/Sega_-_Mega_Drive_-_Genesis)
 - [Nintendo - Switch 2](https://github.com/Utogu9/Nintendo_-_Switch_2)
@@ -32,6 +34,8 @@ The following consoles are maintained in separate repositories and linked here a
 ```bash
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
+git submodule update --init --depth 1 -- "Sony - PlayStation"
+git submodule update --init --depth 1 -- "Sony - PlayStation 2"
 git submodule update --init --depth 1 -- "Sony - PlayStation 3"
 git submodule update --init --depth 1 -- "Sega - Mega Drive - Genesis"
 git submodule update --init --depth 1 -- "Nintendo - Switch 2"
@@ -42,7 +46,7 @@ Submit changes to these consoles to their respective repositories. Other console
 
 ## Catalog structure
 
-Each console's `catalog.json` contains:
+PlayStation and PlayStation 2 use `catalog.sqlite`, a normalized SQLite catalog (storage version 2) supported by OpenCabinet-BDD_Editor v1.5.1 or later. Other consoles retain `catalog.json`. Both formats contain the same logical information; the following describes the JSON structure:
 
 - `system` and `schema_version`: the console name and catalog format version.
 - `games`: games indexed by serial or official title ID. Each game contains `entries` with its full release names and `images` with available media, paths, hashes and file details. An optional `metadata_id` links the game to a record in `metadata`.
@@ -58,7 +62,7 @@ Different regional serials, revisions or discs can reference the same metadata r
 We recommend [OpenCabinet-BDD_Editor](https://github.com/Utogu9/OpenCabinet-BDD_Editor) to replace artwork, add image types and variants, or import CBZ manuals and create them from images. Download the Windows executable from its [Releases](https://github.com/Utogu9/OpenCabinet-BDD_Editor/releases/latest); Python is not required.
 
 1. Fork this repository on GitHub, then clone your fork. You can download the entire library or use a partial clone with sparse checkout to download only the consoles you want to edit; see the commands below.
-2. Open the editor and select your local repository folder, which contains the console folders and their `catalog.json` files.
+2. Open the editor and select your local repository folder, which contains the console folders and their `catalog.json` or `catalog.sqlite` files.
 3. Find the game by title or official identifier and import your changes. The editor optimizes images as WebP and updates the catalogue.
 4. Review the changed media and catalogue entries. Commit those files and open a pull request explaining what changed and where the media came from.
 5. Complete the media checklist in the pull request template before submitting it.
@@ -90,7 +94,7 @@ Replace the example console with its exact folder name. You can select several c
 - Complete manuals use CBZ archives named `manual.cbz`, `manual2.cbz`, etc., with the same source and permission requirements. Encode each page directly as **WebP at quality 90**, without a lossless candidate, and fit it within **3840 pixels wide by 2160 pixels high**, preserving proportions without enlarging smaller images. Store pages in reading order as `0001.webp`, `0002.webp`, etc. The editor's **IMG to CBZ** tool applies these rules; imported CBZ archives are validated and preserved without recompression.
 - Use the correct console and official serial or platform title ID folder for game media, such as `Sony - PlayStation/SLUS-12345/`. Store console artwork at the console directory root. Do not invent identifiers or use placeholders such as `!NONE`.
 - Name images by type: `cover_front.webp`, `cover_back.webp`, `disc.webp`, etc. Distinct variants use `cover_front2.webp`, `cover_front3.webp`, etc.; byte-identical duplicates should not become variants.
-- Include the updated `catalog.json`. Leave editor backups, history, settings and temporary files out of the pull request.
+- Include the updated `catalog.json` or `catalog.sqlite`, matching the console's existing format. Leave editor backups, history, settings and temporary files out of the pull request.
 
 If the identifier, source or redistribution permission is uncertain, open an issue with the available information before uploading the media. Contributions may be declined when their provenance or permission cannot be established.
 

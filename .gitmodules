@@ -16,3 +16,9 @@
 [submodule "Sega - Saturn"]
 	path = Sega - Saturn
 	url = https://github.com/Utogu9/Sega_-_Saturn.git
+[submodule "Sony - PlayStation"]
+	path = Sony - PlayStation
+	url = https://github.com/Utogu9/Sony_-_PlayStation.git
+[submodule "Sony - PlayStation 2"]
+	path = Sony - PlayStation 2
+	url = https://github.com/Utogu9/Sony_-_PlayStation_2.git
