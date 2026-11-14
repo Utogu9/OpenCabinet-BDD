@@ -20,6 +20,8 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 
 ## Repositorios de consolas
 
+- [Nintendo - Wii](https://github.com/Utogu9/Nintendo_-_Wii)
+- [Nintendo - GameCube](https://github.com/Utogu9/Nintendo_-_GameCube)
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
 - [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
@@ -32,6 +34,8 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 Las siguientes consolas se mantienen en repositorios separados y se enlazan aquí como submódulos de Git. Después de clonar este repositorio, descargá las consolas que necesites con:
 
 ```bash
+git submodule update --init --depth 1 -- "Nintendo - Wii"
+git submodule update --init --depth 1 -- "Nintendo - GameCube"
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
 git submodule update --init --depth 1 -- "Sony - PlayStation"

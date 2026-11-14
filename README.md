@@ -20,6 +20,8 @@ Console artwork is stored at the console directory root (`logo.svg` or `logo.web
 
 ## Console repositories
 
+- [Nintendo - Wii](https://github.com/Utogu9/Nintendo_-_Wii)
+- [Nintendo - GameCube](https://github.com/Utogu9/Nintendo_-_GameCube)
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
 - [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
@@ -32,6 +34,8 @@ Console artwork is stored at the console directory root (`logo.svg` or `logo.web
 The following consoles are maintained in separate repositories and linked here as Git submodules. After cloning this repository, download the consoles you need with:
 
 ```bash
+git submodule update --init --depth 1 -- "Nintendo - Wii"
+git submodule update --init --depth 1 -- "Nintendo - GameCube"
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
 git submodule update --init --depth 1 -- "Sony - PlayStation"

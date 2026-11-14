@@ -22,3 +22,9 @@
 [submodule "Sony - PlayStation 2"]
 	path = Sony - PlayStation 2
 	url = https://github.com/Utogu9/Sony_-_PlayStation_2.git
+[submodule "Nintendo - Wii"]
+	path = Nintendo - Wii
+	url = https://github.com/Utogu9/Nintendo_-_Wii.git
+[submodule "Nintendo - GameCube"]
+	path = Nintendo - GameCube
+	url = https://github.com/Utogu9/Nintendo_-_GameCube.git
