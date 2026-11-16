@@ -28,3 +28,9 @@
 [submodule "Nintendo - GameCube"]
 	path = Nintendo - GameCube
 	url = https://github.com/Utogu9/Nintendo_-_GameCube.git
+[submodule "Nintendo - Wii U"]
+	path = Nintendo - Wii U
+	url = https://github.com/Utogu9/Nintendo_-_Wii_U.git
+[submodule "Sega - Mega-CD - Sega CD"]
+	path = Sega - Mega-CD - Sega CD
+	url = https://github.com/Utogu9/Sega_-_Mega-CD_-_Sega_CD.git

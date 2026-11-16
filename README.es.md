@@ -22,6 +22,8 @@ Las imágenes de consola están en la raíz de su carpeta (`logo.svg` o `logo.we
 
 - [Nintendo - Wii](https://github.com/Utogu9/Nintendo_-_Wii)
 - [Nintendo - GameCube](https://github.com/Utogu9/Nintendo_-_GameCube)
+- [Nintendo - Wii U](https://github.com/Utogu9/Nintendo_-_Wii_U)
+- [Sega - Mega-CD - Sega CD](https://github.com/Utogu9/Sega_-_Mega-CD_-_Sega_CD)
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
 - [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
@@ -36,6 +38,8 @@ Las siguientes consolas se mantienen en repositorios separados y se enlazan aqu�
 ```bash
 git submodule update --init --depth 1 -- "Nintendo - Wii"
 git submodule update --init --depth 1 -- "Nintendo - GameCube"
+git submodule update --init --depth 1 -- "Nintendo - Wii U"
+git submodule update --init --depth 1 -- "Sega - Mega-CD - Sega CD"
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
 git submodule update --init --depth 1 -- "Sony - PlayStation"
