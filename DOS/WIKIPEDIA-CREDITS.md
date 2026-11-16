@@ -1,0 +1,92 @@
+# Wikipedia metadata credits
+
+Selected game descriptions and infobox text are adapted from Wikipedia contributors under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Text was selected and converted to plain text; HTML, reference markers and non-content elements were removed. The same license applies to these adapted texts. Other providers retain their own recorded terms.
+
+Each shared Wikipedia metadata record in the catalogue contains per-language article links, permanent revision links, revision timestamps, author attribution, license and modification notices. Reusers must retain the applicable attribution and license.
+
+| Article | Language | Permanent revision |
+| --- | --- | --- |
+| [Number Munchers](https://en.wikipedia.org/wiki/Number_Munchers) | en | [1384328672](https://en.wikipedia.org/w/index.php?oldid=1384328672) |
+| [Word Munchers](https://en.wikipedia.org/wiki/Word_Munchers) | en | [1385675353](https://en.wikipedia.org/w/index.php?oldid=1385675353) |
+| [The Lost Vikings](https://en.wikipedia.org/wiki/The_Lost_Vikings) | en | [1378931091](https://en.wikipedia.org/w/index.php?oldid=1378931091) |
+| [The Lost Vikings](https://es.wikipedia.org/wiki/The_Lost_Vikings) | es | [173664548](https://es.wikipedia.org/w/index.php?oldid=173664548) |
+| [Rocket Ranger](https://en.wikipedia.org/wiki/Rocket_Ranger) | en | [1384366647](https://en.wikipedia.org/w/index.php?oldid=1384366647) |
+| [Rocket Ranger](https://es.wikipedia.org/wiki/Rocket_Ranger) | es | [157517218](https://es.wikipedia.org/w/index.php?oldid=157517218) |
+| [Omar Sharif on Bridge](https://en.wikipedia.org/wiki/Omar_Sharif_on_Bridge) | en | [1305668236](https://en.wikipedia.org/w/index.php?oldid=1305668236) |
+| [The Incredible Machine 2](https://en.wikipedia.org/wiki/The_Incredible_Machine_2) | en | [1361789078](https://en.wikipedia.org/w/index.php?oldid=1361789078) |
+| [Populous (video game)](https://en.wikipedia.org/wiki/Populous_(video_game)) | en | [1374658145](https://en.wikipedia.org/w/index.php?oldid=1374658145) |
+| [Populous (videojuego)](https://es.wikipedia.org/wiki/Populous_(videojuego)) | es | [171339984](https://es.wikipedia.org/w/index.php?oldid=171339984) |
+| [Bram Stoker's Dracula (video game)](https://en.wikipedia.org/wiki/Bram_Stoker%27s_Dracula_(video_game)) | en | [1385007709](https://en.wikipedia.org/w/index.php?oldid=1385007709) |
+| [Silverball](https://en.wikipedia.org/wiki/Silverball) | en | [1339043751](https://en.wikipedia.org/w/index.php?oldid=1339043751) |
+| [Michael Jordan in Flight](https://en.wikipedia.org/wiki/Michael_Jordan_in_Flight) | en | [1333763075](https://en.wikipedia.org/w/index.php?oldid=1333763075) |
+| [Counter Action](https://en.wikipedia.org/wiki/Counter_Action) | en | [1255349752](https://en.wikipedia.org/w/index.php?oldid=1255349752) |
+| [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) | en | [1385295510](https://en.wikipedia.org/w/index.php?oldid=1385295510) |
+| [Pac-Man](https://es.wikipedia.org/wiki/Pac-Man) | es | [175608953](https://es.wikipedia.org/w/index.php?oldid=175608953) |
+| [Last Ninja 2](https://en.wikipedia.org/wiki/Last_Ninja_2) | en | [1381635869](https://en.wikipedia.org/w/index.php?oldid=1381635869) |
+| [Microsoft Space Simulator](https://en.wikipedia.org/wiki/Microsoft_Space_Simulator) | en | [1380850085](https://en.wikipedia.org/w/index.php?oldid=1380850085) |
+| [Microsoft Space Simulator](https://es.wikipedia.org/wiki/Microsoft_Space_Simulator) | es | [175954426](https://es.wikipedia.org/w/index.php?oldid=175954426) |
+| [Zoop](https://en.wikipedia.org/wiki/Zoop) | en | [1352753296](https://en.wikipedia.org/w/index.php?oldid=1352753296) |
+| [Voyeur (video game)](https://en.wikipedia.org/wiki/Voyeur_(video_game)) | en | [1359057480](https://en.wikipedia.org/w/index.php?oldid=1359057480) |
+| [Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) | en | [1346443653](https://en.wikipedia.org/w/index.php?oldid=1346443653) |
+| [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) | en | [1365012503](https://en.wikipedia.org/w/index.php?oldid=1365012503) |
+| [Redneck Rampage](https://es.wikipedia.org/wiki/Redneck_Rampage) | es | [162703299](https://es.wikipedia.org/w/index.php?oldid=162703299) |
+| [Speed Haste](https://en.wikipedia.org/wiki/Speed_Haste) | en | [1337223466](https://en.wikipedia.org/w/index.php?oldid=1337223466) |
+| [Grand Prix Circuit (video game)](https://en.wikipedia.org/wiki/Grand_Prix_Circuit_(video_game)) | en | [1376179582](https://en.wikipedia.org/w/index.php?oldid=1376179582) |
+| [After the War (video game)](https://en.wikipedia.org/wiki/After_the_War_(video_game)) | en | [1383216745](https://en.wikipedia.org/w/index.php?oldid=1383216745) |
+| [After the War (videojuego)](https://es.wikipedia.org/wiki/After_the_War_(videojuego)) | es | [175660568](https://es.wikipedia.org/w/index.php?oldid=175660568) |
+| [Across the Rhine](https://en.wikipedia.org/wiki/Across_the_Rhine) | en | [1319504482](https://en.wikipedia.org/w/index.php?oldid=1319504482) |
+| [Unnatural Selection (video game)](https://en.wikipedia.org/wiki/Unnatural_Selection_(video_game)) | en | [1362390875](https://en.wikipedia.org/w/index.php?oldid=1362390875) |
+| [Bombuzal](https://en.wikipedia.org/wiki/Bombuzal) | en | [1383542560](https://en.wikipedia.org/w/index.php?oldid=1383542560) |
+| [Mean 18](https://en.wikipedia.org/wiki/Mean_18) | en | [1383425570](https://en.wikipedia.org/w/index.php?oldid=1383425570) |
+| [Links: The Challenge of Golf](https://en.wikipedia.org/wiki/Links:_The_Challenge_of_Golf) | en | [1365120481](https://en.wikipedia.org/w/index.php?oldid=1365120481) |
+| [Creepers (video game)](https://en.wikipedia.org/wiki/Creepers_(video_game)) | en | [1357754475](https://en.wikipedia.org/w/index.php?oldid=1357754475) |
+| [Callahan's Crosstime Saloon (video game)](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game)) | en | [1361108412](https://en.wikipedia.org/w/index.php?oldid=1361108412) |
+| [I.M. Meen](https://en.wikipedia.org/wiki/I.M._Meen) | en | [1371266876](https://en.wikipedia.org/w/index.php?oldid=1371266876) |
+| [It Came from the Desert](https://en.wikipedia.org/wiki/It_Came_from_the_Desert) | en | [1384998101](https://en.wikipedia.org/w/index.php?oldid=1384998101) |
+| [War Diary (video game)](https://en.wikipedia.org/wiki/War_Diary_(video_game)) | en | [1263278890](https://en.wikipedia.org/w/index.php?oldid=1263278890) |
+| [Kiloblaster](https://en.wikipedia.org/wiki/Kiloblaster) | en | [1374925767](https://en.wikipedia.org/w/index.php?oldid=1374925767) |
+| [The King of Chicago](https://en.wikipedia.org/wiki/The_King_of_Chicago) | en | [1376284238](https://en.wikipedia.org/w/index.php?oldid=1376284238) |
+| [Metaltech: Battledrome](https://en.wikipedia.org/wiki/Metaltech:_Battledrome) | en | [1376916138](https://en.wikipedia.org/w/index.php?oldid=1376916138) |
+| [OverKill (video game)](https://en.wikipedia.org/wiki/OverKill_(video_game)) | en | [1305614312](https://en.wikipedia.org/w/index.php?oldid=1305614312) |
+| [TV Sports: Basketball](https://en.wikipedia.org/wiki/TV_Sports:_Basketball) | en | [1347836732](https://en.wikipedia.org/w/index.php?oldid=1347836732) |
+| [Vinyl Goddess from Mars](https://en.wikipedia.org/wiki/Vinyl_Goddess_from_Mars) | en | [1341667027](https://en.wikipedia.org/w/index.php?oldid=1341667027) |
+| [Carriers at War](https://en.wikipedia.org/wiki/Carriers_at_War) | en | [1351394844](https://en.wikipedia.org/w/index.php?oldid=1351394844) |
+| [Electro Man](https://en.wikipedia.org/wiki/Electro_Man) | en | [1382285872](https://en.wikipedia.org/w/index.php?oldid=1382285872) |
+| [Electro Man](https://es.wikipedia.org/wiki/Electro_Man) | es | [159939450](https://es.wikipedia.org/w/index.php?oldid=159939450) |
+| [Aces of the Pacific](https://en.wikipedia.org/wiki/Aces_of_the_Pacific) | en | [1355669577](https://en.wikipedia.org/w/index.php?oldid=1355669577) |
+| [Aces of the Pacific](https://es.wikipedia.org/wiki/Aces_of_the_Pacific) | es | [164554016](https://es.wikipedia.org/w/index.php?oldid=164554016) |
+| [Amazon: Guardians of Eden](https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden) | en | [1355664217](https://en.wikipedia.org/w/index.php?oldid=1355664217) |
+| [Blue Force](https://en.wikipedia.org/wiki/Blue_Force) | en | [1384072836](https://en.wikipedia.org/w/index.php?oldid=1384072836) |
+| [Blue Force](https://es.wikipedia.org/wiki/Blue_Force) | es | [171490973](https://es.wikipedia.org/w/index.php?oldid=171490973) |
+| [Zone 66](https://en.wikipedia.org/wiki/Zone_66) | en | [1379070262](https://en.wikipedia.org/w/index.php?oldid=1379070262) |
+| [Zone 66](https://es.wikipedia.org/wiki/Zone_66) | es | [171131183](https://es.wikipedia.org/w/index.php?oldid=171131183) |
+| [Dominus (video game)](https://en.wikipedia.org/wiki/Dominus_(video_game)) | en | [1360079875](https://en.wikipedia.org/w/index.php?oldid=1360079875) |
+| [Eternam](https://en.wikipedia.org/wiki/Eternam) | en | [1343416357](https://en.wikipedia.org/w/index.php?oldid=1343416357) |
+| [The Pure Wargame](https://en.wikipedia.org/wiki/The_Pure_Wargame) | en | [1360548123](https://en.wikipedia.org/w/index.php?oldid=1360548123) |
+| [Stratego (video game)](https://en.wikipedia.org/wiki/Stratego_(video_game)) | en | [1367983299](https://en.wikipedia.org/w/index.php?oldid=1367983299) |
+| [Guy Spy and the Crystals of Armageddon](https://en.wikipedia.org/wiki/Guy_Spy_and_the_Crystals_of_Armageddon) | en | [1335949956](https://en.wikipedia.org/w/index.php?oldid=1335949956) |
+| [Hannibal (video game)](https://en.wikipedia.org/wiki/Hannibal_(video_game)) | en | [1345641751](https://en.wikipedia.org/w/index.php?oldid=1345641751) |
+| [Dune II](https://en.wikipedia.org/wiki/Dune_II) | en | [1375591291](https://en.wikipedia.org/w/index.php?oldid=1375591291) |
+| [Dune II](https://es.wikipedia.org/wiki/Dune_II) | es | [174692873](https://es.wikipedia.org/w/index.php?oldid=174692873) |
+| [Risky Woods](https://en.wikipedia.org/wiki/Risky_Woods) | en | [1385087637](https://en.wikipedia.org/w/index.php?oldid=1385087637) |
+| [Risky Woods](https://es.wikipedia.org/wiki/Risky_Woods) | es | [173739497](https://es.wikipedia.org/w/index.php?oldid=173739497) |
+| [In Search of Dr. Riptide](https://en.wikipedia.org/wiki/In_Search_of_Dr._Riptide) | en | [1303098102](https://en.wikipedia.org/w/index.php?oldid=1303098102) |
+| [Star Control](https://en.wikipedia.org/wiki/Star_Control) | en | [1378012629](https://en.wikipedia.org/w/index.php?oldid=1378012629) |
+| [3D Lemmings](https://en.wikipedia.org/wiki/3D_Lemmings) | en | [1385841576](https://en.wikipedia.org/w/index.php?oldid=1385841576) |
+| [Jetstrike](https://en.wikipedia.org/wiki/Jetstrike) | en | [1332053641](https://en.wikipedia.org/w/index.php?oldid=1332053641) |
+| [Lion (video game)](https://en.wikipedia.org/wiki/Lion_(video_game)) | en | [1359750253](https://en.wikipedia.org/w/index.php?oldid=1359750253) |
+| [Lion (videojuego)](https://es.wikipedia.org/wiki/Lion_(videojuego)) | es | [173590594](https://es.wikipedia.org/w/index.php?oldid=173590594) |
+| [Museum Madness](https://en.wikipedia.org/wiki/Museum_Madness) | en | [1345624011](https://en.wikipedia.org/w/index.php?oldid=1345624011) |
+| [Pickle Wars](https://en.wikipedia.org/wiki/Pickle_Wars) | en | [1343484381](https://en.wikipedia.org/w/index.php?oldid=1343484381) |
+| [Triple Play 97](https://en.wikipedia.org/wiki/Triple_Play_97) | en | [1357078375](https://en.wikipedia.org/w/index.php?oldid=1357078375) |
+| [Spirit of Excalibur](https://en.wikipedia.org/wiki/Spirit_of_Excalibur) | en | [1359164856](https://en.wikipedia.org/w/index.php?oldid=1359164856) |
+| [Star Reach (video game)](https://en.wikipedia.org/wiki/Star_Reach_(video_game)) | en | [1358339537](https://en.wikipedia.org/w/index.php?oldid=1358339537) |
+| [Robbo (video game)](https://en.wikipedia.org/wiki/Robbo_(video_game)) | en | [1352452967](https://en.wikipedia.org/w/index.php?oldid=1352452967) |
+| [The Computer Edition of Risk: The World Conquest Game](https://en.wikipedia.org/wiki/The_Computer_Edition_of_Risk:_The_World_Conquest_Game) | en | [1380735255](https://en.wikipedia.org/w/index.php?oldid=1380735255) |
+| [The Summoning (video game)](https://en.wikipedia.org/wiki/The_Summoning_(video_game)) | en | [1312077399](https://en.wikipedia.org/w/index.php?oldid=1312077399) |
+| [Ultrabots](https://en.wikipedia.org/wiki/Ultrabots) | en | [1362141805](https://en.wikipedia.org/w/index.php?oldid=1362141805) |
+| [War Inc.](https://en.wikipedia.org/wiki/War_Inc.) | en | [1376989573](https://en.wikipedia.org/w/index.php?oldid=1376989573) |
+| [XF5700 Mantis Experimental Fighter](https://en.wikipedia.org/wiki/XF5700_Mantis_Experimental_Fighter) | en | [1365952709](https://en.wikipedia.org/w/index.php?oldid=1365952709) |
+| [Battle Bugs](https://en.wikipedia.org/wiki/Battle_Bugs) | en | [1359165363](https://en.wikipedia.org/w/index.php?oldid=1359165363) |
+| [Renegade (video game)](https://en.wikipedia.org/wiki/Renegade_(video_game)) | en | [1381648674](https://en.wikipedia.org/w/index.php?oldid=1381648674) |
+| [Renegade (videojuego)](https://es.wikipedia.org/wiki/Renegade_(videojuego)) | es | [166438957](https://es.wikipedia.org/w/index.php?oldid=166438957) |

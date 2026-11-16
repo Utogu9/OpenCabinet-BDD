@@ -54,7 +54,7 @@ PlayStation y PlayStation 2 usan `catalog.sqlite`, un catálogo SQLite normaliza
 
 - `system` y `schema_version`: nombre de la consola y versión del formato del catálogo.
 - `games`: juegos organizados por serial o ID oficial. Cada juego contiene `entries` con los nombres completos de sus ediciones e `images` con los medios disponibles, rutas, hashes y detalles de los archivos. El campo opcional `metadata_id` enlaza el juego con una ficha de `metadata`.
-- `metadata`: fichas compartidas identificadas por fuente e ID, como `wikidata:Q15087581`. Contienen nombres (`labels`), descripciones breves (`short_descriptions`) y un diccionario `fields` con desarrolladores, editores, géneros, cantidades de jugadores, modos de juego, fechas de lanzamiento y plataformas, cuando están disponibles.
+- `metadata`: fichas compartidas identificadas por fuente e ID, como `wikidata:Q15087581` o `wikipedia:Q15087581`. Contienen nombres (`labels`), descripciones breves (`short_descriptions`), descripciones completas opcionales (`descriptions`) y un diccionario `fields` con desarrolladores, editores, géneros, cantidades de jugadores, modos de juego, fechas de lanzamiento y plataformas, cuando están disponibles.
 - `metadata_sources`: proveedores de metadatos, créditos y licencias.
 - `console_metadata`: nombres, descripciones breves, fechas de lanzamiento, desarrolladores y fabricantes de la consola, cuando están disponibles. `sources` registra su procedencia y licencias.
 - `dat`, `source_policy`, `encoding` y `status`: DAT de origen, política de procesamiento, parámetros de codificación de imágenes y estado de generación del catálogo.
@@ -107,6 +107,7 @@ Si hay dudas sobre el identificador, la fuente o el permiso de redistribución, 
 - Imágenes originales: [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) y sus colaboradores. Sus [créditos](https://github.com/libretro-thumbnails/libretro-thumbnails#credits) reconocen a MobyGames, Fandom, colaboradores voluntarios, fotógrafos y personas que realizaron escaneos.
 - Nombres e identificadores de juegos: [No-Intro / DAT-o-MATIC](https://datomatic.no-intro.org/) y [Redump](https://redump.info/).
 - Metadatos compartidos de los juegos: [Wikidata](https://www.wikidata.org/) y sus colaboradores. Sus datos estructurados se publican bajo [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); consultá la [política de licencias de Wikidata](https://www.wikidata.org/wiki/Wikidata:Licensing). Los enlaces de procedencia se conservan en las fichas de los catálogos.
+- Descripciones y textos seleccionados de fichas técnicas: colaboradores de [Wikipedia](https://www.wikipedia.org/), bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Cada ficha de Wikipedia y el archivo `WIKIPEDIA-CREDITS.md` de la consola registran las revisiones de los artículos, la atribución y las modificaciones. Conservá estos créditos y la licencia al reutilizar el texto adaptado.
 - Las imágenes de los juegos y el material promocional provienen de sus respectivos desarrolladores y distribuidores. Este proyecto no reclama su propiedad ni les asigna una licencia nueva.
 
 Este repositorio contiene las imágenes y los catálogos publicados. No incluye los scripts de conversión, los DAT originales, los archivos originales de libretro, los informes ni los respaldos privados del editor.

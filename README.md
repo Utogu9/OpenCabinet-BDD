@@ -54,7 +54,7 @@ PlayStation and PlayStation 2 use `catalog.sqlite`, a normalized SQLite catalog 
 
 - `system` and `schema_version`: the console name and catalog format version.
 - `games`: games indexed by serial or official title ID. Each game contains `entries` with its full release names and `images` with available media, paths, hashes and file details. An optional `metadata_id` links the game to a record in `metadata`.
-- `metadata`: shared game records keyed by source and identifier, such as `wikidata:Q15087581`. Records contain names (`labels`), brief descriptions (`short_descriptions`), and a `fields` dictionary with developers, publishers, genres, player counts, game modes, release dates and platforms, where available.
+- `metadata`: shared game records keyed by source and identifier, such as `wikidata:Q15087581` or `wikipedia:Q15087581`. Records contain names (`labels`), brief descriptions (`short_descriptions`), optional full descriptions (`descriptions`), and a `fields` dictionary with developers, publishers, genres, player counts, game modes, release dates and platforms, where available.
 - `metadata_sources`: metadata providers, credits and licenses.
 - `console_metadata`: console names, brief descriptions, release dates, developers and manufacturers, where available. `sources` records their provenance and licenses.
 - `dat`, `source_policy`, `encoding` and `status`: the source DAT, processing policy, image encoding settings and catalog generation status.
@@ -107,6 +107,7 @@ If the identifier, source or redistribution permission is uncertain, open an iss
 - Original images: [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) and its contributors. Its [credits](https://github.com/libretro-thumbnails/libretro-thumbnails#credits) acknowledge MobyGames, Fandom, volunteer contributors, photographers and scanners.
 - Game names and identifiers: [No-Intro / DAT-o-MATIC](https://datomatic.no-intro.org/) and [Redump](https://redump.info/).
 - Shared game metadata: [Wikidata](https://www.wikidata.org/) and its contributors. Its structured data is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); see [Wikidata's licensing policy](https://www.wikidata.org/wiki/Wikidata:Licensing). Source links are retained in the catalog records.
+- Selected descriptions and infobox text: [Wikipedia](https://www.wikipedia.org/) contributors, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Article revisions, attribution and modification notices are recorded in each Wikipedia metadata record and the console's `WIKIPEDIA-CREDITS.md`. Retain these credits and the license when reusing the adapted text.
 - Game artwork and promotional materials originate from their respective developers and publishers. This project does not claim ownership of those materials or assign them a new license.
 
 This repository contains the published artwork and catalogues. Conversion scripts, source DAT archives, original libretro files, reports and private editor backups are not included.

@@ -1,0 +1,92 @@
+# Wikipedia metadata credits
+
+Selected game descriptions and infobox text are adapted from Wikipedia contributors under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Text was selected and converted to plain text; HTML, reference markers and non-content elements were removed. The same license applies to these adapted texts. Other providers retain their own recorded terms.
+
+Each shared Wikipedia metadata record in the catalogue contains per-language article links, permanent revision links, revision timestamps, author attribution, license and modification notices. Reusers must retain the applicable attribution and license.
+
+| Article | Language | Permanent revision |
+| --- | --- | --- |
+| [Ryukyu (video game)](https://en.wikipedia.org/wiki/Ryukyu_(video_game)) | en | [1368910616](https://en.wikipedia.org/w/index.php?oldid=1368910616) |
+| [Jurassic Park (Game Gear video game)](https://en.wikipedia.org/wiki/Jurassic_Park_(Game_Gear_video_game)) | en | [1319147412](https://en.wikipedia.org/w/index.php?oldid=1319147412) |
+| [Columns (video game)](https://en.wikipedia.org/wiki/Columns_(video_game)) | en | [1385884585](https://en.wikipedia.org/w/index.php?oldid=1385884585) |
+| [Columns](https://es.wikipedia.org/wiki/Columns) | es | [175431502](https://es.wikipedia.org/w/index.php?oldid=175431502) |
+| [Out Run](https://en.wikipedia.org/wiki/Out_Run) | en | [1385484784](https://en.wikipedia.org/w/index.php?oldid=1385484784) |
+| [Out Run](https://es.wikipedia.org/wiki/Out_Run) | es | [175506184](https://es.wikipedia.org/w/index.php?oldid=175506184) |
+| [Crystal Warriors](https://en.wikipedia.org/wiki/Crystal_Warriors) | en | [1382148334](https://en.wikipedia.org/w/index.php?oldid=1382148334) |
+| [Streets of Rage (video game)](https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)) | en | [1381623321](https://en.wikipedia.org/w/index.php?oldid=1381623321) |
+| [Streets of Rage (videojuego)](https://es.wikipedia.org/wiki/Streets_of_Rage_(videojuego)) | es | [174834439](https://es.wikipedia.org/w/index.php?oldid=174834439) |
+| [Psychic World](https://en.wikipedia.org/wiki/Psychic_World) | en | [1353020362](https://en.wikipedia.org/w/index.php?oldid=1353020362) |
+| [The Lion King (video game)](https://en.wikipedia.org/wiki/The_Lion_King_(video_game)) | en | [1377867996](https://en.wikipedia.org/w/index.php?oldid=1377867996) |
+| [The Lion King (videojuego)](https://es.wikipedia.org/wiki/The_Lion_King_(videojuego)) | es | [171130747](https://es.wikipedia.org/w/index.php?oldid=171130747) |
+| [Sonic the Hedgehog: Triple Trouble](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog:_Triple_Trouble) | en | [1383798410](https://en.wikipedia.org/w/index.php?oldid=1383798410) |
+| [Sonic Triple Trouble](https://es.wikipedia.org/wiki/Sonic_Triple_Trouble) | es | [162385511](https://es.wikipedia.org/w/index.php?oldid=162385511) |
+| [Sonic Chaos](https://en.wikipedia.org/wiki/Sonic_Chaos) | en | [1381643713](https://en.wikipedia.org/w/index.php?oldid=1381643713) |
+| [Sonic Chaos](https://es.wikipedia.org/wiki/Sonic_Chaos) | es | [164420615](https://es.wikipedia.org/w/index.php?oldid=164420615) |
+| [Ristar (Game Gear video game)](https://en.wikipedia.org/wiki/Ristar_(Game_Gear_video_game)) | en | [1369323121](https://en.wikipedia.org/w/index.php?oldid=1369323121) |
+| [Bugs Bunny in Double Trouble](https://en.wikipedia.org/wiki/Bugs_Bunny_in_Double_Trouble) | en | [1350450677](https://en.wikipedia.org/w/index.php?oldid=1350450677) |
+| [Bugs Bunny in Double Trouble](https://es.wikipedia.org/wiki/Bugs_Bunny_in_Double_Trouble) | es | [175663790](https://es.wikipedia.org/w/index.php?oldid=175663790) |
+| [NBA Jam (1993 video game)](https://en.wikipedia.org/wiki/NBA_Jam_(1993_video_game)) | en | [1385484565](https://en.wikipedia.org/w/index.php?oldid=1385484565) |
+| [NBA Jam](https://es.wikipedia.org/wiki/NBA_Jam) | es | [176304056](https://es.wikipedia.org/w/index.php?oldid=176304056) |
+| [Ecco: The Tides of Time](https://en.wikipedia.org/wiki/Ecco:_The_Tides_of_Time) | en | [1381641534](https://en.wikipedia.org/w/index.php?oldid=1381641534) |
+| [Ecco: The Tides of Time](https://es.wikipedia.org/wiki/Ecco:_The_Tides_of_Time) | es | [174661160](https://es.wikipedia.org/w/index.php?oldid=174661160) |
+| [Sonic Spinball](https://en.wikipedia.org/wiki/Sonic_Spinball) | en | [1381642895](https://en.wikipedia.org/w/index.php?oldid=1381642895) |
+| [Sonic Spinball](https://es.wikipedia.org/wiki/Sonic_Spinball) | es | [176172039](https://es.wikipedia.org/w/index.php?oldid=176172039) |
+| [Sonic Drift](https://en.wikipedia.org/wiki/Sonic_Drift) | en | [1365971380](https://en.wikipedia.org/w/index.php?oldid=1365971380) |
+| [Sonic Drift](https://es.wikipedia.org/wiki/Sonic_Drift) | es | [170785934](https://es.wikipedia.org/w/index.php?oldid=170785934) |
+| [Taz in Escape from Mars](https://en.wikipedia.org/wiki/Taz_in_Escape_from_Mars) | en | [1374444310](https://en.wikipedia.org/w/index.php?oldid=1374444310) |
+| [Taz in Escape from Mars](https://es.wikipedia.org/wiki/Taz_in_Escape_from_Mars) | es | [158191971](https://es.wikipedia.org/w/index.php?oldid=158191971) |
+| [Sega Game Pack 4 in 1](https://en.wikipedia.org/wiki/Sega_Game_Pack_4_in_1) | en | [1342198091](https://en.wikipedia.org/w/index.php?oldid=1342198091) |
+| [Sega Game Pack 4 in 1](https://es.wikipedia.org/wiki/Sega_Game_Pack_4_in_1) | es | [172443821](https://es.wikipedia.org/w/index.php?oldid=172443821) |
+| [Asterix and the Great Rescue](https://en.wikipedia.org/wiki/Asterix_and_the_Great_Rescue) | en | [1359824614](https://en.wikipedia.org/w/index.php?oldid=1359824614) |
+| [Sonic Drift 2](https://en.wikipedia.org/wiki/Sonic_Drift_2) | en | [1381645120](https://en.wikipedia.org/w/index.php?oldid=1381645120) |
+| [Sonic Drift 2](https://es.wikipedia.org/wiki/Sonic_Drift_2) | es | [170785949](https://es.wikipedia.org/w/index.php?oldid=170785949) |
+| [Dynamite Headdy](https://en.wikipedia.org/wiki/Dynamite_Headdy) | en | [1381641404](https://en.wikipedia.org/w/index.php?oldid=1381641404) |
+| [Dynamite Headdy](https://es.wikipedia.org/wiki/Dynamite_Headdy) | es | [173262661](https://es.wikipedia.org/w/index.php?oldid=173262661) |
+| [Mighty Morphin Power Rangers: The Movie (video game)](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers:_The_Movie_(video_game)) | en | [1371310861](https://en.wikipedia.org/w/index.php?oldid=1371310861) |
+| [Mighty Morphin Power Rangers: The Movie (videojuego)](https://es.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers:_The_Movie_(videojuego)) | es | [165084710](https://es.wikipedia.org/w/index.php?oldid=165084710) |
+| [Aerial Assault](https://en.wikipedia.org/wiki/Aerial_Assault) | en | [1288379687](https://en.wikipedia.org/w/index.php?oldid=1288379687) |
+| [Chakan: The Forever Man](https://en.wikipedia.org/wiki/Chakan:_The_Forever_Man) | en | [1373270264](https://en.wikipedia.org/w/index.php?oldid=1373270264) |
+| [Chakan: The Forever Man](https://es.wikipedia.org/wiki/Chakan:_The_Forever_Man) | es | [171208072](https://es.wikipedia.org/w/index.php?oldid=171208072) |
+| [Factory Panic](https://en.wikipedia.org/wiki/Factory_Panic) | en | [1337480913](https://en.wikipedia.org/w/index.php?oldid=1337480913) |
+| [Deep Duck Trouble Starring Donald Duck](https://en.wikipedia.org/wiki/Deep_Duck_Trouble_Starring_Donald_Duck) | en | [1367155030](https://en.wikipedia.org/w/index.php?oldid=1367155030) |
+| [Deep Duck Trouble](https://es.wikipedia.org/wiki/Deep_Duck_Trouble) | es | [149269145](https://es.wikipedia.org/w/index.php?oldid=149269145) |
+| [Dragon Crystal](https://en.wikipedia.org/wiki/Dragon_Crystal) | en | [1381644823](https://en.wikipedia.org/w/index.php?oldid=1381644823) |
+| [Dragon Crystal](https://es.wikipedia.org/wiki/Dragon_Crystal) | es | [153794446](https://es.wikipedia.org/w/index.php?oldid=153794446) |
+| [Fantasy Zone (videojuego para Game Gear)](https://es.wikipedia.org/wiki/Fantasy_Zone_(videojuego_para_Game_Gear)) | es | [159451956](https://es.wikipedia.org/w/index.php?oldid=159451956) |
+| [The Lucky Dime Caper Starring Donald Duck](https://en.wikipedia.org/wiki/The_Lucky_Dime_Caper_Starring_Donald_Duck) | en | [1378086629](https://en.wikipedia.org/w/index.php?oldid=1378086629) |
+| [Lucky Dime Caper](https://es.wikipedia.org/wiki/Lucky_Dime_Caper) | es | [157517223](https://es.wikipedia.org/w/index.php?oldid=157517223) |
+| [Land of Illusion Starring Mickey Mouse](https://en.wikipedia.org/wiki/Land_of_Illusion_Starring_Mickey_Mouse) | en | [1377771643](https://en.wikipedia.org/w/index.php?oldid=1377771643) |
+| [Land of Illusion Starring Mickey Mouse](https://es.wikipedia.org/wiki/Land_of_Illusion_Starring_Mickey_Mouse) | es | [171328013](https://es.wikipedia.org/w/index.php?oldid=171328013) |
+| [Shining Force Gaiden: Final Conflict](https://en.wikipedia.org/wiki/Shining_Force_Gaiden:_Final_Conflict) | en | [1380848777](https://en.wikipedia.org/w/index.php?oldid=1380848777) |
+| [Shining Force Gaiden: Final Conflict](https://es.wikipedia.org/wiki/Shining_Force_Gaiden:_Final_Conflict) | es | [171376336](https://es.wikipedia.org/w/index.php?oldid=171376336) |
+| [The G.G. Shinobi II: The Silent Fury](https://en.wikipedia.org/wiki/The_G.G._Shinobi_II:_The_Silent_Fury) | en | [1328885454](https://en.wikipedia.org/w/index.php?oldid=1328885454) |
+| [The G.G. Shinobi](https://en.wikipedia.org/wiki/The_G.G._Shinobi) | en | [1342001978](https://en.wikipedia.org/w/index.php?oldid=1342001978) |
+| [The G.G. Shinobi](https://es.wikipedia.org/wiki/The_G.G._Shinobi) | es | [164153661](https://es.wikipedia.org/w/index.php?oldid=164153661) |
+| [Sonic the Hedgehog 2 (8-bit video game)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(8-bit_video_game)) | en | [1374329339](https://en.wikipedia.org/w/index.php?oldid=1374329339) |
+| [Sonic the Hedgehog 2 (8 bits)](https://es.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(8_bits)) | es | [175179444](https://es.wikipedia.org/w/index.php?oldid=175179444) |
+| [Ultimate Soccer](https://en.wikipedia.org/wiki/Ultimate_Soccer) | en | [1379285692](https://en.wikipedia.org/w/index.php?oldid=1379285692) |
+| [Castle of Illusion Starring Mickey Mouse](https://en.wikipedia.org/wiki/Castle_of_Illusion_Starring_Mickey_Mouse) | en | [1383714614](https://en.wikipedia.org/w/index.php?oldid=1383714614) |
+| [Castle of Illusion Starring Mickey Mouse](https://es.wikipedia.org/wiki/Castle_of_Illusion_Starring_Mickey_Mouse) | es | [172895281](https://es.wikipedia.org/w/index.php?oldid=172895281) |
+| [Lunar: Sanposuru Gakuen](https://en.wikipedia.org/wiki/Lunar:_Sanposuru_Gakuen) | en | [1382277240](https://en.wikipedia.org/w/index.php?oldid=1382277240) |
+| [Ninja Gaiden (Game Gear)](https://en.wikipedia.org/wiki/Ninja_Gaiden_(Game_Gear)) | en | [1332575612](https://en.wikipedia.org/w/index.php?oldid=1332575612) |
+| [Eternal Legend](https://en.wikipedia.org/wiki/Eternal_Legend) | en | [1347708831](https://en.wikipedia.org/w/index.php?oldid=1347708831) |
+| [Revelations: The Demon Slayer](https://en.wikipedia.org/wiki/Revelations:_The_Demon_Slayer) | en | [1378360938](https://en.wikipedia.org/w/index.php?oldid=1378360938) |
+| [Ax Battler: A Legend of Golden Axe](https://en.wikipedia.org/wiki/Ax_Battler:_A_Legend_of_Golden_Axe) | en | [1375119828](https://en.wikipedia.org/w/index.php?oldid=1375119828) |
+| [Ax Battler: A Legend of Golden Axe](https://es.wikipedia.org/wiki/Ax_Battler:_A_Legend_of_Golden_Axe) | es | [164554386](https://es.wikipedia.org/w/index.php?oldid=164554386) |
+| [Fred Couples Golf](https://en.wikipedia.org/wiki/Fred_Couples_Golf) | en | [1357075166](https://en.wikipedia.org/w/index.php?oldid=1357075166) |
+| [Legend of Illusion Starring Mickey Mouse](https://en.wikipedia.org/wiki/Legend_of_Illusion_Starring_Mickey_Mouse) | en | [1382291331](https://en.wikipedia.org/w/index.php?oldid=1382291331) |
+| [Legend of Illusion Starring Mickey Mouse](https://es.wikipedia.org/wiki/Legend_of_Illusion_Starring_Mickey_Mouse) | es | [172124097](https://es.wikipedia.org/w/index.php?oldid=172124097) |
+| [Pet Club: Inu Daisuki!](https://en.wikipedia.org/wiki/Pet_Club:_Inu_Daisuki!) | en | [1255246957](https://en.wikipedia.org/w/index.php?oldid=1255246957) |
+| [Star Trek: The Next Generation (1993 video game)](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_(1993_video_game)) | en | [1362401690](https://en.wikipedia.org/w/index.php?oldid=1362401690) |
+| [Sylvan Tale](https://en.wikipedia.org/wiki/Sylvan_Tale) | en | [1312401625](https://en.wikipedia.org/w/index.php?oldid=1312401625) |
+| [Ariel the Little Mermaid](https://en.wikipedia.org/wiki/Ariel_the_Little_Mermaid) | en | [1365565726](https://en.wikipedia.org/w/index.php?oldid=1365565726) |
+| [Ariel the Little Mermaid](https://es.wikipedia.org/wiki/Ariel_the_Little_Mermaid) | es | [119077023](https://es.wikipedia.org/w/index.php?oldid=119077023) |
+| [Virtua Fighter Animation](https://en.wikipedia.org/wiki/Virtua_Fighter_Animation) | en | [1339743763](https://en.wikipedia.org/w/index.php?oldid=1339743763) |
+| [Virtua Fighter Animation](https://es.wikipedia.org/wiki/Virtua_Fighter_Animation) | es | [174387165](https://es.wikipedia.org/w/index.php?oldid=174387165) |
+| [Woody Pop](https://en.wikipedia.org/wiki/Woody_Pop) | en | [1339127771](https://en.wikipedia.org/w/index.php?oldid=1339127771) |
+| [X-Men: Mojo World](https://en.wikipedia.org/wiki/X-Men:_Mojo_World) | en | [1332399326](https://en.wikipedia.org/w/index.php?oldid=1332399326) |
+| [X-Men: Mojo World](https://es.wikipedia.org/wiki/X-Men:_Mojo_World) | es | [172185991](https://es.wikipedia.org/w/index.php?oldid=172185991) |
+| [Power Strike II (Game Gear video game)](https://en.wikipedia.org/wiki/Power_Strike_II_(Game_Gear_video_game)) | en | [1350241161](https://en.wikipedia.org/w/index.php?oldid=1350241161) |
+| [Power Strike II (videojuego para Game Gear)](https://es.wikipedia.org/wiki/Power_Strike_II_(videojuego_para_Game_Gear)) | es | [176224566](https://es.wikipedia.org/w/index.php?oldid=176224566) |
+| [Lemmings (video game)](https://en.wikipedia.org/wiki/Lemmings_(video_game)) | en | [1383202738](https://en.wikipedia.org/w/index.php?oldid=1383202738) |
+| [Lemmings](https://es.wikipedia.org/wiki/Lemmings) | es | [171519378](https://es.wikipedia.org/w/index.php?oldid=171519378) |
