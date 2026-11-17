@@ -25,6 +25,8 @@ Console artwork is stored at the console directory root (`logo.svg` or `logo.web
 - [Nintendo - Wii U](https://github.com/Utogu9/Nintendo_-_Wii_U)
 - [Sega - Mega-CD - Sega CD](https://github.com/Utogu9/Sega_-_Mega-CD_-_Sega_CD)
 - [Sega - Master System - Mark III](https://github.com/Utogu9/Sega_-_Master_System_-_Mark_III)
+- [Nintendo - Nintendo DS](https://github.com/Utogu9/Nintendo_-_Nintendo_DS)
+- [Nintendo - Nintendo 3DS](https://github.com/Utogu9/Nintendo_-_Nintendo_3DS)
 - [Nintendo - Switch](https://github.com/Utogu9/Nintendo_-_Switch)
 - [Sega - Dreamcast](https://github.com/Utogu9/Sega_-_Dreamcast)
 - [Sony - PlayStation](https://github.com/Utogu9/Sony_-_PlayStation)
@@ -42,6 +44,8 @@ git submodule update --init --depth 1 -- "Nintendo - GameCube"
 git submodule update --init --depth 1 -- "Nintendo - Wii U"
 git submodule update --init --depth 1 -- "Sega - Mega-CD - Sega CD"
 git submodule update --init --depth 1 -- "Sega - Master System - Mark III"
+git submodule update --init --depth 1 -- "Nintendo - Nintendo DS"
+git submodule update --init --depth 1 -- "Nintendo - Nintendo 3DS"
 git submodule update --init --depth 1 -- "Nintendo - Switch"
 git submodule update --init --depth 1 -- "Sega - Dreamcast"
 git submodule update --init --depth 1 -- "Sony - PlayStation"

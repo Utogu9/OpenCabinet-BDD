@@ -37,3 +37,9 @@
 [submodule "Sega - Master System - Mark III"]
 	path = Sega - Master System - Mark III
 	url = https://github.com/Utogu9/Sega_-_Master_System_-_Mark_III.git
+[submodule "Nintendo - Nintendo DS"]
+	path = Nintendo - Nintendo DS
+	url = https://github.com/Utogu9/Nintendo_-_Nintendo_DS.git
+[submodule "Nintendo - Nintendo 3DS"]
+	path = Nintendo - Nintendo 3DS
+	url = https://github.com/Utogu9/Nintendo_-_Nintendo_3DS.git
